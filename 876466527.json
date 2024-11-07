@@ -1,0 +1,730 @@
+[
+  {
+    "albumID" : "1743804763",
+    "artist" : "Pater Brown",
+    "duration" : 3666.0040000000004,
+    "releaseDate" : 742435200,
+    "title" : "Folge 83: Ein Trauerspiel",
+    "upc" : "4260507195470"
+  },
+  {
+    "albumID" : "1742523430",
+    "artist" : "Pater Brown",
+    "duration" : 4016.9990000000003,
+    "releaseDate" : 740016000,
+    "title" : "Folge 82: Blutige Rosen",
+    "upc" : "4260507195128"
+  },
+  {
+    "albumID" : "1715332730",
+    "artist" : "Pater Brown",
+    "duration" : 3966.000000000001,
+    "releaseDate" : 727920000,
+    "title" : "Folge 81: Der schlechte Ratgeber",
+    "upc" : "4260507190888"
+  },
+  {
+    "albumID" : "1707969678",
+    "artist" : "Pater Brown",
+    "duration" : 3641.999,
+    "releaseDate" : 721872000,
+    "title" : "Folge 80: Der Tote im Fluss",
+    "upc" : "4260507189967"
+  },
+  {
+    "albumID" : "1705731895",
+    "artist" : "Pater Brown",
+    "duration" : 3928.001000000001,
+    "releaseDate" : 717638400,
+    "title" : "Folge 79: Tod in der Manege",
+    "upc" : "4260507188809"
+  },
+  {
+    "albumID" : "1697900970",
+    "artist" : "Pater Brown",
+    "duration" : 3520.0009999999993,
+    "releaseDate" : 714614400,
+    "title" : "Folge 78: Das Verhängnis des Wohltäters",
+    "upc" : "4260507188168"
+  },
+  {
+    "albumID" : "1690148149",
+    "artist" : "Pater Brown",
+    "duration" : 3742.9979999999996,
+    "releaseDate" : 709776000,
+    "title" : "Folge 77: Im großen Stil",
+    "upc" : "4260507187154"
+  },
+  {
+    "albumID" : "1685981192",
+    "artist" : "Pater Brown",
+    "duration" : 3773.0029999999992,
+    "releaseDate" : 707356800,
+    "title" : "Folge 76: Der schönste Tag im Leben",
+    "upc" : "4260507184986"
+  },
+  {
+    "albumID" : "1674531248",
+    "artist" : "Pater Brown",
+    "duration" : 4295.001,
+    "releaseDate" : 701308800,
+    "title" : "Folge 75: Das Gespenst von Ravenstone",
+    "upc" : "4260507180629"
+  },
+  {
+    "albumID" : "1670977748",
+    "artist" : "Pater Brown",
+    "duration" : 4014.9980000000005,
+    "releaseDate" : 700099200,
+    "title" : "Folge 74: Unsichtbare Opfer",
+    "upc" : "4260507180360"
+  },
+  {
+    "albumID" : "1743804763",
+    "artist" : "Pater Brown",
+    "duration" : 3666.0040000000004,
+    "releaseDate" : 742435200,
+    "title" : "Folge 83: Ein Trauerspiel",
+    "upc" : "4260507195470"
+  },
+  {
+    "albumID" : "1742523430",
+    "artist" : "Pater Brown",
+    "duration" : 4016.9990000000003,
+    "releaseDate" : 740016000,
+    "title" : "Folge 82: Blutige Rosen",
+    "upc" : "4260507195128"
+  },
+  {
+    "albumID" : "1715332730",
+    "artist" : "Pater Brown",
+    "duration" : 3966.000000000001,
+    "releaseDate" : 727920000,
+    "title" : "Folge 81: Der schlechte Ratgeber",
+    "upc" : "4260507190888"
+  },
+  {
+    "albumID" : "1707969678",
+    "artist" : "Pater Brown",
+    "duration" : 3641.999,
+    "releaseDate" : 721872000,
+    "title" : "Folge 80: Der Tote im Fluss",
+    "upc" : "4260507189967"
+  },
+  {
+    "albumID" : "1705731895",
+    "artist" : "Pater Brown",
+    "duration" : 3928.001000000001,
+    "releaseDate" : 717638400,
+    "title" : "Folge 79: Tod in der Manege",
+    "upc" : "4260507188809"
+  },
+  {
+    "albumID" : "1697900970",
+    "artist" : "Pater Brown",
+    "duration" : 3520.0009999999993,
+    "releaseDate" : 714614400,
+    "title" : "Folge 78: Das Verhängnis des Wohltäters",
+    "upc" : "4260507188168"
+  },
+  {
+    "albumID" : "1690148149",
+    "artist" : "Pater Brown",
+    "duration" : 3742.9979999999996,
+    "releaseDate" : 709776000,
+    "title" : "Folge 77: Im großen Stil",
+    "upc" : "4260507187154"
+  },
+  {
+    "albumID" : "1685981192",
+    "artist" : "Pater Brown",
+    "duration" : 3773.0029999999992,
+    "releaseDate" : 707356800,
+    "title" : "Folge 76: Der schönste Tag im Leben",
+    "upc" : "4260507184986"
+  },
+  {
+    "albumID" : "1674531248",
+    "artist" : "Pater Brown",
+    "duration" : 4295.001,
+    "releaseDate" : 701308800,
+    "title" : "Folge 75: Das Gespenst von Ravenstone",
+    "upc" : "4260507180629"
+  },
+  {
+    "albumID" : "1670977748",
+    "artist" : "Pater Brown",
+    "duration" : 4014.9980000000005,
+    "releaseDate" : 700099200,
+    "title" : "Folge 74: Unsichtbare Opfer",
+    "upc" : "4260507180360"
+  },
+  {
+    "albumID" : "1743804763",
+    "artist" : "Pater Brown",
+    "duration" : 3666.0040000000004,
+    "releaseDate" : 742435200,
+    "title" : "Folge 83: Ein Trauerspiel",
+    "upc" : "4260507195470"
+  },
+  {
+    "albumID" : "1742523430",
+    "artist" : "Pater Brown",
+    "duration" : 4016.9990000000003,
+    "releaseDate" : 740016000,
+    "title" : "Folge 82: Blutige Rosen",
+    "upc" : "4260507195128"
+  },
+  {
+    "albumID" : "1715332730",
+    "artist" : "Pater Brown",
+    "duration" : 3966.000000000001,
+    "releaseDate" : 727920000,
+    "title" : "Folge 81: Der schlechte Ratgeber",
+    "upc" : "4260507190888"
+  },
+  {
+    "albumID" : "1707969678",
+    "artist" : "Pater Brown",
+    "duration" : 3641.999,
+    "releaseDate" : 721872000,
+    "title" : "Folge 80: Der Tote im Fluss",
+    "upc" : "4260507189967"
+  },
+  {
+    "albumID" : "1705731895",
+    "artist" : "Pater Brown",
+    "duration" : 3928.001000000001,
+    "releaseDate" : 717638400,
+    "title" : "Folge 79: Tod in der Manege",
+    "upc" : "4260507188809"
+  },
+  {
+    "albumID" : "1697900970",
+    "artist" : "Pater Brown",
+    "duration" : 3520.0009999999993,
+    "releaseDate" : 714614400,
+    "title" : "Folge 78: Das Verhängnis des Wohltäters",
+    "upc" : "4260507188168"
+  },
+  {
+    "albumID" : "1690148149",
+    "artist" : "Pater Brown",
+    "duration" : 3742.9979999999996,
+    "releaseDate" : 709776000,
+    "title" : "Folge 77: Im großen Stil",
+    "upc" : "4260507187154"
+  },
+  {
+    "albumID" : "1685981192",
+    "artist" : "Pater Brown",
+    "duration" : 3773.0029999999992,
+    "releaseDate" : 707356800,
+    "title" : "Folge 76: Der schönste Tag im Leben",
+    "upc" : "4260507184986"
+  },
+  {
+    "albumID" : "1674531248",
+    "artist" : "Pater Brown",
+    "duration" : 4295.001,
+    "releaseDate" : 701308800,
+    "title" : "Folge 75: Das Gespenst von Ravenstone",
+    "upc" : "4260507180629"
+  },
+  {
+    "albumID" : "1670977748",
+    "artist" : "Pater Brown",
+    "duration" : 4014.9980000000005,
+    "releaseDate" : 700099200,
+    "title" : "Folge 74: Unsichtbare Opfer",
+    "upc" : "4260507180360"
+  },
+  {
+    "albumID" : "1743804763",
+    "artist" : "Pater Brown",
+    "duration" : 3666.0040000000004,
+    "releaseDate" : 742435200,
+    "title" : "Folge 83: Ein Trauerspiel",
+    "upc" : "4260507195470"
+  },
+  {
+    "albumID" : "1742523430",
+    "artist" : "Pater Brown",
+    "duration" : 4016.9990000000003,
+    "releaseDate" : 740016000,
+    "title" : "Folge 82: Blutige Rosen",
+    "upc" : "4260507195128"
+  },
+  {
+    "albumID" : "1715332730",
+    "artist" : "Pater Brown",
+    "duration" : 3966.000000000001,
+    "releaseDate" : 727920000,
+    "title" : "Folge 81: Der schlechte Ratgeber",
+    "upc" : "4260507190888"
+  },
+  {
+    "albumID" : "1707969678",
+    "artist" : "Pater Brown",
+    "duration" : 3641.999,
+    "releaseDate" : 721872000,
+    "title" : "Folge 80: Der Tote im Fluss",
+    "upc" : "4260507189967"
+  },
+  {
+    "albumID" : "1705731895",
+    "artist" : "Pater Brown",
+    "duration" : 3928.001000000001,
+    "releaseDate" : 717638400,
+    "title" : "Folge 79: Tod in der Manege",
+    "upc" : "4260507188809"
+  },
+  {
+    "albumID" : "1697900970",
+    "artist" : "Pater Brown",
+    "duration" : 3520.0009999999993,
+    "releaseDate" : 714614400,
+    "title" : "Folge 78: Das Verhängnis des Wohltäters",
+    "upc" : "4260507188168"
+  },
+  {
+    "albumID" : "1690148149",
+    "artist" : "Pater Brown",
+    "duration" : 3742.9979999999996,
+    "releaseDate" : 709776000,
+    "title" : "Folge 77: Im großen Stil",
+    "upc" : "4260507187154"
+  },
+  {
+    "albumID" : "1685981192",
+    "artist" : "Pater Brown",
+    "duration" : 3773.0029999999992,
+    "releaseDate" : 707356800,
+    "title" : "Folge 76: Der schönste Tag im Leben",
+    "upc" : "4260507184986"
+  },
+  {
+    "albumID" : "1674531248",
+    "artist" : "Pater Brown",
+    "duration" : 4295.001,
+    "releaseDate" : 701308800,
+    "title" : "Folge 75: Das Gespenst von Ravenstone",
+    "upc" : "4260507180629"
+  },
+  {
+    "albumID" : "1670977748",
+    "artist" : "Pater Brown",
+    "duration" : 4014.9980000000005,
+    "releaseDate" : 700099200,
+    "title" : "Folge 74: Unsichtbare Opfer",
+    "upc" : "4260507180360"
+  },
+  {
+    "albumID" : "1743804763",
+    "artist" : "Pater Brown",
+    "duration" : 3666.0040000000004,
+    "releaseDate" : 742435200,
+    "title" : "Folge 83: Ein Trauerspiel",
+    "upc" : "4260507195470"
+  },
+  {
+    "albumID" : "1742523430",
+    "artist" : "Pater Brown",
+    "duration" : 4016.9990000000003,
+    "releaseDate" : 740016000,
+    "title" : "Folge 82: Blutige Rosen",
+    "upc" : "4260507195128"
+  },
+  {
+    "albumID" : "1715332730",
+    "artist" : "Pater Brown",
+    "duration" : 3966.000000000001,
+    "releaseDate" : 727920000,
+    "title" : "Folge 81: Der schlechte Ratgeber",
+    "upc" : "4260507190888"
+  },
+  {
+    "albumID" : "1707969678",
+    "artist" : "Pater Brown",
+    "duration" : 3641.999,
+    "releaseDate" : 721872000,
+    "title" : "Folge 80: Der Tote im Fluss",
+    "upc" : "4260507189967"
+  },
+  {
+    "albumID" : "1705731895",
+    "artist" : "Pater Brown",
+    "duration" : 3928.001000000001,
+    "releaseDate" : 717638400,
+    "title" : "Folge 79: Tod in der Manege",
+    "upc" : "4260507188809"
+  },
+  {
+    "albumID" : "1697900970",
+    "artist" : "Pater Brown",
+    "duration" : 3520.0009999999993,
+    "releaseDate" : 714614400,
+    "title" : "Folge 78: Das Verhängnis des Wohltäters",
+    "upc" : "4260507188168"
+  },
+  {
+    "albumID" : "1690148149",
+    "artist" : "Pater Brown",
+    "duration" : 3742.9979999999996,
+    "releaseDate" : 709776000,
+    "title" : "Folge 77: Im großen Stil",
+    "upc" : "4260507187154"
+  },
+  {
+    "albumID" : "1685981192",
+    "artist" : "Pater Brown",
+    "duration" : 3773.0029999999992,
+    "releaseDate" : 707356800,
+    "title" : "Folge 76: Der schönste Tag im Leben",
+    "upc" : "4260507184986"
+  },
+  {
+    "albumID" : "1674531248",
+    "artist" : "Pater Brown",
+    "duration" : 4295.001,
+    "releaseDate" : 701308800,
+    "title" : "Folge 75: Das Gespenst von Ravenstone",
+    "upc" : "4260507180629"
+  },
+  {
+    "albumID" : "1670977748",
+    "artist" : "Pater Brown",
+    "duration" : 4014.9980000000005,
+    "releaseDate" : 700099200,
+    "title" : "Folge 74: Unsichtbare Opfer",
+    "upc" : "4260507180360"
+  },
+  {
+    "albumID" : "1743804763",
+    "artist" : "Pater Brown",
+    "duration" : 3666.0040000000004,
+    "releaseDate" : 742435200,
+    "title" : "Folge 83: Ein Trauerspiel",
+    "upc" : "4260507195470"
+  },
+  {
+    "albumID" : "1742523430",
+    "artist" : "Pater Brown",
+    "duration" : 4016.9990000000003,
+    "releaseDate" : 740016000,
+    "title" : "Folge 82: Blutige Rosen",
+    "upc" : "4260507195128"
+  },
+  {
+    "albumID" : "1715332730",
+    "artist" : "Pater Brown",
+    "duration" : 3966.000000000001,
+    "releaseDate" : 727920000,
+    "title" : "Folge 81: Der schlechte Ratgeber",
+    "upc" : "4260507190888"
+  },
+  {
+    "albumID" : "1707969678",
+    "artist" : "Pater Brown",
+    "duration" : 3641.999,
+    "releaseDate" : 721872000,
+    "title" : "Folge 80: Der Tote im Fluss",
+    "upc" : "4260507189967"
+  },
+  {
+    "albumID" : "1705731895",
+    "artist" : "Pater Brown",
+    "duration" : 3928.001000000001,
+    "releaseDate" : 717638400,
+    "title" : "Folge 79: Tod in der Manege",
+    "upc" : "4260507188809"
+  },
+  {
+    "albumID" : "1697900970",
+    "artist" : "Pater Brown",
+    "duration" : 3520.0009999999993,
+    "releaseDate" : 714614400,
+    "title" : "Folge 78: Das Verhängnis des Wohltäters",
+    "upc" : "4260507188168"
+  },
+  {
+    "albumID" : "1690148149",
+    "artist" : "Pater Brown",
+    "duration" : 3742.9979999999996,
+    "releaseDate" : 709776000,
+    "title" : "Folge 77: Im großen Stil",
+    "upc" : "4260507187154"
+  },
+  {
+    "albumID" : "1685981192",
+    "artist" : "Pater Brown",
+    "duration" : 3773.0029999999992,
+    "releaseDate" : 707356800,
+    "title" : "Folge 76: Der schönste Tag im Leben",
+    "upc" : "4260507184986"
+  },
+  {
+    "albumID" : "1674531248",
+    "artist" : "Pater Brown",
+    "duration" : 4295.001,
+    "releaseDate" : 701308800,
+    "title" : "Folge 75: Das Gespenst von Ravenstone",
+    "upc" : "4260507180629"
+  },
+  {
+    "albumID" : "1670977748",
+    "artist" : "Pater Brown",
+    "duration" : 4014.9980000000005,
+    "releaseDate" : 700099200,
+    "title" : "Folge 74: Unsichtbare Opfer",
+    "upc" : "4260507180360"
+  },
+  {
+    "albumID" : "1743804763",
+    "artist" : "Pater Brown",
+    "duration" : 3666.0040000000004,
+    "releaseDate" : 742435200,
+    "title" : "Folge 83: Ein Trauerspiel",
+    "upc" : "4260507195470"
+  },
+  {
+    "albumID" : "1742523430",
+    "artist" : "Pater Brown",
+    "duration" : 4016.9990000000003,
+    "releaseDate" : 740016000,
+    "title" : "Folge 82: Blutige Rosen",
+    "upc" : "4260507195128"
+  },
+  {
+    "albumID" : "1715332730",
+    "artist" : "Pater Brown",
+    "duration" : 3966.000000000001,
+    "releaseDate" : 727920000,
+    "title" : "Folge 81: Der schlechte Ratgeber",
+    "upc" : "4260507190888"
+  },
+  {
+    "albumID" : "1707969678",
+    "artist" : "Pater Brown",
+    "duration" : 3641.999,
+    "releaseDate" : 721872000,
+    "title" : "Folge 80: Der Tote im Fluss",
+    "upc" : "4260507189967"
+  },
+  {
+    "albumID" : "1705731895",
+    "artist" : "Pater Brown",
+    "duration" : 3928.001000000001,
+    "releaseDate" : 717638400,
+    "title" : "Folge 79: Tod in der Manege",
+    "upc" : "4260507188809"
+  },
+  {
+    "albumID" : "1697900970",
+    "artist" : "Pater Brown",
+    "duration" : 3520.0009999999993,
+    "releaseDate" : 714614400,
+    "title" : "Folge 78: Das Verhängnis des Wohltäters",
+    "upc" : "4260507188168"
+  },
+  {
+    "albumID" : "1690148149",
+    "artist" : "Pater Brown",
+    "duration" : 3742.9979999999996,
+    "releaseDate" : 709776000,
+    "title" : "Folge 77: Im großen Stil",
+    "upc" : "4260507187154"
+  },
+  {
+    "albumID" : "1685981192",
+    "artist" : "Pater Brown",
+    "duration" : 3773.0029999999992,
+    "releaseDate" : 707356800,
+    "title" : "Folge 76: Der schönste Tag im Leben",
+    "upc" : "4260507184986"
+  },
+  {
+    "albumID" : "1674531248",
+    "artist" : "Pater Brown",
+    "duration" : 4295.001,
+    "releaseDate" : 701308800,
+    "title" : "Folge 75: Das Gespenst von Ravenstone",
+    "upc" : "4260507180629"
+  },
+  {
+    "albumID" : "1670977748",
+    "artist" : "Pater Brown",
+    "duration" : 4014.9980000000005,
+    "releaseDate" : 700099200,
+    "title" : "Folge 74: Unsichtbare Opfer",
+    "upc" : "4260507180360"
+  },
+  {
+    "albumID" : "1743804763",
+    "artist" : "Pater Brown",
+    "duration" : 3666.0040000000004,
+    "releaseDate" : 742435200,
+    "title" : "Folge 83: Ein Trauerspiel",
+    "upc" : "4260507195470"
+  },
+  {
+    "albumID" : "1742523430",
+    "artist" : "Pater Brown",
+    "duration" : 4016.9990000000003,
+    "releaseDate" : 740016000,
+    "title" : "Folge 82: Blutige Rosen",
+    "upc" : "4260507195128"
+  },
+  {
+    "albumID" : "1715332730",
+    "artist" : "Pater Brown",
+    "duration" : 3966.000000000001,
+    "releaseDate" : 727920000,
+    "title" : "Folge 81: Der schlechte Ratgeber",
+    "upc" : "4260507190888"
+  },
+  {
+    "albumID" : "1707969678",
+    "artist" : "Pater Brown",
+    "duration" : 3641.999,
+    "releaseDate" : 721872000,
+    "title" : "Folge 80: Der Tote im Fluss",
+    "upc" : "4260507189967"
+  },
+  {
+    "albumID" : "1705731895",
+    "artist" : "Pater Brown",
+    "duration" : 3928.001000000001,
+    "releaseDate" : 717638400,
+    "title" : "Folge 79: Tod in der Manege",
+    "upc" : "4260507188809"
+  },
+  {
+    "albumID" : "1697900970",
+    "artist" : "Pater Brown",
+    "duration" : 3520.0009999999993,
+    "releaseDate" : 714614400,
+    "title" : "Folge 78: Das Verhängnis des Wohltäters",
+    "upc" : "4260507188168"
+  },
+  {
+    "albumID" : "1690148149",
+    "artist" : "Pater Brown",
+    "duration" : 3742.9979999999996,
+    "releaseDate" : 709776000,
+    "title" : "Folge 77: Im großen Stil",
+    "upc" : "4260507187154"
+  },
+  {
+    "albumID" : "1685981192",
+    "artist" : "Pater Brown",
+    "duration" : 3773.0029999999992,
+    "releaseDate" : 707356800,
+    "title" : "Folge 76: Der schönste Tag im Leben",
+    "upc" : "4260507184986"
+  },
+  {
+    "albumID" : "1674531248",
+    "artist" : "Pater Brown",
+    "duration" : 4295.001,
+    "releaseDate" : 701308800,
+    "title" : "Folge 75: Das Gespenst von Ravenstone",
+    "upc" : "4260507180629"
+  },
+  {
+    "albumID" : "1670977748",
+    "artist" : "Pater Brown",
+    "duration" : 4014.9980000000005,
+    "releaseDate" : 700099200,
+    "title" : "Folge 74: Unsichtbare Opfer",
+    "upc" : "4260507180360"
+  },
+  {
+    "albumID" : "1743804763",
+    "artist" : "Pater Brown",
+    "duration" : 3666.0040000000004,
+    "releaseDate" : 742435200,
+    "title" : "Folge 83: Ein Trauerspiel",
+    "upc" : "4260507195470"
+  },
+  {
+    "albumID" : "1742523430",
+    "artist" : "Pater Brown",
+    "duration" : 4016.9990000000003,
+    "releaseDate" : 740016000,
+    "title" : "Folge 82: Blutige Rosen",
+    "upc" : "4260507195128"
+  },
+  {
+    "albumID" : "1715332730",
+    "artist" : "Pater Brown",
+    "duration" : 3966.000000000001,
+    "releaseDate" : 727920000,
+    "title" : "Folge 81: Der schlechte Ratgeber",
+    "upc" : "4260507190888"
+  },
+  {
+    "albumID" : "1707969678",
+    "artist" : "Pater Brown",
+    "duration" : 3641.999,
+    "releaseDate" : 721872000,
+    "title" : "Folge 80: Der Tote im Fluss",
+    "upc" : "4260507189967"
+  },
+  {
+    "albumID" : "1705731895",
+    "artist" : "Pater Brown",
+    "duration" : 3928.001000000001,
+    "releaseDate" : 717638400,
+    "title" : "Folge 79: Tod in der Manege",
+    "upc" : "4260507188809"
+  },
+  {
+    "albumID" : "1697900970",
+    "artist" : "Pater Brown",
+    "duration" : 3520.0009999999993,
+    "releaseDate" : 714614400,
+    "title" : "Folge 78: Das Verhängnis des Wohltäters",
+    "upc" : "4260507188168"
+  },
+  {
+    "albumID" : "1690148149",
+    "artist" : "Pater Brown",
+    "duration" : 3742.9979999999996,
+    "releaseDate" : 709776000,
+    "title" : "Folge 77: Im großen Stil",
+    "upc" : "4260507187154"
+  },
+  {
+    "albumID" : "1685981192",
+    "artist" : "Pater Brown",
+    "duration" : 3773.0029999999992,
+    "releaseDate" : 707356800,
+    "title" : "Folge 76: Der schönste Tag im Leben",
+    "upc" : "4260507184986"
+  },
+  {
+    "albumID" : "1674531248",
+    "artist" : "Pater Brown",
+    "duration" : 4295.001,
+    "releaseDate" : 701308800,
+    "title" : "Folge 75: Das Gespenst von Ravenstone",
+    "upc" : "4260507180629"
+  },
+  {
+    "albumID" : "1670977748",
+    "artist" : "Pater Brown",
+    "duration" : 4014.9980000000005,
+    "releaseDate" : 700099200,
+    "title" : "Folge 74: Unsichtbare Opfer",
+    "upc" : "4260507180360"
+  },
+  {
+    "albumID" : "1523282410",
+    "artist" : "Pater Brown",
+    "duration" : 13645.614,
+    "releaseDate" : 618451200,
+    "title" : "Edition 2: Vier Spannende Kriminalhörspiele",
+    "upc" : "4260507160515"
+  }
+]
