@@ -1,0 +1,2162 @@
+[
+  {
+    "albumID" : "1772761022",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 247.559,
+    "releaseDate" : 752716800,
+    "title" : "Gute-Nacht-Geschichten - Folge 35:  Der mutige Löwe",
+    "upc" : "4033694550458"
+  },
+  {
+    "albumID" : "1766395764",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 3436.7939999999994,
+    "releaseDate" : 749692800,
+    "title" : "Find's raus mit Benjamin - Folge 12: Meer",
+    "upc" : "4033694542125"
+  },
+  {
+    "albumID" : "1760125142",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2780.088,
+    "releaseDate" : 747878400,
+    "title" : "Folge 160: als Höhlenforscher",
+    "upc" : "4033694555606"
+  },
+  {
+    "albumID" : "1757991520",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2993.7110000000002,
+    "releaseDate" : 746064000,
+    "title" : "Benjamin Minis - Folge 6: Eine verrückte Zahnputzgeschichte",
+    "upc" : "4033694543061"
+  },
+  {
+    "albumID" : "1753081387",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2710.3609999999994,
+    "releaseDate" : 744249600,
+    "title" : "Folge 159: als Robin Hood",
+    "upc" : "4033694555590"
+  },
+  {
+    "albumID" : "1748580449",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2755.3700000000003,
+    "releaseDate" : 740016000,
+    "title" : "Folge 158: Der Fußball-Pokal",
+    "upc" : "4033694555583"
+  },
+  {
+    "albumID" : "1742941728",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 3153.4320000000002,
+    "releaseDate" : 737596800,
+    "title" : "Find's raus mit Benjamin: Bauernhof",
+    "upc" : "4033694542118"
+  },
+  {
+    "albumID" : "1730703572",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2767.7349999999997,
+    "releaseDate" : 732758400,
+    "title" : "Folge 157: als Sänger",
+    "upc" : "5054197985799"
+  },
+  {
+    "albumID" : "1719798401",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2860.7900000000004,
+    "releaseDate" : 727315200,
+    "title" : "Benjamin Minis - Folge 5: Endlich Schnee!",
+    "upc" : "5054197920905"
+  },
+  {
+    "albumID" : "1713768407",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 3082.1610000000005,
+    "releaseDate" : 722476800,
+    "title" : "Folge 156: als Bergretter",
+    "upc" : "5054197887826"
+  },
+  {
+    "albumID" : "1772761022",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 247.559,
+    "releaseDate" : 752716800,
+    "title" : "Gute-Nacht-Geschichten - Folge 35:  Der mutige Löwe",
+    "upc" : "4033694550458"
+  },
+  {
+    "albumID" : "1766395764",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 3436.7939999999994,
+    "releaseDate" : 749692800,
+    "title" : "Find's raus mit Benjamin - Folge 12: Meer",
+    "upc" : "4033694542125"
+  },
+  {
+    "albumID" : "1760125142",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2780.088,
+    "releaseDate" : 747878400,
+    "title" : "Folge 160: als Höhlenforscher",
+    "upc" : "4033694555606"
+  },
+  {
+    "albumID" : "1757991520",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2993.7110000000002,
+    "releaseDate" : 746064000,
+    "title" : "Benjamin Minis - Folge 6: Eine verrückte Zahnputzgeschichte",
+    "upc" : "4033694543061"
+  },
+  {
+    "albumID" : "1753081387",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2710.3609999999994,
+    "releaseDate" : 744249600,
+    "title" : "Folge 159: als Robin Hood",
+    "upc" : "4033694555590"
+  },
+  {
+    "albumID" : "1748580449",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2755.3700000000003,
+    "releaseDate" : 740016000,
+    "title" : "Folge 158: Der Fußball-Pokal",
+    "upc" : "4033694555583"
+  },
+  {
+    "albumID" : "1742941728",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 3153.4320000000002,
+    "releaseDate" : 737596800,
+    "title" : "Find's raus mit Benjamin: Bauernhof",
+    "upc" : "4033694542118"
+  },
+  {
+    "albumID" : "1730703572",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2767.7349999999997,
+    "releaseDate" : 732758400,
+    "title" : "Folge 157: als Sänger",
+    "upc" : "5054197985799"
+  },
+  {
+    "albumID" : "1719798401",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2860.7900000000004,
+    "releaseDate" : 727315200,
+    "title" : "Benjamin Minis - Folge 5: Endlich Schnee!",
+    "upc" : "5054197920905"
+  },
+  {
+    "albumID" : "1713768407",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 3082.1610000000005,
+    "releaseDate" : 722476800,
+    "title" : "Folge 156: als Bergretter",
+    "upc" : "5054197887826"
+  },
+  {
+    "albumID" : "1772761022",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 247.559,
+    "releaseDate" : 752716800,
+    "title" : "Gute-Nacht-Geschichten - Folge 35:  Der mutige Löwe",
+    "upc" : "4033694550458"
+  },
+  {
+    "albumID" : "1766395764",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 3436.7939999999994,
+    "releaseDate" : 749692800,
+    "title" : "Find's raus mit Benjamin - Folge 12: Meer",
+    "upc" : "4033694542125"
+  },
+  {
+    "albumID" : "1760125142",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2780.088,
+    "releaseDate" : 747878400,
+    "title" : "Folge 160: als Höhlenforscher",
+    "upc" : "4033694555606"
+  },
+  {
+    "albumID" : "1757991520",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2993.7110000000002,
+    "releaseDate" : 746064000,
+    "title" : "Benjamin Minis - Folge 6: Eine verrückte Zahnputzgeschichte",
+    "upc" : "4033694543061"
+  },
+  {
+    "albumID" : "1753081387",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2710.3609999999994,
+    "releaseDate" : 744249600,
+    "title" : "Folge 159: als Robin Hood",
+    "upc" : "4033694555590"
+  },
+  {
+    "albumID" : "1748580449",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2755.3700000000003,
+    "releaseDate" : 740016000,
+    "title" : "Folge 158: Der Fußball-Pokal",
+    "upc" : "4033694555583"
+  },
+  {
+    "albumID" : "1742941728",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 3153.4320000000002,
+    "releaseDate" : 737596800,
+    "title" : "Find's raus mit Benjamin: Bauernhof",
+    "upc" : "4033694542118"
+  },
+  {
+    "albumID" : "1730703572",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2767.7349999999997,
+    "releaseDate" : 732758400,
+    "title" : "Folge 157: als Sänger",
+    "upc" : "5054197985799"
+  },
+  {
+    "albumID" : "1719798401",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2860.7900000000004,
+    "releaseDate" : 727315200,
+    "title" : "Benjamin Minis - Folge 5: Endlich Schnee!",
+    "upc" : "5054197920905"
+  },
+  {
+    "albumID" : "1713768407",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 3082.1610000000005,
+    "releaseDate" : 722476800,
+    "title" : "Folge 156: als Bergretter",
+    "upc" : "5054197887826"
+  },
+  {
+    "albumID" : "1772761022",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 247.559,
+    "releaseDate" : 752716800,
+    "title" : "Gute-Nacht-Geschichten - Folge 35:  Der mutige Löwe",
+    "upc" : "4033694550458"
+  },
+  {
+    "albumID" : "1766395764",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 3436.7939999999994,
+    "releaseDate" : 749692800,
+    "title" : "Find's raus mit Benjamin - Folge 12: Meer",
+    "upc" : "4033694542125"
+  },
+  {
+    "albumID" : "1760125142",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2780.088,
+    "releaseDate" : 747878400,
+    "title" : "Folge 160: als Höhlenforscher",
+    "upc" : "4033694555606"
+  },
+  {
+    "albumID" : "1757991520",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2993.7110000000002,
+    "releaseDate" : 746064000,
+    "title" : "Benjamin Minis - Folge 6: Eine verrückte Zahnputzgeschichte",
+    "upc" : "4033694543061"
+  },
+  {
+    "albumID" : "1753081387",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2710.3609999999994,
+    "releaseDate" : 744249600,
+    "title" : "Folge 159: als Robin Hood",
+    "upc" : "4033694555590"
+  },
+  {
+    "albumID" : "1748580449",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2755.3700000000003,
+    "releaseDate" : 740016000,
+    "title" : "Folge 158: Der Fußball-Pokal",
+    "upc" : "4033694555583"
+  },
+  {
+    "albumID" : "1742941728",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 3153.4320000000002,
+    "releaseDate" : 737596800,
+    "title" : "Find's raus mit Benjamin: Bauernhof",
+    "upc" : "4033694542118"
+  },
+  {
+    "albumID" : "1730703572",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2767.7349999999997,
+    "releaseDate" : 732758400,
+    "title" : "Folge 157: als Sänger",
+    "upc" : "5054197985799"
+  },
+  {
+    "albumID" : "1719798401",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2860.7900000000004,
+    "releaseDate" : 727315200,
+    "title" : "Benjamin Minis - Folge 5: Endlich Schnee!",
+    "upc" : "5054197920905"
+  },
+  {
+    "albumID" : "1713768407",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 3082.1610000000005,
+    "releaseDate" : 722476800,
+    "title" : "Folge 156: als Bergretter",
+    "upc" : "5054197887826"
+  },
+  {
+    "albumID" : "1772761022",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 247.559,
+    "releaseDate" : 752716800,
+    "title" : "Gute-Nacht-Geschichten - Folge 35:  Der mutige Löwe",
+    "upc" : "4033694550458"
+  },
+  {
+    "albumID" : "1766395764",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 3436.7939999999994,
+    "releaseDate" : 749692800,
+    "title" : "Find's raus mit Benjamin - Folge 12: Meer",
+    "upc" : "4033694542125"
+  },
+  {
+    "albumID" : "1760125142",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2780.088,
+    "releaseDate" : 747878400,
+    "title" : "Folge 160: als Höhlenforscher",
+    "upc" : "4033694555606"
+  },
+  {
+    "albumID" : "1757991520",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2993.7110000000002,
+    "releaseDate" : 746064000,
+    "title" : "Benjamin Minis - Folge 6: Eine verrückte Zahnputzgeschichte",
+    "upc" : "4033694543061"
+  },
+  {
+    "albumID" : "1753081387",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2710.3609999999994,
+    "releaseDate" : 744249600,
+    "title" : "Folge 159: als Robin Hood",
+    "upc" : "4033694555590"
+  },
+  {
+    "albumID" : "1748580449",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2755.3700000000003,
+    "releaseDate" : 740016000,
+    "title" : "Folge 158: Der Fußball-Pokal",
+    "upc" : "4033694555583"
+  },
+  {
+    "albumID" : "1742941728",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 3153.4320000000002,
+    "releaseDate" : 737596800,
+    "title" : "Find's raus mit Benjamin: Bauernhof",
+    "upc" : "4033694542118"
+  },
+  {
+    "albumID" : "1730703572",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2767.7349999999997,
+    "releaseDate" : 732758400,
+    "title" : "Folge 157: als Sänger",
+    "upc" : "5054197985799"
+  },
+  {
+    "albumID" : "1719798401",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2860.7900000000004,
+    "releaseDate" : 727315200,
+    "title" : "Benjamin Minis - Folge 5: Endlich Schnee!",
+    "upc" : "5054197920905"
+  },
+  {
+    "albumID" : "1713768407",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 3082.1610000000005,
+    "releaseDate" : 722476800,
+    "title" : "Folge 156: als Bergretter",
+    "upc" : "5054197887826"
+  },
+  {
+    "albumID" : "1772761022",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 247.559,
+    "releaseDate" : 752716800,
+    "title" : "Gute-Nacht-Geschichten - Folge 35:  Der mutige Löwe",
+    "upc" : "4033694550458"
+  },
+  {
+    "albumID" : "1766395764",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 3436.7939999999994,
+    "releaseDate" : 749692800,
+    "title" : "Find's raus mit Benjamin - Folge 12: Meer",
+    "upc" : "4033694542125"
+  },
+  {
+    "albumID" : "1760125142",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2780.088,
+    "releaseDate" : 747878400,
+    "title" : "Folge 160: als Höhlenforscher",
+    "upc" : "4033694555606"
+  },
+  {
+    "albumID" : "1757991520",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2993.7110000000002,
+    "releaseDate" : 746064000,
+    "title" : "Benjamin Minis - Folge 6: Eine verrückte Zahnputzgeschichte",
+    "upc" : "4033694543061"
+  },
+  {
+    "albumID" : "1753081387",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2710.3609999999994,
+    "releaseDate" : 744249600,
+    "title" : "Folge 159: als Robin Hood",
+    "upc" : "4033694555590"
+  },
+  {
+    "albumID" : "1748580449",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2755.3700000000003,
+    "releaseDate" : 740016000,
+    "title" : "Folge 158: Der Fußball-Pokal",
+    "upc" : "4033694555583"
+  },
+  {
+    "albumID" : "1742941728",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 3153.4320000000002,
+    "releaseDate" : 737596800,
+    "title" : "Find's raus mit Benjamin: Bauernhof",
+    "upc" : "4033694542118"
+  },
+  {
+    "albumID" : "1730703572",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2767.7349999999997,
+    "releaseDate" : 732758400,
+    "title" : "Folge 157: als Sänger",
+    "upc" : "5054197985799"
+  },
+  {
+    "albumID" : "1719798401",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2860.7900000000004,
+    "releaseDate" : 727315200,
+    "title" : "Benjamin Minis - Folge 5: Endlich Schnee!",
+    "upc" : "5054197920905"
+  },
+  {
+    "albumID" : "1713768407",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 3082.1610000000005,
+    "releaseDate" : 722476800,
+    "title" : "Folge 156: als Bergretter",
+    "upc" : "5054197887826"
+  },
+  {
+    "albumID" : "1772761022",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 247.559,
+    "releaseDate" : 752716800,
+    "title" : "Gute-Nacht-Geschichten - Folge 35:  Der mutige Löwe",
+    "upc" : "4033694550458"
+  },
+  {
+    "albumID" : "1766395764",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 3436.7939999999994,
+    "releaseDate" : 749692800,
+    "title" : "Find's raus mit Benjamin - Folge 12: Meer",
+    "upc" : "4033694542125"
+  },
+  {
+    "albumID" : "1760125142",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2780.088,
+    "releaseDate" : 747878400,
+    "title" : "Folge 160: als Höhlenforscher",
+    "upc" : "4033694555606"
+  },
+  {
+    "albumID" : "1757991520",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2993.7110000000002,
+    "releaseDate" : 746064000,
+    "title" : "Benjamin Minis - Folge 6: Eine verrückte Zahnputzgeschichte",
+    "upc" : "4033694543061"
+  },
+  {
+    "albumID" : "1753081387",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2710.3609999999994,
+    "releaseDate" : 744249600,
+    "title" : "Folge 159: als Robin Hood",
+    "upc" : "4033694555590"
+  },
+  {
+    "albumID" : "1748580449",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2755.3700000000003,
+    "releaseDate" : 740016000,
+    "title" : "Folge 158: Der Fußball-Pokal",
+    "upc" : "4033694555583"
+  },
+  {
+    "albumID" : "1742941728",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 3153.4320000000002,
+    "releaseDate" : 737596800,
+    "title" : "Find's raus mit Benjamin: Bauernhof",
+    "upc" : "4033694542118"
+  },
+  {
+    "albumID" : "1730703572",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2767.7349999999997,
+    "releaseDate" : 732758400,
+    "title" : "Folge 157: als Sänger",
+    "upc" : "5054197985799"
+  },
+  {
+    "albumID" : "1719798401",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2860.7900000000004,
+    "releaseDate" : 727315200,
+    "title" : "Benjamin Minis - Folge 5: Endlich Schnee!",
+    "upc" : "5054197920905"
+  },
+  {
+    "albumID" : "1713768407",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 3082.1610000000005,
+    "releaseDate" : 722476800,
+    "title" : "Folge 156: als Bergretter",
+    "upc" : "5054197887826"
+  },
+  {
+    "albumID" : "1772761022",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 247.559,
+    "releaseDate" : 752716800,
+    "title" : "Gute-Nacht-Geschichten - Folge 35:  Der mutige Löwe",
+    "upc" : "4033694550458"
+  },
+  {
+    "albumID" : "1766395764",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 3436.7939999999994,
+    "releaseDate" : 749692800,
+    "title" : "Find's raus mit Benjamin - Folge 12: Meer",
+    "upc" : "4033694542125"
+  },
+  {
+    "albumID" : "1760125142",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2780.088,
+    "releaseDate" : 747878400,
+    "title" : "Folge 160: als Höhlenforscher",
+    "upc" : "4033694555606"
+  },
+  {
+    "albumID" : "1757991520",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2993.7110000000002,
+    "releaseDate" : 746064000,
+    "title" : "Benjamin Minis - Folge 6: Eine verrückte Zahnputzgeschichte",
+    "upc" : "4033694543061"
+  },
+  {
+    "albumID" : "1753081387",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2710.3609999999994,
+    "releaseDate" : 744249600,
+    "title" : "Folge 159: als Robin Hood",
+    "upc" : "4033694555590"
+  },
+  {
+    "albumID" : "1748580449",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2755.3700000000003,
+    "releaseDate" : 740016000,
+    "title" : "Folge 158: Der Fußball-Pokal",
+    "upc" : "4033694555583"
+  },
+  {
+    "albumID" : "1742941728",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 3153.4320000000002,
+    "releaseDate" : 737596800,
+    "title" : "Find's raus mit Benjamin: Bauernhof",
+    "upc" : "4033694542118"
+  },
+  {
+    "albumID" : "1730703572",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2767.7349999999997,
+    "releaseDate" : 732758400,
+    "title" : "Folge 157: als Sänger",
+    "upc" : "5054197985799"
+  },
+  {
+    "albumID" : "1719798401",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2860.7900000000004,
+    "releaseDate" : 727315200,
+    "title" : "Benjamin Minis - Folge 5: Endlich Schnee!",
+    "upc" : "5054197920905"
+  },
+  {
+    "albumID" : "1713768407",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 3082.1610000000005,
+    "releaseDate" : 722476800,
+    "title" : "Folge 156: als Bergretter",
+    "upc" : "5054197887826"
+  },
+  {
+    "albumID" : "1772761022",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 247.559,
+    "releaseDate" : 752716800,
+    "title" : "Gute-Nacht-Geschichten - Folge 35:  Der mutige Löwe",
+    "upc" : "4033694550458"
+  },
+  {
+    "albumID" : "1766395764",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 3436.7939999999994,
+    "releaseDate" : 749692800,
+    "title" : "Find's raus mit Benjamin - Folge 12: Meer",
+    "upc" : "4033694542125"
+  },
+  {
+    "albumID" : "1760125142",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2780.088,
+    "releaseDate" : 747878400,
+    "title" : "Folge 160: als Höhlenforscher",
+    "upc" : "4033694555606"
+  },
+  {
+    "albumID" : "1757991520",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2993.7110000000002,
+    "releaseDate" : 746064000,
+    "title" : "Benjamin Minis - Folge 6: Eine verrückte Zahnputzgeschichte",
+    "upc" : "4033694543061"
+  },
+  {
+    "albumID" : "1753081387",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2710.3609999999994,
+    "releaseDate" : 744249600,
+    "title" : "Folge 159: als Robin Hood",
+    "upc" : "4033694555590"
+  },
+  {
+    "albumID" : "1748580449",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2755.3700000000003,
+    "releaseDate" : 740016000,
+    "title" : "Folge 158: Der Fußball-Pokal",
+    "upc" : "4033694555583"
+  },
+  {
+    "albumID" : "1742941728",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 3153.4320000000002,
+    "releaseDate" : 737596800,
+    "title" : "Find's raus mit Benjamin: Bauernhof",
+    "upc" : "4033694542118"
+  },
+  {
+    "albumID" : "1730703572",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2767.7349999999997,
+    "releaseDate" : 732758400,
+    "title" : "Folge 157: als Sänger",
+    "upc" : "5054197985799"
+  },
+  {
+    "albumID" : "1719798401",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2860.7900000000004,
+    "releaseDate" : 727315200,
+    "title" : "Benjamin Minis - Folge 5: Endlich Schnee!",
+    "upc" : "5054197920905"
+  },
+  {
+    "albumID" : "1713768407",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 3082.1610000000005,
+    "releaseDate" : 722476800,
+    "title" : "Folge 156: als Bergretter",
+    "upc" : "5054197887826"
+  },
+  {
+    "albumID" : "1772761022",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 247.559,
+    "releaseDate" : 752716800,
+    "title" : "Gute-Nacht-Geschichten - Folge 35:  Der mutige Löwe",
+    "upc" : "4033694550458"
+  },
+  {
+    "albumID" : "1766395764",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 3436.7939999999994,
+    "releaseDate" : 749692800,
+    "title" : "Find's raus mit Benjamin - Folge 12: Meer",
+    "upc" : "4033694542125"
+  },
+  {
+    "albumID" : "1760125142",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2780.088,
+    "releaseDate" : 747878400,
+    "title" : "Folge 160: als Höhlenforscher",
+    "upc" : "4033694555606"
+  },
+  {
+    "albumID" : "1757991520",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2993.7110000000002,
+    "releaseDate" : 746064000,
+    "title" : "Benjamin Minis - Folge 6: Eine verrückte Zahnputzgeschichte",
+    "upc" : "4033694543061"
+  },
+  {
+    "albumID" : "1753081387",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2710.3609999999994,
+    "releaseDate" : 744249600,
+    "title" : "Folge 159: als Robin Hood",
+    "upc" : "4033694555590"
+  },
+  {
+    "albumID" : "1748580449",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2755.3700000000003,
+    "releaseDate" : 740016000,
+    "title" : "Folge 158: Der Fußball-Pokal",
+    "upc" : "4033694555583"
+  },
+  {
+    "albumID" : "1742941728",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 3153.4320000000002,
+    "releaseDate" : 737596800,
+    "title" : "Find's raus mit Benjamin: Bauernhof",
+    "upc" : "4033694542118"
+  },
+  {
+    "albumID" : "1730703572",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2767.7349999999997,
+    "releaseDate" : 732758400,
+    "title" : "Folge 157: als Sänger",
+    "upc" : "5054197985799"
+  },
+  {
+    "albumID" : "1719798401",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2860.7900000000004,
+    "releaseDate" : 727315200,
+    "title" : "Benjamin Minis - Folge 5: Endlich Schnee!",
+    "upc" : "5054197920905"
+  },
+  {
+    "albumID" : "1713768407",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 3082.1610000000005,
+    "releaseDate" : 722476800,
+    "title" : "Folge 156: als Bergretter",
+    "upc" : "5054197887826"
+  },
+  {
+    "albumID" : "1772761022",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 247.559,
+    "releaseDate" : 752716800,
+    "title" : "Gute-Nacht-Geschichten - Folge 35:  Der mutige Löwe",
+    "upc" : "4033694550458"
+  },
+  {
+    "albumID" : "1766395764",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 3436.7939999999994,
+    "releaseDate" : 749692800,
+    "title" : "Find's raus mit Benjamin - Folge 12: Meer",
+    "upc" : "4033694542125"
+  },
+  {
+    "albumID" : "1760125142",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2780.088,
+    "releaseDate" : 747878400,
+    "title" : "Folge 160: als Höhlenforscher",
+    "upc" : "4033694555606"
+  },
+  {
+    "albumID" : "1757991520",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2993.7110000000002,
+    "releaseDate" : 746064000,
+    "title" : "Benjamin Minis - Folge 6: Eine verrückte Zahnputzgeschichte",
+    "upc" : "4033694543061"
+  },
+  {
+    "albumID" : "1753081387",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2710.3609999999994,
+    "releaseDate" : 744249600,
+    "title" : "Folge 159: als Robin Hood",
+    "upc" : "4033694555590"
+  },
+  {
+    "albumID" : "1748580449",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2755.3700000000003,
+    "releaseDate" : 740016000,
+    "title" : "Folge 158: Der Fußball-Pokal",
+    "upc" : "4033694555583"
+  },
+  {
+    "albumID" : "1742941728",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 3153.4320000000002,
+    "releaseDate" : 737596800,
+    "title" : "Find's raus mit Benjamin: Bauernhof",
+    "upc" : "4033694542118"
+  },
+  {
+    "albumID" : "1730703572",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2767.7349999999997,
+    "releaseDate" : 732758400,
+    "title" : "Folge 157: als Sänger",
+    "upc" : "5054197985799"
+  },
+  {
+    "albumID" : "1719798401",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2860.7900000000004,
+    "releaseDate" : 727315200,
+    "title" : "Benjamin Minis - Folge 5: Endlich Schnee!",
+    "upc" : "5054197920905"
+  },
+  {
+    "albumID" : "1713768407",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 3082.1610000000005,
+    "releaseDate" : 722476800,
+    "title" : "Folge 156: als Bergretter",
+    "upc" : "5054197887826"
+  },
+  {
+    "albumID" : "1772761022",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 247.559,
+    "releaseDate" : 752716800,
+    "title" : "Gute-Nacht-Geschichten - Folge 35:  Der mutige Löwe",
+    "upc" : "4033694550458"
+  },
+  {
+    "albumID" : "1766395764",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 3436.7939999999994,
+    "releaseDate" : 749692800,
+    "title" : "Find's raus mit Benjamin - Folge 12: Meer",
+    "upc" : "4033694542125"
+  },
+  {
+    "albumID" : "1760125142",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2780.088,
+    "releaseDate" : 747878400,
+    "title" : "Folge 160: als Höhlenforscher",
+    "upc" : "4033694555606"
+  },
+  {
+    "albumID" : "1757991520",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2993.7110000000002,
+    "releaseDate" : 746064000,
+    "title" : "Benjamin Minis - Folge 6: Eine verrückte Zahnputzgeschichte",
+    "upc" : "4033694543061"
+  },
+  {
+    "albumID" : "1753081387",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2710.3609999999994,
+    "releaseDate" : 744249600,
+    "title" : "Folge 159: als Robin Hood",
+    "upc" : "4033694555590"
+  },
+  {
+    "albumID" : "1748580449",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2755.3700000000003,
+    "releaseDate" : 740016000,
+    "title" : "Folge 158: Der Fußball-Pokal",
+    "upc" : "4033694555583"
+  },
+  {
+    "albumID" : "1742941728",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 3153.4320000000002,
+    "releaseDate" : 737596800,
+    "title" : "Find's raus mit Benjamin: Bauernhof",
+    "upc" : "4033694542118"
+  },
+  {
+    "albumID" : "1730703572",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2767.7349999999997,
+    "releaseDate" : 732758400,
+    "title" : "Folge 157: als Sänger",
+    "upc" : "5054197985799"
+  },
+  {
+    "albumID" : "1719798401",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2860.7900000000004,
+    "releaseDate" : 727315200,
+    "title" : "Benjamin Minis - Folge 5: Endlich Schnee!",
+    "upc" : "5054197920905"
+  },
+  {
+    "albumID" : "1713768407",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 3082.1610000000005,
+    "releaseDate" : 722476800,
+    "title" : "Folge 156: als Bergretter",
+    "upc" : "5054197887826"
+  },
+  {
+    "albumID" : "1772761022",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 247.559,
+    "releaseDate" : 752716800,
+    "title" : "Gute-Nacht-Geschichten - Folge 35:  Der mutige Löwe",
+    "upc" : "4033694550458"
+  },
+  {
+    "albumID" : "1766395764",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 3436.7939999999994,
+    "releaseDate" : 749692800,
+    "title" : "Find's raus mit Benjamin - Folge 12: Meer",
+    "upc" : "4033694542125"
+  },
+  {
+    "albumID" : "1760125142",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2780.088,
+    "releaseDate" : 747878400,
+    "title" : "Folge 160: als Höhlenforscher",
+    "upc" : "4033694555606"
+  },
+  {
+    "albumID" : "1757991520",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2993.7110000000002,
+    "releaseDate" : 746064000,
+    "title" : "Benjamin Minis - Folge 6: Eine verrückte Zahnputzgeschichte",
+    "upc" : "4033694543061"
+  },
+  {
+    "albumID" : "1753081387",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2710.3609999999994,
+    "releaseDate" : 744249600,
+    "title" : "Folge 159: als Robin Hood",
+    "upc" : "4033694555590"
+  },
+  {
+    "albumID" : "1748580449",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2755.3700000000003,
+    "releaseDate" : 740016000,
+    "title" : "Folge 158: Der Fußball-Pokal",
+    "upc" : "4033694555583"
+  },
+  {
+    "albumID" : "1742941728",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 3153.4320000000002,
+    "releaseDate" : 737596800,
+    "title" : "Find's raus mit Benjamin: Bauernhof",
+    "upc" : "4033694542118"
+  },
+  {
+    "albumID" : "1730703572",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2767.7349999999997,
+    "releaseDate" : 732758400,
+    "title" : "Folge 157: als Sänger",
+    "upc" : "5054197985799"
+  },
+  {
+    "albumID" : "1719798401",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2860.7900000000004,
+    "releaseDate" : 727315200,
+    "title" : "Benjamin Minis - Folge 5: Endlich Schnee!",
+    "upc" : "5054197920905"
+  },
+  {
+    "albumID" : "1713768407",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 3082.1610000000005,
+    "releaseDate" : 722476800,
+    "title" : "Folge 156: als Bergretter",
+    "upc" : "5054197887826"
+  },
+  {
+    "albumID" : "1772761022",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 247.559,
+    "releaseDate" : 752716800,
+    "title" : "Gute-Nacht-Geschichten - Folge 35:  Der mutige Löwe",
+    "upc" : "4033694550458"
+  },
+  {
+    "albumID" : "1766395764",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 3436.7939999999994,
+    "releaseDate" : 749692800,
+    "title" : "Find's raus mit Benjamin - Folge 12: Meer",
+    "upc" : "4033694542125"
+  },
+  {
+    "albumID" : "1760125142",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2780.088,
+    "releaseDate" : 747878400,
+    "title" : "Folge 160: als Höhlenforscher",
+    "upc" : "4033694555606"
+  },
+  {
+    "albumID" : "1757991520",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2993.7110000000002,
+    "releaseDate" : 746064000,
+    "title" : "Benjamin Minis - Folge 6: Eine verrückte Zahnputzgeschichte",
+    "upc" : "4033694543061"
+  },
+  {
+    "albumID" : "1753081387",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2710.3609999999994,
+    "releaseDate" : 744249600,
+    "title" : "Folge 159: als Robin Hood",
+    "upc" : "4033694555590"
+  },
+  {
+    "albumID" : "1748580449",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2755.3700000000003,
+    "releaseDate" : 740016000,
+    "title" : "Folge 158: Der Fußball-Pokal",
+    "upc" : "4033694555583"
+  },
+  {
+    "albumID" : "1742941728",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 3153.4320000000002,
+    "releaseDate" : 737596800,
+    "title" : "Find's raus mit Benjamin: Bauernhof",
+    "upc" : "4033694542118"
+  },
+  {
+    "albumID" : "1730703572",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2767.7349999999997,
+    "releaseDate" : 732758400,
+    "title" : "Folge 157: als Sänger",
+    "upc" : "5054197985799"
+  },
+  {
+    "albumID" : "1719798401",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2860.7900000000004,
+    "releaseDate" : 727315200,
+    "title" : "Benjamin Minis - Folge 5: Endlich Schnee!",
+    "upc" : "5054197920905"
+  },
+  {
+    "albumID" : "1713768407",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 3082.1610000000005,
+    "releaseDate" : 722476800,
+    "title" : "Folge 156: als Bergretter",
+    "upc" : "5054197887826"
+  },
+  {
+    "albumID" : "1772761022",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 247.559,
+    "releaseDate" : 752716800,
+    "title" : "Gute-Nacht-Geschichten - Folge 35:  Der mutige Löwe",
+    "upc" : "4033694550458"
+  },
+  {
+    "albumID" : "1766395764",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 3436.7939999999994,
+    "releaseDate" : 749692800,
+    "title" : "Find's raus mit Benjamin - Folge 12: Meer",
+    "upc" : "4033694542125"
+  },
+  {
+    "albumID" : "1760125142",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2780.088,
+    "releaseDate" : 747878400,
+    "title" : "Folge 160: als Höhlenforscher",
+    "upc" : "4033694555606"
+  },
+  {
+    "albumID" : "1757991520",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2993.7110000000002,
+    "releaseDate" : 746064000,
+    "title" : "Benjamin Minis - Folge 6: Eine verrückte Zahnputzgeschichte",
+    "upc" : "4033694543061"
+  },
+  {
+    "albumID" : "1753081387",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2710.3609999999994,
+    "releaseDate" : 744249600,
+    "title" : "Folge 159: als Robin Hood",
+    "upc" : "4033694555590"
+  },
+  {
+    "albumID" : "1748580449",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2755.3700000000003,
+    "releaseDate" : 740016000,
+    "title" : "Folge 158: Der Fußball-Pokal",
+    "upc" : "4033694555583"
+  },
+  {
+    "albumID" : "1742941728",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 3153.4320000000002,
+    "releaseDate" : 737596800,
+    "title" : "Find's raus mit Benjamin: Bauernhof",
+    "upc" : "4033694542118"
+  },
+  {
+    "albumID" : "1730703572",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2767.7349999999997,
+    "releaseDate" : 732758400,
+    "title" : "Folge 157: als Sänger",
+    "upc" : "5054197985799"
+  },
+  {
+    "albumID" : "1719798401",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2860.7900000000004,
+    "releaseDate" : 727315200,
+    "title" : "Benjamin Minis - Folge 5: Endlich Schnee!",
+    "upc" : "5054197920905"
+  },
+  {
+    "albumID" : "1713768407",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 3082.1610000000005,
+    "releaseDate" : 722476800,
+    "title" : "Folge 156: als Bergretter",
+    "upc" : "5054197887826"
+  },
+  {
+    "albumID" : "1772761022",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 247.559,
+    "releaseDate" : 752716800,
+    "title" : "Gute-Nacht-Geschichten - Folge 35:  Der mutige Löwe",
+    "upc" : "4033694550458"
+  },
+  {
+    "albumID" : "1766395764",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 3436.7939999999994,
+    "releaseDate" : 749692800,
+    "title" : "Find's raus mit Benjamin - Folge 12: Meer",
+    "upc" : "4033694542125"
+  },
+  {
+    "albumID" : "1760125142",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2780.088,
+    "releaseDate" : 747878400,
+    "title" : "Folge 160: als Höhlenforscher",
+    "upc" : "4033694555606"
+  },
+  {
+    "albumID" : "1757991520",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2993.7110000000002,
+    "releaseDate" : 746064000,
+    "title" : "Benjamin Minis - Folge 6: Eine verrückte Zahnputzgeschichte",
+    "upc" : "4033694543061"
+  },
+  {
+    "albumID" : "1753081387",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2710.3609999999994,
+    "releaseDate" : 744249600,
+    "title" : "Folge 159: als Robin Hood",
+    "upc" : "4033694555590"
+  },
+  {
+    "albumID" : "1748580449",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2755.3700000000003,
+    "releaseDate" : 740016000,
+    "title" : "Folge 158: Der Fußball-Pokal",
+    "upc" : "4033694555583"
+  },
+  {
+    "albumID" : "1742941728",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 3153.4320000000002,
+    "releaseDate" : 737596800,
+    "title" : "Find's raus mit Benjamin: Bauernhof",
+    "upc" : "4033694542118"
+  },
+  {
+    "albumID" : "1730703572",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2767.7349999999997,
+    "releaseDate" : 732758400,
+    "title" : "Folge 157: als Sänger",
+    "upc" : "5054197985799"
+  },
+  {
+    "albumID" : "1719798401",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2860.7900000000004,
+    "releaseDate" : 727315200,
+    "title" : "Benjamin Minis - Folge 5: Endlich Schnee!",
+    "upc" : "5054197920905"
+  },
+  {
+    "albumID" : "1713768407",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 3082.1610000000005,
+    "releaseDate" : 722476800,
+    "title" : "Folge 156: als Bergretter",
+    "upc" : "5054197887826"
+  },
+  {
+    "albumID" : "1772761022",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 247.559,
+    "releaseDate" : 752716800,
+    "title" : "Gute-Nacht-Geschichten - Folge 35:  Der mutige Löwe",
+    "upc" : "4033694550458"
+  },
+  {
+    "albumID" : "1766395764",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 3436.7939999999994,
+    "releaseDate" : 749692800,
+    "title" : "Find's raus mit Benjamin - Folge 12: Meer",
+    "upc" : "4033694542125"
+  },
+  {
+    "albumID" : "1760125142",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2780.088,
+    "releaseDate" : 747878400,
+    "title" : "Folge 160: als Höhlenforscher",
+    "upc" : "4033694555606"
+  },
+  {
+    "albumID" : "1757991520",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2993.7110000000002,
+    "releaseDate" : 746064000,
+    "title" : "Benjamin Minis - Folge 6: Eine verrückte Zahnputzgeschichte",
+    "upc" : "4033694543061"
+  },
+  {
+    "albumID" : "1753081387",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2710.3609999999994,
+    "releaseDate" : 744249600,
+    "title" : "Folge 159: als Robin Hood",
+    "upc" : "4033694555590"
+  },
+  {
+    "albumID" : "1748580449",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2755.3700000000003,
+    "releaseDate" : 740016000,
+    "title" : "Folge 158: Der Fußball-Pokal",
+    "upc" : "4033694555583"
+  },
+  {
+    "albumID" : "1742941728",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 3153.4320000000002,
+    "releaseDate" : 737596800,
+    "title" : "Find's raus mit Benjamin: Bauernhof",
+    "upc" : "4033694542118"
+  },
+  {
+    "albumID" : "1730703572",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2767.7349999999997,
+    "releaseDate" : 732758400,
+    "title" : "Folge 157: als Sänger",
+    "upc" : "5054197985799"
+  },
+  {
+    "albumID" : "1719798401",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2860.7900000000004,
+    "releaseDate" : 727315200,
+    "title" : "Benjamin Minis - Folge 5: Endlich Schnee!",
+    "upc" : "5054197920905"
+  },
+  {
+    "albumID" : "1713768407",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 3082.1610000000005,
+    "releaseDate" : 722476800,
+    "title" : "Folge 156: als Bergretter",
+    "upc" : "5054197887826"
+  },
+  {
+    "albumID" : "1772761022",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 247.559,
+    "releaseDate" : 752716800,
+    "title" : "Gute-Nacht-Geschichten - Folge 35:  Der mutige Löwe",
+    "upc" : "4033694550458"
+  },
+  {
+    "albumID" : "1766395764",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 3436.7939999999994,
+    "releaseDate" : 749692800,
+    "title" : "Find's raus mit Benjamin - Folge 12: Meer",
+    "upc" : "4033694542125"
+  },
+  {
+    "albumID" : "1760125142",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2780.088,
+    "releaseDate" : 747878400,
+    "title" : "Folge 160: als Höhlenforscher",
+    "upc" : "4033694555606"
+  },
+  {
+    "albumID" : "1757991520",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2993.7110000000002,
+    "releaseDate" : 746064000,
+    "title" : "Benjamin Minis - Folge 6: Eine verrückte Zahnputzgeschichte",
+    "upc" : "4033694543061"
+  },
+  {
+    "albumID" : "1753081387",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2710.3609999999994,
+    "releaseDate" : 744249600,
+    "title" : "Folge 159: als Robin Hood",
+    "upc" : "4033694555590"
+  },
+  {
+    "albumID" : "1748580449",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2755.3700000000003,
+    "releaseDate" : 740016000,
+    "title" : "Folge 158: Der Fußball-Pokal",
+    "upc" : "4033694555583"
+  },
+  {
+    "albumID" : "1742941728",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 3153.4320000000002,
+    "releaseDate" : 737596800,
+    "title" : "Find's raus mit Benjamin: Bauernhof",
+    "upc" : "4033694542118"
+  },
+  {
+    "albumID" : "1730703572",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2767.7349999999997,
+    "releaseDate" : 732758400,
+    "title" : "Folge 157: als Sänger",
+    "upc" : "5054197985799"
+  },
+  {
+    "albumID" : "1719798401",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2860.7900000000004,
+    "releaseDate" : 727315200,
+    "title" : "Benjamin Minis - Folge 5: Endlich Schnee!",
+    "upc" : "5054197920905"
+  },
+  {
+    "albumID" : "1713768407",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 3082.1610000000005,
+    "releaseDate" : 722476800,
+    "title" : "Folge 156: als Bergretter",
+    "upc" : "5054197887826"
+  },
+  {
+    "albumID" : "1772761022",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 247.559,
+    "releaseDate" : 752716800,
+    "title" : "Gute-Nacht-Geschichten - Folge 35:  Der mutige Löwe",
+    "upc" : "4033694550458"
+  },
+  {
+    "albumID" : "1766395764",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 3436.7939999999994,
+    "releaseDate" : 749692800,
+    "title" : "Find's raus mit Benjamin - Folge 12: Meer",
+    "upc" : "4033694542125"
+  },
+  {
+    "albumID" : "1760125142",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2780.088,
+    "releaseDate" : 747878400,
+    "title" : "Folge 160: als Höhlenforscher",
+    "upc" : "4033694555606"
+  },
+  {
+    "albumID" : "1757991520",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2993.7110000000002,
+    "releaseDate" : 746064000,
+    "title" : "Benjamin Minis - Folge 6: Eine verrückte Zahnputzgeschichte",
+    "upc" : "4033694543061"
+  },
+  {
+    "albumID" : "1753081387",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2710.3609999999994,
+    "releaseDate" : 744249600,
+    "title" : "Folge 159: als Robin Hood",
+    "upc" : "4033694555590"
+  },
+  {
+    "albumID" : "1748580449",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2755.3700000000003,
+    "releaseDate" : 740016000,
+    "title" : "Folge 158: Der Fußball-Pokal",
+    "upc" : "4033694555583"
+  },
+  {
+    "albumID" : "1742941728",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 3153.4320000000002,
+    "releaseDate" : 737596800,
+    "title" : "Find's raus mit Benjamin: Bauernhof",
+    "upc" : "4033694542118"
+  },
+  {
+    "albumID" : "1730703572",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2767.7349999999997,
+    "releaseDate" : 732758400,
+    "title" : "Folge 157: als Sänger",
+    "upc" : "5054197985799"
+  },
+  {
+    "albumID" : "1719798401",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2860.7900000000004,
+    "releaseDate" : 727315200,
+    "title" : "Benjamin Minis - Folge 5: Endlich Schnee!",
+    "upc" : "5054197920905"
+  },
+  {
+    "albumID" : "1713768407",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 3082.1610000000005,
+    "releaseDate" : 722476800,
+    "title" : "Folge 156: als Bergretter",
+    "upc" : "5054197887826"
+  },
+  {
+    "albumID" : "1772761022",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 247.559,
+    "releaseDate" : 752716800,
+    "title" : "Gute-Nacht-Geschichten - Folge 35:  Der mutige Löwe",
+    "upc" : "4033694550458"
+  },
+  {
+    "albumID" : "1766395764",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 3436.7939999999994,
+    "releaseDate" : 749692800,
+    "title" : "Find's raus mit Benjamin - Folge 12: Meer",
+    "upc" : "4033694542125"
+  },
+  {
+    "albumID" : "1760125142",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2780.088,
+    "releaseDate" : 747878400,
+    "title" : "Folge 160: als Höhlenforscher",
+    "upc" : "4033694555606"
+  },
+  {
+    "albumID" : "1757991520",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2993.7110000000002,
+    "releaseDate" : 746064000,
+    "title" : "Benjamin Minis - Folge 6: Eine verrückte Zahnputzgeschichte",
+    "upc" : "4033694543061"
+  },
+  {
+    "albumID" : "1753081387",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2710.3609999999994,
+    "releaseDate" : 744249600,
+    "title" : "Folge 159: als Robin Hood",
+    "upc" : "4033694555590"
+  },
+  {
+    "albumID" : "1748580449",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2755.3700000000003,
+    "releaseDate" : 740016000,
+    "title" : "Folge 158: Der Fußball-Pokal",
+    "upc" : "4033694555583"
+  },
+  {
+    "albumID" : "1742941728",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 3153.4320000000002,
+    "releaseDate" : 737596800,
+    "title" : "Find's raus mit Benjamin: Bauernhof",
+    "upc" : "4033694542118"
+  },
+  {
+    "albumID" : "1730703572",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2767.7349999999997,
+    "releaseDate" : 732758400,
+    "title" : "Folge 157: als Sänger",
+    "upc" : "5054197985799"
+  },
+  {
+    "albumID" : "1719798401",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2860.7900000000004,
+    "releaseDate" : 727315200,
+    "title" : "Benjamin Minis - Folge 5: Endlich Schnee!",
+    "upc" : "5054197920905"
+  },
+  {
+    "albumID" : "1713768407",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 3082.1610000000005,
+    "releaseDate" : 722476800,
+    "title" : "Folge 156: als Bergretter",
+    "upc" : "5054197887826"
+  },
+  {
+    "albumID" : "1772761022",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 247.559,
+    "releaseDate" : 752716800,
+    "title" : "Gute-Nacht-Geschichten - Folge 35:  Der mutige Löwe",
+    "upc" : "4033694550458"
+  },
+  {
+    "albumID" : "1766395764",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 3436.7939999999994,
+    "releaseDate" : 749692800,
+    "title" : "Find's raus mit Benjamin - Folge 12: Meer",
+    "upc" : "4033694542125"
+  },
+  {
+    "albumID" : "1760125142",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2780.088,
+    "releaseDate" : 747878400,
+    "title" : "Folge 160: als Höhlenforscher",
+    "upc" : "4033694555606"
+  },
+  {
+    "albumID" : "1757991520",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2993.7110000000002,
+    "releaseDate" : 746064000,
+    "title" : "Benjamin Minis - Folge 6: Eine verrückte Zahnputzgeschichte",
+    "upc" : "4033694543061"
+  },
+  {
+    "albumID" : "1753081387",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2710.3609999999994,
+    "releaseDate" : 744249600,
+    "title" : "Folge 159: als Robin Hood",
+    "upc" : "4033694555590"
+  },
+  {
+    "albumID" : "1748580449",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2755.3700000000003,
+    "releaseDate" : 740016000,
+    "title" : "Folge 158: Der Fußball-Pokal",
+    "upc" : "4033694555583"
+  },
+  {
+    "albumID" : "1742941728",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 3153.4320000000002,
+    "releaseDate" : 737596800,
+    "title" : "Find's raus mit Benjamin: Bauernhof",
+    "upc" : "4033694542118"
+  },
+  {
+    "albumID" : "1730703572",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2767.7349999999997,
+    "releaseDate" : 732758400,
+    "title" : "Folge 157: als Sänger",
+    "upc" : "5054197985799"
+  },
+  {
+    "albumID" : "1719798401",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2860.7900000000004,
+    "releaseDate" : 727315200,
+    "title" : "Benjamin Minis - Folge 5: Endlich Schnee!",
+    "upc" : "5054197920905"
+  },
+  {
+    "albumID" : "1713768407",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 3082.1610000000005,
+    "releaseDate" : 722476800,
+    "title" : "Folge 156: als Bergretter",
+    "upc" : "5054197887826"
+  },
+  {
+    "albumID" : "1772761022",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 247.559,
+    "releaseDate" : 752716800,
+    "title" : "Gute-Nacht-Geschichten - Folge 35:  Der mutige Löwe",
+    "upc" : "4033694550458"
+  },
+  {
+    "albumID" : "1766395764",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 3436.7939999999994,
+    "releaseDate" : 749692800,
+    "title" : "Find's raus mit Benjamin - Folge 12: Meer",
+    "upc" : "4033694542125"
+  },
+  {
+    "albumID" : "1760125142",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2780.088,
+    "releaseDate" : 747878400,
+    "title" : "Folge 160: als Höhlenforscher",
+    "upc" : "4033694555606"
+  },
+  {
+    "albumID" : "1757991520",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2993.7110000000002,
+    "releaseDate" : 746064000,
+    "title" : "Benjamin Minis - Folge 6: Eine verrückte Zahnputzgeschichte",
+    "upc" : "4033694543061"
+  },
+  {
+    "albumID" : "1753081387",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2710.3609999999994,
+    "releaseDate" : 744249600,
+    "title" : "Folge 159: als Robin Hood",
+    "upc" : "4033694555590"
+  },
+  {
+    "albumID" : "1748580449",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2755.3700000000003,
+    "releaseDate" : 740016000,
+    "title" : "Folge 158: Der Fußball-Pokal",
+    "upc" : "4033694555583"
+  },
+  {
+    "albumID" : "1742941728",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 3153.4320000000002,
+    "releaseDate" : 737596800,
+    "title" : "Find's raus mit Benjamin: Bauernhof",
+    "upc" : "4033694542118"
+  },
+  {
+    "albumID" : "1730703572",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2767.7349999999997,
+    "releaseDate" : 732758400,
+    "title" : "Folge 157: als Sänger",
+    "upc" : "5054197985799"
+  },
+  {
+    "albumID" : "1719798401",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2860.7900000000004,
+    "releaseDate" : 727315200,
+    "title" : "Benjamin Minis - Folge 5: Endlich Schnee!",
+    "upc" : "5054197920905"
+  },
+  {
+    "albumID" : "1713768407",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 3082.1610000000005,
+    "releaseDate" : 722476800,
+    "title" : "Folge 156: als Bergretter",
+    "upc" : "5054197887826"
+  },
+  {
+    "albumID" : "1772761022",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 247.559,
+    "releaseDate" : 752716800,
+    "title" : "Gute-Nacht-Geschichten - Folge 35:  Der mutige Löwe",
+    "upc" : "4033694550458"
+  },
+  {
+    "albumID" : "1766395764",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 3436.7939999999994,
+    "releaseDate" : 749692800,
+    "title" : "Find's raus mit Benjamin - Folge 12: Meer",
+    "upc" : "4033694542125"
+  },
+  {
+    "albumID" : "1760125142",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2780.088,
+    "releaseDate" : 747878400,
+    "title" : "Folge 160: als Höhlenforscher",
+    "upc" : "4033694555606"
+  },
+  {
+    "albumID" : "1757991520",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2993.7110000000002,
+    "releaseDate" : 746064000,
+    "title" : "Benjamin Minis - Folge 6: Eine verrückte Zahnputzgeschichte",
+    "upc" : "4033694543061"
+  },
+  {
+    "albumID" : "1753081387",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2710.3609999999994,
+    "releaseDate" : 744249600,
+    "title" : "Folge 159: als Robin Hood",
+    "upc" : "4033694555590"
+  },
+  {
+    "albumID" : "1748580449",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2755.3700000000003,
+    "releaseDate" : 740016000,
+    "title" : "Folge 158: Der Fußball-Pokal",
+    "upc" : "4033694555583"
+  },
+  {
+    "albumID" : "1742941728",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 3153.4320000000002,
+    "releaseDate" : 737596800,
+    "title" : "Find's raus mit Benjamin: Bauernhof",
+    "upc" : "4033694542118"
+  },
+  {
+    "albumID" : "1730703572",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2767.7349999999997,
+    "releaseDate" : 732758400,
+    "title" : "Folge 157: als Sänger",
+    "upc" : "5054197985799"
+  },
+  {
+    "albumID" : "1719798401",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2860.7900000000004,
+    "releaseDate" : 727315200,
+    "title" : "Benjamin Minis - Folge 5: Endlich Schnee!",
+    "upc" : "5054197920905"
+  },
+  {
+    "albumID" : "1713768407",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 3082.1610000000005,
+    "releaseDate" : 722476800,
+    "title" : "Folge 156: als Bergretter",
+    "upc" : "5054197887826"
+  },
+  {
+    "albumID" : "1757728108",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2083.378,
+    "releaseDate" : 744854400,
+    "title" : "Find's raus mit Benjamin: Das Liederalbum",
+    "upc" : "4033694258187"
+  },
+  {
+    "albumID" : "1701599534",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 3288.072,
+    "releaseDate" : 716428800,
+    "title" : "Folge 155: und der Roboter",
+    "upc" : "5054197774331"
+  },
+  {
+    "albumID" : "1692770508",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2761.807,
+    "releaseDate" : 710380800,
+    "title" : "Gute-Nacht-Geschichten - Folge 34: Hilfe, ich kann nicht schlafen!",
+    "upc" : "5054197719844"
+  },
+  {
+    "albumID" : "1686577013",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 3300.6440000000002,
+    "releaseDate" : 706147200,
+    "title" : "Find‘s raus mit Benjamin: Müll",
+    "upc" : "5054197676468"
+  },
+  {
+    "albumID" : "1668412000",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2996.391,
+    "releaseDate" : 703123200,
+    "title" : "Folge 154: in Italien",
+    "upc" : "5054197534041"
+  },
+  {
+    "albumID" : "1656277614",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2746.428,
+    "releaseDate" : 695865600,
+    "title" : "Folge 153: Das große Gewitter",
+    "upc" : "5054197465949"
+  },
+  {
+    "albumID" : "1651540450",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 3338.8559999999998,
+    "releaseDate" : 690422400,
+    "title" : "Find‘s raus mit Benjamin: Dinosaurier",
+    "upc" : "5054197405532"
+  },
+  {
+    "albumID" : "1640111589",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2937.5259999999994,
+    "releaseDate" : 685584000,
+    "title" : "Folge 152: Schatzsuche im Zoosee",
+    "upc" : "5054197297700"
+  },
+  {
+    "albumID" : "1619310248",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 3649.6560000000004,
+    "releaseDate" : 674697600,
+    "title" : "Find‘s raus mit Benjamin: Weltraum",
+    "upc" : "5054197150906"
+  },
+  {
+    "albumID" : "1612139400",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2706.985,
+    "releaseDate" : 671068800,
+    "title" : "Folge 151: Das Elefantenkarussell",
+    "upc" : "190296198649"
+  },
+  {
+    "albumID" : "1757728108",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2083.378,
+    "releaseDate" : 744854400,
+    "title" : "Find's raus mit Benjamin: Das Liederalbum",
+    "upc" : "4033694258187"
+  },
+  {
+    "albumID" : "1701599534",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 3288.072,
+    "releaseDate" : 716428800,
+    "title" : "Folge 155: und der Roboter",
+    "upc" : "5054197774331"
+  },
+  {
+    "albumID" : "1692770508",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2761.807,
+    "releaseDate" : 710380800,
+    "title" : "Gute-Nacht-Geschichten - Folge 34: Hilfe, ich kann nicht schlafen!",
+    "upc" : "5054197719844"
+  },
+  {
+    "albumID" : "1686577013",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 3300.6440000000002,
+    "releaseDate" : 706147200,
+    "title" : "Find‘s raus mit Benjamin: Müll",
+    "upc" : "5054197676468"
+  },
+  {
+    "albumID" : "1668412000",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2996.391,
+    "releaseDate" : 703123200,
+    "title" : "Folge 154: in Italien",
+    "upc" : "5054197534041"
+  },
+  {
+    "albumID" : "1656277614",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2746.428,
+    "releaseDate" : 695865600,
+    "title" : "Folge 153: Das große Gewitter",
+    "upc" : "5054197465949"
+  },
+  {
+    "albumID" : "1651540450",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 3338.8559999999998,
+    "releaseDate" : 690422400,
+    "title" : "Find‘s raus mit Benjamin: Dinosaurier",
+    "upc" : "5054197405532"
+  },
+  {
+    "albumID" : "1640111589",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2937.5259999999994,
+    "releaseDate" : 685584000,
+    "title" : "Folge 152: Schatzsuche im Zoosee",
+    "upc" : "5054197297700"
+  },
+  {
+    "albumID" : "1619310248",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 3649.6560000000004,
+    "releaseDate" : 674697600,
+    "title" : "Find‘s raus mit Benjamin: Weltraum",
+    "upc" : "5054197150906"
+  },
+  {
+    "albumID" : "1612139400",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2706.985,
+    "releaseDate" : 671068800,
+    "title" : "Folge 151: Das Elefantenkarussell",
+    "upc" : "190296198649"
+  },
+  {
+    "albumID" : "1757728108",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2083.378,
+    "releaseDate" : 744854400,
+    "title" : "Find's raus mit Benjamin: Das Liederalbum",
+    "upc" : "4033694258187"
+  },
+  {
+    "albumID" : "1701599534",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 3288.072,
+    "releaseDate" : 716428800,
+    "title" : "Folge 155: und der Roboter",
+    "upc" : "5054197774331"
+  },
+  {
+    "albumID" : "1692770508",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2761.807,
+    "releaseDate" : 710380800,
+    "title" : "Gute-Nacht-Geschichten - Folge 34: Hilfe, ich kann nicht schlafen!",
+    "upc" : "5054197719844"
+  },
+  {
+    "albumID" : "1686577013",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 3300.6440000000002,
+    "releaseDate" : 706147200,
+    "title" : "Find‘s raus mit Benjamin: Müll",
+    "upc" : "5054197676468"
+  },
+  {
+    "albumID" : "1668412000",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2996.391,
+    "releaseDate" : 703123200,
+    "title" : "Folge 154: in Italien",
+    "upc" : "5054197534041"
+  },
+  {
+    "albumID" : "1656277614",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2746.428,
+    "releaseDate" : 695865600,
+    "title" : "Folge 153: Das große Gewitter",
+    "upc" : "5054197465949"
+  },
+  {
+    "albumID" : "1651540450",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 3338.8559999999998,
+    "releaseDate" : 690422400,
+    "title" : "Find‘s raus mit Benjamin: Dinosaurier",
+    "upc" : "5054197405532"
+  },
+  {
+    "albumID" : "1640111589",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2937.5259999999994,
+    "releaseDate" : 685584000,
+    "title" : "Folge 152: Schatzsuche im Zoosee",
+    "upc" : "5054197297700"
+  },
+  {
+    "albumID" : "1619310248",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 3649.6560000000004,
+    "releaseDate" : 674697600,
+    "title" : "Find‘s raus mit Benjamin: Weltraum",
+    "upc" : "5054197150906"
+  },
+  {
+    "albumID" : "1612139400",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2706.985,
+    "releaseDate" : 671068800,
+    "title" : "Folge 151: Das Elefantenkarussell",
+    "upc" : "190296198649"
+  },
+  {
+    "albumID" : "1757728108",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2083.378,
+    "releaseDate" : 744854400,
+    "title" : "Find's raus mit Benjamin: Das Liederalbum",
+    "upc" : "4033694258187"
+  },
+  {
+    "albumID" : "1701599534",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 3288.072,
+    "releaseDate" : 716428800,
+    "title" : "Folge 155: und der Roboter",
+    "upc" : "5054197774331"
+  },
+  {
+    "albumID" : "1692770508",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2761.807,
+    "releaseDate" : 710380800,
+    "title" : "Gute-Nacht-Geschichten - Folge 34: Hilfe, ich kann nicht schlafen!",
+    "upc" : "5054197719844"
+  },
+  {
+    "albumID" : "1686577013",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 3300.6440000000002,
+    "releaseDate" : 706147200,
+    "title" : "Find‘s raus mit Benjamin: Müll",
+    "upc" : "5054197676468"
+  },
+  {
+    "albumID" : "1668412000",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2996.391,
+    "releaseDate" : 703123200,
+    "title" : "Folge 154: in Italien",
+    "upc" : "5054197534041"
+  },
+  {
+    "albumID" : "1656277614",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2746.428,
+    "releaseDate" : 695865600,
+    "title" : "Folge 153: Das große Gewitter",
+    "upc" : "5054197465949"
+  },
+  {
+    "albumID" : "1651540450",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 3338.8559999999998,
+    "releaseDate" : 690422400,
+    "title" : "Find‘s raus mit Benjamin: Dinosaurier",
+    "upc" : "5054197405532"
+  },
+  {
+    "albumID" : "1640111589",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2937.5259999999994,
+    "releaseDate" : 685584000,
+    "title" : "Folge 152: Schatzsuche im Zoosee",
+    "upc" : "5054197297700"
+  },
+  {
+    "albumID" : "1619310248",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 3649.6560000000004,
+    "releaseDate" : 674697600,
+    "title" : "Find‘s raus mit Benjamin: Weltraum",
+    "upc" : "5054197150906"
+  },
+  {
+    "albumID" : "1612139400",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2706.985,
+    "releaseDate" : 671068800,
+    "title" : "Folge 151: Das Elefantenkarussell",
+    "upc" : "190296198649"
+  }
+]
