@@ -1,0 +1,2338 @@
+[
+  {
+    "albumID" : "1764904056",
+    "artist" : "Die drei ???",
+    "duration" : 44.267,
+    "releaseDate" : 752716800,
+    "title" : "Folge 230: Der Tag der Toten",
+    "upc" : "196872212150"
+  },
+  {
+    "albumID" : "1753904987",
+    "artist" : "Die drei ???",
+    "duration" : 4882.757999999999,
+    "releaseDate" : 747273600,
+    "title" : "Folge 229: Drehbuch der Täuschung",
+    "upc" : "196872211771"
+  },
+  {
+    "albumID" : "1752449669",
+    "artist" : "Die drei ???",
+    "duration" : 3994.076,
+    "releaseDate" : 736992000,
+    "title" : "Folge 227: Melodie der Rache",
+    "upc" : "196872211429"
+  },
+  {
+    "albumID" : "1752449751",
+    "artist" : "Die drei ???",
+    "duration" : 5089.884,
+    "releaseDate" : 732758400,
+    "title" : "Folge 226: Die Spur der Toten",
+    "upc" : "196872211412"
+  },
+  {
+    "albumID" : "1752450507",
+    "artist" : "Die drei ???",
+    "duration" : 10832.049,
+    "releaseDate" : 727920000,
+    "title" : "Folge 225: und der Puppenmacher",
+    "upc" : "196872211399"
+  },
+  {
+    "albumID" : "1752449423",
+    "artist" : "Die drei ???",
+    "duration" : 4524.293,
+    "releaseDate" : 722476800,
+    "title" : "Folge 224: Die Yacht des Verrats",
+    "upc" : "196872211306"
+  },
+  {
+    "albumID" : "1752450018",
+    "artist" : "Die drei ???",
+    "duration" : 12373.816000000004,
+    "releaseDate" : 720662400,
+    "title" : "Adventskalender - Böser die Glocken nie klingen",
+    "upc" : "196872215175"
+  },
+  {
+    "albumID" : "1752449378",
+    "artist" : "Die drei ???",
+    "duration" : 4950.201000000002,
+    "releaseDate" : 712195200,
+    "title" : "Folge 223: und der Knochenmann",
+    "upc" : "196872196573"
+  },
+  {
+    "albumID" : "1695104461",
+    "artist" : "Die drei ???",
+    "duration" : 4058.6670000000004,
+    "releaseDate" : 699494400,
+    "title" : "Folge 221: Manuskript des Satans",
+    "upc" : "196871058056"
+  },
+  {
+    "albumID" : "1683339747",
+    "artist" : "Die drei ???",
+    "duration" : 5954.112000000002,
+    "releaseDate" : 696470400,
+    "title" : "Erbe des Drachen  (Das Original-Hörspiel zum Kinofilm)",
+    "upc" : "196871061575"
+  },
+  {
+    "albumID" : "1764904056",
+    "artist" : "Die drei ???",
+    "duration" : 44.267,
+    "releaseDate" : 752716800,
+    "title" : "Folge 230: Der Tag der Toten",
+    "upc" : "196872212150"
+  },
+  {
+    "albumID" : "1753904987",
+    "artist" : "Die drei ???",
+    "duration" : 4882.757999999999,
+    "releaseDate" : 747273600,
+    "title" : "Folge 229: Drehbuch der Täuschung",
+    "upc" : "196872211771"
+  },
+  {
+    "albumID" : "1752449669",
+    "artist" : "Die drei ???",
+    "duration" : 3994.076,
+    "releaseDate" : 736992000,
+    "title" : "Folge 227: Melodie der Rache",
+    "upc" : "196872211429"
+  },
+  {
+    "albumID" : "1752449751",
+    "artist" : "Die drei ???",
+    "duration" : 5089.884,
+    "releaseDate" : 732758400,
+    "title" : "Folge 226: Die Spur der Toten",
+    "upc" : "196872211412"
+  },
+  {
+    "albumID" : "1752450507",
+    "artist" : "Die drei ???",
+    "duration" : 10832.049,
+    "releaseDate" : 727920000,
+    "title" : "Folge 225: und der Puppenmacher",
+    "upc" : "196872211399"
+  },
+  {
+    "albumID" : "1752449423",
+    "artist" : "Die drei ???",
+    "duration" : 4524.293,
+    "releaseDate" : 722476800,
+    "title" : "Folge 224: Die Yacht des Verrats",
+    "upc" : "196872211306"
+  },
+  {
+    "albumID" : "1752450018",
+    "artist" : "Die drei ???",
+    "duration" : 12373.816000000004,
+    "releaseDate" : 720662400,
+    "title" : "Adventskalender - Böser die Glocken nie klingen",
+    "upc" : "196872215175"
+  },
+  {
+    "albumID" : "1752449378",
+    "artist" : "Die drei ???",
+    "duration" : 4950.201000000002,
+    "releaseDate" : 712195200,
+    "title" : "Folge 223: und der Knochenmann",
+    "upc" : "196872196573"
+  },
+  {
+    "albumID" : "1695104461",
+    "artist" : "Die drei ???",
+    "duration" : 4058.6670000000004,
+    "releaseDate" : 699494400,
+    "title" : "Folge 221: Manuskript des Satans",
+    "upc" : "196871058056"
+  },
+  {
+    "albumID" : "1683339747",
+    "artist" : "Die drei ???",
+    "duration" : 5954.112000000002,
+    "releaseDate" : 696470400,
+    "title" : "Erbe des Drachen  (Das Original-Hörspiel zum Kinofilm)",
+    "upc" : "196871061575"
+  },
+  {
+    "albumID" : "1764904056",
+    "artist" : "Die drei ???",
+    "duration" : 44.267,
+    "releaseDate" : 752716800,
+    "title" : "Folge 230: Der Tag der Toten",
+    "upc" : "196872212150"
+  },
+  {
+    "albumID" : "1753904987",
+    "artist" : "Die drei ???",
+    "duration" : 4882.757999999999,
+    "releaseDate" : 747273600,
+    "title" : "Folge 229: Drehbuch der Täuschung",
+    "upc" : "196872211771"
+  },
+  {
+    "albumID" : "1752449669",
+    "artist" : "Die drei ???",
+    "duration" : 3994.076,
+    "releaseDate" : 736992000,
+    "title" : "Folge 227: Melodie der Rache",
+    "upc" : "196872211429"
+  },
+  {
+    "albumID" : "1752449751",
+    "artist" : "Die drei ???",
+    "duration" : 5089.884,
+    "releaseDate" : 732758400,
+    "title" : "Folge 226: Die Spur der Toten",
+    "upc" : "196872211412"
+  },
+  {
+    "albumID" : "1752450507",
+    "artist" : "Die drei ???",
+    "duration" : 10832.049,
+    "releaseDate" : 727920000,
+    "title" : "Folge 225: und der Puppenmacher",
+    "upc" : "196872211399"
+  },
+  {
+    "albumID" : "1752449423",
+    "artist" : "Die drei ???",
+    "duration" : 4524.293,
+    "releaseDate" : 722476800,
+    "title" : "Folge 224: Die Yacht des Verrats",
+    "upc" : "196872211306"
+  },
+  {
+    "albumID" : "1752450018",
+    "artist" : "Die drei ???",
+    "duration" : 12373.816000000004,
+    "releaseDate" : 720662400,
+    "title" : "Adventskalender - Böser die Glocken nie klingen",
+    "upc" : "196872215175"
+  },
+  {
+    "albumID" : "1752449378",
+    "artist" : "Die drei ???",
+    "duration" : 4950.201000000002,
+    "releaseDate" : 712195200,
+    "title" : "Folge 223: und der Knochenmann",
+    "upc" : "196872196573"
+  },
+  {
+    "albumID" : "1695104461",
+    "artist" : "Die drei ???",
+    "duration" : 4058.6670000000004,
+    "releaseDate" : 699494400,
+    "title" : "Folge 221: Manuskript des Satans",
+    "upc" : "196871058056"
+  },
+  {
+    "albumID" : "1683339747",
+    "artist" : "Die drei ???",
+    "duration" : 5954.112000000002,
+    "releaseDate" : 696470400,
+    "title" : "Erbe des Drachen  (Das Original-Hörspiel zum Kinofilm)",
+    "upc" : "196871061575"
+  },
+  {
+    "albumID" : "1764904056",
+    "artist" : "Die drei ???",
+    "duration" : 44.267,
+    "releaseDate" : 752716800,
+    "title" : "Folge 230: Der Tag der Toten",
+    "upc" : "196872212150"
+  },
+  {
+    "albumID" : "1753904987",
+    "artist" : "Die drei ???",
+    "duration" : 4882.757999999999,
+    "releaseDate" : 747273600,
+    "title" : "Folge 229: Drehbuch der Täuschung",
+    "upc" : "196872211771"
+  },
+  {
+    "albumID" : "1752449669",
+    "artist" : "Die drei ???",
+    "duration" : 3994.076,
+    "releaseDate" : 736992000,
+    "title" : "Folge 227: Melodie der Rache",
+    "upc" : "196872211429"
+  },
+  {
+    "albumID" : "1752449751",
+    "artist" : "Die drei ???",
+    "duration" : 5089.884,
+    "releaseDate" : 732758400,
+    "title" : "Folge 226: Die Spur der Toten",
+    "upc" : "196872211412"
+  },
+  {
+    "albumID" : "1752450507",
+    "artist" : "Die drei ???",
+    "duration" : 10832.049,
+    "releaseDate" : 727920000,
+    "title" : "Folge 225: und der Puppenmacher",
+    "upc" : "196872211399"
+  },
+  {
+    "albumID" : "1752449423",
+    "artist" : "Die drei ???",
+    "duration" : 4524.293,
+    "releaseDate" : 722476800,
+    "title" : "Folge 224: Die Yacht des Verrats",
+    "upc" : "196872211306"
+  },
+  {
+    "albumID" : "1752450018",
+    "artist" : "Die drei ???",
+    "duration" : 12373.816000000004,
+    "releaseDate" : 720662400,
+    "title" : "Adventskalender - Böser die Glocken nie klingen",
+    "upc" : "196872215175"
+  },
+  {
+    "albumID" : "1752449378",
+    "artist" : "Die drei ???",
+    "duration" : 4950.201000000002,
+    "releaseDate" : 712195200,
+    "title" : "Folge 223: und der Knochenmann",
+    "upc" : "196872196573"
+  },
+  {
+    "albumID" : "1695104461",
+    "artist" : "Die drei ???",
+    "duration" : 4058.6670000000004,
+    "releaseDate" : 699494400,
+    "title" : "Folge 221: Manuskript des Satans",
+    "upc" : "196871058056"
+  },
+  {
+    "albumID" : "1683339747",
+    "artist" : "Die drei ???",
+    "duration" : 5954.112000000002,
+    "releaseDate" : 696470400,
+    "title" : "Erbe des Drachen  (Das Original-Hörspiel zum Kinofilm)",
+    "upc" : "196871061575"
+  },
+  {
+    "albumID" : "1764904056",
+    "artist" : "Die drei ???",
+    "duration" : 44.267,
+    "releaseDate" : 752716800,
+    "title" : "Folge 230: Der Tag der Toten",
+    "upc" : "196872212150"
+  },
+  {
+    "albumID" : "1753904987",
+    "artist" : "Die drei ???",
+    "duration" : 4882.757999999999,
+    "releaseDate" : 747273600,
+    "title" : "Folge 229: Drehbuch der Täuschung",
+    "upc" : "196872211771"
+  },
+  {
+    "albumID" : "1752449669",
+    "artist" : "Die drei ???",
+    "duration" : 3994.076,
+    "releaseDate" : 736992000,
+    "title" : "Folge 227: Melodie der Rache",
+    "upc" : "196872211429"
+  },
+  {
+    "albumID" : "1752449751",
+    "artist" : "Die drei ???",
+    "duration" : 5089.884,
+    "releaseDate" : 732758400,
+    "title" : "Folge 226: Die Spur der Toten",
+    "upc" : "196872211412"
+  },
+  {
+    "albumID" : "1752450507",
+    "artist" : "Die drei ???",
+    "duration" : 10832.049,
+    "releaseDate" : 727920000,
+    "title" : "Folge 225: und der Puppenmacher",
+    "upc" : "196872211399"
+  },
+  {
+    "albumID" : "1752449423",
+    "artist" : "Die drei ???",
+    "duration" : 4524.293,
+    "releaseDate" : 722476800,
+    "title" : "Folge 224: Die Yacht des Verrats",
+    "upc" : "196872211306"
+  },
+  {
+    "albumID" : "1752450018",
+    "artist" : "Die drei ???",
+    "duration" : 12373.816000000004,
+    "releaseDate" : 720662400,
+    "title" : "Adventskalender - Böser die Glocken nie klingen",
+    "upc" : "196872215175"
+  },
+  {
+    "albumID" : "1752449378",
+    "artist" : "Die drei ???",
+    "duration" : 4950.201000000002,
+    "releaseDate" : 712195200,
+    "title" : "Folge 223: und der Knochenmann",
+    "upc" : "196872196573"
+  },
+  {
+    "albumID" : "1695104461",
+    "artist" : "Die drei ???",
+    "duration" : 4058.6670000000004,
+    "releaseDate" : 699494400,
+    "title" : "Folge 221: Manuskript des Satans",
+    "upc" : "196871058056"
+  },
+  {
+    "albumID" : "1683339747",
+    "artist" : "Die drei ???",
+    "duration" : 5954.112000000002,
+    "releaseDate" : 696470400,
+    "title" : "Erbe des Drachen  (Das Original-Hörspiel zum Kinofilm)",
+    "upc" : "196871061575"
+  },
+  {
+    "albumID" : "1764904056",
+    "artist" : "Die drei ???",
+    "duration" : 44.267,
+    "releaseDate" : 752716800,
+    "title" : "Folge 230: Der Tag der Toten",
+    "upc" : "196872212150"
+  },
+  {
+    "albumID" : "1753904987",
+    "artist" : "Die drei ???",
+    "duration" : 4882.757999999999,
+    "releaseDate" : 747273600,
+    "title" : "Folge 229: Drehbuch der Täuschung",
+    "upc" : "196872211771"
+  },
+  {
+    "albumID" : "1752449669",
+    "artist" : "Die drei ???",
+    "duration" : 3994.076,
+    "releaseDate" : 736992000,
+    "title" : "Folge 227: Melodie der Rache",
+    "upc" : "196872211429"
+  },
+  {
+    "albumID" : "1752449751",
+    "artist" : "Die drei ???",
+    "duration" : 5089.884,
+    "releaseDate" : 732758400,
+    "title" : "Folge 226: Die Spur der Toten",
+    "upc" : "196872211412"
+  },
+  {
+    "albumID" : "1752450507",
+    "artist" : "Die drei ???",
+    "duration" : 10832.049,
+    "releaseDate" : 727920000,
+    "title" : "Folge 225: und der Puppenmacher",
+    "upc" : "196872211399"
+  },
+  {
+    "albumID" : "1752449423",
+    "artist" : "Die drei ???",
+    "duration" : 4524.293,
+    "releaseDate" : 722476800,
+    "title" : "Folge 224: Die Yacht des Verrats",
+    "upc" : "196872211306"
+  },
+  {
+    "albumID" : "1752450018",
+    "artist" : "Die drei ???",
+    "duration" : 12373.816000000004,
+    "releaseDate" : 720662400,
+    "title" : "Adventskalender - Böser die Glocken nie klingen",
+    "upc" : "196872215175"
+  },
+  {
+    "albumID" : "1752449378",
+    "artist" : "Die drei ???",
+    "duration" : 4950.201000000002,
+    "releaseDate" : 712195200,
+    "title" : "Folge 223: und der Knochenmann",
+    "upc" : "196872196573"
+  },
+  {
+    "albumID" : "1695104461",
+    "artist" : "Die drei ???",
+    "duration" : 4058.6670000000004,
+    "releaseDate" : 699494400,
+    "title" : "Folge 221: Manuskript des Satans",
+    "upc" : "196871058056"
+  },
+  {
+    "albumID" : "1683339747",
+    "artist" : "Die drei ???",
+    "duration" : 5954.112000000002,
+    "releaseDate" : 696470400,
+    "title" : "Erbe des Drachen  (Das Original-Hörspiel zum Kinofilm)",
+    "upc" : "196871061575"
+  },
+  {
+    "albumID" : "1764904056",
+    "artist" : "Die drei ???",
+    "duration" : 44.267,
+    "releaseDate" : 752716800,
+    "title" : "Folge 230: Der Tag der Toten",
+    "upc" : "196872212150"
+  },
+  {
+    "albumID" : "1753904987",
+    "artist" : "Die drei ???",
+    "duration" : 4882.757999999999,
+    "releaseDate" : 747273600,
+    "title" : "Folge 229: Drehbuch der Täuschung",
+    "upc" : "196872211771"
+  },
+  {
+    "albumID" : "1752449669",
+    "artist" : "Die drei ???",
+    "duration" : 3994.076,
+    "releaseDate" : 736992000,
+    "title" : "Folge 227: Melodie der Rache",
+    "upc" : "196872211429"
+  },
+  {
+    "albumID" : "1752449751",
+    "artist" : "Die drei ???",
+    "duration" : 5089.884,
+    "releaseDate" : 732758400,
+    "title" : "Folge 226: Die Spur der Toten",
+    "upc" : "196872211412"
+  },
+  {
+    "albumID" : "1752450507",
+    "artist" : "Die drei ???",
+    "duration" : 10832.049,
+    "releaseDate" : 727920000,
+    "title" : "Folge 225: und der Puppenmacher",
+    "upc" : "196872211399"
+  },
+  {
+    "albumID" : "1752449423",
+    "artist" : "Die drei ???",
+    "duration" : 4524.293,
+    "releaseDate" : 722476800,
+    "title" : "Folge 224: Die Yacht des Verrats",
+    "upc" : "196872211306"
+  },
+  {
+    "albumID" : "1752450018",
+    "artist" : "Die drei ???",
+    "duration" : 12373.816000000004,
+    "releaseDate" : 720662400,
+    "title" : "Adventskalender - Böser die Glocken nie klingen",
+    "upc" : "196872215175"
+  },
+  {
+    "albumID" : "1752449378",
+    "artist" : "Die drei ???",
+    "duration" : 4950.201000000002,
+    "releaseDate" : 712195200,
+    "title" : "Folge 223: und der Knochenmann",
+    "upc" : "196872196573"
+  },
+  {
+    "albumID" : "1695104461",
+    "artist" : "Die drei ???",
+    "duration" : 4058.6670000000004,
+    "releaseDate" : 699494400,
+    "title" : "Folge 221: Manuskript des Satans",
+    "upc" : "196871058056"
+  },
+  {
+    "albumID" : "1683339747",
+    "artist" : "Die drei ???",
+    "duration" : 5954.112000000002,
+    "releaseDate" : 696470400,
+    "title" : "Erbe des Drachen  (Das Original-Hörspiel zum Kinofilm)",
+    "upc" : "196871061575"
+  },
+  {
+    "albumID" : "1764904056",
+    "artist" : "Die drei ???",
+    "duration" : 44.267,
+    "releaseDate" : 752716800,
+    "title" : "Folge 230: Der Tag der Toten",
+    "upc" : "196872212150"
+  },
+  {
+    "albumID" : "1753904987",
+    "artist" : "Die drei ???",
+    "duration" : 4882.757999999999,
+    "releaseDate" : 747273600,
+    "title" : "Folge 229: Drehbuch der Täuschung",
+    "upc" : "196872211771"
+  },
+  {
+    "albumID" : "1752449669",
+    "artist" : "Die drei ???",
+    "duration" : 3994.076,
+    "releaseDate" : 736992000,
+    "title" : "Folge 227: Melodie der Rache",
+    "upc" : "196872211429"
+  },
+  {
+    "albumID" : "1752449751",
+    "artist" : "Die drei ???",
+    "duration" : 5089.884,
+    "releaseDate" : 732758400,
+    "title" : "Folge 226: Die Spur der Toten",
+    "upc" : "196872211412"
+  },
+  {
+    "albumID" : "1752450507",
+    "artist" : "Die drei ???",
+    "duration" : 10832.049,
+    "releaseDate" : 727920000,
+    "title" : "Folge 225: und der Puppenmacher",
+    "upc" : "196872211399"
+  },
+  {
+    "albumID" : "1752449423",
+    "artist" : "Die drei ???",
+    "duration" : 4524.293,
+    "releaseDate" : 722476800,
+    "title" : "Folge 224: Die Yacht des Verrats",
+    "upc" : "196872211306"
+  },
+  {
+    "albumID" : "1752450018",
+    "artist" : "Die drei ???",
+    "duration" : 12373.816000000004,
+    "releaseDate" : 720662400,
+    "title" : "Adventskalender - Böser die Glocken nie klingen",
+    "upc" : "196872215175"
+  },
+  {
+    "albumID" : "1752449378",
+    "artist" : "Die drei ???",
+    "duration" : 4950.201000000002,
+    "releaseDate" : 712195200,
+    "title" : "Folge 223: und der Knochenmann",
+    "upc" : "196872196573"
+  },
+  {
+    "albumID" : "1695104461",
+    "artist" : "Die drei ???",
+    "duration" : 4058.6670000000004,
+    "releaseDate" : 699494400,
+    "title" : "Folge 221: Manuskript des Satans",
+    "upc" : "196871058056"
+  },
+  {
+    "albumID" : "1683339747",
+    "artist" : "Die drei ???",
+    "duration" : 5954.112000000002,
+    "releaseDate" : 696470400,
+    "title" : "Erbe des Drachen  (Das Original-Hörspiel zum Kinofilm)",
+    "upc" : "196871061575"
+  },
+  {
+    "albumID" : "1764904056",
+    "artist" : "Die drei ???",
+    "duration" : 44.267,
+    "releaseDate" : 752716800,
+    "title" : "Folge 230: Der Tag der Toten",
+    "upc" : "196872212150"
+  },
+  {
+    "albumID" : "1753904987",
+    "artist" : "Die drei ???",
+    "duration" : 4882.757999999999,
+    "releaseDate" : 747273600,
+    "title" : "Folge 229: Drehbuch der Täuschung",
+    "upc" : "196872211771"
+  },
+  {
+    "albumID" : "1752449669",
+    "artist" : "Die drei ???",
+    "duration" : 3994.076,
+    "releaseDate" : 736992000,
+    "title" : "Folge 227: Melodie der Rache",
+    "upc" : "196872211429"
+  },
+  {
+    "albumID" : "1752449751",
+    "artist" : "Die drei ???",
+    "duration" : 5089.884,
+    "releaseDate" : 732758400,
+    "title" : "Folge 226: Die Spur der Toten",
+    "upc" : "196872211412"
+  },
+  {
+    "albumID" : "1752450507",
+    "artist" : "Die drei ???",
+    "duration" : 10832.049,
+    "releaseDate" : 727920000,
+    "title" : "Folge 225: und der Puppenmacher",
+    "upc" : "196872211399"
+  },
+  {
+    "albumID" : "1752449423",
+    "artist" : "Die drei ???",
+    "duration" : 4524.293,
+    "releaseDate" : 722476800,
+    "title" : "Folge 224: Die Yacht des Verrats",
+    "upc" : "196872211306"
+  },
+  {
+    "albumID" : "1752450018",
+    "artist" : "Die drei ???",
+    "duration" : 12373.816000000004,
+    "releaseDate" : 720662400,
+    "title" : "Adventskalender - Böser die Glocken nie klingen",
+    "upc" : "196872215175"
+  },
+  {
+    "albumID" : "1752449378",
+    "artist" : "Die drei ???",
+    "duration" : 4950.201000000002,
+    "releaseDate" : 712195200,
+    "title" : "Folge 223: und der Knochenmann",
+    "upc" : "196872196573"
+  },
+  {
+    "albumID" : "1695104461",
+    "artist" : "Die drei ???",
+    "duration" : 4058.6670000000004,
+    "releaseDate" : 699494400,
+    "title" : "Folge 221: Manuskript des Satans",
+    "upc" : "196871058056"
+  },
+  {
+    "albumID" : "1683339747",
+    "artist" : "Die drei ???",
+    "duration" : 5954.112000000002,
+    "releaseDate" : 696470400,
+    "title" : "Erbe des Drachen  (Das Original-Hörspiel zum Kinofilm)",
+    "upc" : "196871061575"
+  },
+  {
+    "albumID" : "1764904056",
+    "artist" : "Die drei ???",
+    "duration" : 44.267,
+    "releaseDate" : 752716800,
+    "title" : "Folge 230: Der Tag der Toten",
+    "upc" : "196872212150"
+  },
+  {
+    "albumID" : "1753904987",
+    "artist" : "Die drei ???",
+    "duration" : 4882.757999999999,
+    "releaseDate" : 747273600,
+    "title" : "Folge 229: Drehbuch der Täuschung",
+    "upc" : "196872211771"
+  },
+  {
+    "albumID" : "1752449669",
+    "artist" : "Die drei ???",
+    "duration" : 3994.076,
+    "releaseDate" : 736992000,
+    "title" : "Folge 227: Melodie der Rache",
+    "upc" : "196872211429"
+  },
+  {
+    "albumID" : "1752449751",
+    "artist" : "Die drei ???",
+    "duration" : 5089.884,
+    "releaseDate" : 732758400,
+    "title" : "Folge 226: Die Spur der Toten",
+    "upc" : "196872211412"
+  },
+  {
+    "albumID" : "1752450507",
+    "artist" : "Die drei ???",
+    "duration" : 10832.049,
+    "releaseDate" : 727920000,
+    "title" : "Folge 225: und der Puppenmacher",
+    "upc" : "196872211399"
+  },
+  {
+    "albumID" : "1752449423",
+    "artist" : "Die drei ???",
+    "duration" : 4524.293,
+    "releaseDate" : 722476800,
+    "title" : "Folge 224: Die Yacht des Verrats",
+    "upc" : "196872211306"
+  },
+  {
+    "albumID" : "1752450018",
+    "artist" : "Die drei ???",
+    "duration" : 12373.816000000004,
+    "releaseDate" : 720662400,
+    "title" : "Adventskalender - Böser die Glocken nie klingen",
+    "upc" : "196872215175"
+  },
+  {
+    "albumID" : "1752449378",
+    "artist" : "Die drei ???",
+    "duration" : 4950.201000000002,
+    "releaseDate" : 712195200,
+    "title" : "Folge 223: und der Knochenmann",
+    "upc" : "196872196573"
+  },
+  {
+    "albumID" : "1695104461",
+    "artist" : "Die drei ???",
+    "duration" : 4058.6670000000004,
+    "releaseDate" : 699494400,
+    "title" : "Folge 221: Manuskript des Satans",
+    "upc" : "196871058056"
+  },
+  {
+    "albumID" : "1683339747",
+    "artist" : "Die drei ???",
+    "duration" : 5954.112000000002,
+    "releaseDate" : 696470400,
+    "title" : "Erbe des Drachen  (Das Original-Hörspiel zum Kinofilm)",
+    "upc" : "196871061575"
+  },
+  {
+    "albumID" : "1764904056",
+    "artist" : "Die drei ???",
+    "duration" : 44.267,
+    "releaseDate" : 752716800,
+    "title" : "Folge 230: Der Tag der Toten",
+    "upc" : "196872212150"
+  },
+  {
+    "albumID" : "1753904987",
+    "artist" : "Die drei ???",
+    "duration" : 4882.757999999999,
+    "releaseDate" : 747273600,
+    "title" : "Folge 229: Drehbuch der Täuschung",
+    "upc" : "196872211771"
+  },
+  {
+    "albumID" : "1752449669",
+    "artist" : "Die drei ???",
+    "duration" : 3994.076,
+    "releaseDate" : 736992000,
+    "title" : "Folge 227: Melodie der Rache",
+    "upc" : "196872211429"
+  },
+  {
+    "albumID" : "1752449751",
+    "artist" : "Die drei ???",
+    "duration" : 5089.884,
+    "releaseDate" : 732758400,
+    "title" : "Folge 226: Die Spur der Toten",
+    "upc" : "196872211412"
+  },
+  {
+    "albumID" : "1752450507",
+    "artist" : "Die drei ???",
+    "duration" : 10832.049,
+    "releaseDate" : 727920000,
+    "title" : "Folge 225: und der Puppenmacher",
+    "upc" : "196872211399"
+  },
+  {
+    "albumID" : "1752449423",
+    "artist" : "Die drei ???",
+    "duration" : 4524.293,
+    "releaseDate" : 722476800,
+    "title" : "Folge 224: Die Yacht des Verrats",
+    "upc" : "196872211306"
+  },
+  {
+    "albumID" : "1752450018",
+    "artist" : "Die drei ???",
+    "duration" : 12373.816000000004,
+    "releaseDate" : 720662400,
+    "title" : "Adventskalender - Böser die Glocken nie klingen",
+    "upc" : "196872215175"
+  },
+  {
+    "albumID" : "1752449378",
+    "artist" : "Die drei ???",
+    "duration" : 4950.201000000002,
+    "releaseDate" : 712195200,
+    "title" : "Folge 223: und der Knochenmann",
+    "upc" : "196872196573"
+  },
+  {
+    "albumID" : "1695104461",
+    "artist" : "Die drei ???",
+    "duration" : 4058.6670000000004,
+    "releaseDate" : 699494400,
+    "title" : "Folge 221: Manuskript des Satans",
+    "upc" : "196871058056"
+  },
+  {
+    "albumID" : "1683339747",
+    "artist" : "Die drei ???",
+    "duration" : 5954.112000000002,
+    "releaseDate" : 696470400,
+    "title" : "Erbe des Drachen  (Das Original-Hörspiel zum Kinofilm)",
+    "upc" : "196871061575"
+  },
+  {
+    "albumID" : "1764904056",
+    "artist" : "Die drei ???",
+    "duration" : 44.267,
+    "releaseDate" : 752716800,
+    "title" : "Folge 230: Der Tag der Toten",
+    "upc" : "196872212150"
+  },
+  {
+    "albumID" : "1753904987",
+    "artist" : "Die drei ???",
+    "duration" : 4882.757999999999,
+    "releaseDate" : 747273600,
+    "title" : "Folge 229: Drehbuch der Täuschung",
+    "upc" : "196872211771"
+  },
+  {
+    "albumID" : "1752449669",
+    "artist" : "Die drei ???",
+    "duration" : 3994.076,
+    "releaseDate" : 736992000,
+    "title" : "Folge 227: Melodie der Rache",
+    "upc" : "196872211429"
+  },
+  {
+    "albumID" : "1752449751",
+    "artist" : "Die drei ???",
+    "duration" : 5089.884,
+    "releaseDate" : 732758400,
+    "title" : "Folge 226: Die Spur der Toten",
+    "upc" : "196872211412"
+  },
+  {
+    "albumID" : "1752450507",
+    "artist" : "Die drei ???",
+    "duration" : 10832.049,
+    "releaseDate" : 727920000,
+    "title" : "Folge 225: und der Puppenmacher",
+    "upc" : "196872211399"
+  },
+  {
+    "albumID" : "1752449423",
+    "artist" : "Die drei ???",
+    "duration" : 4524.293,
+    "releaseDate" : 722476800,
+    "title" : "Folge 224: Die Yacht des Verrats",
+    "upc" : "196872211306"
+  },
+  {
+    "albumID" : "1752450018",
+    "artist" : "Die drei ???",
+    "duration" : 12373.816000000004,
+    "releaseDate" : 720662400,
+    "title" : "Adventskalender - Böser die Glocken nie klingen",
+    "upc" : "196872215175"
+  },
+  {
+    "albumID" : "1752449378",
+    "artist" : "Die drei ???",
+    "duration" : 4950.201000000002,
+    "releaseDate" : 712195200,
+    "title" : "Folge 223: und der Knochenmann",
+    "upc" : "196872196573"
+  },
+  {
+    "albumID" : "1695104461",
+    "artist" : "Die drei ???",
+    "duration" : 4058.6670000000004,
+    "releaseDate" : 699494400,
+    "title" : "Folge 221: Manuskript des Satans",
+    "upc" : "196871058056"
+  },
+  {
+    "albumID" : "1683339747",
+    "artist" : "Die drei ???",
+    "duration" : 5954.112000000002,
+    "releaseDate" : 696470400,
+    "title" : "Erbe des Drachen  (Das Original-Hörspiel zum Kinofilm)",
+    "upc" : "196871061575"
+  },
+  {
+    "albumID" : "1764904056",
+    "artist" : "Die drei ???",
+    "duration" : 44.267,
+    "releaseDate" : 752716800,
+    "title" : "Folge 230: Der Tag der Toten",
+    "upc" : "196872212150"
+  },
+  {
+    "albumID" : "1753904987",
+    "artist" : "Die drei ???",
+    "duration" : 4882.757999999999,
+    "releaseDate" : 747273600,
+    "title" : "Folge 229: Drehbuch der Täuschung",
+    "upc" : "196872211771"
+  },
+  {
+    "albumID" : "1752449669",
+    "artist" : "Die drei ???",
+    "duration" : 3994.076,
+    "releaseDate" : 736992000,
+    "title" : "Folge 227: Melodie der Rache",
+    "upc" : "196872211429"
+  },
+  {
+    "albumID" : "1752449751",
+    "artist" : "Die drei ???",
+    "duration" : 5089.884,
+    "releaseDate" : 732758400,
+    "title" : "Folge 226: Die Spur der Toten",
+    "upc" : "196872211412"
+  },
+  {
+    "albumID" : "1752450507",
+    "artist" : "Die drei ???",
+    "duration" : 10832.049,
+    "releaseDate" : 727920000,
+    "title" : "Folge 225: und der Puppenmacher",
+    "upc" : "196872211399"
+  },
+  {
+    "albumID" : "1752449423",
+    "artist" : "Die drei ???",
+    "duration" : 4524.293,
+    "releaseDate" : 722476800,
+    "title" : "Folge 224: Die Yacht des Verrats",
+    "upc" : "196872211306"
+  },
+  {
+    "albumID" : "1752450018",
+    "artist" : "Die drei ???",
+    "duration" : 12373.816000000004,
+    "releaseDate" : 720662400,
+    "title" : "Adventskalender - Böser die Glocken nie klingen",
+    "upc" : "196872215175"
+  },
+  {
+    "albumID" : "1752449378",
+    "artist" : "Die drei ???",
+    "duration" : 4950.201000000002,
+    "releaseDate" : 712195200,
+    "title" : "Folge 223: und der Knochenmann",
+    "upc" : "196872196573"
+  },
+  {
+    "albumID" : "1695104461",
+    "artist" : "Die drei ???",
+    "duration" : 4058.6670000000004,
+    "releaseDate" : 699494400,
+    "title" : "Folge 221: Manuskript des Satans",
+    "upc" : "196871058056"
+  },
+  {
+    "albumID" : "1683339747",
+    "artist" : "Die drei ???",
+    "duration" : 5954.112000000002,
+    "releaseDate" : 696470400,
+    "title" : "Erbe des Drachen  (Das Original-Hörspiel zum Kinofilm)",
+    "upc" : "196871061575"
+  },
+  {
+    "albumID" : "1764904056",
+    "artist" : "Die drei ???",
+    "duration" : 44.267,
+    "releaseDate" : 752716800,
+    "title" : "Folge 230: Der Tag der Toten",
+    "upc" : "196872212150"
+  },
+  {
+    "albumID" : "1753904987",
+    "artist" : "Die drei ???",
+    "duration" : 4882.757999999999,
+    "releaseDate" : 747273600,
+    "title" : "Folge 229: Drehbuch der Täuschung",
+    "upc" : "196872211771"
+  },
+  {
+    "albumID" : "1752449669",
+    "artist" : "Die drei ???",
+    "duration" : 3994.076,
+    "releaseDate" : 736992000,
+    "title" : "Folge 227: Melodie der Rache",
+    "upc" : "196872211429"
+  },
+  {
+    "albumID" : "1752449751",
+    "artist" : "Die drei ???",
+    "duration" : 5089.884,
+    "releaseDate" : 732758400,
+    "title" : "Folge 226: Die Spur der Toten",
+    "upc" : "196872211412"
+  },
+  {
+    "albumID" : "1752450507",
+    "artist" : "Die drei ???",
+    "duration" : 10832.049,
+    "releaseDate" : 727920000,
+    "title" : "Folge 225: und der Puppenmacher",
+    "upc" : "196872211399"
+  },
+  {
+    "albumID" : "1752449423",
+    "artist" : "Die drei ???",
+    "duration" : 4524.293,
+    "releaseDate" : 722476800,
+    "title" : "Folge 224: Die Yacht des Verrats",
+    "upc" : "196872211306"
+  },
+  {
+    "albumID" : "1752450018",
+    "artist" : "Die drei ???",
+    "duration" : 12373.816000000004,
+    "releaseDate" : 720662400,
+    "title" : "Adventskalender - Böser die Glocken nie klingen",
+    "upc" : "196872215175"
+  },
+  {
+    "albumID" : "1752449378",
+    "artist" : "Die drei ???",
+    "duration" : 4950.201000000002,
+    "releaseDate" : 712195200,
+    "title" : "Folge 223: und der Knochenmann",
+    "upc" : "196872196573"
+  },
+  {
+    "albumID" : "1695104461",
+    "artist" : "Die drei ???",
+    "duration" : 4058.6670000000004,
+    "releaseDate" : 699494400,
+    "title" : "Folge 221: Manuskript des Satans",
+    "upc" : "196871058056"
+  },
+  {
+    "albumID" : "1683339747",
+    "artist" : "Die drei ???",
+    "duration" : 5954.112000000002,
+    "releaseDate" : 696470400,
+    "title" : "Erbe des Drachen  (Das Original-Hörspiel zum Kinofilm)",
+    "upc" : "196871061575"
+  },
+  {
+    "albumID" : "1764904056",
+    "artist" : "Die drei ???",
+    "duration" : 44.267,
+    "releaseDate" : 752716800,
+    "title" : "Folge 230: Der Tag der Toten",
+    "upc" : "196872212150"
+  },
+  {
+    "albumID" : "1753904987",
+    "artist" : "Die drei ???",
+    "duration" : 4882.757999999999,
+    "releaseDate" : 747273600,
+    "title" : "Folge 229: Drehbuch der Täuschung",
+    "upc" : "196872211771"
+  },
+  {
+    "albumID" : "1752449669",
+    "artist" : "Die drei ???",
+    "duration" : 3994.076,
+    "releaseDate" : 736992000,
+    "title" : "Folge 227: Melodie der Rache",
+    "upc" : "196872211429"
+  },
+  {
+    "albumID" : "1752449751",
+    "artist" : "Die drei ???",
+    "duration" : 5089.884,
+    "releaseDate" : 732758400,
+    "title" : "Folge 226: Die Spur der Toten",
+    "upc" : "196872211412"
+  },
+  {
+    "albumID" : "1752450507",
+    "artist" : "Die drei ???",
+    "duration" : 10832.049,
+    "releaseDate" : 727920000,
+    "title" : "Folge 225: und der Puppenmacher",
+    "upc" : "196872211399"
+  },
+  {
+    "albumID" : "1752449423",
+    "artist" : "Die drei ???",
+    "duration" : 4524.293,
+    "releaseDate" : 722476800,
+    "title" : "Folge 224: Die Yacht des Verrats",
+    "upc" : "196872211306"
+  },
+  {
+    "albumID" : "1752450018",
+    "artist" : "Die drei ???",
+    "duration" : 12373.816000000004,
+    "releaseDate" : 720662400,
+    "title" : "Adventskalender - Böser die Glocken nie klingen",
+    "upc" : "196872215175"
+  },
+  {
+    "albumID" : "1752449378",
+    "artist" : "Die drei ???",
+    "duration" : 4950.201000000002,
+    "releaseDate" : 712195200,
+    "title" : "Folge 223: und der Knochenmann",
+    "upc" : "196872196573"
+  },
+  {
+    "albumID" : "1695104461",
+    "artist" : "Die drei ???",
+    "duration" : 4058.6670000000004,
+    "releaseDate" : 699494400,
+    "title" : "Folge 221: Manuskript des Satans",
+    "upc" : "196871058056"
+  },
+  {
+    "albumID" : "1683339747",
+    "artist" : "Die drei ???",
+    "duration" : 5954.112000000002,
+    "releaseDate" : 696470400,
+    "title" : "Erbe des Drachen  (Das Original-Hörspiel zum Kinofilm)",
+    "upc" : "196871061575"
+  },
+  {
+    "albumID" : "1764904056",
+    "artist" : "Die drei ???",
+    "duration" : 44.267,
+    "releaseDate" : 752716800,
+    "title" : "Folge 230: Der Tag der Toten",
+    "upc" : "196872212150"
+  },
+  {
+    "albumID" : "1753904987",
+    "artist" : "Die drei ???",
+    "duration" : 4882.757999999999,
+    "releaseDate" : 747273600,
+    "title" : "Folge 229: Drehbuch der Täuschung",
+    "upc" : "196872211771"
+  },
+  {
+    "albumID" : "1752449669",
+    "artist" : "Die drei ???",
+    "duration" : 3994.076,
+    "releaseDate" : 736992000,
+    "title" : "Folge 227: Melodie der Rache",
+    "upc" : "196872211429"
+  },
+  {
+    "albumID" : "1752449751",
+    "artist" : "Die drei ???",
+    "duration" : 5089.884,
+    "releaseDate" : 732758400,
+    "title" : "Folge 226: Die Spur der Toten",
+    "upc" : "196872211412"
+  },
+  {
+    "albumID" : "1752450507",
+    "artist" : "Die drei ???",
+    "duration" : 10832.049,
+    "releaseDate" : 727920000,
+    "title" : "Folge 225: und der Puppenmacher",
+    "upc" : "196872211399"
+  },
+  {
+    "albumID" : "1752449423",
+    "artist" : "Die drei ???",
+    "duration" : 4524.293,
+    "releaseDate" : 722476800,
+    "title" : "Folge 224: Die Yacht des Verrats",
+    "upc" : "196872211306"
+  },
+  {
+    "albumID" : "1752450018",
+    "artist" : "Die drei ???",
+    "duration" : 12373.816000000004,
+    "releaseDate" : 720662400,
+    "title" : "Adventskalender - Böser die Glocken nie klingen",
+    "upc" : "196872215175"
+  },
+  {
+    "albumID" : "1752449378",
+    "artist" : "Die drei ???",
+    "duration" : 4950.201000000002,
+    "releaseDate" : 712195200,
+    "title" : "Folge 223: und der Knochenmann",
+    "upc" : "196872196573"
+  },
+  {
+    "albumID" : "1695104461",
+    "artist" : "Die drei ???",
+    "duration" : 4058.6670000000004,
+    "releaseDate" : 699494400,
+    "title" : "Folge 221: Manuskript des Satans",
+    "upc" : "196871058056"
+  },
+  {
+    "albumID" : "1683339747",
+    "artist" : "Die drei ???",
+    "duration" : 5954.112000000002,
+    "releaseDate" : 696470400,
+    "title" : "Erbe des Drachen  (Das Original-Hörspiel zum Kinofilm)",
+    "upc" : "196871061575"
+  },
+  {
+    "albumID" : "1764904056",
+    "artist" : "Die drei ???",
+    "duration" : 44.267,
+    "releaseDate" : 752716800,
+    "title" : "Folge 230: Der Tag der Toten",
+    "upc" : "196872212150"
+  },
+  {
+    "albumID" : "1753904987",
+    "artist" : "Die drei ???",
+    "duration" : 4882.757999999999,
+    "releaseDate" : 747273600,
+    "title" : "Folge 229: Drehbuch der Täuschung",
+    "upc" : "196872211771"
+  },
+  {
+    "albumID" : "1752449669",
+    "artist" : "Die drei ???",
+    "duration" : 3994.076,
+    "releaseDate" : 736992000,
+    "title" : "Folge 227: Melodie der Rache",
+    "upc" : "196872211429"
+  },
+  {
+    "albumID" : "1752449751",
+    "artist" : "Die drei ???",
+    "duration" : 5089.884,
+    "releaseDate" : 732758400,
+    "title" : "Folge 226: Die Spur der Toten",
+    "upc" : "196872211412"
+  },
+  {
+    "albumID" : "1752450507",
+    "artist" : "Die drei ???",
+    "duration" : 10832.049,
+    "releaseDate" : 727920000,
+    "title" : "Folge 225: und der Puppenmacher",
+    "upc" : "196872211399"
+  },
+  {
+    "albumID" : "1752449423",
+    "artist" : "Die drei ???",
+    "duration" : 4524.293,
+    "releaseDate" : 722476800,
+    "title" : "Folge 224: Die Yacht des Verrats",
+    "upc" : "196872211306"
+  },
+  {
+    "albumID" : "1752450018",
+    "artist" : "Die drei ???",
+    "duration" : 12373.816000000004,
+    "releaseDate" : 720662400,
+    "title" : "Adventskalender - Böser die Glocken nie klingen",
+    "upc" : "196872215175"
+  },
+  {
+    "albumID" : "1752449378",
+    "artist" : "Die drei ???",
+    "duration" : 4950.201000000002,
+    "releaseDate" : 712195200,
+    "title" : "Folge 223: und der Knochenmann",
+    "upc" : "196872196573"
+  },
+  {
+    "albumID" : "1695104461",
+    "artist" : "Die drei ???",
+    "duration" : 4058.6670000000004,
+    "releaseDate" : 699494400,
+    "title" : "Folge 221: Manuskript des Satans",
+    "upc" : "196871058056"
+  },
+  {
+    "albumID" : "1683339747",
+    "artist" : "Die drei ???",
+    "duration" : 5954.112000000002,
+    "releaseDate" : 696470400,
+    "title" : "Erbe des Drachen  (Das Original-Hörspiel zum Kinofilm)",
+    "upc" : "196871061575"
+  },
+  {
+    "albumID" : "1764904056",
+    "artist" : "Die drei ???",
+    "duration" : 44.267,
+    "releaseDate" : 752716800,
+    "title" : "Folge 230: Der Tag der Toten",
+    "upc" : "196872212150"
+  },
+  {
+    "albumID" : "1753904987",
+    "artist" : "Die drei ???",
+    "duration" : 4882.757999999999,
+    "releaseDate" : 747273600,
+    "title" : "Folge 229: Drehbuch der Täuschung",
+    "upc" : "196872211771"
+  },
+  {
+    "albumID" : "1752449669",
+    "artist" : "Die drei ???",
+    "duration" : 3994.076,
+    "releaseDate" : 736992000,
+    "title" : "Folge 227: Melodie der Rache",
+    "upc" : "196872211429"
+  },
+  {
+    "albumID" : "1752449751",
+    "artist" : "Die drei ???",
+    "duration" : 5089.884,
+    "releaseDate" : 732758400,
+    "title" : "Folge 226: Die Spur der Toten",
+    "upc" : "196872211412"
+  },
+  {
+    "albumID" : "1752450507",
+    "artist" : "Die drei ???",
+    "duration" : 10832.049,
+    "releaseDate" : 727920000,
+    "title" : "Folge 225: und der Puppenmacher",
+    "upc" : "196872211399"
+  },
+  {
+    "albumID" : "1752449423",
+    "artist" : "Die drei ???",
+    "duration" : 4524.293,
+    "releaseDate" : 722476800,
+    "title" : "Folge 224: Die Yacht des Verrats",
+    "upc" : "196872211306"
+  },
+  {
+    "albumID" : "1752450018",
+    "artist" : "Die drei ???",
+    "duration" : 12373.816000000004,
+    "releaseDate" : 720662400,
+    "title" : "Adventskalender - Böser die Glocken nie klingen",
+    "upc" : "196872215175"
+  },
+  {
+    "albumID" : "1752449378",
+    "artist" : "Die drei ???",
+    "duration" : 4950.201000000002,
+    "releaseDate" : 712195200,
+    "title" : "Folge 223: und der Knochenmann",
+    "upc" : "196872196573"
+  },
+  {
+    "albumID" : "1695104461",
+    "artist" : "Die drei ???",
+    "duration" : 4058.6670000000004,
+    "releaseDate" : 699494400,
+    "title" : "Folge 221: Manuskript des Satans",
+    "upc" : "196871058056"
+  },
+  {
+    "albumID" : "1683339747",
+    "artist" : "Die drei ???",
+    "duration" : 5954.112000000002,
+    "releaseDate" : 696470400,
+    "title" : "Erbe des Drachen  (Das Original-Hörspiel zum Kinofilm)",
+    "upc" : "196871061575"
+  },
+  {
+    "albumID" : "1764904056",
+    "artist" : "Die drei ???",
+    "duration" : 44.267,
+    "releaseDate" : 752716800,
+    "title" : "Folge 230: Der Tag der Toten",
+    "upc" : "196872212150"
+  },
+  {
+    "albumID" : "1753904987",
+    "artist" : "Die drei ???",
+    "duration" : 4882.757999999999,
+    "releaseDate" : 747273600,
+    "title" : "Folge 229: Drehbuch der Täuschung",
+    "upc" : "196872211771"
+  },
+  {
+    "albumID" : "1752449669",
+    "artist" : "Die drei ???",
+    "duration" : 3994.076,
+    "releaseDate" : 736992000,
+    "title" : "Folge 227: Melodie der Rache",
+    "upc" : "196872211429"
+  },
+  {
+    "albumID" : "1752449751",
+    "artist" : "Die drei ???",
+    "duration" : 5089.884,
+    "releaseDate" : 732758400,
+    "title" : "Folge 226: Die Spur der Toten",
+    "upc" : "196872211412"
+  },
+  {
+    "albumID" : "1752450507",
+    "artist" : "Die drei ???",
+    "duration" : 10832.049,
+    "releaseDate" : 727920000,
+    "title" : "Folge 225: und der Puppenmacher",
+    "upc" : "196872211399"
+  },
+  {
+    "albumID" : "1752449423",
+    "artist" : "Die drei ???",
+    "duration" : 4524.293,
+    "releaseDate" : 722476800,
+    "title" : "Folge 224: Die Yacht des Verrats",
+    "upc" : "196872211306"
+  },
+  {
+    "albumID" : "1752450018",
+    "artist" : "Die drei ???",
+    "duration" : 12373.816000000004,
+    "releaseDate" : 720662400,
+    "title" : "Adventskalender - Böser die Glocken nie klingen",
+    "upc" : "196872215175"
+  },
+  {
+    "albumID" : "1752449378",
+    "artist" : "Die drei ???",
+    "duration" : 4950.201000000002,
+    "releaseDate" : 712195200,
+    "title" : "Folge 223: und der Knochenmann",
+    "upc" : "196872196573"
+  },
+  {
+    "albumID" : "1695104461",
+    "artist" : "Die drei ???",
+    "duration" : 4058.6670000000004,
+    "releaseDate" : 699494400,
+    "title" : "Folge 221: Manuskript des Satans",
+    "upc" : "196871058056"
+  },
+  {
+    "albumID" : "1683339747",
+    "artist" : "Die drei ???",
+    "duration" : 5954.112000000002,
+    "releaseDate" : 696470400,
+    "title" : "Erbe des Drachen  (Das Original-Hörspiel zum Kinofilm)",
+    "upc" : "196871061575"
+  },
+  {
+    "albumID" : "1764904056",
+    "artist" : "Die drei ???",
+    "duration" : 44.267,
+    "releaseDate" : 752716800,
+    "title" : "Folge 230: Der Tag der Toten",
+    "upc" : "196872212150"
+  },
+  {
+    "albumID" : "1753904987",
+    "artist" : "Die drei ???",
+    "duration" : 4882.757999999999,
+    "releaseDate" : 747273600,
+    "title" : "Folge 229: Drehbuch der Täuschung",
+    "upc" : "196872211771"
+  },
+  {
+    "albumID" : "1752449669",
+    "artist" : "Die drei ???",
+    "duration" : 3994.076,
+    "releaseDate" : 736992000,
+    "title" : "Folge 227: Melodie der Rache",
+    "upc" : "196872211429"
+  },
+  {
+    "albumID" : "1752449751",
+    "artist" : "Die drei ???",
+    "duration" : 5089.884,
+    "releaseDate" : 732758400,
+    "title" : "Folge 226: Die Spur der Toten",
+    "upc" : "196872211412"
+  },
+  {
+    "albumID" : "1752450507",
+    "artist" : "Die drei ???",
+    "duration" : 10832.049,
+    "releaseDate" : 727920000,
+    "title" : "Folge 225: und der Puppenmacher",
+    "upc" : "196872211399"
+  },
+  {
+    "albumID" : "1752449423",
+    "artist" : "Die drei ???",
+    "duration" : 4524.293,
+    "releaseDate" : 722476800,
+    "title" : "Folge 224: Die Yacht des Verrats",
+    "upc" : "196872211306"
+  },
+  {
+    "albumID" : "1752450018",
+    "artist" : "Die drei ???",
+    "duration" : 12373.816000000004,
+    "releaseDate" : 720662400,
+    "title" : "Adventskalender - Böser die Glocken nie klingen",
+    "upc" : "196872215175"
+  },
+  {
+    "albumID" : "1752449378",
+    "artist" : "Die drei ???",
+    "duration" : 4950.201000000002,
+    "releaseDate" : 712195200,
+    "title" : "Folge 223: und der Knochenmann",
+    "upc" : "196872196573"
+  },
+  {
+    "albumID" : "1695104461",
+    "artist" : "Die drei ???",
+    "duration" : 4058.6670000000004,
+    "releaseDate" : 699494400,
+    "title" : "Folge 221: Manuskript des Satans",
+    "upc" : "196871058056"
+  },
+  {
+    "albumID" : "1683339747",
+    "artist" : "Die drei ???",
+    "duration" : 5954.112000000002,
+    "releaseDate" : 696470400,
+    "title" : "Erbe des Drachen  (Das Original-Hörspiel zum Kinofilm)",
+    "upc" : "196871061575"
+  },
+  {
+    "albumID" : "1764904056",
+    "artist" : "Die drei ???",
+    "duration" : 44.267,
+    "releaseDate" : 752716800,
+    "title" : "Folge 230: Der Tag der Toten",
+    "upc" : "196872212150"
+  },
+  {
+    "albumID" : "1753904987",
+    "artist" : "Die drei ???",
+    "duration" : 4882.757999999999,
+    "releaseDate" : 747273600,
+    "title" : "Folge 229: Drehbuch der Täuschung",
+    "upc" : "196872211771"
+  },
+  {
+    "albumID" : "1752449669",
+    "artist" : "Die drei ???",
+    "duration" : 3994.076,
+    "releaseDate" : 736992000,
+    "title" : "Folge 227: Melodie der Rache",
+    "upc" : "196872211429"
+  },
+  {
+    "albumID" : "1752449751",
+    "artist" : "Die drei ???",
+    "duration" : 5089.884,
+    "releaseDate" : 732758400,
+    "title" : "Folge 226: Die Spur der Toten",
+    "upc" : "196872211412"
+  },
+  {
+    "albumID" : "1752450507",
+    "artist" : "Die drei ???",
+    "duration" : 10832.049,
+    "releaseDate" : 727920000,
+    "title" : "Folge 225: und der Puppenmacher",
+    "upc" : "196872211399"
+  },
+  {
+    "albumID" : "1752449423",
+    "artist" : "Die drei ???",
+    "duration" : 4524.293,
+    "releaseDate" : 722476800,
+    "title" : "Folge 224: Die Yacht des Verrats",
+    "upc" : "196872211306"
+  },
+  {
+    "albumID" : "1752450018",
+    "artist" : "Die drei ???",
+    "duration" : 12373.816000000004,
+    "releaseDate" : 720662400,
+    "title" : "Adventskalender - Böser die Glocken nie klingen",
+    "upc" : "196872215175"
+  },
+  {
+    "albumID" : "1752449378",
+    "artist" : "Die drei ???",
+    "duration" : 4950.201000000002,
+    "releaseDate" : 712195200,
+    "title" : "Folge 223: und der Knochenmann",
+    "upc" : "196872196573"
+  },
+  {
+    "albumID" : "1695104461",
+    "artist" : "Die drei ???",
+    "duration" : 4058.6670000000004,
+    "releaseDate" : 699494400,
+    "title" : "Folge 221: Manuskript des Satans",
+    "upc" : "196871058056"
+  },
+  {
+    "albumID" : "1683339747",
+    "artist" : "Die drei ???",
+    "duration" : 5954.112000000002,
+    "releaseDate" : 696470400,
+    "title" : "Erbe des Drachen  (Das Original-Hörspiel zum Kinofilm)",
+    "upc" : "196871061575"
+  },
+  {
+    "albumID" : "1764904056",
+    "artist" : "Die drei ???",
+    "duration" : 44.267,
+    "releaseDate" : 752716800,
+    "title" : "Folge 230: Der Tag der Toten",
+    "upc" : "196872212150"
+  },
+  {
+    "albumID" : "1753904987",
+    "artist" : "Die drei ???",
+    "duration" : 4882.757999999999,
+    "releaseDate" : 747273600,
+    "title" : "Folge 229: Drehbuch der Täuschung",
+    "upc" : "196872211771"
+  },
+  {
+    "albumID" : "1752449669",
+    "artist" : "Die drei ???",
+    "duration" : 3994.076,
+    "releaseDate" : 736992000,
+    "title" : "Folge 227: Melodie der Rache",
+    "upc" : "196872211429"
+  },
+  {
+    "albumID" : "1752449751",
+    "artist" : "Die drei ???",
+    "duration" : 5089.884,
+    "releaseDate" : 732758400,
+    "title" : "Folge 226: Die Spur der Toten",
+    "upc" : "196872211412"
+  },
+  {
+    "albumID" : "1752450507",
+    "artist" : "Die drei ???",
+    "duration" : 10832.049,
+    "releaseDate" : 727920000,
+    "title" : "Folge 225: und der Puppenmacher",
+    "upc" : "196872211399"
+  },
+  {
+    "albumID" : "1752449423",
+    "artist" : "Die drei ???",
+    "duration" : 4524.293,
+    "releaseDate" : 722476800,
+    "title" : "Folge 224: Die Yacht des Verrats",
+    "upc" : "196872211306"
+  },
+  {
+    "albumID" : "1752450018",
+    "artist" : "Die drei ???",
+    "duration" : 12373.816000000004,
+    "releaseDate" : 720662400,
+    "title" : "Adventskalender - Böser die Glocken nie klingen",
+    "upc" : "196872215175"
+  },
+  {
+    "albumID" : "1752449378",
+    "artist" : "Die drei ???",
+    "duration" : 4950.201000000002,
+    "releaseDate" : 712195200,
+    "title" : "Folge 223: und der Knochenmann",
+    "upc" : "196872196573"
+  },
+  {
+    "albumID" : "1695104461",
+    "artist" : "Die drei ???",
+    "duration" : 4058.6670000000004,
+    "releaseDate" : 699494400,
+    "title" : "Folge 221: Manuskript des Satans",
+    "upc" : "196871058056"
+  },
+  {
+    "albumID" : "1683339747",
+    "artist" : "Die drei ???",
+    "duration" : 5954.112000000002,
+    "releaseDate" : 696470400,
+    "title" : "Erbe des Drachen  (Das Original-Hörspiel zum Kinofilm)",
+    "upc" : "196871061575"
+  },
+  {
+    "albumID" : "1764904056",
+    "artist" : "Die drei ???",
+    "duration" : 44.267,
+    "releaseDate" : 752716800,
+    "title" : "Folge 230: Der Tag der Toten",
+    "upc" : "196872212150"
+  },
+  {
+    "albumID" : "1753904987",
+    "artist" : "Die drei ???",
+    "duration" : 4882.757999999999,
+    "releaseDate" : 747273600,
+    "title" : "Folge 229: Drehbuch der Täuschung",
+    "upc" : "196872211771"
+  },
+  {
+    "albumID" : "1752449669",
+    "artist" : "Die drei ???",
+    "duration" : 3994.076,
+    "releaseDate" : 736992000,
+    "title" : "Folge 227: Melodie der Rache",
+    "upc" : "196872211429"
+  },
+  {
+    "albumID" : "1752449751",
+    "artist" : "Die drei ???",
+    "duration" : 5089.884,
+    "releaseDate" : 732758400,
+    "title" : "Folge 226: Die Spur der Toten",
+    "upc" : "196872211412"
+  },
+  {
+    "albumID" : "1752450507",
+    "artist" : "Die drei ???",
+    "duration" : 10832.049,
+    "releaseDate" : 727920000,
+    "title" : "Folge 225: und der Puppenmacher",
+    "upc" : "196872211399"
+  },
+  {
+    "albumID" : "1752449423",
+    "artist" : "Die drei ???",
+    "duration" : 4524.293,
+    "releaseDate" : 722476800,
+    "title" : "Folge 224: Die Yacht des Verrats",
+    "upc" : "196872211306"
+  },
+  {
+    "albumID" : "1752450018",
+    "artist" : "Die drei ???",
+    "duration" : 12373.816000000004,
+    "releaseDate" : 720662400,
+    "title" : "Adventskalender - Böser die Glocken nie klingen",
+    "upc" : "196872215175"
+  },
+  {
+    "albumID" : "1752449378",
+    "artist" : "Die drei ???",
+    "duration" : 4950.201000000002,
+    "releaseDate" : 712195200,
+    "title" : "Folge 223: und der Knochenmann",
+    "upc" : "196872196573"
+  },
+  {
+    "albumID" : "1695104461",
+    "artist" : "Die drei ???",
+    "duration" : 4058.6670000000004,
+    "releaseDate" : 699494400,
+    "title" : "Folge 221: Manuskript des Satans",
+    "upc" : "196871058056"
+  },
+  {
+    "albumID" : "1683339747",
+    "artist" : "Die drei ???",
+    "duration" : 5954.112000000002,
+    "releaseDate" : 696470400,
+    "title" : "Erbe des Drachen  (Das Original-Hörspiel zum Kinofilm)",
+    "upc" : "196871061575"
+  },
+  {
+    "albumID" : "1764904056",
+    "artist" : "Die drei ???",
+    "duration" : 44.267,
+    "releaseDate" : 752716800,
+    "title" : "Folge 230: Der Tag der Toten",
+    "upc" : "196872212150"
+  },
+  {
+    "albumID" : "1753904987",
+    "artist" : "Die drei ???",
+    "duration" : 4882.757999999999,
+    "releaseDate" : 747273600,
+    "title" : "Folge 229: Drehbuch der Täuschung",
+    "upc" : "196872211771"
+  },
+  {
+    "albumID" : "1752449669",
+    "artist" : "Die drei ???",
+    "duration" : 3994.076,
+    "releaseDate" : 736992000,
+    "title" : "Folge 227: Melodie der Rache",
+    "upc" : "196872211429"
+  },
+  {
+    "albumID" : "1752449751",
+    "artist" : "Die drei ???",
+    "duration" : 5089.884,
+    "releaseDate" : 732758400,
+    "title" : "Folge 226: Die Spur der Toten",
+    "upc" : "196872211412"
+  },
+  {
+    "albumID" : "1752450507",
+    "artist" : "Die drei ???",
+    "duration" : 10832.049,
+    "releaseDate" : 727920000,
+    "title" : "Folge 225: und der Puppenmacher",
+    "upc" : "196872211399"
+  },
+  {
+    "albumID" : "1752449423",
+    "artist" : "Die drei ???",
+    "duration" : 4524.293,
+    "releaseDate" : 722476800,
+    "title" : "Folge 224: Die Yacht des Verrats",
+    "upc" : "196872211306"
+  },
+  {
+    "albumID" : "1752450018",
+    "artist" : "Die drei ???",
+    "duration" : 12373.816000000004,
+    "releaseDate" : 720662400,
+    "title" : "Adventskalender - Böser die Glocken nie klingen",
+    "upc" : "196872215175"
+  },
+  {
+    "albumID" : "1752449378",
+    "artist" : "Die drei ???",
+    "duration" : 4950.201000000002,
+    "releaseDate" : 712195200,
+    "title" : "Folge 223: und der Knochenmann",
+    "upc" : "196872196573"
+  },
+  {
+    "albumID" : "1695104461",
+    "artist" : "Die drei ???",
+    "duration" : 4058.6670000000004,
+    "releaseDate" : 699494400,
+    "title" : "Folge 221: Manuskript des Satans",
+    "upc" : "196871058056"
+  },
+  {
+    "albumID" : "1683339747",
+    "artist" : "Die drei ???",
+    "duration" : 5954.112000000002,
+    "releaseDate" : 696470400,
+    "title" : "Erbe des Drachen  (Das Original-Hörspiel zum Kinofilm)",
+    "upc" : "196871061575"
+  },
+  {
+    "albumID" : "1764904056",
+    "artist" : "Die drei ???",
+    "duration" : 44.267,
+    "releaseDate" : 752716800,
+    "title" : "Folge 230: Der Tag der Toten",
+    "upc" : "196872212150"
+  },
+  {
+    "albumID" : "1753904987",
+    "artist" : "Die drei ???",
+    "duration" : 4882.757999999999,
+    "releaseDate" : 747273600,
+    "title" : "Folge 229: Drehbuch der Täuschung",
+    "upc" : "196872211771"
+  },
+  {
+    "albumID" : "1752449669",
+    "artist" : "Die drei ???",
+    "duration" : 3994.076,
+    "releaseDate" : 736992000,
+    "title" : "Folge 227: Melodie der Rache",
+    "upc" : "196872211429"
+  },
+  {
+    "albumID" : "1752449751",
+    "artist" : "Die drei ???",
+    "duration" : 5089.884,
+    "releaseDate" : 732758400,
+    "title" : "Folge 226: Die Spur der Toten",
+    "upc" : "196872211412"
+  },
+  {
+    "albumID" : "1752450507",
+    "artist" : "Die drei ???",
+    "duration" : 10832.049,
+    "releaseDate" : 727920000,
+    "title" : "Folge 225: und der Puppenmacher",
+    "upc" : "196872211399"
+  },
+  {
+    "albumID" : "1752449423",
+    "artist" : "Die drei ???",
+    "duration" : 4524.293,
+    "releaseDate" : 722476800,
+    "title" : "Folge 224: Die Yacht des Verrats",
+    "upc" : "196872211306"
+  },
+  {
+    "albumID" : "1752450018",
+    "artist" : "Die drei ???",
+    "duration" : 12373.816000000004,
+    "releaseDate" : 720662400,
+    "title" : "Adventskalender - Böser die Glocken nie klingen",
+    "upc" : "196872215175"
+  },
+  {
+    "albumID" : "1752449378",
+    "artist" : "Die drei ???",
+    "duration" : 4950.201000000002,
+    "releaseDate" : 712195200,
+    "title" : "Folge 223: und der Knochenmann",
+    "upc" : "196872196573"
+  },
+  {
+    "albumID" : "1695104461",
+    "artist" : "Die drei ???",
+    "duration" : 4058.6670000000004,
+    "releaseDate" : 699494400,
+    "title" : "Folge 221: Manuskript des Satans",
+    "upc" : "196871058056"
+  },
+  {
+    "albumID" : "1683339747",
+    "artist" : "Die drei ???",
+    "duration" : 5954.112000000002,
+    "releaseDate" : 696470400,
+    "title" : "Erbe des Drachen  (Das Original-Hörspiel zum Kinofilm)",
+    "upc" : "196871061575"
+  },
+  {
+    "albumID" : "1764904056",
+    "artist" : "Die drei ???",
+    "duration" : 44.267,
+    "releaseDate" : 752716800,
+    "title" : "Folge 230: Der Tag der Toten",
+    "upc" : "196872212150"
+  },
+  {
+    "albumID" : "1753904987",
+    "artist" : "Die drei ???",
+    "duration" : 4882.757999999999,
+    "releaseDate" : 747273600,
+    "title" : "Folge 229: Drehbuch der Täuschung",
+    "upc" : "196872211771"
+  },
+  {
+    "albumID" : "1752449669",
+    "artist" : "Die drei ???",
+    "duration" : 3994.076,
+    "releaseDate" : 736992000,
+    "title" : "Folge 227: Melodie der Rache",
+    "upc" : "196872211429"
+  },
+  {
+    "albumID" : "1752449751",
+    "artist" : "Die drei ???",
+    "duration" : 5089.884,
+    "releaseDate" : 732758400,
+    "title" : "Folge 226: Die Spur der Toten",
+    "upc" : "196872211412"
+  },
+  {
+    "albumID" : "1752450507",
+    "artist" : "Die drei ???",
+    "duration" : 10832.049,
+    "releaseDate" : 727920000,
+    "title" : "Folge 225: und der Puppenmacher",
+    "upc" : "196872211399"
+  },
+  {
+    "albumID" : "1752449423",
+    "artist" : "Die drei ???",
+    "duration" : 4524.293,
+    "releaseDate" : 722476800,
+    "title" : "Folge 224: Die Yacht des Verrats",
+    "upc" : "196872211306"
+  },
+  {
+    "albumID" : "1752450018",
+    "artist" : "Die drei ???",
+    "duration" : 12373.816000000004,
+    "releaseDate" : 720662400,
+    "title" : "Adventskalender - Böser die Glocken nie klingen",
+    "upc" : "196872215175"
+  },
+  {
+    "albumID" : "1752449378",
+    "artist" : "Die drei ???",
+    "duration" : 4950.201000000002,
+    "releaseDate" : 712195200,
+    "title" : "Folge 223: und der Knochenmann",
+    "upc" : "196872196573"
+  },
+  {
+    "albumID" : "1695104461",
+    "artist" : "Die drei ???",
+    "duration" : 4058.6670000000004,
+    "releaseDate" : 699494400,
+    "title" : "Folge 221: Manuskript des Satans",
+    "upc" : "196871058056"
+  },
+  {
+    "albumID" : "1683339747",
+    "artist" : "Die drei ???",
+    "duration" : 5954.112000000002,
+    "releaseDate" : 696470400,
+    "title" : "Erbe des Drachen  (Das Original-Hörspiel zum Kinofilm)",
+    "upc" : "196871061575"
+  },
+  {
+    "albumID" : "1757389491",
+    "artist" : "Die drei ???",
+    "duration" : 4872.869,
+    "releaseDate" : 742435200,
+    "title" : "Folge 228: Der Ruf der Krähen",
+    "upc" : "196872195507"
+  },
+  {
+    "albumID" : "1752443158",
+    "artist" : "Die drei ???",
+    "duration" : 4765.308000000002,
+    "releaseDate" : 705542400,
+    "title" : "Folge 222: und die Gesetzlosen",
+    "upc" : "196872196559"
+  },
+  {
+    "albumID" : "1497678475",
+    "artist" : "Die drei ???",
+    "duration" : 7462.919000000002,
+    "releaseDate" : 604368000,
+    "title" : "Und der dunkle Taipan (Live at Volkshaus, Zürich, 25/02/2020)",
+    "upc" : "886448250678"
+  },
+  {
+    "albumID" : "1497679578",
+    "artist" : "Die drei ???",
+    "duration" : 7673.271,
+    "releaseDate" : 604195200,
+    "title" : "Und der dunkle Taipan (Live at Konzerthaus, Wien, 23/02/2020)",
+    "upc" : "886448250661"
+  },
+  {
+    "albumID" : "1497677744",
+    "artist" : "Die drei ???",
+    "duration" : 7552.6,
+    "releaseDate" : 604022400,
+    "title" : "Und der dunkle Taipan (Live at Elbphilharmonie, Hamburg, 21/02/2020)",
+    "upc" : "886448250555"
+  },
+  {
+    "albumID" : "1480844780",
+    "artist" : "Die drei ???",
+    "duration" : 7353.047,
+    "releaseDate" : 596937600,
+    "title" : "und der dunkle Taipan (LIVE - 01.12.19, Frankfurt, Festhalle)",
+    "upc" : "886447919828"
+  },
+  {
+    "albumID" : "1480888309",
+    "artist" : "Die drei ???",
+    "duration" : 7312.222999999999,
+    "releaseDate" : 596764800,
+    "title" : "und der dunkle Taipan (LIVE - 29.11.19 Stuttgart, Schleyerhalle)",
+    "upc" : "886447919804"
+  },
+  {
+    "albumID" : "1480845150",
+    "artist" : "Die drei ???",
+    "duration" : 7435.599,
+    "releaseDate" : 596246400,
+    "title" : "und der dunkle Taipan (LIVE - 23.11.19 Dortmund, Westfalenhalle)",
+    "upc" : "886447919781"
+  },
+  {
+    "albumID" : "1480844851",
+    "artist" : "Die drei ???",
+    "duration" : 7316.338,
+    "releaseDate" : 596160000,
+    "title" : "und der dunkle Taipan (LIVE - 22.11.19 Oberhausen, König Pilsener Arena)",
+    "upc" : "886447919767"
+  },
+  {
+    "albumID" : "1480846406",
+    "artist" : "Die drei ???",
+    "duration" : 7490.3189999999995,
+    "releaseDate" : 596073600,
+    "title" : "und der dunkle Taipan (LIVE - 21.11.19 Düsseldorf, ISS DOME)",
+    "upc" : "886447919750"
+  },
+  {
+    "albumID" : "1480843435",
+    "artist" : "Die drei ???",
+    "duration" : 7398.636,
+    "releaseDate" : 595728000,
+    "title" : "und der dunkle Taipan (LIVE - 17.11.19 Hamburg, Barclaycard Arena)",
+    "upc" : "886447919743"
+  },
+  {
+    "albumID" : "1480844018",
+    "artist" : "Die drei ???",
+    "duration" : 7367.555000000002,
+    "releaseDate" : 595555200,
+    "title" : "und der dunkle Taipan (LIVE - 15.11.19 Oldenburg, Große EWE Arena)",
+    "upc" : "886447919729"
+  },
+  {
+    "albumID" : "1497678475",
+    "artist" : "Die drei ???",
+    "duration" : 7462.919000000002,
+    "releaseDate" : 604368000,
+    "title" : "Und der dunkle Taipan (Live at Volkshaus, Zürich, 25/02/2020)",
+    "upc" : "886448250678"
+  },
+  {
+    "albumID" : "1497679578",
+    "artist" : "Die drei ???",
+    "duration" : 7673.271,
+    "releaseDate" : 604195200,
+    "title" : "Und der dunkle Taipan (Live at Konzerthaus, Wien, 23/02/2020)",
+    "upc" : "886448250661"
+  },
+  {
+    "albumID" : "1497677744",
+    "artist" : "Die drei ???",
+    "duration" : 7552.6,
+    "releaseDate" : 604022400,
+    "title" : "Und der dunkle Taipan (Live at Elbphilharmonie, Hamburg, 21/02/2020)",
+    "upc" : "886448250555"
+  },
+  {
+    "albumID" : "1480844780",
+    "artist" : "Die drei ???",
+    "duration" : 7353.047,
+    "releaseDate" : 596937600,
+    "title" : "und der dunkle Taipan (LIVE - 01.12.19, Frankfurt, Festhalle)",
+    "upc" : "886447919828"
+  },
+  {
+    "albumID" : "1480888309",
+    "artist" : "Die drei ???",
+    "duration" : 7312.222999999999,
+    "releaseDate" : 596764800,
+    "title" : "und der dunkle Taipan (LIVE - 29.11.19 Stuttgart, Schleyerhalle)",
+    "upc" : "886447919804"
+  },
+  {
+    "albumID" : "1480845150",
+    "artist" : "Die drei ???",
+    "duration" : 7435.599,
+    "releaseDate" : 596246400,
+    "title" : "und der dunkle Taipan (LIVE - 23.11.19 Dortmund, Westfalenhalle)",
+    "upc" : "886447919781"
+  },
+  {
+    "albumID" : "1480844851",
+    "artist" : "Die drei ???",
+    "duration" : 7316.338,
+    "releaseDate" : 596160000,
+    "title" : "und der dunkle Taipan (LIVE - 22.11.19 Oberhausen, König Pilsener Arena)",
+    "upc" : "886447919767"
+  },
+  {
+    "albumID" : "1480846406",
+    "artist" : "Die drei ???",
+    "duration" : 7490.3189999999995,
+    "releaseDate" : 596073600,
+    "title" : "und der dunkle Taipan (LIVE - 21.11.19 Düsseldorf, ISS DOME)",
+    "upc" : "886447919750"
+  },
+  {
+    "albumID" : "1480843435",
+    "artist" : "Die drei ???",
+    "duration" : 7398.636,
+    "releaseDate" : 595728000,
+    "title" : "und der dunkle Taipan (LIVE - 17.11.19 Hamburg, Barclaycard Arena)",
+    "upc" : "886447919743"
+  },
+  {
+    "albumID" : "1480844018",
+    "artist" : "Die drei ???",
+    "duration" : 7367.555000000002,
+    "releaseDate" : 595555200,
+    "title" : "und der dunkle Taipan (LIVE - 15.11.19 Oldenburg, Große EWE Arena)",
+    "upc" : "886447919729"
+  },
+  {
+    "albumID" : "1497678475",
+    "artist" : "Die drei ???",
+    "duration" : 7462.919000000002,
+    "releaseDate" : 604368000,
+    "title" : "Und der dunkle Taipan (Live at Volkshaus, Zürich, 25/02/2020)",
+    "upc" : "886448250678"
+  },
+  {
+    "albumID" : "1497679578",
+    "artist" : "Die drei ???",
+    "duration" : 7673.271,
+    "releaseDate" : 604195200,
+    "title" : "Und der dunkle Taipan (Live at Konzerthaus, Wien, 23/02/2020)",
+    "upc" : "886448250661"
+  },
+  {
+    "albumID" : "1497677744",
+    "artist" : "Die drei ???",
+    "duration" : 7552.6,
+    "releaseDate" : 604022400,
+    "title" : "Und der dunkle Taipan (Live at Elbphilharmonie, Hamburg, 21/02/2020)",
+    "upc" : "886448250555"
+  },
+  {
+    "albumID" : "1480844780",
+    "artist" : "Die drei ???",
+    "duration" : 7353.047,
+    "releaseDate" : 596937600,
+    "title" : "und der dunkle Taipan (LIVE - 01.12.19, Frankfurt, Festhalle)",
+    "upc" : "886447919828"
+  },
+  {
+    "albumID" : "1480888309",
+    "artist" : "Die drei ???",
+    "duration" : 7312.222999999999,
+    "releaseDate" : 596764800,
+    "title" : "und der dunkle Taipan (LIVE - 29.11.19 Stuttgart, Schleyerhalle)",
+    "upc" : "886447919804"
+  },
+  {
+    "albumID" : "1480845150",
+    "artist" : "Die drei ???",
+    "duration" : 7435.599,
+    "releaseDate" : 596246400,
+    "title" : "und der dunkle Taipan (LIVE - 23.11.19 Dortmund, Westfalenhalle)",
+    "upc" : "886447919781"
+  },
+  {
+    "albumID" : "1480844851",
+    "artist" : "Die drei ???",
+    "duration" : 7316.338,
+    "releaseDate" : 596160000,
+    "title" : "und der dunkle Taipan (LIVE - 22.11.19 Oberhausen, König Pilsener Arena)",
+    "upc" : "886447919767"
+  },
+  {
+    "albumID" : "1480846406",
+    "artist" : "Die drei ???",
+    "duration" : 7490.3189999999995,
+    "releaseDate" : 596073600,
+    "title" : "und der dunkle Taipan (LIVE - 21.11.19 Düsseldorf, ISS DOME)",
+    "upc" : "886447919750"
+  },
+  {
+    "albumID" : "1480843435",
+    "artist" : "Die drei ???",
+    "duration" : 7398.636,
+    "releaseDate" : 595728000,
+    "title" : "und der dunkle Taipan (LIVE - 17.11.19 Hamburg, Barclaycard Arena)",
+    "upc" : "886447919743"
+  },
+  {
+    "albumID" : "1480844018",
+    "artist" : "Die drei ???",
+    "duration" : 7367.555000000002,
+    "releaseDate" : 595555200,
+    "title" : "und der dunkle Taipan (LIVE - 15.11.19 Oldenburg, Große EWE Arena)",
+    "upc" : "886447919729"
+  }
+]
