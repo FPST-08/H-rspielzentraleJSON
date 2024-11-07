@@ -1,12 +1,7 @@
-    [
-      {
-        "id" : "201306317",
-        "url" : "https://api.npoint.io/1090657ede9219fcfb60",
-        "name" : "Die drei ???"
-      },
-      {
-        "name" : "Die drei ??? Kids",
-        "url" : "https://api.npoint.io/472a2e65981db2a1188f",
-        "id" : "305761269"
-      }
-    ]
+[
+  {
+    "id" : "201306317",
+    "name" : "Die drei ???",
+    "url" : "https:\/\/api.npoint.io\/1090657ede9219fcfb60"
+  }
+]
