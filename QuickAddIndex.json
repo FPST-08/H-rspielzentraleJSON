@@ -10,11 +10,6 @@
     "url" : "https://raw.githubusercontent.com/FPST-08/H-rspielzentraleJSON/refs/heads/main/191548811.json"
   },
   {
-    "id" : "305761269",
-    "name" : "Die drei ??? Kids",
-    "url" : "https://raw.githubusercontent.com/FPST-08/H-rspielzentraleJSON/refs/heads/main/305761269.json"
-  },
-  {
     "id" : "4597171",
     "name" : "John Sinclair",
     "url" : "https://raw.githubusercontent.com/FPST-08/H-rspielzentraleJSON/refs/heads/main/4597171.json"
@@ -35,8 +30,8 @@
     "url" : "https://raw.githubusercontent.com/FPST-08/H-rspielzentraleJSON/refs/heads/main/215716521.json"
   },
   {
-    "id" : "374902873",
-    "name" : "Teufelskicker",
-    "url" : "https://raw.githubusercontent.com/FPST-08/H-rspielzentraleJSON/refs/heads/main/374902873.json"
+    "id" : "305761269",
+    "name" : "Die drei ??? Kids",
+    "url" : "https://raw.githubusercontent.com/FPST-08/H-rspielzentraleJSON/refs/heads/main/305761269.json"
   }
 ]
