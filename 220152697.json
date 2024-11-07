@@ -1,0 +1,1290 @@
+[
+  {
+    "albumID" : "1770239951",
+    "artist" : "Bibi und Tina",
+    "duration" : 3548.1010000000015,
+    "releaseDate" : 750902400,
+    "title" : "Folge 116: Das Grusellabyrinth",
+    "upc" : "4033694521168"
+  },
+  {
+    "albumID" : "1761068614",
+    "artist" : "Bibi und Tina",
+    "duration" : 2832.2720000000004,
+    "releaseDate" : 748483200,
+    "title" : "BFF Talk - Talk 5: Unsere Lieblingszeit",
+    "upc" : "4033694525050"
+  },
+  {
+    "albumID" : "1756728751",
+    "artist" : "Bibi und Tina",
+    "duration" : 3223.039,
+    "releaseDate" : 745459200,
+    "title" : "Folge 115: Das unbekannte Pferd",
+    "upc" : "4033694521151"
+  },
+  {
+    "albumID" : "1752155921",
+    "artist" : "Bibi und Tina",
+    "duration" : 2905.7129999999997,
+    "releaseDate" : 743644800,
+    "title" : "BFF Talk - Talk 4: Welt der Pferde",
+    "upc" : "4033694525036"
+  },
+  {
+    "albumID" : "1749096401",
+    "artist" : "Bibi und Tina",
+    "duration" : 3853.950999999999,
+    "releaseDate" : 740620800,
+    "title" : "Folge 114: Überraschung auf vier Pfoten",
+    "upc" : "4033694521144"
+  },
+  {
+    "albumID" : "1737242263",
+    "artist" : "Bibi und Tina",
+    "duration" : 2567.104,
+    "releaseDate" : 735177600,
+    "title" : "BFF Talk - Talk 3: Unsere Umwelt",
+    "upc" : "5021732264282"
+  },
+  {
+    "albumID" : "1729567271",
+    "artist" : "Bibi und Tina",
+    "duration" : 2734.5740000000005,
+    "releaseDate" : 733968000,
+    "title" : "Folge 113: Der rätselhafte Fund",
+    "upc" : "5054197982965"
+  },
+  {
+    "albumID" : "1726214631",
+    "artist" : "Bibi und Tina",
+    "duration" : 3298.1150000000002,
+    "releaseDate" : 728524800,
+    "title" : "Folge 112: Geheimnis hinter dem Wasserfall",
+    "upc" : "5054197960604"
+  },
+  {
+    "albumID" : "1709086207",
+    "artist" : "Bibi und Tina",
+    "duration" : 3213.9129999999996,
+    "releaseDate" : 720057600,
+    "title" : "BFF Talk - Talk 2: Rund ums Essen",
+    "upc" : "5054197826603"
+  },
+  {
+    "albumID" : "1707850204",
+    "artist" : "Bibi und Tina",
+    "duration" : 3113.8020000000006,
+    "releaseDate" : 719452800,
+    "title" : "Folge 111: Pst, Waldtiere!",
+    "upc" : "5054197817854"
+  },
+  {
+    "albumID" : "1770239951",
+    "artist" : "Bibi und Tina",
+    "duration" : 3548.1010000000015,
+    "releaseDate" : 750902400,
+    "title" : "Folge 116: Das Grusellabyrinth",
+    "upc" : "4033694521168"
+  },
+  {
+    "albumID" : "1761068614",
+    "artist" : "Bibi und Tina",
+    "duration" : 2832.2720000000004,
+    "releaseDate" : 748483200,
+    "title" : "BFF Talk - Talk 5: Unsere Lieblingszeit",
+    "upc" : "4033694525050"
+  },
+  {
+    "albumID" : "1756728751",
+    "artist" : "Bibi und Tina",
+    "duration" : 3223.039,
+    "releaseDate" : 745459200,
+    "title" : "Folge 115: Das unbekannte Pferd",
+    "upc" : "4033694521151"
+  },
+  {
+    "albumID" : "1752155921",
+    "artist" : "Bibi und Tina",
+    "duration" : 2905.7129999999997,
+    "releaseDate" : 743644800,
+    "title" : "BFF Talk - Talk 4: Welt der Pferde",
+    "upc" : "4033694525036"
+  },
+  {
+    "albumID" : "1749096401",
+    "artist" : "Bibi und Tina",
+    "duration" : 3853.950999999999,
+    "releaseDate" : 740620800,
+    "title" : "Folge 114: Überraschung auf vier Pfoten",
+    "upc" : "4033694521144"
+  },
+  {
+    "albumID" : "1737242263",
+    "artist" : "Bibi und Tina",
+    "duration" : 2567.104,
+    "releaseDate" : 735177600,
+    "title" : "BFF Talk - Talk 3: Unsere Umwelt",
+    "upc" : "5021732264282"
+  },
+  {
+    "albumID" : "1729567271",
+    "artist" : "Bibi und Tina",
+    "duration" : 2734.5740000000005,
+    "releaseDate" : 733968000,
+    "title" : "Folge 113: Der rätselhafte Fund",
+    "upc" : "5054197982965"
+  },
+  {
+    "albumID" : "1726214631",
+    "artist" : "Bibi und Tina",
+    "duration" : 3298.1150000000002,
+    "releaseDate" : 728524800,
+    "title" : "Folge 112: Geheimnis hinter dem Wasserfall",
+    "upc" : "5054197960604"
+  },
+  {
+    "albumID" : "1709086207",
+    "artist" : "Bibi und Tina",
+    "duration" : 3213.9129999999996,
+    "releaseDate" : 720057600,
+    "title" : "BFF Talk - Talk 2: Rund ums Essen",
+    "upc" : "5054197826603"
+  },
+  {
+    "albumID" : "1707850204",
+    "artist" : "Bibi und Tina",
+    "duration" : 3113.8020000000006,
+    "releaseDate" : 719452800,
+    "title" : "Folge 111: Pst, Waldtiere!",
+    "upc" : "5054197817854"
+  },
+  {
+    "albumID" : "1770239951",
+    "artist" : "Bibi und Tina",
+    "duration" : 3548.1010000000015,
+    "releaseDate" : 750902400,
+    "title" : "Folge 116: Das Grusellabyrinth",
+    "upc" : "4033694521168"
+  },
+  {
+    "albumID" : "1761068614",
+    "artist" : "Bibi und Tina",
+    "duration" : 2832.2720000000004,
+    "releaseDate" : 748483200,
+    "title" : "BFF Talk - Talk 5: Unsere Lieblingszeit",
+    "upc" : "4033694525050"
+  },
+  {
+    "albumID" : "1756728751",
+    "artist" : "Bibi und Tina",
+    "duration" : 3223.039,
+    "releaseDate" : 745459200,
+    "title" : "Folge 115: Das unbekannte Pferd",
+    "upc" : "4033694521151"
+  },
+  {
+    "albumID" : "1752155921",
+    "artist" : "Bibi und Tina",
+    "duration" : 2905.7129999999997,
+    "releaseDate" : 743644800,
+    "title" : "BFF Talk - Talk 4: Welt der Pferde",
+    "upc" : "4033694525036"
+  },
+  {
+    "albumID" : "1749096401",
+    "artist" : "Bibi und Tina",
+    "duration" : 3853.950999999999,
+    "releaseDate" : 740620800,
+    "title" : "Folge 114: Überraschung auf vier Pfoten",
+    "upc" : "4033694521144"
+  },
+  {
+    "albumID" : "1737242263",
+    "artist" : "Bibi und Tina",
+    "duration" : 2567.104,
+    "releaseDate" : 735177600,
+    "title" : "BFF Talk - Talk 3: Unsere Umwelt",
+    "upc" : "5021732264282"
+  },
+  {
+    "albumID" : "1729567271",
+    "artist" : "Bibi und Tina",
+    "duration" : 2734.5740000000005,
+    "releaseDate" : 733968000,
+    "title" : "Folge 113: Der rätselhafte Fund",
+    "upc" : "5054197982965"
+  },
+  {
+    "albumID" : "1726214631",
+    "artist" : "Bibi und Tina",
+    "duration" : 3298.1150000000002,
+    "releaseDate" : 728524800,
+    "title" : "Folge 112: Geheimnis hinter dem Wasserfall",
+    "upc" : "5054197960604"
+  },
+  {
+    "albumID" : "1709086207",
+    "artist" : "Bibi und Tina",
+    "duration" : 3213.9129999999996,
+    "releaseDate" : 720057600,
+    "title" : "BFF Talk - Talk 2: Rund ums Essen",
+    "upc" : "5054197826603"
+  },
+  {
+    "albumID" : "1707850204",
+    "artist" : "Bibi und Tina",
+    "duration" : 3113.8020000000006,
+    "releaseDate" : 719452800,
+    "title" : "Folge 111: Pst, Waldtiere!",
+    "upc" : "5054197817854"
+  },
+  {
+    "albumID" : "1770239951",
+    "artist" : "Bibi und Tina",
+    "duration" : 3548.1010000000015,
+    "releaseDate" : 750902400,
+    "title" : "Folge 116: Das Grusellabyrinth",
+    "upc" : "4033694521168"
+  },
+  {
+    "albumID" : "1761068614",
+    "artist" : "Bibi und Tina",
+    "duration" : 2832.2720000000004,
+    "releaseDate" : 748483200,
+    "title" : "BFF Talk - Talk 5: Unsere Lieblingszeit",
+    "upc" : "4033694525050"
+  },
+  {
+    "albumID" : "1756728751",
+    "artist" : "Bibi und Tina",
+    "duration" : 3223.039,
+    "releaseDate" : 745459200,
+    "title" : "Folge 115: Das unbekannte Pferd",
+    "upc" : "4033694521151"
+  },
+  {
+    "albumID" : "1752155921",
+    "artist" : "Bibi und Tina",
+    "duration" : 2905.7129999999997,
+    "releaseDate" : 743644800,
+    "title" : "BFF Talk - Talk 4: Welt der Pferde",
+    "upc" : "4033694525036"
+  },
+  {
+    "albumID" : "1749096401",
+    "artist" : "Bibi und Tina",
+    "duration" : 3853.950999999999,
+    "releaseDate" : 740620800,
+    "title" : "Folge 114: Überraschung auf vier Pfoten",
+    "upc" : "4033694521144"
+  },
+  {
+    "albumID" : "1737242263",
+    "artist" : "Bibi und Tina",
+    "duration" : 2567.104,
+    "releaseDate" : 735177600,
+    "title" : "BFF Talk - Talk 3: Unsere Umwelt",
+    "upc" : "5021732264282"
+  },
+  {
+    "albumID" : "1729567271",
+    "artist" : "Bibi und Tina",
+    "duration" : 2734.5740000000005,
+    "releaseDate" : 733968000,
+    "title" : "Folge 113: Der rätselhafte Fund",
+    "upc" : "5054197982965"
+  },
+  {
+    "albumID" : "1726214631",
+    "artist" : "Bibi und Tina",
+    "duration" : 3298.1150000000002,
+    "releaseDate" : 728524800,
+    "title" : "Folge 112: Geheimnis hinter dem Wasserfall",
+    "upc" : "5054197960604"
+  },
+  {
+    "albumID" : "1709086207",
+    "artist" : "Bibi und Tina",
+    "duration" : 3213.9129999999996,
+    "releaseDate" : 720057600,
+    "title" : "BFF Talk - Talk 2: Rund ums Essen",
+    "upc" : "5054197826603"
+  },
+  {
+    "albumID" : "1707850204",
+    "artist" : "Bibi und Tina",
+    "duration" : 3113.8020000000006,
+    "releaseDate" : 719452800,
+    "title" : "Folge 111: Pst, Waldtiere!",
+    "upc" : "5054197817854"
+  },
+  {
+    "albumID" : "1770239951",
+    "artist" : "Bibi und Tina",
+    "duration" : 3548.1010000000015,
+    "releaseDate" : 750902400,
+    "title" : "Folge 116: Das Grusellabyrinth",
+    "upc" : "4033694521168"
+  },
+  {
+    "albumID" : "1761068614",
+    "artist" : "Bibi und Tina",
+    "duration" : 2832.2720000000004,
+    "releaseDate" : 748483200,
+    "title" : "BFF Talk - Talk 5: Unsere Lieblingszeit",
+    "upc" : "4033694525050"
+  },
+  {
+    "albumID" : "1756728751",
+    "artist" : "Bibi und Tina",
+    "duration" : 3223.039,
+    "releaseDate" : 745459200,
+    "title" : "Folge 115: Das unbekannte Pferd",
+    "upc" : "4033694521151"
+  },
+  {
+    "albumID" : "1752155921",
+    "artist" : "Bibi und Tina",
+    "duration" : 2905.7129999999997,
+    "releaseDate" : 743644800,
+    "title" : "BFF Talk - Talk 4: Welt der Pferde",
+    "upc" : "4033694525036"
+  },
+  {
+    "albumID" : "1749096401",
+    "artist" : "Bibi und Tina",
+    "duration" : 3853.950999999999,
+    "releaseDate" : 740620800,
+    "title" : "Folge 114: Überraschung auf vier Pfoten",
+    "upc" : "4033694521144"
+  },
+  {
+    "albumID" : "1737242263",
+    "artist" : "Bibi und Tina",
+    "duration" : 2567.104,
+    "releaseDate" : 735177600,
+    "title" : "BFF Talk - Talk 3: Unsere Umwelt",
+    "upc" : "5021732264282"
+  },
+  {
+    "albumID" : "1729567271",
+    "artist" : "Bibi und Tina",
+    "duration" : 2734.5740000000005,
+    "releaseDate" : 733968000,
+    "title" : "Folge 113: Der rätselhafte Fund",
+    "upc" : "5054197982965"
+  },
+  {
+    "albumID" : "1726214631",
+    "artist" : "Bibi und Tina",
+    "duration" : 3298.1150000000002,
+    "releaseDate" : 728524800,
+    "title" : "Folge 112: Geheimnis hinter dem Wasserfall",
+    "upc" : "5054197960604"
+  },
+  {
+    "albumID" : "1709086207",
+    "artist" : "Bibi und Tina",
+    "duration" : 3213.9129999999996,
+    "releaseDate" : 720057600,
+    "title" : "BFF Talk - Talk 2: Rund ums Essen",
+    "upc" : "5054197826603"
+  },
+  {
+    "albumID" : "1707850204",
+    "artist" : "Bibi und Tina",
+    "duration" : 3113.8020000000006,
+    "releaseDate" : 719452800,
+    "title" : "Folge 111: Pst, Waldtiere!",
+    "upc" : "5054197817854"
+  },
+  {
+    "albumID" : "1770239951",
+    "artist" : "Bibi und Tina",
+    "duration" : 3548.1010000000015,
+    "releaseDate" : 750902400,
+    "title" : "Folge 116: Das Grusellabyrinth",
+    "upc" : "4033694521168"
+  },
+  {
+    "albumID" : "1761068614",
+    "artist" : "Bibi und Tina",
+    "duration" : 2832.2720000000004,
+    "releaseDate" : 748483200,
+    "title" : "BFF Talk - Talk 5: Unsere Lieblingszeit",
+    "upc" : "4033694525050"
+  },
+  {
+    "albumID" : "1756728751",
+    "artist" : "Bibi und Tina",
+    "duration" : 3223.039,
+    "releaseDate" : 745459200,
+    "title" : "Folge 115: Das unbekannte Pferd",
+    "upc" : "4033694521151"
+  },
+  {
+    "albumID" : "1752155921",
+    "artist" : "Bibi und Tina",
+    "duration" : 2905.7129999999997,
+    "releaseDate" : 743644800,
+    "title" : "BFF Talk - Talk 4: Welt der Pferde",
+    "upc" : "4033694525036"
+  },
+  {
+    "albumID" : "1749096401",
+    "artist" : "Bibi und Tina",
+    "duration" : 3853.950999999999,
+    "releaseDate" : 740620800,
+    "title" : "Folge 114: Überraschung auf vier Pfoten",
+    "upc" : "4033694521144"
+  },
+  {
+    "albumID" : "1737242263",
+    "artist" : "Bibi und Tina",
+    "duration" : 2567.104,
+    "releaseDate" : 735177600,
+    "title" : "BFF Talk - Talk 3: Unsere Umwelt",
+    "upc" : "5021732264282"
+  },
+  {
+    "albumID" : "1729567271",
+    "artist" : "Bibi und Tina",
+    "duration" : 2734.5740000000005,
+    "releaseDate" : 733968000,
+    "title" : "Folge 113: Der rätselhafte Fund",
+    "upc" : "5054197982965"
+  },
+  {
+    "albumID" : "1726214631",
+    "artist" : "Bibi und Tina",
+    "duration" : 3298.1150000000002,
+    "releaseDate" : 728524800,
+    "title" : "Folge 112: Geheimnis hinter dem Wasserfall",
+    "upc" : "5054197960604"
+  },
+  {
+    "albumID" : "1709086207",
+    "artist" : "Bibi und Tina",
+    "duration" : 3213.9129999999996,
+    "releaseDate" : 720057600,
+    "title" : "BFF Talk - Talk 2: Rund ums Essen",
+    "upc" : "5054197826603"
+  },
+  {
+    "albumID" : "1707850204",
+    "artist" : "Bibi und Tina",
+    "duration" : 3113.8020000000006,
+    "releaseDate" : 719452800,
+    "title" : "Folge 111: Pst, Waldtiere!",
+    "upc" : "5054197817854"
+  },
+  {
+    "albumID" : "1770239951",
+    "artist" : "Bibi und Tina",
+    "duration" : 3548.1010000000015,
+    "releaseDate" : 750902400,
+    "title" : "Folge 116: Das Grusellabyrinth",
+    "upc" : "4033694521168"
+  },
+  {
+    "albumID" : "1761068614",
+    "artist" : "Bibi und Tina",
+    "duration" : 2832.2720000000004,
+    "releaseDate" : 748483200,
+    "title" : "BFF Talk - Talk 5: Unsere Lieblingszeit",
+    "upc" : "4033694525050"
+  },
+  {
+    "albumID" : "1756728751",
+    "artist" : "Bibi und Tina",
+    "duration" : 3223.039,
+    "releaseDate" : 745459200,
+    "title" : "Folge 115: Das unbekannte Pferd",
+    "upc" : "4033694521151"
+  },
+  {
+    "albumID" : "1752155921",
+    "artist" : "Bibi und Tina",
+    "duration" : 2905.7129999999997,
+    "releaseDate" : 743644800,
+    "title" : "BFF Talk - Talk 4: Welt der Pferde",
+    "upc" : "4033694525036"
+  },
+  {
+    "albumID" : "1749096401",
+    "artist" : "Bibi und Tina",
+    "duration" : 3853.950999999999,
+    "releaseDate" : 740620800,
+    "title" : "Folge 114: Überraschung auf vier Pfoten",
+    "upc" : "4033694521144"
+  },
+  {
+    "albumID" : "1737242263",
+    "artist" : "Bibi und Tina",
+    "duration" : 2567.104,
+    "releaseDate" : 735177600,
+    "title" : "BFF Talk - Talk 3: Unsere Umwelt",
+    "upc" : "5021732264282"
+  },
+  {
+    "albumID" : "1729567271",
+    "artist" : "Bibi und Tina",
+    "duration" : 2734.5740000000005,
+    "releaseDate" : 733968000,
+    "title" : "Folge 113: Der rätselhafte Fund",
+    "upc" : "5054197982965"
+  },
+  {
+    "albumID" : "1726214631",
+    "artist" : "Bibi und Tina",
+    "duration" : 3298.1150000000002,
+    "releaseDate" : 728524800,
+    "title" : "Folge 112: Geheimnis hinter dem Wasserfall",
+    "upc" : "5054197960604"
+  },
+  {
+    "albumID" : "1709086207",
+    "artist" : "Bibi und Tina",
+    "duration" : 3213.9129999999996,
+    "releaseDate" : 720057600,
+    "title" : "BFF Talk - Talk 2: Rund ums Essen",
+    "upc" : "5054197826603"
+  },
+  {
+    "albumID" : "1707850204",
+    "artist" : "Bibi und Tina",
+    "duration" : 3113.8020000000006,
+    "releaseDate" : 719452800,
+    "title" : "Folge 111: Pst, Waldtiere!",
+    "upc" : "5054197817854"
+  },
+  {
+    "albumID" : "1770239951",
+    "artist" : "Bibi und Tina",
+    "duration" : 3548.1010000000015,
+    "releaseDate" : 750902400,
+    "title" : "Folge 116: Das Grusellabyrinth",
+    "upc" : "4033694521168"
+  },
+  {
+    "albumID" : "1761068614",
+    "artist" : "Bibi und Tina",
+    "duration" : 2832.2720000000004,
+    "releaseDate" : 748483200,
+    "title" : "BFF Talk - Talk 5: Unsere Lieblingszeit",
+    "upc" : "4033694525050"
+  },
+  {
+    "albumID" : "1756728751",
+    "artist" : "Bibi und Tina",
+    "duration" : 3223.039,
+    "releaseDate" : 745459200,
+    "title" : "Folge 115: Das unbekannte Pferd",
+    "upc" : "4033694521151"
+  },
+  {
+    "albumID" : "1752155921",
+    "artist" : "Bibi und Tina",
+    "duration" : 2905.7129999999997,
+    "releaseDate" : 743644800,
+    "title" : "BFF Talk - Talk 4: Welt der Pferde",
+    "upc" : "4033694525036"
+  },
+  {
+    "albumID" : "1749096401",
+    "artist" : "Bibi und Tina",
+    "duration" : 3853.950999999999,
+    "releaseDate" : 740620800,
+    "title" : "Folge 114: Überraschung auf vier Pfoten",
+    "upc" : "4033694521144"
+  },
+  {
+    "albumID" : "1737242263",
+    "artist" : "Bibi und Tina",
+    "duration" : 2567.104,
+    "releaseDate" : 735177600,
+    "title" : "BFF Talk - Talk 3: Unsere Umwelt",
+    "upc" : "5021732264282"
+  },
+  {
+    "albumID" : "1729567271",
+    "artist" : "Bibi und Tina",
+    "duration" : 2734.5740000000005,
+    "releaseDate" : 733968000,
+    "title" : "Folge 113: Der rätselhafte Fund",
+    "upc" : "5054197982965"
+  },
+  {
+    "albumID" : "1726214631",
+    "artist" : "Bibi und Tina",
+    "duration" : 3298.1150000000002,
+    "releaseDate" : 728524800,
+    "title" : "Folge 112: Geheimnis hinter dem Wasserfall",
+    "upc" : "5054197960604"
+  },
+  {
+    "albumID" : "1709086207",
+    "artist" : "Bibi und Tina",
+    "duration" : 3213.9129999999996,
+    "releaseDate" : 720057600,
+    "title" : "BFF Talk - Talk 2: Rund ums Essen",
+    "upc" : "5054197826603"
+  },
+  {
+    "albumID" : "1707850204",
+    "artist" : "Bibi und Tina",
+    "duration" : 3113.8020000000006,
+    "releaseDate" : 719452800,
+    "title" : "Folge 111: Pst, Waldtiere!",
+    "upc" : "5054197817854"
+  },
+  {
+    "albumID" : "1770239951",
+    "artist" : "Bibi und Tina",
+    "duration" : 3548.1010000000015,
+    "releaseDate" : 750902400,
+    "title" : "Folge 116: Das Grusellabyrinth",
+    "upc" : "4033694521168"
+  },
+  {
+    "albumID" : "1761068614",
+    "artist" : "Bibi und Tina",
+    "duration" : 2832.2720000000004,
+    "releaseDate" : 748483200,
+    "title" : "BFF Talk - Talk 5: Unsere Lieblingszeit",
+    "upc" : "4033694525050"
+  },
+  {
+    "albumID" : "1756728751",
+    "artist" : "Bibi und Tina",
+    "duration" : 3223.039,
+    "releaseDate" : 745459200,
+    "title" : "Folge 115: Das unbekannte Pferd",
+    "upc" : "4033694521151"
+  },
+  {
+    "albumID" : "1752155921",
+    "artist" : "Bibi und Tina",
+    "duration" : 2905.7129999999997,
+    "releaseDate" : 743644800,
+    "title" : "BFF Talk - Talk 4: Welt der Pferde",
+    "upc" : "4033694525036"
+  },
+  {
+    "albumID" : "1749096401",
+    "artist" : "Bibi und Tina",
+    "duration" : 3853.950999999999,
+    "releaseDate" : 740620800,
+    "title" : "Folge 114: Überraschung auf vier Pfoten",
+    "upc" : "4033694521144"
+  },
+  {
+    "albumID" : "1737242263",
+    "artist" : "Bibi und Tina",
+    "duration" : 2567.104,
+    "releaseDate" : 735177600,
+    "title" : "BFF Talk - Talk 3: Unsere Umwelt",
+    "upc" : "5021732264282"
+  },
+  {
+    "albumID" : "1729567271",
+    "artist" : "Bibi und Tina",
+    "duration" : 2734.5740000000005,
+    "releaseDate" : 733968000,
+    "title" : "Folge 113: Der rätselhafte Fund",
+    "upc" : "5054197982965"
+  },
+  {
+    "albumID" : "1726214631",
+    "artist" : "Bibi und Tina",
+    "duration" : 3298.1150000000002,
+    "releaseDate" : 728524800,
+    "title" : "Folge 112: Geheimnis hinter dem Wasserfall",
+    "upc" : "5054197960604"
+  },
+  {
+    "albumID" : "1709086207",
+    "artist" : "Bibi und Tina",
+    "duration" : 3213.9129999999996,
+    "releaseDate" : 720057600,
+    "title" : "BFF Talk - Talk 2: Rund ums Essen",
+    "upc" : "5054197826603"
+  },
+  {
+    "albumID" : "1707850204",
+    "artist" : "Bibi und Tina",
+    "duration" : 3113.8020000000006,
+    "releaseDate" : 719452800,
+    "title" : "Folge 111: Pst, Waldtiere!",
+    "upc" : "5054197817854"
+  },
+  {
+    "albumID" : "1770239951",
+    "artist" : "Bibi und Tina",
+    "duration" : 3548.1010000000015,
+    "releaseDate" : 750902400,
+    "title" : "Folge 116: Das Grusellabyrinth",
+    "upc" : "4033694521168"
+  },
+  {
+    "albumID" : "1761068614",
+    "artist" : "Bibi und Tina",
+    "duration" : 2832.2720000000004,
+    "releaseDate" : 748483200,
+    "title" : "BFF Talk - Talk 5: Unsere Lieblingszeit",
+    "upc" : "4033694525050"
+  },
+  {
+    "albumID" : "1756728751",
+    "artist" : "Bibi und Tina",
+    "duration" : 3223.039,
+    "releaseDate" : 745459200,
+    "title" : "Folge 115: Das unbekannte Pferd",
+    "upc" : "4033694521151"
+  },
+  {
+    "albumID" : "1752155921",
+    "artist" : "Bibi und Tina",
+    "duration" : 2905.7129999999997,
+    "releaseDate" : 743644800,
+    "title" : "BFF Talk - Talk 4: Welt der Pferde",
+    "upc" : "4033694525036"
+  },
+  {
+    "albumID" : "1749096401",
+    "artist" : "Bibi und Tina",
+    "duration" : 3853.950999999999,
+    "releaseDate" : 740620800,
+    "title" : "Folge 114: Überraschung auf vier Pfoten",
+    "upc" : "4033694521144"
+  },
+  {
+    "albumID" : "1737242263",
+    "artist" : "Bibi und Tina",
+    "duration" : 2567.104,
+    "releaseDate" : 735177600,
+    "title" : "BFF Talk - Talk 3: Unsere Umwelt",
+    "upc" : "5021732264282"
+  },
+  {
+    "albumID" : "1729567271",
+    "artist" : "Bibi und Tina",
+    "duration" : 2734.5740000000005,
+    "releaseDate" : 733968000,
+    "title" : "Folge 113: Der rätselhafte Fund",
+    "upc" : "5054197982965"
+  },
+  {
+    "albumID" : "1726214631",
+    "artist" : "Bibi und Tina",
+    "duration" : 3298.1150000000002,
+    "releaseDate" : 728524800,
+    "title" : "Folge 112: Geheimnis hinter dem Wasserfall",
+    "upc" : "5054197960604"
+  },
+  {
+    "albumID" : "1709086207",
+    "artist" : "Bibi und Tina",
+    "duration" : 3213.9129999999996,
+    "releaseDate" : 720057600,
+    "title" : "BFF Talk - Talk 2: Rund ums Essen",
+    "upc" : "5054197826603"
+  },
+  {
+    "albumID" : "1707850204",
+    "artist" : "Bibi und Tina",
+    "duration" : 3113.8020000000006,
+    "releaseDate" : 719452800,
+    "title" : "Folge 111: Pst, Waldtiere!",
+    "upc" : "5054197817854"
+  },
+  {
+    "albumID" : "1770239951",
+    "artist" : "Bibi und Tina",
+    "duration" : 3548.1010000000015,
+    "releaseDate" : 750902400,
+    "title" : "Folge 116: Das Grusellabyrinth",
+    "upc" : "4033694521168"
+  },
+  {
+    "albumID" : "1761068614",
+    "artist" : "Bibi und Tina",
+    "duration" : 2832.2720000000004,
+    "releaseDate" : 748483200,
+    "title" : "BFF Talk - Talk 5: Unsere Lieblingszeit",
+    "upc" : "4033694525050"
+  },
+  {
+    "albumID" : "1756728751",
+    "artist" : "Bibi und Tina",
+    "duration" : 3223.039,
+    "releaseDate" : 745459200,
+    "title" : "Folge 115: Das unbekannte Pferd",
+    "upc" : "4033694521151"
+  },
+  {
+    "albumID" : "1752155921",
+    "artist" : "Bibi und Tina",
+    "duration" : 2905.7129999999997,
+    "releaseDate" : 743644800,
+    "title" : "BFF Talk - Talk 4: Welt der Pferde",
+    "upc" : "4033694525036"
+  },
+  {
+    "albumID" : "1749096401",
+    "artist" : "Bibi und Tina",
+    "duration" : 3853.950999999999,
+    "releaseDate" : 740620800,
+    "title" : "Folge 114: Überraschung auf vier Pfoten",
+    "upc" : "4033694521144"
+  },
+  {
+    "albumID" : "1737242263",
+    "artist" : "Bibi und Tina",
+    "duration" : 2567.104,
+    "releaseDate" : 735177600,
+    "title" : "BFF Talk - Talk 3: Unsere Umwelt",
+    "upc" : "5021732264282"
+  },
+  {
+    "albumID" : "1729567271",
+    "artist" : "Bibi und Tina",
+    "duration" : 2734.5740000000005,
+    "releaseDate" : 733968000,
+    "title" : "Folge 113: Der rätselhafte Fund",
+    "upc" : "5054197982965"
+  },
+  {
+    "albumID" : "1726214631",
+    "artist" : "Bibi und Tina",
+    "duration" : 3298.1150000000002,
+    "releaseDate" : 728524800,
+    "title" : "Folge 112: Geheimnis hinter dem Wasserfall",
+    "upc" : "5054197960604"
+  },
+  {
+    "albumID" : "1709086207",
+    "artist" : "Bibi und Tina",
+    "duration" : 3213.9129999999996,
+    "releaseDate" : 720057600,
+    "title" : "BFF Talk - Talk 2: Rund ums Essen",
+    "upc" : "5054197826603"
+  },
+  {
+    "albumID" : "1707850204",
+    "artist" : "Bibi und Tina",
+    "duration" : 3113.8020000000006,
+    "releaseDate" : 719452800,
+    "title" : "Folge 111: Pst, Waldtiere!",
+    "upc" : "5054197817854"
+  },
+  {
+    "albumID" : "1770239951",
+    "artist" : "Bibi und Tina",
+    "duration" : 3548.1010000000015,
+    "releaseDate" : 750902400,
+    "title" : "Folge 116: Das Grusellabyrinth",
+    "upc" : "4033694521168"
+  },
+  {
+    "albumID" : "1761068614",
+    "artist" : "Bibi und Tina",
+    "duration" : 2832.2720000000004,
+    "releaseDate" : 748483200,
+    "title" : "BFF Talk - Talk 5: Unsere Lieblingszeit",
+    "upc" : "4033694525050"
+  },
+  {
+    "albumID" : "1756728751",
+    "artist" : "Bibi und Tina",
+    "duration" : 3223.039,
+    "releaseDate" : 745459200,
+    "title" : "Folge 115: Das unbekannte Pferd",
+    "upc" : "4033694521151"
+  },
+  {
+    "albumID" : "1752155921",
+    "artist" : "Bibi und Tina",
+    "duration" : 2905.7129999999997,
+    "releaseDate" : 743644800,
+    "title" : "BFF Talk - Talk 4: Welt der Pferde",
+    "upc" : "4033694525036"
+  },
+  {
+    "albumID" : "1749096401",
+    "artist" : "Bibi und Tina",
+    "duration" : 3853.950999999999,
+    "releaseDate" : 740620800,
+    "title" : "Folge 114: Überraschung auf vier Pfoten",
+    "upc" : "4033694521144"
+  },
+  {
+    "albumID" : "1737242263",
+    "artist" : "Bibi und Tina",
+    "duration" : 2567.104,
+    "releaseDate" : 735177600,
+    "title" : "BFF Talk - Talk 3: Unsere Umwelt",
+    "upc" : "5021732264282"
+  },
+  {
+    "albumID" : "1729567271",
+    "artist" : "Bibi und Tina",
+    "duration" : 2734.5740000000005,
+    "releaseDate" : 733968000,
+    "title" : "Folge 113: Der rätselhafte Fund",
+    "upc" : "5054197982965"
+  },
+  {
+    "albumID" : "1726214631",
+    "artist" : "Bibi und Tina",
+    "duration" : 3298.1150000000002,
+    "releaseDate" : 728524800,
+    "title" : "Folge 112: Geheimnis hinter dem Wasserfall",
+    "upc" : "5054197960604"
+  },
+  {
+    "albumID" : "1709086207",
+    "artist" : "Bibi und Tina",
+    "duration" : 3213.9129999999996,
+    "releaseDate" : 720057600,
+    "title" : "BFF Talk - Talk 2: Rund ums Essen",
+    "upc" : "5054197826603"
+  },
+  {
+    "albumID" : "1707850204",
+    "artist" : "Bibi und Tina",
+    "duration" : 3113.8020000000006,
+    "releaseDate" : 719452800,
+    "title" : "Folge 111: Pst, Waldtiere!",
+    "upc" : "5054197817854"
+  },
+  {
+    "albumID" : "1770239951",
+    "artist" : "Bibi und Tina",
+    "duration" : 3548.1010000000015,
+    "releaseDate" : 750902400,
+    "title" : "Folge 116: Das Grusellabyrinth",
+    "upc" : "4033694521168"
+  },
+  {
+    "albumID" : "1761068614",
+    "artist" : "Bibi und Tina",
+    "duration" : 2832.2720000000004,
+    "releaseDate" : 748483200,
+    "title" : "BFF Talk - Talk 5: Unsere Lieblingszeit",
+    "upc" : "4033694525050"
+  },
+  {
+    "albumID" : "1756728751",
+    "artist" : "Bibi und Tina",
+    "duration" : 3223.039,
+    "releaseDate" : 745459200,
+    "title" : "Folge 115: Das unbekannte Pferd",
+    "upc" : "4033694521151"
+  },
+  {
+    "albumID" : "1752155921",
+    "artist" : "Bibi und Tina",
+    "duration" : 2905.7129999999997,
+    "releaseDate" : 743644800,
+    "title" : "BFF Talk - Talk 4: Welt der Pferde",
+    "upc" : "4033694525036"
+  },
+  {
+    "albumID" : "1749096401",
+    "artist" : "Bibi und Tina",
+    "duration" : 3853.950999999999,
+    "releaseDate" : 740620800,
+    "title" : "Folge 114: Überraschung auf vier Pfoten",
+    "upc" : "4033694521144"
+  },
+  {
+    "albumID" : "1737242263",
+    "artist" : "Bibi und Tina",
+    "duration" : 2567.104,
+    "releaseDate" : 735177600,
+    "title" : "BFF Talk - Talk 3: Unsere Umwelt",
+    "upc" : "5021732264282"
+  },
+  {
+    "albumID" : "1729567271",
+    "artist" : "Bibi und Tina",
+    "duration" : 2734.5740000000005,
+    "releaseDate" : 733968000,
+    "title" : "Folge 113: Der rätselhafte Fund",
+    "upc" : "5054197982965"
+  },
+  {
+    "albumID" : "1726214631",
+    "artist" : "Bibi und Tina",
+    "duration" : 3298.1150000000002,
+    "releaseDate" : 728524800,
+    "title" : "Folge 112: Geheimnis hinter dem Wasserfall",
+    "upc" : "5054197960604"
+  },
+  {
+    "albumID" : "1709086207",
+    "artist" : "Bibi und Tina",
+    "duration" : 3213.9129999999996,
+    "releaseDate" : 720057600,
+    "title" : "BFF Talk - Talk 2: Rund ums Essen",
+    "upc" : "5054197826603"
+  },
+  {
+    "albumID" : "1707850204",
+    "artist" : "Bibi und Tina",
+    "duration" : 3113.8020000000006,
+    "releaseDate" : 719452800,
+    "title" : "Folge 111: Pst, Waldtiere!",
+    "upc" : "5054197817854"
+  },
+  {
+    "albumID" : "1770239951",
+    "artist" : "Bibi und Tina",
+    "duration" : 3548.1010000000015,
+    "releaseDate" : 750902400,
+    "title" : "Folge 116: Das Grusellabyrinth",
+    "upc" : "4033694521168"
+  },
+  {
+    "albumID" : "1761068614",
+    "artist" : "Bibi und Tina",
+    "duration" : 2832.2720000000004,
+    "releaseDate" : 748483200,
+    "title" : "BFF Talk - Talk 5: Unsere Lieblingszeit",
+    "upc" : "4033694525050"
+  },
+  {
+    "albumID" : "1756728751",
+    "artist" : "Bibi und Tina",
+    "duration" : 3223.039,
+    "releaseDate" : 745459200,
+    "title" : "Folge 115: Das unbekannte Pferd",
+    "upc" : "4033694521151"
+  },
+  {
+    "albumID" : "1752155921",
+    "artist" : "Bibi und Tina",
+    "duration" : 2905.7129999999997,
+    "releaseDate" : 743644800,
+    "title" : "BFF Talk - Talk 4: Welt der Pferde",
+    "upc" : "4033694525036"
+  },
+  {
+    "albumID" : "1749096401",
+    "artist" : "Bibi und Tina",
+    "duration" : 3853.950999999999,
+    "releaseDate" : 740620800,
+    "title" : "Folge 114: Überraschung auf vier Pfoten",
+    "upc" : "4033694521144"
+  },
+  {
+    "albumID" : "1737242263",
+    "artist" : "Bibi und Tina",
+    "duration" : 2567.104,
+    "releaseDate" : 735177600,
+    "title" : "BFF Talk - Talk 3: Unsere Umwelt",
+    "upc" : "5021732264282"
+  },
+  {
+    "albumID" : "1729567271",
+    "artist" : "Bibi und Tina",
+    "duration" : 2734.5740000000005,
+    "releaseDate" : 733968000,
+    "title" : "Folge 113: Der rätselhafte Fund",
+    "upc" : "5054197982965"
+  },
+  {
+    "albumID" : "1726214631",
+    "artist" : "Bibi und Tina",
+    "duration" : 3298.1150000000002,
+    "releaseDate" : 728524800,
+    "title" : "Folge 112: Geheimnis hinter dem Wasserfall",
+    "upc" : "5054197960604"
+  },
+  {
+    "albumID" : "1709086207",
+    "artist" : "Bibi und Tina",
+    "duration" : 3213.9129999999996,
+    "releaseDate" : 720057600,
+    "title" : "BFF Talk - Talk 2: Rund ums Essen",
+    "upc" : "5054197826603"
+  },
+  {
+    "albumID" : "1707850204",
+    "artist" : "Bibi und Tina",
+    "duration" : 3113.8020000000006,
+    "releaseDate" : 719452800,
+    "title" : "Folge 111: Pst, Waldtiere!",
+    "upc" : "5054197817854"
+  },
+  {
+    "albumID" : "1691297572",
+    "artist" : "Bibi und Tina",
+    "duration" : 3213.817,
+    "releaseDate" : 711590400,
+    "title" : "Folge 110: Wirbel um Mikosch",
+    "upc" : "5054197701306"
+  },
+  {
+    "albumID" : "1677784415",
+    "artist" : "Bibi und Tina",
+    "duration" : 2684.4429999999998,
+    "releaseDate" : 704937600,
+    "title" : "Folge 109: Die Heu-Krise",
+    "upc" : "5054197615757"
+  },
+  {
+    "albumID" : "1659831971",
+    "artist" : "Bibi und Tina",
+    "duration" : 2529.0330000000004,
+    "releaseDate" : 697075200,
+    "title" : "Folge 108: Die verlorene Freundschaft",
+    "upc" : "5054197486029"
+  },
+  {
+    "albumID" : "1640111776",
+    "artist" : "Bibi und Tina",
+    "duration" : 2733.899,
+    "releaseDate" : 687398400,
+    "title" : "Folge 107: Club der geheimen Reiter",
+    "upc" : "5054197254345"
+  },
+  {
+    "albumID" : "1636675523",
+    "artist" : "Bibi und Tina",
+    "duration" : 3122.1189999999997,
+    "releaseDate" : 684374400,
+    "title" : "Folge 106: Hilfe für den Wald",
+    "upc" : "5054197254123"
+  },
+  {
+    "albumID" : "1617809921",
+    "artist" : "Bibi und Tina",
+    "duration" : 2929.3080000000004,
+    "releaseDate" : 673488000,
+    "title" : "Folge 105: Das blinde Mädchen",
+    "upc" : "5054197141560"
+  },
+  {
+    "albumID" : "1605752595",
+    "artist" : "Bibi und Tina",
+    "duration" : 2729.802,
+    "releaseDate" : 665625600,
+    "title" : "Folge 104: Das Pflegepferd",
+    "upc" : "190296274572"
+  },
+  {
+    "albumID" : "1587025830",
+    "artist" : "Bibi und Tina",
+    "duration" : 3170.5099999999998,
+    "releaseDate" : 656553600,
+    "title" : "Folge 103: Die Schlossrenovierung",
+    "upc" : "190296432309"
+  },
+  {
+    "albumID" : "1529907928",
+    "artist" : "Bibi und Tina",
+    "duration" : 2488.7950000000005,
+    "releaseDate" : 622080000,
+    "title" : "Folge 98: Ein Fall für Dr. Eichhorn",
+    "upc" : "190295153052"
+  },
+  {
+    "albumID" : "1502114406",
+    "artist" : "Bibi und Tina",
+    "duration" : 8083.458000000001,
+    "releaseDate" : 607564800,
+    "title" : "Hörspiele zur Serie (Staffel 1, Episode 1-5)",
+    "upc" : "190295249823"
+  },
+  {
+    "albumID" : "1691297572",
+    "artist" : "Bibi und Tina",
+    "duration" : 3213.817,
+    "releaseDate" : 711590400,
+    "title" : "Folge 110: Wirbel um Mikosch",
+    "upc" : "5054197701306"
+  },
+  {
+    "albumID" : "1677784415",
+    "artist" : "Bibi und Tina",
+    "duration" : 2684.4429999999998,
+    "releaseDate" : 704937600,
+    "title" : "Folge 109: Die Heu-Krise",
+    "upc" : "5054197615757"
+  },
+  {
+    "albumID" : "1659831971",
+    "artist" : "Bibi und Tina",
+    "duration" : 2529.0330000000004,
+    "releaseDate" : 697075200,
+    "title" : "Folge 108: Die verlorene Freundschaft",
+    "upc" : "5054197486029"
+  },
+  {
+    "albumID" : "1640111776",
+    "artist" : "Bibi und Tina",
+    "duration" : 2733.899,
+    "releaseDate" : 687398400,
+    "title" : "Folge 107: Club der geheimen Reiter",
+    "upc" : "5054197254345"
+  },
+  {
+    "albumID" : "1636675523",
+    "artist" : "Bibi und Tina",
+    "duration" : 3122.1189999999997,
+    "releaseDate" : 684374400,
+    "title" : "Folge 106: Hilfe für den Wald",
+    "upc" : "5054197254123"
+  },
+  {
+    "albumID" : "1617809921",
+    "artist" : "Bibi und Tina",
+    "duration" : 2929.3080000000004,
+    "releaseDate" : 673488000,
+    "title" : "Folge 105: Das blinde Mädchen",
+    "upc" : "5054197141560"
+  },
+  {
+    "albumID" : "1605752595",
+    "artist" : "Bibi und Tina",
+    "duration" : 2729.802,
+    "releaseDate" : 665625600,
+    "title" : "Folge 104: Das Pflegepferd",
+    "upc" : "190296274572"
+  },
+  {
+    "albumID" : "1587025830",
+    "artist" : "Bibi und Tina",
+    "duration" : 3170.5099999999998,
+    "releaseDate" : 656553600,
+    "title" : "Folge 103: Die Schlossrenovierung",
+    "upc" : "190296432309"
+  },
+  {
+    "albumID" : "1529907928",
+    "artist" : "Bibi und Tina",
+    "duration" : 2488.7950000000005,
+    "releaseDate" : 622080000,
+    "title" : "Folge 98: Ein Fall für Dr. Eichhorn",
+    "upc" : "190295153052"
+  },
+  {
+    "albumID" : "1502114406",
+    "artist" : "Bibi und Tina",
+    "duration" : 8083.458000000001,
+    "releaseDate" : 607564800,
+    "title" : "Hörspiele zur Serie (Staffel 1, Episode 1-5)",
+    "upc" : "190295249823"
+  },
+  {
+    "albumID" : "1474268624",
+    "artist" : "Bibi und Tina",
+    "duration" : 5046.621000000001,
+    "releaseDate" : 587606400,
+    "title" : "Zoff! (Live-Hörspiel)",
+    "upc" : "190295372415"
+  }
+]
