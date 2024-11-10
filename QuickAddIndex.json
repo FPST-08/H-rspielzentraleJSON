@@ -5,6 +5,11 @@
     "url" : "https://raw.githubusercontent.com/FPST-08/H-rspielzentraleJSON/refs/heads/main/191548811.json"
   },
   {
+    "id" : "4597171",
+    "name" : "John Sinclair",
+    "url" : "https://raw.githubusercontent.com/FPST-08/H-rspielzentraleJSON/refs/heads/main/4597171.json"
+  },
+  {
     "id" : "41480004",
     "name" : "Bibi Blocksberg",
     "url" : "https://raw.githubusercontent.com/FPST-08/H-rspielzentraleJSON/refs/heads/main/41480004.json"
@@ -50,8 +55,8 @@
     "url" : "https://raw.githubusercontent.com/FPST-08/H-rspielzentraleJSON/refs/heads/main/970177710.json"
   },
   {
-    "id" : "4597171",
-    "name" : "John Sinclair",
-    "url" : "https://raw.githubusercontent.com/FPST-08/H-rspielzentraleJSON/refs/heads/main/4597171.json"
+    "id" : "4088486",
+    "name" : "Scotland Yard",
+    "url" : "https://raw.githubusercontent.com/FPST-08/H-rspielzentraleJSON/refs/heads/main/4088486.json"
   }
 ]
