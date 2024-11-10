@@ -25,6 +25,11 @@
     "url" : "https://raw.githubusercontent.com/FPST-08/H-rspielzentraleJSON/refs/heads/main/215716521.json"
   },
   {
+    "id" : "305761269",
+    "name" : "Die drei ??? Kids",
+    "url" : "https://raw.githubusercontent.com/FPST-08/H-rspielzentraleJSON/refs/heads/main/305761269.json"
+  },
+  {
     "id" : "220152697",
     "name" : "Bibi und Tina",
     "url" : "https://raw.githubusercontent.com/FPST-08/H-rspielzentraleJSON/refs/heads/main/220152697.json"
@@ -35,18 +40,13 @@
     "url" : "https://raw.githubusercontent.com/FPST-08/H-rspielzentraleJSON/refs/heads/main/374902873.json"
   },
   {
-    "id" : "216347875",
-    "name" : "Fünf Freunde",
-    "url" : "https://raw.githubusercontent.com/FPST-08/H-rspielzentraleJSON/refs/heads/main/216347875.json"
-  },
-  {
     "id" : "201306317",
     "name" : "Die drei ???",
     "url" : "https://raw.githubusercontent.com/FPST-08/H-rspielzentraleJSON/refs/heads/main/201306317.json"
   },
   {
-    "id" : "305761269",
-    "name" : "Die drei ??? Kids",
-    "url" : "https://raw.githubusercontent.com/FPST-08/H-rspielzentraleJSON/refs/heads/main/305761269.json"
+    "id" : "216347875",
+    "name" : "Fünf Freunde",
+    "url" : "https://raw.githubusercontent.com/FPST-08/H-rspielzentraleJSON/refs/heads/main/216347875.json"
   }
 ]
