@@ -1,0 +1,122 @@
+[
+  {
+    "albumID" : "1322494047",
+    "artist" : "Die rätselhaften Fälle des Pater Brown",
+    "duration" : 2858.3990000000003,
+    "releaseDate" : 448502400,
+    "title" : "Folge 01: Das blaue Kreuz",
+    "upc" : "9783960669142"
+  },
+  {
+    "albumID" : "1322488321",
+    "artist" : "Die rätselhaften Fälle des Pater Brown",
+    "duration" : 2022.9880000000003,
+    "releaseDate" : 448502400,
+    "title" : "Folge 02: Die seltsamen Schritte",
+    "upc" : "9783960669159"
+  },
+  {
+    "albumID" : "1322448458",
+    "artist" : "Die rätselhaften Fälle des Pater Brown",
+    "duration" : 2610.026,
+    "releaseDate" : 459993600,
+    "title" : "Folge 04: Das Zeichen des zerbrochenen Säbels",
+    "upc" : "9783960669173"
+  },
+  {
+    "albumID" : "1322446711",
+    "artist" : "Die rätselhaften Fälle des Pater Brown",
+    "duration" : 2443.119,
+    "releaseDate" : 479952000,
+    "title" : "Folge 5: Das seltsame Verbrechen des John Boulnois",
+    "upc" : "9783960669180"
+  },
+  {
+    "albumID" : "1322437187",
+    "artist" : "Die rätselhaften Fälle des Pater Brown",
+    "duration" : 3177.9089999999997,
+    "releaseDate" : 479952000,
+    "title" : "Folge 6: Das Auge des Apoll",
+    "upc" : "9783960669197"
+  },
+  {
+    "albumID" : "1322433427",
+    "artist" : "Die rätselhaften Fälle des Pater Brown",
+    "duration" : 2312.44,
+    "releaseDate" : 481161600,
+    "title" : "Folge 7: Die fliegenden Sterne",
+    "upc" : "9783960669203"
+  },
+  {
+    "albumID" : "1322428398",
+    "artist" : "Die rätselhaften Fälle des Pater Brown",
+    "duration" : 2430.2390000000005,
+    "releaseDate" : 482371200,
+    "title" : "Folge 8: Der geheimnisvolle Garten",
+    "upc" : "9783960669210"
+  },
+  {
+    "albumID" : "1322424909",
+    "artist" : "Die rätselhaften Fälle des Pater Brown",
+    "duration" : 2826.2009999999996,
+    "releaseDate" : 492048000,
+    "title" : "Folge 9: Der Unsichtbare",
+    "upc" : "9783960669227"
+  },
+  {
+    "albumID" : "1537379131",
+    "artist" : "Die rätselhaften Fälle des Pater Brown",
+    "duration" : 2526.338,
+    "releaseDate" : 628128000,
+    "title" : "Folge 10: Die Ehre des Israel Gow",
+    "upc" : "4260507159793"
+  },
+  {
+    "albumID" : "1605176157",
+    "artist" : "Die rätselhaften Fälle des Pater Brown",
+    "duration" : 2034,
+    "releaseDate" : 675302400,
+    "title" : "Folge 11: Die drei Todeswerkzeuge",
+    "upc" : "4260507171238"
+  },
+  {
+    "albumID" : "1656684774",
+    "artist" : "Die rätselhaften Fälle des Pater Brown",
+    "duration" : 3112.998000000001,
+    "releaseDate" : 709171200,
+    "title" : "Folge 12: Der geflügelte Dolch",
+    "upc" : "4260507178022"
+  },
+  {
+    "albumID" : "1680674161",
+    "artist" : "Die rätselhaften Fälle des Pater Brown",
+    "duration" : 3008.9990000000007,
+    "releaseDate" : 709776000,
+    "title" : "Folge 13: Das Paradies der Diebe",
+    "upc" : "4260507181954"
+  },
+  {
+    "albumID" : "1726914579",
+    "artist" : "Die rätselhaften Fälle des Pater Brown",
+    "duration" : 4311.002000000002,
+    "releaseDate" : 732758400,
+    "title" : "Folge 14: Ein Pfeil vom Himmel",
+    "upc" : "4260507192455"
+  },
+  {
+    "albumID" : "1753692778",
+    "artist" : "Die rätselhaften Fälle des Pater Brown",
+    "duration" : 3239.9990000000003,
+    "releaseDate" : 742435200,
+    "title" : "Folge 15: Die Sünden des Prinzen Saradin",
+    "upc" : "4260507196972"
+  },
+  {
+    "albumID" : "1775148514",
+    "artist" : "Die rätselhaften Fälle des Pater Brown",
+    "duration" : 186.19,
+    "releaseDate" : 755136000,
+    "title" : "Folge 16: Der rote Mond von Meru",
+    "upc" : "4260507199942"
+  }
+]
