@@ -1,75 +1,755 @@
 [
   {
-    "albumID" : "1722101474",
+    "albumID" : "1029953929",
     "artist" : "Teufelskicker",
-    "duration" : 5025.4400000000005,
-    "releaseDate" : 727920000,
-    "title" : "Folge 101: Der doppelte Norberger!",
-    "upc" : "196871289900"
+    "duration" : 3055.386,
+    "releaseDate" : 149731200,
+    "title" : "Folge 1: Moritz macht das Spiel",
+    "upc" : "886445167016"
   },
   {
-    "albumID" : "1694279807",
+    "albumID" : "1029947034",
     "artist" : "Teufelskicker",
-    "duration" : 4428.932,
-    "releaseDate" : 710985600,
-    "title" : "Folge 99: Teufelskickerin in Down Under!",
-    "upc" : "196871098274"
+    "duration" : 2909.3869999999997,
+    "releaseDate" : 149817600,
+    "title" : "Folge 2: Eine knallharte Saison",
+    "upc" : "886445167061"
   },
   {
-    "albumID" : "1684472887",
+    "albumID" : "1029960791",
     "artist" : "Teufelskicker",
-    "duration" : 5105.186000000001,
-    "releaseDate" : 684374400,
-    "title" : "Folge 95: Touchdown für die Teufelskicker!",
-    "upc" : "886449737536"
+    "duration" : 3144.784,
+    "releaseDate" : 149904000,
+    "title" : "Folge 3: Holt euch den Cup!",
+    "upc" : "886445167085"
   },
   {
-    "albumID" : "1684467191",
+    "albumID" : "1029954365",
     "artist" : "Teufelskicker",
-    "duration" : 4725.23,
-    "releaseDate" : 672278400,
-    "title" : "Folge 93: Alle Balla-Balla!",
-    "upc" : "196871040280"
+    "duration" : 3093.5040000000013,
+    "releaseDate" : 162864000,
+    "title" : "Folge 4: Stürmer gesucht!",
+    "upc" : "886445239843"
   },
   {
-    "albumID" : "1604578873",
+    "albumID" : "1029951004",
     "artist" : "Teufelskicker",
-    "duration" : 4567.453,
-    "releaseDate" : 666835200,
-    "title" : "Folge 92: Auszeit!",
-    "upc" : "886448748496"
+    "duration" : 3026.6929999999998,
+    "releaseDate" : 162950400,
+    "title" : "Folge 5: Torschuss mit Folgen",
+    "upc" : "886445239874"
   },
   {
-    "albumID" : "1547955136",
+    "albumID" : "1029950705",
     "artist" : "Teufelskicker",
-    "duration" : 4065.8250000000007,
-    "releaseDate" : 637200000,
-    "title" : "Folge 88: Ei! Ei! Eigentor!",
-    "upc" : "886448297901"
+    "duration" : 3432.4260000000004,
+    "releaseDate" : 163036800,
+    "title" : "Folge 6: Ein unheimlich starker Gegner",
+    "upc" : "886445239898"
   },
   {
-    "albumID" : "1547807482",
+    "albumID" : "1309074403",
     "artist" : "Teufelskicker",
-    "duration" : 4580.254,
-    "releaseDate" : 633571200,
-    "title" : "Folge 87: Viva Futebol!",
-    "upc" : "886448297895"
+    "duration" : 46.92,
+    "releaseDate" : 172713600,
+    "title" : "Teufelskicker (Titelsong) - Single",
+    "upc" : "886444705967"
   },
   {
-    "albumID" : "1539405079",
+    "albumID" : "1029946578",
     "artist" : "Teufelskicker",
-    "duration" : 4588.375999999999,
-    "releaseDate" : 628732800,
-    "title" : "Folge 86: Blau-Gelb in Bayern!",
-    "upc" : "886448297888"
+    "duration" : 3199.5719999999997,
+    "releaseDate" : 175132800,
+    "title" : "Folge 7: La Ola mit Opa",
+    "upc" : "886445239904"
   },
   {
-    "albumID" : "1530151833",
+    "albumID" : "1029957270",
     "artist" : "Teufelskicker",
-    "duration" : 4331.745,
-    "releaseDate" : 624499200,
-    "title" : "Folge 85: Der Strafraum-Streuner!",
-    "upc" : "886447868799"
+    "duration" : 4205.522000000001,
+    "releaseDate" : 184809600,
+    "title" : "Folge 46: Eigentor für Moritz!",
+    "upc" : "886445284003"
+  },
+  {
+    "albumID" : "1029945921",
+    "artist" : "Teufelskicker",
+    "duration" : 3285.5879999999993,
+    "releaseDate" : 184809600,
+    "title" : "Folge 8: Doppelter Einsatz für Moritz!",
+    "upc" : "886445239911"
+  },
+  {
+    "albumID" : "1029945689",
+    "artist" : "Teufelskicker",
+    "duration" : 3265.2020000000007,
+    "releaseDate" : 195091200,
+    "title" : "Folge 9: Talent gesichtet",
+    "upc" : "886445239935"
+  },
+  {
+    "albumID" : "1029951400",
+    "artist" : "Teufelskicker",
+    "duration" : 3263.0629999999996,
+    "releaseDate" : 202953600,
+    "title" : "Folge 10: Pokal in Gefahr",
+    "upc" : "886445240078"
+  },
+  {
+    "albumID" : "1029960717",
+    "artist" : "Teufelskicker",
+    "duration" : 3355.310000000001,
+    "releaseDate" : 225936000,
+    "title" : "Folge 11: Der Teufel im Wald",
+    "upc" : "886445240115"
+  },
+  {
+    "albumID" : "1029960230",
+    "artist" : "Teufelskicker",
+    "duration" : 3453.9100000000017,
+    "releaseDate" : 231984000,
+    "title" : "Folge 12: und Revolverheld",
+    "upc" : "886445240153"
+  },
+  {
+    "albumID" : "1029950195",
+    "artist" : "Teufelskicker",
+    "duration" : 2908.200000000001,
+    "releaseDate" : 237427200,
+    "title" : "Folge 13: Sieg um jeden Preis!",
+    "upc" : "886445240160"
+  },
+  {
+    "albumID" : "1029945317",
+    "artist" : "Teufelskicker",
+    "duration" : 3188.746999999999,
+    "releaseDate" : 248313600,
+    "title" : "Folge 14: Falsches Spiel im Turnier",
+    "upc" : "886445240207"
+  },
+  {
+    "albumID" : "1029946065",
+    "artist" : "Teufelskicker",
+    "duration" : 3752.8669999999993,
+    "releaseDate" : 256780800,
+    "title" : "Folge 15: Spuk im Vereinsheim!",
+    "upc" : "886445240238"
+  },
+  {
+    "albumID" : "1029953881",
+    "artist" : "Teufelskicker",
+    "duration" : 3157.638,
+    "releaseDate" : 266457600,
+    "title" : "Folge 16: Verpasste Chance!",
+    "upc" : "886445240283"
+  },
+  {
+    "albumID" : "1029960841",
+    "artist" : "Teufelskicker",
+    "duration" : 4241.454000000001,
+    "releaseDate" : 272505600,
+    "title" : "Folge 17: Der Milch-Millionär!",
+    "upc" : "886445240320"
+  },
+  {
+    "albumID" : "1029960661",
+    "artist" : "Teufelskicker",
+    "duration" : 2912.532,
+    "releaseDate" : 277344000,
+    "title" : "Folge 18: Spielerin im Abseits",
+    "upc" : "886445240382"
+  },
+  {
+    "albumID" : "1029949983",
+    "artist" : "Teufelskicker",
+    "duration" : 4058.840999999999,
+    "releaseDate" : 280972800,
+    "title" : "Folge 19: Viel Wirbel um Schorschi!",
+    "upc" : "886445240399"
+  },
+  {
+    "albumID" : "1029957382",
+    "artist" : "Teufelskicker",
+    "duration" : 4014.73,
+    "releaseDate" : 287625600,
+    "title" : "Folge 20: Doping im Spiel?",
+    "upc" : "886445240443"
+  },
+  {
+    "albumID" : "1029957893",
+    "artist" : "Teufelskicker",
+    "duration" : 3273.5600000000004,
+    "releaseDate" : 290044800,
+    "title" : "Folge 21: Moritz startet durch!",
+    "upc" : "886445240504"
+  },
+  {
+    "albumID" : "1029949102",
+    "artist" : "Teufelskicker",
+    "duration" : 4544.291000000002,
+    "releaseDate" : 297907200,
+    "title" : "Folge 22: Die Teufels-Kocher!",
+    "upc" : "886445240535"
+  },
+  {
+    "albumID" : "1029946079",
+    "artist" : "Teufelskicker",
+    "duration" : 3216.478,
+    "releaseDate" : 300326400,
+    "title" : "Folge 23: Im Untergrund!",
+    "upc" : "886445240566"
+  },
+  {
+    "albumID" : "1029961913",
+    "artist" : "Teufelskicker",
+    "duration" : 4214.996999999999,
+    "releaseDate" : 306374400,
+    "title" : "Folge 24: Geheimakte Blau-Gelb!",
+    "upc" : "886445240641"
+  },
+  {
+    "albumID" : "1029952286",
+    "artist" : "Teufelskicker",
+    "duration" : 4442.400999999999,
+    "releaseDate" : 306979200,
+    "title" : "Folge 25: 1, 2, 3, Winter-Hexerei!",
+    "upc" : "886445240726"
+  },
+  {
+    "albumID" : "1029946066",
+    "artist" : "Teufelskicker",
+    "duration" : 4105.451999999999,
+    "releaseDate" : 313027200,
+    "title" : "Folge 26: SOS aus Schweinesand!",
+    "upc" : "886445240757"
+  },
+  {
+    "albumID" : "1029953591",
+    "artist" : "Teufelskicker",
+    "duration" : 3516.5460000000003,
+    "releaseDate" : 319075200,
+    "title" : "Folge 27: Seitenwechsel!",
+    "upc" : "886445240801"
+  },
+  {
+    "albumID" : "1029957785",
+    "artist" : "Teufelskicker",
+    "duration" : 4404.802,
+    "releaseDate" : 324518400,
+    "title" : "Folge 28: Jäger des verlorenen Pokals!",
+    "upc" : "886445240832"
+  },
+  {
+    "albumID" : "1029961890",
+    "artist" : "Teufelskicker",
+    "duration" : 4230.81,
+    "releaseDate" : 329356800,
+    "title" : "Folge 29: Mädchen-Alarm!",
+    "upc" : "886445240849"
+  },
+  {
+    "albumID" : "1029962287",
+    "artist" : "Teufelskicker",
+    "duration" : 4350.292,
+    "releaseDate" : 335404800,
+    "title" : "Folge 30: Vampire im Feriencamp!",
+    "upc" : "886445240979"
+  },
+  {
+    "albumID" : "1029949183",
+    "artist" : "Teufelskicker",
+    "duration" : 4352.400000000001,
+    "releaseDate" : 338428800,
+    "title" : "Folge 31: Kicken auf Kufen!",
+    "upc" : "886445241006"
+  },
+  {
+    "albumID" : "1029953721",
+    "artist" : "Teufelskicker",
+    "duration" : 3758.012,
+    "releaseDate" : 339033600,
+    "title" : "Folge 32: Sammelfieber!",
+    "upc" : "886445241044"
+  },
+  {
+    "albumID" : "1029950601",
+    "artist" : "Teufelskicker",
+    "duration" : 3026.123,
+    "releaseDate" : 343872000,
+    "title" : "Folge 33: Falsche Pfiffe!",
+    "upc" : "886445241075"
+  },
+  {
+    "albumID" : "1029957023",
+    "artist" : "Teufelskicker",
+    "duration" : 4127.7080000000005,
+    "releaseDate" : 350524800,
+    "title" : "Folge 34: Freundschaft in Gefahr!",
+    "upc" : "886445241112"
+  },
+  {
+    "albumID" : "1029955068",
+    "artist" : "Teufelskicker",
+    "duration" : 4431.851999999999,
+    "releaseDate" : 355968000,
+    "title" : "Folge 35: Blau-Gelb gegen die Teufelskicker!",
+    "upc" : "886445241174"
+  },
+  {
+    "albumID" : "1029958359",
+    "artist" : "Teufelskicker",
+    "duration" : 4107.519,
+    "releaseDate" : 358992000,
+    "title" : "Folge 36: Geisterspiel!",
+    "upc" : "886445241198"
+  },
+  {
+    "albumID" : "1029961977",
+    "artist" : "Teufelskicker",
+    "duration" : 4271.88,
+    "releaseDate" : 365040000,
+    "title" : "Folge 37: Der Super-Coach!",
+    "upc" : "886445241204"
+  },
+  {
+    "albumID" : "1029951946",
+    "artist" : "Teufelskicker",
+    "duration" : 4280.331999999999,
+    "releaseDate" : 367459200,
+    "title" : "Folge 38: Catrina bleibt am Ball!",
+    "upc" : "886445241235"
+  },
+  {
+    "albumID" : "1029954654",
+    "artist" : "Teufelskicker",
+    "duration" : 4300.187,
+    "releaseDate" : 369878400,
+    "title" : "Folge 39: Gipfelstürmer!",
+    "upc" : "886445241259"
+  },
+  {
+    "albumID" : "1029957695",
+    "artist" : "Teufelskicker",
+    "duration" : 4251.268000000001,
+    "releaseDate" : 375321600,
+    "title" : "Folge 40: Spiel mir das Lied vom Tor!",
+    "upc" : "886445241273"
+  },
+  {
+    "albumID" : "1029957771",
+    "artist" : "Teufelskicker",
+    "duration" : 3595.8100000000004,
+    "releaseDate" : 382579200,
+    "title" : "Folge 41: Rettet Blau-Gelb!",
+    "upc" : "886445283952"
+  },
+  {
+    "albumID" : "1029958447",
+    "artist" : "Teufelskicker",
+    "duration" : 4013.1859999999992,
+    "releaseDate" : 385603200,
+    "title" : "Folge 42: König der Keeper!",
+    "upc" : "886445283969"
+  },
+  {
+    "albumID" : "1029955596",
+    "artist" : "Teufelskicker",
+    "duration" : 4303.509000000002,
+    "releaseDate" : 389836800,
+    "title" : "Folge 43: Die Beach-Kings",
+    "upc" : "886445283976"
+  },
+  {
+    "albumID" : "1029955069",
+    "artist" : "Teufelskicker",
+    "duration" : 3901.0009999999993,
+    "releaseDate" : 395280000,
+    "title" : "Folge 44: Wo ist Tasman?",
+    "upc" : "886445283983"
+  },
+  {
+    "albumID" : "1029957772",
+    "artist" : "Teufelskicker",
+    "duration" : 3625.3469999999993,
+    "releaseDate" : 399513600,
+    "title" : "Folge 45: Mission TK!",
+    "upc" : "886445283990"
+  },
+  {
+    "albumID" : "1057596365",
+    "artist" : "Teufelskicker",
+    "duration" : 4412.801,
+    "releaseDate" : 406771200,
+    "title" : "Folge 47: 13:0 für die Teufelskicker!",
+    "upc" : "886445317527"
+  },
+  {
+    "albumID" : "1057601758",
+    "artist" : "Teufelskicker",
+    "duration" : 4625.8279999999995,
+    "releaseDate" : 414028800,
+    "title" : "Folge 48: Der Elfer-Elvis!",
+    "upc" : "886445317534"
+  },
+  {
+    "albumID" : "1057608912",
+    "artist" : "Teufelskicker",
+    "duration" : 4312.575999999999,
+    "releaseDate" : 418262400,
+    "title" : "Folge 49: Kapitän über Bord!",
+    "upc" : "886445317541"
+  },
+  {
+    "albumID" : "1057616678",
+    "artist" : "Teufelskicker",
+    "duration" : 8474.545999999998,
+    "releaseDate" : 422496000,
+    "title" : "Folge 50: Ballzauber!",
+    "upc" : "886445317558"
+  },
+  {
+    "albumID" : "1057623269",
+    "artist" : "Teufelskicker",
+    "duration" : 4036.853,
+    "releaseDate" : 427334400,
+    "title" : "Folge 51: Schiri in Not!",
+    "upc" : "886445317596"
+  },
+  {
+    "albumID" : "1057626178",
+    "artist" : "Teufelskicker",
+    "duration" : 4106.242,
+    "releaseDate" : 433382400,
+    "title" : "Folge 52: Hallen-Duell!",
+    "upc" : "886445317602"
+  },
+  {
+    "albumID" : "1057629025",
+    "artist" : "Teufelskicker",
+    "duration" : 4232.626,
+    "releaseDate" : 438825600,
+    "title" : "Folge 53: Zoff bei Zeche 04",
+    "upc" : "886445317626"
+  },
+  {
+    "albumID" : "1057630398",
+    "artist" : "Teufelskicker",
+    "duration" : 4188.000000000001,
+    "releaseDate" : 445478400,
+    "title" : "Folge 54: Der Ballflüsterer!",
+    "upc" : "886445317633"
+  },
+  {
+    "albumID" : "1057630385",
+    "artist" : "Teufelskicker",
+    "duration" : 4282.469000000001,
+    "releaseDate" : 450316800,
+    "title" : "Folge 55: Umwelt-Foul!",
+    "upc" : "886445317640"
+  },
+  {
+    "albumID" : "1057633273",
+    "artist" : "Teufelskicker",
+    "duration" : 4282.131,
+    "releaseDate" : 455155200,
+    "title" : "Folge 56: Der Doppelpass!",
+    "upc" : "886445317657"
+  },
+  {
+    "albumID" : "1057636146",
+    "artist" : "Teufelskicker",
+    "duration" : 4279.119999999999,
+    "releaseDate" : 461808000,
+    "title" : "Folge 57: Quiz-Duell!",
+    "upc" : "886445317664"
+  },
+  {
+    "albumID" : "1057641279",
+    "artist" : "Teufelskicker",
+    "duration" : 4558.745000000001,
+    "releaseDate" : 464832000,
+    "title" : "Folge 58: Heja Blau-Gelb!",
+    "upc" : "886445317671"
+  },
+  {
+    "albumID" : "1057150546",
+    "artist" : "Teufelskicker",
+    "duration" : 4108.171,
+    "releaseDate" : 469670400,
+    "title" : "Folge 59: Arbeitssieg!",
+    "upc" : "886445550474"
+  },
+  {
+    "albumID" : "1068418624",
+    "artist" : "Teufelskicker",
+    "duration" : 3990.0390000000007,
+    "releaseDate" : 477532800,
+    "title" : "Folge 60: Ein heißer Ritt!",
+    "upc" : "886444278935"
+  },
+  {
+    "albumID" : "1082346453",
+    "artist" : "Teufelskicker",
+    "duration" : 4490.986000000001,
+    "releaseDate" : 482371200,
+    "title" : "Folge 61: Das Abstiegsgespenst!",
+    "upc" : "886445629040"
+  },
+  {
+    "albumID" : "1099781579",
+    "artist" : "Teufelskicker",
+    "duration" : 4366.069,
+    "releaseDate" : 486604800,
+    "title" : "Folge 62: Das Wunder von Bert!",
+    "upc" : "886445629064"
+  },
+  {
+    "albumID" : "1117054118",
+    "artist" : "Teufelskicker",
+    "duration" : 4584.897,
+    "releaseDate" : 495072000,
+    "title" : "Folge 63: Sauber gespielt!",
+    "upc" : "886445629071"
+  },
+  {
+    "albumID" : "1148043451",
+    "artist" : "Teufelskicker",
+    "duration" : 8320.574999999999,
+    "releaseDate" : 501120000,
+    "title" : "Folge 64: Punktspiel oder Popstar?",
+    "upc" : "886445629088"
+  },
+  {
+    "albumID" : "1172418152",
+    "artist" : "Teufelskicker",
+    "duration" : 4681.401999999999,
+    "releaseDate" : 507168000,
+    "title" : "Folge 65: Die Kicker der Tafelrunde!",
+    "upc" : "886445629095"
+  },
+  {
+    "albumID" : "1193158015",
+    "artist" : "Teufelskicker",
+    "duration" : 4195.615000000001,
+    "releaseDate" : 510796800,
+    "title" : "Folge 66: Labrador, noch ein Tor!",
+    "upc" : "886445629101"
+  },
+  {
+    "albumID" : "1208986284",
+    "artist" : "Teufelskicker",
+    "duration" : 4334.348,
+    "releaseDate" : 518659200,
+    "title" : "Folge 67: Paula im Abseits!",
+    "upc" : "886445629118"
+  },
+  {
+    "albumID" : "1240134685",
+    "artist" : "Teufelskicker",
+    "duration" : 4341.813,
+    "releaseDate" : 528336000,
+    "title" : "Folge 68: Das Juwel vom Rummelplatz",
+    "upc" : "886445629125"
+  },
+  {
+    "albumID" : "1286720910",
+    "artist" : "Teufelskicker",
+    "duration" : 4512.572999999999,
+    "releaseDate" : 532569600,
+    "title" : "Folge 69: Die guten Taten!",
+    "upc" : "886445629149"
+  },
+  {
+    "albumID" : "1333519765",
+    "artist" : "Teufelskicker",
+    "duration" : 4212.236999999999,
+    "releaseDate" : 538617600,
+    "title" : "Folge 70: Duell bei Flutlicht!",
+    "upc" : "886445629156"
+  },
+  {
+    "albumID" : "1347943061",
+    "artist" : "Teufelskicker",
+    "duration" : 4595.627,
+    "releaseDate" : 542246400,
+    "title" : "Folge 71: Die Rückkehr der Beach Kings!",
+    "upc" : "886446538945"
+  },
+  {
+    "albumID" : "1398251896",
+    "artist" : "Teufelskicker",
+    "duration" : 399.47900000000004,
+    "releaseDate" : 549504000,
+    "title" : "WM-Wissen: Abseits!",
+    "upc" : "886447154984"
+  },
+  {
+    "albumID" : "1398250787",
+    "artist" : "Teufelskicker",
+    "duration" : 461.427,
+    "releaseDate" : 549504000,
+    "title" : "WM-Wissen: Die größten Spiele der WM!",
+    "upc" : "886447154991"
+  },
+  {
+    "albumID" : "1391074728",
+    "artist" : "Teufelskicker",
+    "duration" : 4902.3330000000005,
+    "releaseDate" : 550108800,
+    "title" : "Folge 72: Freundschaftsspiel!",
+    "upc" : "886447142264"
+  },
+  {
+    "albumID" : "1398237320",
+    "artist" : "Teufelskicker",
+    "duration" : 419.54600000000005,
+    "releaseDate" : 550713600,
+    "title" : "WM-Wissen: Rote Karte!",
+    "upc" : "886447155011"
+  },
+  {
+    "albumID" : "1398257294",
+    "artist" : "Teufelskicker",
+    "duration" : 422.947,
+    "releaseDate" : 551232000,
+    "title" : "WM-Wissen: Technische Hilfsmittel!",
+    "upc" : "886447155059"
+  },
+  {
+    "albumID" : "1401995815",
+    "artist" : "Teufelskicker",
+    "duration" : 424.04,
+    "releaseDate" : 551491200,
+    "title" : "WM-Wissen: Spitznamen!",
+    "upc" : "886447155042"
+  },
+  {
+    "albumID" : "1402558566",
+    "artist" : "Teufelskicker",
+    "duration" : 392.467,
+    "releaseDate" : 551750400,
+    "title" : "WM-Wissen: Rückennummern!",
+    "upc" : "886447155028"
+  },
+  {
+    "albumID" : "1404785354",
+    "artist" : "Teufelskicker",
+    "duration" : 477.94599999999997,
+    "releaseDate" : 552009600,
+    "title" : "WM-Wissen: Schiedsrichter!",
+    "upc" : "886447155035"
+  },
+  {
+    "albumID" : "1404789233",
+    "artist" : "Teufelskicker",
+    "duration" : 373.44,
+    "releaseDate" : 552268800,
+    "title" : "WM-Wissen: Prägende Spieler der WM!",
+    "upc" : "886447155004"
+  },
+  {
+    "albumID" : "1404790413",
+    "artist" : "Teufelskicker",
+    "duration" : 440.45400000000006,
+    "releaseDate" : 552787200,
+    "title" : "WM-Wissen: GOAT - Greatest of All Time!",
+    "upc" : "886447155073"
+  },
+  {
+    "albumID" : "1398250439",
+    "artist" : "Teufelskicker",
+    "duration" : 413.45399999999995,
+    "releaseDate" : 553046400,
+    "title" : "WM-Wissen: WM-Pokal!",
+    "upc" : "886447155066"
+  },
+  {
+    "albumID" : "1434282385",
+    "artist" : "Teufelskicker",
+    "duration" : 4351.719000000001,
+    "releaseDate" : 558576000,
+    "title" : "Folge 73: Der Kanu-Kick!",
+    "upc" : "886446538969"
+  },
+  {
+    "albumID" : "1438633086",
+    "artist" : "Teufelskicker",
+    "duration" : 4552.508999999999,
+    "releaseDate" : 562809600,
+    "title" : "Folge 74: Die Teufels-Bienen!",
+    "upc" : "886446538976"
+  },
+  {
+    "albumID" : "1445660934",
+    "artist" : "Teufelskicker",
+    "duration" : 4489.9310000000005,
+    "releaseDate" : 570067200,
+    "title" : "Folge 75: Kampf der Maskottchen!",
+    "upc" : "886446538983"
+  },
+  {
+    "albumID" : "1454519040",
+    "artist" : "Teufelskicker",
+    "duration" : 4630.091000000001,
+    "releaseDate" : 574905600,
+    "title" : "Folge 76: Echt galaktisch!",
+    "upc" : "886446538990"
+  },
+  {
+    "albumID" : "1465118265",
+    "artist" : "Teufelskicker",
+    "duration" : 4444.772000000001,
+    "releaseDate" : 581558400,
+    "title" : "077/Sprung an die Spitze!",
+    "upc" : "886446539003"
+  },
+  {
+    "albumID" : "1470370907",
+    "artist" : "Teufelskicker",
+    "duration" : 4429.049,
+    "releaseDate" : 587001600,
+    "title" : "Folge 78: Hitzeschlacht!",
+    "upc" : "886446539010"
+  },
+  {
+    "albumID" : "1478877690",
+    "artist" : "Teufelskicker",
+    "duration" : 4757.6410000000005,
+    "releaseDate" : 592444800,
+    "title" : "Folge 79: Hexenkessel!",
+    "upc" : "886446539027"
+  },
+  {
+    "albumID" : "1487651539",
+    "artist" : "Teufelskicker",
+    "duration" : 4706.225,
+    "releaseDate" : 597283200,
+    "title" : "Folge 80: Der Kommerzclub!",
+    "upc" : "886446539034"
+  },
+  {
+    "albumID" : "1492295259",
+    "artist" : "Teufelskicker",
+    "duration" : 4561.600000000001,
+    "releaseDate" : 601516800,
+    "title" : "Folge 81: Gras fressen!",
+    "upc" : "886447868751"
+  },
+  {
+    "albumID" : "1501683197",
+    "artist" : "Teufelskicker",
+    "duration" : 4494.625999999999,
+    "releaseDate" : 606960000,
+    "title" : "Folge 82: Das Triple!",
+    "upc" : "886447868768"
+  },
+  {
+    "albumID" : "1512230105",
+    "artist" : "Teufelskicker",
+    "duration" : 4722.454000000001,
+    "releaseDate" : 613008000,
+    "title" : "Folge 83: König von Europa!",
+    "upc" : "886447868775"
   },
   {
     "albumID" : "1521834054",
@@ -80,60 +760,12 @@
     "upc" : "886447868782"
   },
   {
-    "albumID" : "1722101474",
+    "albumID" : "1530151833",
     "artist" : "Teufelskicker",
-    "duration" : 5025.4400000000005,
-    "releaseDate" : 727920000,
-    "title" : "Folge 101: Der doppelte Norberger!",
-    "upc" : "196871289900"
-  },
-  {
-    "albumID" : "1694279807",
-    "artist" : "Teufelskicker",
-    "duration" : 4428.932,
-    "releaseDate" : 710985600,
-    "title" : "Folge 99: Teufelskickerin in Down Under!",
-    "upc" : "196871098274"
-  },
-  {
-    "albumID" : "1684472887",
-    "artist" : "Teufelskicker",
-    "duration" : 5105.186000000001,
-    "releaseDate" : 684374400,
-    "title" : "Folge 95: Touchdown für die Teufelskicker!",
-    "upc" : "886449737536"
-  },
-  {
-    "albumID" : "1684467191",
-    "artist" : "Teufelskicker",
-    "duration" : 4725.23,
-    "releaseDate" : 672278400,
-    "title" : "Folge 93: Alle Balla-Balla!",
-    "upc" : "196871040280"
-  },
-  {
-    "albumID" : "1604578873",
-    "artist" : "Teufelskicker",
-    "duration" : 4567.453,
-    "releaseDate" : 666835200,
-    "title" : "Folge 92: Auszeit!",
-    "upc" : "886448748496"
-  },
-  {
-    "albumID" : "1547955136",
-    "artist" : "Teufelskicker",
-    "duration" : 4065.8250000000007,
-    "releaseDate" : 637200000,
-    "title" : "Folge 88: Ei! Ei! Eigentor!",
-    "upc" : "886448297901"
-  },
-  {
-    "albumID" : "1547807482",
-    "artist" : "Teufelskicker",
-    "duration" : 4580.254,
-    "releaseDate" : 633571200,
-    "title" : "Folge 87: Viva Futebol!",
-    "upc" : "886448297895"
+    "duration" : 4331.745,
+    "releaseDate" : 624499200,
+    "title" : "Folge 85: Der Strafraum-Streuner!",
+    "upc" : "886447868799"
   },
   {
     "albumID" : "1539405079",
@@ -144,60 +776,12 @@
     "upc" : "886448297888"
   },
   {
-    "albumID" : "1530151833",
+    "albumID" : "1547807482",
     "artist" : "Teufelskicker",
-    "duration" : 4331.745,
-    "releaseDate" : 624499200,
-    "title" : "Folge 85: Der Strafraum-Streuner!",
-    "upc" : "886447868799"
-  },
-  {
-    "albumID" : "1521834054",
-    "artist" : "Teufelskicker",
-    "duration" : 4352.9490000000005,
-    "releaseDate" : 618451200,
-    "title" : "Folge 84: Titel, Tore, Tulpen!",
-    "upc" : "886447868782"
-  },
-  {
-    "albumID" : "1722101474",
-    "artist" : "Teufelskicker",
-    "duration" : 5025.4400000000005,
-    "releaseDate" : 727920000,
-    "title" : "Folge 101: Der doppelte Norberger!",
-    "upc" : "196871289900"
-  },
-  {
-    "albumID" : "1694279807",
-    "artist" : "Teufelskicker",
-    "duration" : 4428.932,
-    "releaseDate" : 710985600,
-    "title" : "Folge 99: Teufelskickerin in Down Under!",
-    "upc" : "196871098274"
-  },
-  {
-    "albumID" : "1684472887",
-    "artist" : "Teufelskicker",
-    "duration" : 5105.186000000001,
-    "releaseDate" : 684374400,
-    "title" : "Folge 95: Touchdown für die Teufelskicker!",
-    "upc" : "886449737536"
-  },
-  {
-    "albumID" : "1684467191",
-    "artist" : "Teufelskicker",
-    "duration" : 4725.23,
-    "releaseDate" : 672278400,
-    "title" : "Folge 93: Alle Balla-Balla!",
-    "upc" : "196871040280"
-  },
-  {
-    "albumID" : "1604578873",
-    "artist" : "Teufelskicker",
-    "duration" : 4567.453,
-    "releaseDate" : 666835200,
-    "title" : "Folge 92: Auszeit!",
-    "upc" : "886448748496"
+    "duration" : 4580.254,
+    "releaseDate" : 633571200,
+    "title" : "Folge 87: Viva Futebol!",
+    "upc" : "886448297895"
   },
   {
     "albumID" : "1547955136",
@@ -208,748 +792,68 @@
     "upc" : "886448297901"
   },
   {
-    "albumID" : "1547807482",
+    "albumID" : "1567183527",
     "artist" : "Teufelskicker",
-    "duration" : 4580.254,
-    "releaseDate" : 633571200,
-    "title" : "Folge 87: Viva Futebol!",
-    "upc" : "886448297895"
+    "duration" : 4336.842,
+    "releaseDate" : 644457600,
+    "title" : "Folge 89: Sieges-Serie!",
+    "upc" : "886448297918"
   },
   {
-    "albumID" : "1539405079",
+    "albumID" : "1567874902",
     "artist" : "Teufelskicker",
-    "duration" : 4588.375999999999,
-    "releaseDate" : 628732800,
-    "title" : "Folge 86: Blau-Gelb in Bayern!",
-    "upc" : "886448297888"
+    "duration" : 725.293,
+    "releaseDate" : 644544000,
+    "title" : "EM-Wissen 01 - Die Geschichte der EM - Teil 1! (1960 - 1988)",
+    "upc" : "886448204060"
   },
   {
-    "albumID" : "1530151833",
+    "albumID" : "1567875851",
     "artist" : "Teufelskicker",
-    "duration" : 4331.745,
-    "releaseDate" : 624499200,
-    "title" : "Folge 85: Der Strafraum-Streuner!",
-    "upc" : "886447868799"
+    "duration" : 644.44,
+    "releaseDate" : 644630400,
+    "title" : "EM-Wissen 02 - Die Geschichte der EM - Teil 2! (1992 - 2016)",
+    "upc" : "886448204251"
   },
   {
-    "albumID" : "1521834054",
+    "albumID" : "1567876030",
     "artist" : "Teufelskicker",
-    "duration" : 4352.9490000000005,
-    "releaseDate" : 618451200,
-    "title" : "Folge 84: Titel, Tore, Tulpen!",
-    "upc" : "886447868782"
+    "duration" : 558.919,
+    "releaseDate" : 644716800,
+    "title" : "EM-Wissen 03 - Der Henri Delaunay Pokal!",
+    "upc" : "886448204213"
   },
   {
-    "albumID" : "1722101474",
+    "albumID" : "1567876579",
     "artist" : "Teufelskicker",
-    "duration" : 5025.4400000000005,
-    "releaseDate" : 727920000,
-    "title" : "Folge 101: Der doppelte Norberger!",
-    "upc" : "196871289900"
+    "duration" : 530.133,
+    "releaseDate" : 644803200,
+    "title" : "EM-Wissen 04 - Regelwerk und Neuerungen!",
+    "upc" : "886448204220"
   },
   {
-    "albumID" : "1694279807",
+    "albumID" : "1567880262",
     "artist" : "Teufelskicker",
-    "duration" : 4428.932,
-    "releaseDate" : 710985600,
-    "title" : "Folge 99: Teufelskickerin in Down Under!",
-    "upc" : "196871098274"
+    "duration" : 535.9739999999999,
+    "releaseDate" : 644889600,
+    "title" : "EM-Wissen 05 - Rekorde und Legenden!",
+    "upc" : "886448204237"
   },
   {
-    "albumID" : "1684472887",
+    "albumID" : "1567877413",
     "artist" : "Teufelskicker",
-    "duration" : 5105.186000000001,
-    "releaseDate" : 684374400,
-    "title" : "Folge 95: Touchdown für die Teufelskicker!",
-    "upc" : "886449737536"
+    "duration" : 590.12,
+    "releaseDate" : 644976000,
+    "title" : "EM-Wissen 06 - Technische Hilfsmittel und Ausrüstung!",
+    "upc" : "886448204176"
   },
   {
-    "albumID" : "1684467191",
+    "albumID" : "1567878139",
     "artist" : "Teufelskicker",
-    "duration" : 4725.23,
-    "releaseDate" : 672278400,
-    "title" : "Folge 93: Alle Balla-Balla!",
-    "upc" : "196871040280"
-  },
-  {
-    "albumID" : "1604578873",
-    "artist" : "Teufelskicker",
-    "duration" : 4567.453,
-    "releaseDate" : 666835200,
-    "title" : "Folge 92: Auszeit!",
-    "upc" : "886448748496"
-  },
-  {
-    "albumID" : "1547955136",
-    "artist" : "Teufelskicker",
-    "duration" : 4065.8250000000007,
-    "releaseDate" : 637200000,
-    "title" : "Folge 88: Ei! Ei! Eigentor!",
-    "upc" : "886448297901"
-  },
-  {
-    "albumID" : "1547807482",
-    "artist" : "Teufelskicker",
-    "duration" : 4580.254,
-    "releaseDate" : 633571200,
-    "title" : "Folge 87: Viva Futebol!",
-    "upc" : "886448297895"
-  },
-  {
-    "albumID" : "1539405079",
-    "artist" : "Teufelskicker",
-    "duration" : 4588.375999999999,
-    "releaseDate" : 628732800,
-    "title" : "Folge 86: Blau-Gelb in Bayern!",
-    "upc" : "886448297888"
-  },
-  {
-    "albumID" : "1530151833",
-    "artist" : "Teufelskicker",
-    "duration" : 4331.745,
-    "releaseDate" : 624499200,
-    "title" : "Folge 85: Der Strafraum-Streuner!",
-    "upc" : "886447868799"
-  },
-  {
-    "albumID" : "1521834054",
-    "artist" : "Teufelskicker",
-    "duration" : 4352.9490000000005,
-    "releaseDate" : 618451200,
-    "title" : "Folge 84: Titel, Tore, Tulpen!",
-    "upc" : "886447868782"
-  },
-  {
-    "albumID" : "1722101474",
-    "artist" : "Teufelskicker",
-    "duration" : 5025.4400000000005,
-    "releaseDate" : 727920000,
-    "title" : "Folge 101: Der doppelte Norberger!",
-    "upc" : "196871289900"
-  },
-  {
-    "albumID" : "1694279807",
-    "artist" : "Teufelskicker",
-    "duration" : 4428.932,
-    "releaseDate" : 710985600,
-    "title" : "Folge 99: Teufelskickerin in Down Under!",
-    "upc" : "196871098274"
-  },
-  {
-    "albumID" : "1684472887",
-    "artist" : "Teufelskicker",
-    "duration" : 5105.186000000001,
-    "releaseDate" : 684374400,
-    "title" : "Folge 95: Touchdown für die Teufelskicker!",
-    "upc" : "886449737536"
-  },
-  {
-    "albumID" : "1684467191",
-    "artist" : "Teufelskicker",
-    "duration" : 4725.23,
-    "releaseDate" : 672278400,
-    "title" : "Folge 93: Alle Balla-Balla!",
-    "upc" : "196871040280"
-  },
-  {
-    "albumID" : "1604578873",
-    "artist" : "Teufelskicker",
-    "duration" : 4567.453,
-    "releaseDate" : 666835200,
-    "title" : "Folge 92: Auszeit!",
-    "upc" : "886448748496"
-  },
-  {
-    "albumID" : "1547955136",
-    "artist" : "Teufelskicker",
-    "duration" : 4065.8250000000007,
-    "releaseDate" : 637200000,
-    "title" : "Folge 88: Ei! Ei! Eigentor!",
-    "upc" : "886448297901"
-  },
-  {
-    "albumID" : "1547807482",
-    "artist" : "Teufelskicker",
-    "duration" : 4580.254,
-    "releaseDate" : 633571200,
-    "title" : "Folge 87: Viva Futebol!",
-    "upc" : "886448297895"
-  },
-  {
-    "albumID" : "1539405079",
-    "artist" : "Teufelskicker",
-    "duration" : 4588.375999999999,
-    "releaseDate" : 628732800,
-    "title" : "Folge 86: Blau-Gelb in Bayern!",
-    "upc" : "886448297888"
-  },
-  {
-    "albumID" : "1530151833",
-    "artist" : "Teufelskicker",
-    "duration" : 4331.745,
-    "releaseDate" : 624499200,
-    "title" : "Folge 85: Der Strafraum-Streuner!",
-    "upc" : "886447868799"
-  },
-  {
-    "albumID" : "1521834054",
-    "artist" : "Teufelskicker",
-    "duration" : 4352.9490000000005,
-    "releaseDate" : 618451200,
-    "title" : "Folge 84: Titel, Tore, Tulpen!",
-    "upc" : "886447868782"
-  },
-  {
-    "albumID" : "1722101474",
-    "artist" : "Teufelskicker",
-    "duration" : 5025.4400000000005,
-    "releaseDate" : 727920000,
-    "title" : "Folge 101: Der doppelte Norberger!",
-    "upc" : "196871289900"
-  },
-  {
-    "albumID" : "1694279807",
-    "artist" : "Teufelskicker",
-    "duration" : 4428.932,
-    "releaseDate" : 710985600,
-    "title" : "Folge 99: Teufelskickerin in Down Under!",
-    "upc" : "196871098274"
-  },
-  {
-    "albumID" : "1684472887",
-    "artist" : "Teufelskicker",
-    "duration" : 5105.186000000001,
-    "releaseDate" : 684374400,
-    "title" : "Folge 95: Touchdown für die Teufelskicker!",
-    "upc" : "886449737536"
-  },
-  {
-    "albumID" : "1684467191",
-    "artist" : "Teufelskicker",
-    "duration" : 4725.23,
-    "releaseDate" : 672278400,
-    "title" : "Folge 93: Alle Balla-Balla!",
-    "upc" : "196871040280"
-  },
-  {
-    "albumID" : "1604578873",
-    "artist" : "Teufelskicker",
-    "duration" : 4567.453,
-    "releaseDate" : 666835200,
-    "title" : "Folge 92: Auszeit!",
-    "upc" : "886448748496"
-  },
-  {
-    "albumID" : "1547955136",
-    "artist" : "Teufelskicker",
-    "duration" : 4065.8250000000007,
-    "releaseDate" : 637200000,
-    "title" : "Folge 88: Ei! Ei! Eigentor!",
-    "upc" : "886448297901"
-  },
-  {
-    "albumID" : "1547807482",
-    "artist" : "Teufelskicker",
-    "duration" : 4580.254,
-    "releaseDate" : 633571200,
-    "title" : "Folge 87: Viva Futebol!",
-    "upc" : "886448297895"
-  },
-  {
-    "albumID" : "1539405079",
-    "artist" : "Teufelskicker",
-    "duration" : 4588.375999999999,
-    "releaseDate" : 628732800,
-    "title" : "Folge 86: Blau-Gelb in Bayern!",
-    "upc" : "886448297888"
-  },
-  {
-    "albumID" : "1530151833",
-    "artist" : "Teufelskicker",
-    "duration" : 4331.745,
-    "releaseDate" : 624499200,
-    "title" : "Folge 85: Der Strafraum-Streuner!",
-    "upc" : "886447868799"
-  },
-  {
-    "albumID" : "1521834054",
-    "artist" : "Teufelskicker",
-    "duration" : 4352.9490000000005,
-    "releaseDate" : 618451200,
-    "title" : "Folge 84: Titel, Tore, Tulpen!",
-    "upc" : "886447868782"
-  },
-  {
-    "albumID" : "1722101474",
-    "artist" : "Teufelskicker",
-    "duration" : 5025.4400000000005,
-    "releaseDate" : 727920000,
-    "title" : "Folge 101: Der doppelte Norberger!",
-    "upc" : "196871289900"
-  },
-  {
-    "albumID" : "1694279807",
-    "artist" : "Teufelskicker",
-    "duration" : 4428.932,
-    "releaseDate" : 710985600,
-    "title" : "Folge 99: Teufelskickerin in Down Under!",
-    "upc" : "196871098274"
-  },
-  {
-    "albumID" : "1684472887",
-    "artist" : "Teufelskicker",
-    "duration" : 5105.186000000001,
-    "releaseDate" : 684374400,
-    "title" : "Folge 95: Touchdown für die Teufelskicker!",
-    "upc" : "886449737536"
-  },
-  {
-    "albumID" : "1684467191",
-    "artist" : "Teufelskicker",
-    "duration" : 4725.23,
-    "releaseDate" : 672278400,
-    "title" : "Folge 93: Alle Balla-Balla!",
-    "upc" : "196871040280"
-  },
-  {
-    "albumID" : "1604578873",
-    "artist" : "Teufelskicker",
-    "duration" : 4567.453,
-    "releaseDate" : 666835200,
-    "title" : "Folge 92: Auszeit!",
-    "upc" : "886448748496"
-  },
-  {
-    "albumID" : "1547955136",
-    "artist" : "Teufelskicker",
-    "duration" : 4065.8250000000007,
-    "releaseDate" : 637200000,
-    "title" : "Folge 88: Ei! Ei! Eigentor!",
-    "upc" : "886448297901"
-  },
-  {
-    "albumID" : "1547807482",
-    "artist" : "Teufelskicker",
-    "duration" : 4580.254,
-    "releaseDate" : 633571200,
-    "title" : "Folge 87: Viva Futebol!",
-    "upc" : "886448297895"
-  },
-  {
-    "albumID" : "1539405079",
-    "artist" : "Teufelskicker",
-    "duration" : 4588.375999999999,
-    "releaseDate" : 628732800,
-    "title" : "Folge 86: Blau-Gelb in Bayern!",
-    "upc" : "886448297888"
-  },
-  {
-    "albumID" : "1530151833",
-    "artist" : "Teufelskicker",
-    "duration" : 4331.745,
-    "releaseDate" : 624499200,
-    "title" : "Folge 85: Der Strafraum-Streuner!",
-    "upc" : "886447868799"
-  },
-  {
-    "albumID" : "1521834054",
-    "artist" : "Teufelskicker",
-    "duration" : 4352.9490000000005,
-    "releaseDate" : 618451200,
-    "title" : "Folge 84: Titel, Tore, Tulpen!",
-    "upc" : "886447868782"
-  },
-  {
-    "albumID" : "1722101474",
-    "artist" : "Teufelskicker",
-    "duration" : 5025.4400000000005,
-    "releaseDate" : 727920000,
-    "title" : "Folge 101: Der doppelte Norberger!",
-    "upc" : "196871289900"
-  },
-  {
-    "albumID" : "1694279807",
-    "artist" : "Teufelskicker",
-    "duration" : 4428.932,
-    "releaseDate" : 710985600,
-    "title" : "Folge 99: Teufelskickerin in Down Under!",
-    "upc" : "196871098274"
-  },
-  {
-    "albumID" : "1684472887",
-    "artist" : "Teufelskicker",
-    "duration" : 5105.186000000001,
-    "releaseDate" : 684374400,
-    "title" : "Folge 95: Touchdown für die Teufelskicker!",
-    "upc" : "886449737536"
-  },
-  {
-    "albumID" : "1684467191",
-    "artist" : "Teufelskicker",
-    "duration" : 4725.23,
-    "releaseDate" : 672278400,
-    "title" : "Folge 93: Alle Balla-Balla!",
-    "upc" : "196871040280"
-  },
-  {
-    "albumID" : "1604578873",
-    "artist" : "Teufelskicker",
-    "duration" : 4567.453,
-    "releaseDate" : 666835200,
-    "title" : "Folge 92: Auszeit!",
-    "upc" : "886448748496"
-  },
-  {
-    "albumID" : "1547955136",
-    "artist" : "Teufelskicker",
-    "duration" : 4065.8250000000007,
-    "releaseDate" : 637200000,
-    "title" : "Folge 88: Ei! Ei! Eigentor!",
-    "upc" : "886448297901"
-  },
-  {
-    "albumID" : "1547807482",
-    "artist" : "Teufelskicker",
-    "duration" : 4580.254,
-    "releaseDate" : 633571200,
-    "title" : "Folge 87: Viva Futebol!",
-    "upc" : "886448297895"
-  },
-  {
-    "albumID" : "1539405079",
-    "artist" : "Teufelskicker",
-    "duration" : 4588.375999999999,
-    "releaseDate" : 628732800,
-    "title" : "Folge 86: Blau-Gelb in Bayern!",
-    "upc" : "886448297888"
-  },
-  {
-    "albumID" : "1530151833",
-    "artist" : "Teufelskicker",
-    "duration" : 4331.745,
-    "releaseDate" : 624499200,
-    "title" : "Folge 85: Der Strafraum-Streuner!",
-    "upc" : "886447868799"
-  },
-  {
-    "albumID" : "1521834054",
-    "artist" : "Teufelskicker",
-    "duration" : 4352.9490000000005,
-    "releaseDate" : 618451200,
-    "title" : "Folge 84: Titel, Tore, Tulpen!",
-    "upc" : "886447868782"
-  },
-  {
-    "albumID" : "1722101474",
-    "artist" : "Teufelskicker",
-    "duration" : 5025.4400000000005,
-    "releaseDate" : 727920000,
-    "title" : "Folge 101: Der doppelte Norberger!",
-    "upc" : "196871289900"
-  },
-  {
-    "albumID" : "1694279807",
-    "artist" : "Teufelskicker",
-    "duration" : 4428.932,
-    "releaseDate" : 710985600,
-    "title" : "Folge 99: Teufelskickerin in Down Under!",
-    "upc" : "196871098274"
-  },
-  {
-    "albumID" : "1684472887",
-    "artist" : "Teufelskicker",
-    "duration" : 5105.186000000001,
-    "releaseDate" : 684374400,
-    "title" : "Folge 95: Touchdown für die Teufelskicker!",
-    "upc" : "886449737536"
-  },
-  {
-    "albumID" : "1684467191",
-    "artist" : "Teufelskicker",
-    "duration" : 4725.23,
-    "releaseDate" : 672278400,
-    "title" : "Folge 93: Alle Balla-Balla!",
-    "upc" : "196871040280"
-  },
-  {
-    "albumID" : "1604578873",
-    "artist" : "Teufelskicker",
-    "duration" : 4567.453,
-    "releaseDate" : 666835200,
-    "title" : "Folge 92: Auszeit!",
-    "upc" : "886448748496"
-  },
-  {
-    "albumID" : "1547955136",
-    "artist" : "Teufelskicker",
-    "duration" : 4065.8250000000007,
-    "releaseDate" : 637200000,
-    "title" : "Folge 88: Ei! Ei! Eigentor!",
-    "upc" : "886448297901"
-  },
-  {
-    "albumID" : "1547807482",
-    "artist" : "Teufelskicker",
-    "duration" : 4580.254,
-    "releaseDate" : 633571200,
-    "title" : "Folge 87: Viva Futebol!",
-    "upc" : "886448297895"
-  },
-  {
-    "albumID" : "1539405079",
-    "artist" : "Teufelskicker",
-    "duration" : 4588.375999999999,
-    "releaseDate" : 628732800,
-    "title" : "Folge 86: Blau-Gelb in Bayern!",
-    "upc" : "886448297888"
-  },
-  {
-    "albumID" : "1530151833",
-    "artist" : "Teufelskicker",
-    "duration" : 4331.745,
-    "releaseDate" : 624499200,
-    "title" : "Folge 85: Der Strafraum-Streuner!",
-    "upc" : "886447868799"
-  },
-  {
-    "albumID" : "1521834054",
-    "artist" : "Teufelskicker",
-    "duration" : 4352.9490000000005,
-    "releaseDate" : 618451200,
-    "title" : "Folge 84: Titel, Tore, Tulpen!",
-    "upc" : "886447868782"
-  },
-  {
-    "albumID" : "1722101474",
-    "artist" : "Teufelskicker",
-    "duration" : 5025.4400000000005,
-    "releaseDate" : 727920000,
-    "title" : "Folge 101: Der doppelte Norberger!",
-    "upc" : "196871289900"
-  },
-  {
-    "albumID" : "1694279807",
-    "artist" : "Teufelskicker",
-    "duration" : 4428.932,
-    "releaseDate" : 710985600,
-    "title" : "Folge 99: Teufelskickerin in Down Under!",
-    "upc" : "196871098274"
-  },
-  {
-    "albumID" : "1684472887",
-    "artist" : "Teufelskicker",
-    "duration" : 5105.186000000001,
-    "releaseDate" : 684374400,
-    "title" : "Folge 95: Touchdown für die Teufelskicker!",
-    "upc" : "886449737536"
-  },
-  {
-    "albumID" : "1684467191",
-    "artist" : "Teufelskicker",
-    "duration" : 4725.23,
-    "releaseDate" : 672278400,
-    "title" : "Folge 93: Alle Balla-Balla!",
-    "upc" : "196871040280"
-  },
-  {
-    "albumID" : "1604578873",
-    "artist" : "Teufelskicker",
-    "duration" : 4567.453,
-    "releaseDate" : 666835200,
-    "title" : "Folge 92: Auszeit!",
-    "upc" : "886448748496"
-  },
-  {
-    "albumID" : "1547955136",
-    "artist" : "Teufelskicker",
-    "duration" : 4065.8250000000007,
-    "releaseDate" : 637200000,
-    "title" : "Folge 88: Ei! Ei! Eigentor!",
-    "upc" : "886448297901"
-  },
-  {
-    "albumID" : "1547807482",
-    "artist" : "Teufelskicker",
-    "duration" : 4580.254,
-    "releaseDate" : 633571200,
-    "title" : "Folge 87: Viva Futebol!",
-    "upc" : "886448297895"
-  },
-  {
-    "albumID" : "1539405079",
-    "artist" : "Teufelskicker",
-    "duration" : 4588.375999999999,
-    "releaseDate" : 628732800,
-    "title" : "Folge 86: Blau-Gelb in Bayern!",
-    "upc" : "886448297888"
-  },
-  {
-    "albumID" : "1530151833",
-    "artist" : "Teufelskicker",
-    "duration" : 4331.745,
-    "releaseDate" : 624499200,
-    "title" : "Folge 85: Der Strafraum-Streuner!",
-    "upc" : "886447868799"
-  },
-  {
-    "albumID" : "1521834054",
-    "artist" : "Teufelskicker",
-    "duration" : 4352.9490000000005,
-    "releaseDate" : 618451200,
-    "title" : "Folge 84: Titel, Tore, Tulpen!",
-    "upc" : "886447868782"
-  },
-  {
-    "albumID" : "1722101474",
-    "artist" : "Teufelskicker",
-    "duration" : 5025.4400000000005,
-    "releaseDate" : 727920000,
-    "title" : "Folge 101: Der doppelte Norberger!",
-    "upc" : "196871289900"
-  },
-  {
-    "albumID" : "1694279807",
-    "artist" : "Teufelskicker",
-    "duration" : 4428.932,
-    "releaseDate" : 710985600,
-    "title" : "Folge 99: Teufelskickerin in Down Under!",
-    "upc" : "196871098274"
-  },
-  {
-    "albumID" : "1684472887",
-    "artist" : "Teufelskicker",
-    "duration" : 5105.186000000001,
-    "releaseDate" : 684374400,
-    "title" : "Folge 95: Touchdown für die Teufelskicker!",
-    "upc" : "886449737536"
-  },
-  {
-    "albumID" : "1684467191",
-    "artist" : "Teufelskicker",
-    "duration" : 4725.23,
-    "releaseDate" : 672278400,
-    "title" : "Folge 93: Alle Balla-Balla!",
-    "upc" : "196871040280"
-  },
-  {
-    "albumID" : "1604578873",
-    "artist" : "Teufelskicker",
-    "duration" : 4567.453,
-    "releaseDate" : 666835200,
-    "title" : "Folge 92: Auszeit!",
-    "upc" : "886448748496"
-  },
-  {
-    "albumID" : "1547955136",
-    "artist" : "Teufelskicker",
-    "duration" : 4065.8250000000007,
-    "releaseDate" : 637200000,
-    "title" : "Folge 88: Ei! Ei! Eigentor!",
-    "upc" : "886448297901"
-  },
-  {
-    "albumID" : "1547807482",
-    "artist" : "Teufelskicker",
-    "duration" : 4580.254,
-    "releaseDate" : 633571200,
-    "title" : "Folge 87: Viva Futebol!",
-    "upc" : "886448297895"
-  },
-  {
-    "albumID" : "1539405079",
-    "artist" : "Teufelskicker",
-    "duration" : 4588.375999999999,
-    "releaseDate" : 628732800,
-    "title" : "Folge 86: Blau-Gelb in Bayern!",
-    "upc" : "886448297888"
-  },
-  {
-    "albumID" : "1530151833",
-    "artist" : "Teufelskicker",
-    "duration" : 4331.745,
-    "releaseDate" : 624499200,
-    "title" : "Folge 85: Der Strafraum-Streuner!",
-    "upc" : "886447868799"
-  },
-  {
-    "albumID" : "1521834054",
-    "artist" : "Teufelskicker",
-    "duration" : 4352.9490000000005,
-    "releaseDate" : 618451200,
-    "title" : "Folge 84: Titel, Tore, Tulpen!",
-    "upc" : "886447868782"
-  },
-  {
-    "albumID" : "1758307567",
-    "artist" : "Teufelskicker",
-    "duration" : 4855.440000000001,
-    "releaseDate" : 746064000,
-    "title" : "Folge 104: Tick-Tack-Taktik!",
-    "upc" : "196872211689"
-  },
-  {
-    "albumID" : "1746707399",
-    "artist" : "Teufelskicker",
-    "duration" : 4521.004,
-    "releaseDate" : 740016000,
-    "title" : "Folge 103: Europa-Express!",
-    "upc" : "196871679954"
-  },
-  {
-    "albumID" : "1734463965",
-    "artist" : "Teufelskicker",
-    "duration" : 4449.398999999999,
-    "releaseDate" : 733363200,
-    "title" : "Folge 102: Kick off!",
-    "upc" : "196871679916"
-  },
-  {
-    "albumID" : "1711749757",
-    "artist" : "Teufelskicker",
-    "duration" : 4808.958999999999,
-    "releaseDate" : 721267200,
-    "title" : "Folge 100: Blau-Gelb 100!",
-    "upc" : "196871293570"
-  },
-  {
-    "albumID" : "1683308190",
-    "artist" : "Teufelskicker",
-    "duration" : 4586.733,
-    "releaseDate" : 704937600,
-    "title" : "Folge 98: Game Over!",
-    "upc" : "196589965790"
-  },
-  {
-    "albumID" : "1684493010",
-    "artist" : "Teufelskicker",
-    "duration" : 4326.291,
-    "releaseDate" : 698284800,
-    "title" : "Folge 97: Bärenstark!",
-    "upc" : "196871090988"
-  },
-  {
-    "albumID" : "1684489091",
-    "artist" : "Teufelskicker",
-    "duration" : 4624.639999999999,
-    "releaseDate" : 690422400,
-    "title" : "Folge 96: Tausendundein Tor!",
-    "upc" : "196871090896"
-  },
-  {
-    "albumID" : "1684471836",
-    "artist" : "Teufelskicker",
-    "duration" : 4434.122,
-    "releaseDate" : 677721600,
-    "title" : "Folge 94: Eltern-Pressing!",
-    "upc" : "886448748519"
-  },
-  {
-    "albumID" : "1589830857",
-    "artist" : "Teufelskicker",
-    "duration" : 4641.269,
-    "releaseDate" : 657158400,
-    "title" : "Folge 91: Hunniklau und Alutreffer!",
-    "upc" : "886448748489"
+    "duration" : 686.2,
+    "releaseDate" : 645062400,
+    "title" : "EM-Wissen 07 - Trainer, Schiedsrichter und Kapitäne!",
+    "upc" : "886448204244"
   },
   {
     "albumID" : "1574474675",
@@ -960,60 +864,28 @@
     "upc" : "886448297925"
   },
   {
-    "albumID" : "1758307567",
+    "albumID" : "1589830857",
     "artist" : "Teufelskicker",
-    "duration" : 4855.440000000001,
-    "releaseDate" : 746064000,
-    "title" : "Folge 104: Tick-Tack-Taktik!",
-    "upc" : "196872211689"
+    "duration" : 4641.269,
+    "releaseDate" : 657158400,
+    "title" : "Folge 91: Hunniklau und Alutreffer!",
+    "upc" : "886448748489"
   },
   {
-    "albumID" : "1746707399",
+    "albumID" : "1604578873",
     "artist" : "Teufelskicker",
-    "duration" : 4521.004,
-    "releaseDate" : 740016000,
-    "title" : "Folge 103: Europa-Express!",
-    "upc" : "196871679954"
+    "duration" : 4567.453,
+    "releaseDate" : 666835200,
+    "title" : "Folge 92: Auszeit!",
+    "upc" : "886448748496"
   },
   {
-    "albumID" : "1734463965",
+    "albumID" : "1684467191",
     "artist" : "Teufelskicker",
-    "duration" : 4449.398999999999,
-    "releaseDate" : 733363200,
-    "title" : "Folge 102: Kick off!",
-    "upc" : "196871679916"
-  },
-  {
-    "albumID" : "1711749757",
-    "artist" : "Teufelskicker",
-    "duration" : 4808.958999999999,
-    "releaseDate" : 721267200,
-    "title" : "Folge 100: Blau-Gelb 100!",
-    "upc" : "196871293570"
-  },
-  {
-    "albumID" : "1683308190",
-    "artist" : "Teufelskicker",
-    "duration" : 4586.733,
-    "releaseDate" : 704937600,
-    "title" : "Folge 98: Game Over!",
-    "upc" : "196589965790"
-  },
-  {
-    "albumID" : "1684493010",
-    "artist" : "Teufelskicker",
-    "duration" : 4326.291,
-    "releaseDate" : 698284800,
-    "title" : "Folge 97: Bärenstark!",
-    "upc" : "196871090988"
-  },
-  {
-    "albumID" : "1684489091",
-    "artist" : "Teufelskicker",
-    "duration" : 4624.639999999999,
-    "releaseDate" : 690422400,
-    "title" : "Folge 96: Tausendundein Tor!",
-    "upc" : "196871090896"
+    "duration" : 4725.23,
+    "releaseDate" : 672278400,
+    "title" : "Folge 93: Alle Balla-Balla!",
+    "upc" : "196871040280"
   },
   {
     "albumID" : "1684471836",
@@ -1024,19 +896,163 @@
     "upc" : "886448748519"
   },
   {
-    "albumID" : "1589830857",
+    "albumID" : "1684472887",
     "artist" : "Teufelskicker",
-    "duration" : 4641.269,
-    "releaseDate" : 657158400,
-    "title" : "Folge 91: Hunniklau und Alutreffer!",
-    "upc" : "886448748489"
+    "duration" : 5105.186000000001,
+    "releaseDate" : 684374400,
+    "title" : "Folge 95: Touchdown für die Teufelskicker!",
+    "upc" : "886449737536"
   },
   {
-    "albumID" : "1574474675",
+    "albumID" : "1684489091",
     "artist" : "Teufelskicker",
-    "duration" : 4115.615999999999,
-    "releaseDate" : 650505600,
-    "title" : "Folge 90: Der Unentschieden-Fluch!",
-    "upc" : "886448297925"
+    "duration" : 4624.639999999999,
+    "releaseDate" : 690422400,
+    "title" : "Folge 96: Tausendundein Tor!",
+    "upc" : "196871090896"
+  },
+  {
+    "albumID" : "1684493010",
+    "artist" : "Teufelskicker",
+    "duration" : 4326.291,
+    "releaseDate" : 698284800,
+    "title" : "Folge 97: Bärenstark!",
+    "upc" : "196871090988"
+  },
+  {
+    "albumID" : "1683308190",
+    "artist" : "Teufelskicker",
+    "duration" : 4586.733,
+    "releaseDate" : 704937600,
+    "title" : "Folge 98: Game Over!",
+    "upc" : "196589965790"
+  },
+  {
+    "albumID" : "1694279807",
+    "artist" : "Teufelskicker",
+    "duration" : 4428.932,
+    "releaseDate" : 710985600,
+    "title" : "Folge 99: Teufelskickerin in Down Under!",
+    "upc" : "196871098274"
+  },
+  {
+    "albumID" : "1691270921",
+    "artist" : "Teufelskicker",
+    "duration" : 620.9069999999999,
+    "releaseDate" : 711158400,
+    "title" : "Frauen-WM-Wissen 01 - Die Anfänge - EP",
+    "upc" : "196871022392"
+  },
+  {
+    "albumID" : "1691270950",
+    "artist" : "Teufelskicker",
+    "duration" : 553.174,
+    "releaseDate" : 711244800,
+    "title" : "Frauen-WM-Wissen 02 - Legenden und Rekorde - EP",
+    "upc" : "196871022477"
+  },
+  {
+    "albumID" : "1691271159",
+    "artist" : "Teufelskicker",
+    "duration" : 632.88,
+    "releaseDate" : 711331200,
+    "title" : "Frauen-WM-Wissen 03 - (Der lange Weg zur) Gleichberechtigung - EP",
+    "upc" : "196871022514"
+  },
+  {
+    "albumID" : "1691271627",
+    "artist" : "Teufelskicker",
+    "duration" : 917.907,
+    "releaseDate" : 711417600,
+    "title" : "Frauen-WM-Wissen 04 - Deutsche Legenden - EP",
+    "upc" : "196871022545"
+  },
+  {
+    "albumID" : "1691271968",
+    "artist" : "Teufelskicker",
+    "duration" : 689.174,
+    "releaseDate" : 711504000,
+    "title" : "Frauen-WM-Wissen 05 - Favoriten und Geheimtipps - EP",
+    "upc" : "196871022569"
+  },
+  {
+    "albumID" : "1711749757",
+    "artist" : "Teufelskicker",
+    "duration" : 4808.958999999999,
+    "releaseDate" : 721267200,
+    "title" : "Folge 100: Blau-Gelb 100!",
+    "upc" : "196871293570"
+  },
+  {
+    "albumID" : "1722101474",
+    "artist" : "Teufelskicker",
+    "duration" : 5025.4400000000005,
+    "releaseDate" : 727920000,
+    "title" : "Folge 101: Der doppelte Norberger!",
+    "upc" : "196871289900"
+  },
+  {
+    "albumID" : "1734463965",
+    "artist" : "Teufelskicker",
+    "duration" : 4449.398999999999,
+    "releaseDate" : 733363200,
+    "title" : "Folge 102: Kick off!",
+    "upc" : "196871679916"
+  },
+  {
+    "albumID" : "1742934510",
+    "artist" : "Teufelskicker",
+    "duration" : 537.333,
+    "releaseDate" : 739411200,
+    "title" : "Wissen zur EM 2024 - Folge 1:  Die EM-Stadien und ihre Namen - EP",
+    "upc" : "196871882217"
+  },
+  {
+    "albumID" : "1742936063",
+    "artist" : "Teufelskicker",
+    "duration" : 583.1059999999999,
+    "releaseDate" : 739497600,
+    "title" : "Wissen zur EM 2024 - Folge 2: Überraschungen der EM-Geschichte - EP",
+    "upc" : "196871882286"
+  },
+  {
+    "albumID" : "1742936478",
+    "artist" : "Teufelskicker",
+    "duration" : 520.867,
+    "releaseDate" : 739584000,
+    "title" : "Wissen zur EM 2024 - Folge 3: Das Eigentor - EP",
+    "upc" : "196871882392"
+  },
+  {
+    "albumID" : "1742936475",
+    "artist" : "Teufelskicker",
+    "duration" : 677.8940000000001,
+    "releaseDate" : 739670400,
+    "title" : "Wissen zur EM 2024 - Folge 4: Regeländerungen und Kurioses - EP",
+    "upc" : "196871882415"
+  },
+  {
+    "albumID" : "1747717081",
+    "artist" : "Teufelskicker",
+    "duration" : 561.5989999999999,
+    "releaseDate" : 739756800,
+    "title" : "Wissen zur EM 2024 - Folge 5: Favoriten und Geheimtipps - EP",
+    "upc" : "196871882439"
+  },
+  {
+    "albumID" : "1746707399",
+    "artist" : "Teufelskicker",
+    "duration" : 4521.004,
+    "releaseDate" : 740016000,
+    "title" : "Folge 103: Europa-Express!",
+    "upc" : "196871679954"
+  },
+  {
+    "albumID" : "1758307567",
+    "artist" : "Teufelskicker",
+    "duration" : 4855.440000000001,
+    "releaseDate" : 746064000,
+    "title" : "Folge 104: Tick-Tack-Taktik!",
+    "upc" : "196872211689"
   }
 ]
