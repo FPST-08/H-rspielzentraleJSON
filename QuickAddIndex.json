@@ -35,11 +35,6 @@
     "url" : "https://raw.githubusercontent.com/FPST-08/H-rspielzentraleJSON/refs/heads/main/220152697.json"
   },
   {
-    "id" : "374902873",
-    "name" : "Teufelskicker",
-    "url" : "https://raw.githubusercontent.com/FPST-08/H-rspielzentraleJSON/refs/heads/main/374902873.json"
-  },
-  {
     "id" : "201306317",
     "name" : "Die drei ???",
     "url" : "https://raw.githubusercontent.com/FPST-08/H-rspielzentraleJSON/refs/heads/main/201306317.json"
@@ -48,5 +43,10 @@
     "id" : "216347875",
     "name" : "Fünf Freunde",
     "url" : "https://raw.githubusercontent.com/FPST-08/H-rspielzentraleJSON/refs/heads/main/216347875.json"
+  },
+  {
+    "id" : "374902873",
+    "name" : "Teufelskicker",
+    "url" : "https://raw.githubusercontent.com/FPST-08/H-rspielzentraleJSON/refs/heads/main/374902873.json"
   }
 ]
