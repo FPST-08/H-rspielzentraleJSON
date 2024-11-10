@@ -1,0 +1,106 @@
+[
+  {
+    "albumID" : "1540197334",
+    "artist" : "Akte Witz",
+    "duration" : 8172.0019999999995,
+    "releaseDate" : 628128000,
+    "title" : "Folge 1: Das Schloss der Vampirbraut",
+    "upc" : "4260507162076"
+  },
+  {
+    "albumID" : "1619014946",
+    "artist" : "Akte Witz",
+    "duration" : 4883,
+    "releaseDate" : 674697600,
+    "title" : "Folge 1: Das Schloss der Vampirbraut (Remastered)",
+    "upc" : "4260507173485"
+  },
+  {
+    "albumID" : "1619026476",
+    "artist" : "Akte Witz",
+    "duration" : 3685.998,
+    "releaseDate" : 675302400,
+    "title" : "Folge 2: Das Haus des Echsenmenschen",
+    "upc" : "4260507173508"
+  },
+  {
+    "albumID" : "1638702249",
+    "artist" : "Akte Witz",
+    "duration" : 3742.9989999999993,
+    "releaseDate" : 683164800,
+    "title" : "Folge 3: Das Hotel des Ziegensaugers",
+    "upc" : "4260507175717"
+  },
+  {
+    "albumID" : "1644134777",
+    "artist" : "Akte Witz",
+    "duration" : 4204.003000000001,
+    "releaseDate" : 688608000,
+    "title" : "Folge 4: Die Grube des Maulwurfmanns",
+    "upc" : "4260507176257"
+  },
+  {
+    "albumID" : "1676900129",
+    "artist" : "Akte Witz",
+    "duration" : 4186.001999999999,
+    "releaseDate" : 703123200,
+    "title" : "Folge 5: Die Hütte des Skiphantoms",
+    "upc" : "4260507180872"
+  },
+  {
+    "albumID" : "1676899889",
+    "artist" : "Akte Witz",
+    "duration" : 3404.9980000000005,
+    "releaseDate" : 706752000,
+    "title" : "Folge 6: Das Spukhaus der Hexe",
+    "upc" : "4260507180896"
+  },
+  {
+    "albumID" : "1693216283",
+    "artist" : "Akte Witz",
+    "duration" : 3909.002000000001,
+    "releaseDate" : 711590400,
+    "title" : "Folge 7: Der Berg der bösen Bruderschaft",
+    "upc" : "4260507187741"
+  },
+  {
+    "albumID" : "1709982024",
+    "artist" : "Akte Witz",
+    "duration" : 4101,
+    "releaseDate" : 720662400,
+    "title" : "Folge 8: Die Fabrik der lebenden Toten",
+    "upc" : "4260507190161"
+  },
+  {
+    "albumID" : "1726976094",
+    "artist" : "Akte Witz",
+    "duration" : 3527.0029999999992,
+    "releaseDate" : 730339200,
+    "title" : "Folge 9: Die Höhle des blauen Drachen",
+    "upc" : "4260507192554"
+  },
+  {
+    "albumID" : "1740069890",
+    "artist" : "Akte Witz",
+    "duration" : 3630.001000000001,
+    "releaseDate" : 738201600,
+    "title" : "Folge 10: Der Kerker des schwarzen Königs",
+    "upc" : "4260507194701"
+  },
+  {
+    "albumID" : "1754968964",
+    "artist" : "Akte Witz",
+    "duration" : 3617.999,
+    "releaseDate" : 744249600,
+    "title" : "Folge 11: Die Insel des irren Doktors",
+    "upc" : "4260507197238"
+  },
+  {
+    "albumID" : "1769604601",
+    "artist" : "Akte Witz",
+    "duration" : 3402.9980000000005,
+    "releaseDate" : 752112000,
+    "title" : "Folge 12: Der Waldsee des Killerkobolds",
+    "upc" : "4260507199072"
+  }
+]
