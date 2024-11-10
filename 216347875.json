@@ -1,75 +1,1275 @@
 [
   {
-    "albumID" : "1761129434",
+    "albumID" : "1002457082",
     "artist" : "Fünf Freunde",
-    "duration" : 3423.6540000000014,
-    "releaseDate" : 749088000,
-    "title" : "Folge 162: und die Legende vom versteckten Sohn",
-    "upc" : "196872211900"
+    "duration" : 2557.332000000001,
+    "releaseDate" : -699580800,
+    "title" : "Folge 1: beim Wanderzirkus",
+    "upc" : "886445102260"
   },
   {
-    "albumID" : "1753048795",
+    "albumID" : "1002560999",
     "artist" : "Fünf Freunde",
-    "duration" : 3167.9859999999994,
-    "releaseDate" : 743644800,
-    "title" : "Folge 161: und der Juwelenschatz",
-    "upc" : "196872196801"
+    "duration" : 2596.868,
+    "releaseDate" : -699494400,
+    "title" : "Folge 2: im Zeltlager",
+    "upc" : "886445130003"
   },
   {
-    "albumID" : "1740115018",
+    "albumID" : "1002449163",
     "artist" : "Fünf Freunde",
-    "duration" : 3477.599,
-    "releaseDate" : 738806400,
-    "title" : "Folge 160: und der verschwundene Bräutigam",
-    "upc" : "196871670098"
+    "duration" : 3099.4390000000003,
+    "releaseDate" : -699408000,
+    "title" : "Folge 3: und das Burgverlies",
+    "upc" : "886445130287"
   },
   {
-    "albumID" : "1728467266",
+    "albumID" : "1002464334",
     "artist" : "Fünf Freunde",
-    "duration" : 3439.6249999999995,
-    "releaseDate" : 732758400,
-    "title" : "Folge 159: und das riesige Reptil",
-    "upc" : "196871355032"
+    "duration" : 2789.8109999999997,
+    "releaseDate" : -699321600,
+    "title" : "Folge 4: als Retter in der Not",
+    "upc" : "886445130324"
   },
   {
-    "albumID" : "1719773899",
+    "albumID" : "1002556878",
     "artist" : "Fünf Freunde",
-    "duration" : 3249.854,
-    "releaseDate" : 727315200,
-    "title" : "Folge 158: und das verlorene Maß",
-    "upc" : "196871326766"
+    "duration" : 2435.666999999999,
+    "releaseDate" : -691632000,
+    "title" : "Folge 5: und der Zauberer Wu",
+    "upc" : "886445130355"
   },
   {
-    "albumID" : "1712266854",
+    "albumID" : "1002512476",
     "artist" : "Fünf Freunde",
-    "duration" : 3752.0959999999995,
-    "releaseDate" : 722476800,
-    "title" : "Folge 157: und das seltsame Haus in der Schlucht",
-    "upc" : "196871075657"
+    "duration" : 2526.9199999999996,
+    "releaseDate" : -691545600,
+    "title" : "Folge 6: helfen ihrem Kameraden",
+    "upc" : "886445130362"
   },
   {
-    "albumID" : "1701392024",
+    "albumID" : "1002490124",
     "artist" : "Fünf Freunde",
-    "duration" : 3088.2400000000002,
-    "releaseDate" : 717033600,
-    "title" : "Folge 156: und die verlassene Villa",
-    "upc" : "196871052214"
+    "duration" : 2694.0129999999995,
+    "releaseDate" : -686534400,
+    "title" : "Folge 7: verfolgen die Strandräuber",
+    "upc" : "886445130379"
   },
   {
-    "albumID" : "1694279786",
+    "albumID" : "1653992614",
     "artist" : "Fünf Freunde",
-    "duration" : 3639.814,
-    "releaseDate" : 711590400,
-    "title" : "Folge 155: und das Erbe der Lady Thornton",
-    "upc" : "196589971890"
+    "duration" : 2312.868,
+    "releaseDate" : -686448000,
+    "title" : "008/retten Jo",
+    "upc" : "196589660190"
   },
   {
-    "albumID" : "1683310849",
+    "albumID" : "1002440083",
     "artist" : "Fünf Freunde",
-    "duration" : 3785.186,
-    "releaseDate" : 706752000,
-    "title" : "Folge 154:  und die Geheimbotschaft in der Ruine",
-    "upc" : "196589966315"
+    "duration" : 2571.745000000001,
+    "releaseDate" : -662774400,
+    "title" : "Folge 9: im alten Turm",
+    "upc" : "886445130423"
+  },
+  {
+    "albumID" : "1002557473",
+    "artist" : "Fünf Freunde",
+    "duration" : 2495.5600000000004,
+    "releaseDate" : -618105600,
+    "title" : "Folge 11: geraten in Schwierigkeiten",
+    "upc" : "886445130652"
+  },
+  {
+    "albumID" : "1002494694",
+    "artist" : "Fünf Freunde",
+    "duration" : 2989.3969999999995,
+    "releaseDate" : -618019200,
+    "title" : "Folge 12: auf der Felseninsel",
+    "upc" : "886445130812"
+  },
+  {
+    "albumID" : "1002494222",
+    "artist" : "Fünf Freunde",
+    "duration" : 2831.8819999999996,
+    "releaseDate" : -617932800,
+    "title" : "Folge 13: jagen die Entführer",
+    "upc" : "886445130881"
+  },
+  {
+    "albumID" : "1002566979",
+    "artist" : "Fünf Freunde",
+    "duration" : 2780.9210000000007,
+    "releaseDate" : -604886400,
+    "title" : "Folge 14: machen eine Entdeckung",
+    "upc" : "886445131024"
+  },
+  {
+    "albumID" : "1002472920",
+    "artist" : "Fünf Freunde",
+    "duration" : 2974.8690000000006,
+    "releaseDate" : -604800000,
+    "title" : "Folge 15: wittern ein Geheimnis",
+    "upc" : "886445131239"
+  },
+  {
+    "albumID" : "1002543718",
+    "artist" : "Fünf Freunde",
+    "duration" : 2664.627,
+    "releaseDate" : -604713600,
+    "title" : "Folge 16: auf dem Leuchtturm",
+    "upc" : "886445131277"
+  },
+  {
+    "albumID" : "1002457875",
+    "artist" : "Fünf Freunde",
+    "duration" : 2977.4429999999998,
+    "releaseDate" : -578620800,
+    "title" : "Folge 17: auf großer Fahrt",
+    "upc" : "886445131314"
+  },
+  {
+    "albumID" : "1002440406",
+    "artist" : "Fünf Freunde",
+    "duration" : 2909.787,
+    "releaseDate" : -578534400,
+    "title" : "Folge 18: auf geheimnisvollen Spuren",
+    "upc" : "886445131345"
+  },
+  {
+    "albumID" : "1002527904",
+    "artist" : "Fünf Freunde",
+    "duration" : 2725.4399999999996,
+    "releaseDate" : -578448000,
+    "title" : "Folge 19: auf Schmugglerjagd",
+    "upc" : "886445131376"
+  },
+  {
+    "albumID" : "1002461421",
+    "artist" : "Fünf Freunde",
+    "duration" : 3014.587,
+    "releaseDate" : -568080000,
+    "title" : "Folge 20: erforschen die Schatzinsel",
+    "upc" : "886445131390"
+  },
+  {
+    "albumID" : "1002528355",
+    "artist" : "Fünf Freunde",
+    "duration" : 2955.8250000000003,
+    "releaseDate" : -557712000,
+    "title" : "Folge 21: auf neuen Abenteuern",
+    "upc" : "886445132304"
+  },
+  {
+    "albumID" : "1002471356",
+    "artist" : "Fünf Freunde",
+    "duration" : 2673.549,
+    "releaseDate" : -399772800,
+    "title" : "Folge 22: und die Museumsbande",
+    "upc" : "886445132342"
+  },
+  {
+    "albumID" : "1002435385",
+    "artist" : "Fünf Freunde",
+    "duration" : 2440.091,
+    "releaseDate" : -399686400,
+    "title" : "Folge 23: und die Jagd nach den Smaragden",
+    "upc" : "886445132588"
+  },
+  {
+    "albumID" : "1002526755",
+    "artist" : "Fünf Freunde",
+    "duration" : 2898.187,
+    "releaseDate" : -376012800,
+    "title" : "Folge 24: im Fernsehen",
+    "upc" : "886445132632"
+  },
+  {
+    "albumID" : "1002522270",
+    "artist" : "Fünf Freunde",
+    "duration" : 2678.1309999999994,
+    "releaseDate" : -375926400,
+    "title" : "Folge 25: und die Flugzeugentführer",
+    "upc" : "886445132663"
+  },
+  {
+    "albumID" : "1002509987",
+    "artist" : "Fünf Freunde",
+    "duration" : 2630.0389999999998,
+    "releaseDate" : -347155200,
+    "title" : "Folge 26: und die Perlenschmuggler",
+    "upc" : "886445132670"
+  },
+  {
+    "albumID" : "1002477358",
+    "artist" : "Fünf Freunde",
+    "duration" : 2741.519,
+    "releaseDate" : -347068800,
+    "title" : "Folge 27: und die goldene Truhe",
+    "upc" : "886445132687"
+  },
+  {
+    "albumID" : "1002475154",
+    "artist" : "Fünf Freunde",
+    "duration" : 2792.589,
+    "releaseDate" : -315619200,
+    "title" : "Folge 28: und die geheimnisvolle Stadt",
+    "upc" : "886445132724"
+  },
+  {
+    "albumID" : "1002493545",
+    "artist" : "Fünf Freunde",
+    "duration" : 2737.3850000000007,
+    "releaseDate" : -315532800,
+    "title" : "Folge 29: und die Schwarze Maske",
+    "upc" : "886445132779"
+  },
+  {
+    "albumID" : "1002464607",
+    "artist" : "Fünf Freunde",
+    "duration" : 2952.281,
+    "releaseDate" : -59875200,
+    "title" : "Folge 30: auf gefährlichen Pfaden",
+    "upc" : "886445132793"
+  },
+  {
+    "albumID" : "1002496315",
+    "artist" : "Fünf Freunde",
+    "duration" : 2984.0020000000004,
+    "releaseDate" : -59788800,
+    "title" : "Folge 31: in der Geisterbahn",
+    "upc" : "886445132816"
+  },
+  {
+    "albumID" : "1002447569",
+    "artist" : "Fünf Freunde",
+    "duration" : 2628.629,
+    "releaseDate" : -48988800,
+    "title" : "Folge 32: und das Geheimnis des Oldtimers",
+    "upc" : "886445132878"
+  },
+  {
+    "albumID" : "1002569727",
+    "artist" : "Fünf Freunde",
+    "duration" : 2615.7040000000006,
+    "releaseDate" : -38707200,
+    "title" : "Folge 33: entdecken den Geheimgang",
+    "upc" : "886445132908"
+  },
+  {
+    "albumID" : "1002505646",
+    "artist" : "Fünf Freunde",
+    "duration" : 2628.7049999999995,
+    "releaseDate" : -33264000,
+    "title" : "Folge 34: und die Gespensterinsel",
+    "upc" : "886445132946"
+  },
+  {
+    "albumID" : "1002507517",
+    "artist" : "Fünf Freunde",
+    "duration" : 2564.3179999999993,
+    "releaseDate" : -25401600,
+    "title" : "Folge 35: und die gestohlene Briefmarke",
+    "upc" : "886445132960"
+  },
+  {
+    "albumID" : "1002444978",
+    "artist" : "Fünf Freunde",
+    "duration" : 2848.9700000000003,
+    "releaseDate" : -19958400,
+    "title" : "Folge 36: gefangen im Hünengrab",
+    "upc" : "886445132991"
+  },
+  {
+    "albumID" : "1002500185",
+    "artist" : "Fünf Freunde",
+    "duration" : 2279.5629999999996,
+    "releaseDate" : -12096000,
+    "title" : "Folge 37: und das Abenteuer im Ballon",
+    "upc" : "886445133028"
+  },
+  {
+    "albumID" : "1002448980",
+    "artist" : "Fünf Freunde",
+    "duration" : 2446.763,
+    "releaseDate" : -7948800,
+    "title" : "Folge 38: und das rätselhafte Medaillon",
+    "upc" : "886445133042"
+  },
+  {
+    "albumID" : "1002443440",
+    "artist" : "Fünf Freunde",
+    "duration" : 2509.109,
+    "releaseDate" : -2678400,
+    "title" : "Folge 39: und das Monster im Moor",
+    "upc" : "886445133066"
+  },
+  {
+    "albumID" : "1002444891",
+    "artist" : "Fünf Freunde",
+    "duration" : 2462.5329999999994,
+    "releaseDate" : 6048000,
+    "title" : "Folge 40: und das verschwundene Pferd",
+    "upc" : "886445133103"
+  },
+  {
+    "albumID" : "1002493709",
+    "artist" : "Fünf Freunde",
+    "duration" : 2392.4250000000006,
+    "releaseDate" : 11491200,
+    "title" : "Folge 41: und die Spur des Dinosauriers",
+    "upc" : "886445133158"
+  },
+  {
+    "albumID" : "1002500965",
+    "artist" : "Fünf Freunde",
+    "duration" : 2713.8360000000007,
+    "releaseDate" : 13910400,
+    "title" : "Folge 42: und der Dolch des Piraten",
+    "upc" : "886445133202"
+  },
+  {
+    "albumID" : "1002570009",
+    "artist" : "Fünf Freunde",
+    "duration" : 2529.0930000000008,
+    "releaseDate" : 21772800,
+    "title" : "Folge 43: und der unheimliche Mönch",
+    "upc" : "886445133288"
+  },
+  {
+    "albumID" : "1002529049",
+    "artist" : "Fünf Freunde",
+    "duration" : 2626.4129999999996,
+    "releaseDate" : 29030400,
+    "title" : "Folge 44: und die Flaschenpost",
+    "upc" : "886445133318"
+  },
+  {
+    "albumID" : "1002493710",
+    "artist" : "Fünf Freunde",
+    "duration" : 2558.893,
+    "releaseDate" : 35078400,
+    "title" : "Folge 45: und das Bootshaus in der Nebelbucht",
+    "upc" : "886445133356"
+  },
+  {
+    "albumID" : "1002530330",
+    "artist" : "Fünf Freunde",
+    "duration" : 2569.201,
+    "releaseDate" : 40521600,
+    "title" : "Folge 46: lösen das Rätsel des Landschulheims",
+    "upc" : "886445133394"
+  },
+  {
+    "albumID" : "1002555666",
+    "artist" : "Fünf Freunde",
+    "duration" : 3065.1459999999997,
+    "releaseDate" : 45360000,
+    "title" : "Folge 47: und der singende Schrank",
+    "upc" : "886445133448"
+  },
+  {
+    "albumID" : "1002496730",
+    "artist" : "Fünf Freunde",
+    "duration" : 2920.878,
+    "releaseDate" : 50803200,
+    "title" : "Folge 48: und die Schrift der Tempelritter",
+    "upc" : "886445134902"
+  },
+  {
+    "albumID" : "1002465630",
+    "artist" : "Fünf Freunde",
+    "duration" : 2714.146,
+    "releaseDate" : 58665600,
+    "title" : "Folge 49: und die Frau ohne Gedächtnis",
+    "upc" : "886445134919"
+  },
+  {
+    "albumID" : "1002444513",
+    "artist" : "Fünf Freunde",
+    "duration" : 2632.849,
+    "releaseDate" : 66528000,
+    "title" : "Folge 50: Timmy in Gefahr",
+    "upc" : "886445134957"
+  },
+  {
+    "albumID" : "1002529479",
+    "artist" : "Fünf Freunde",
+    "duration" : 2544.2250000000004,
+    "releaseDate" : 74390400,
+    "title" : "Folge 51: und der Eisenbahnraub",
+    "upc" : "886445135060"
+  },
+  {
+    "albumID" : "1002568080",
+    "artist" : "Fünf Freunde",
+    "duration" : 2826.3309999999997,
+    "releaseDate" : 78969600,
+    "title" : "Folge 52: und das Phantom von Sherwood Forest",
+    "upc" : "886445149487"
+  },
+  {
+    "albumID" : "1002452535",
+    "artist" : "Fünf Freunde",
+    "duration" : 2885.7989999999995,
+    "releaseDate" : 84672000,
+    "title" : "Folge 53: und die geheimnisvollen Kornkreise",
+    "upc" : "886445149494"
+  },
+  {
+    "albumID" : "1002461580",
+    "artist" : "Fünf Freunde",
+    "duration" : 2976.6150000000007,
+    "releaseDate" : 90115200,
+    "title" : "Folge 54: suchen den Stern des Nordens",
+    "upc" : "886445149821"
+  },
+  {
+    "albumID" : "1002568465",
+    "artist" : "Fünf Freunde",
+    "duration" : 2748.1960000000004,
+    "releaseDate" : 95558400,
+    "title" : "Folge 55: und die goldene Schlange",
+    "upc" : "886445149920"
+  },
+  {
+    "albumID" : "1002449434",
+    "artist" : "Fünf Freunde",
+    "duration" : 2831.841,
+    "releaseDate" : 101001600,
+    "title" : "Folge 56: und die geheimnisvolle Erbschaft",
+    "upc" : "886445150018"
+  },
+  {
+    "albumID" : "1002550839",
+    "artist" : "Fünf Freunde",
+    "duration" : 2979.197,
+    "releaseDate" : 108864000,
+    "title" : "Folge 57: und der fliegende Teppich",
+    "upc" : "886445150063"
+  },
+  {
+    "albumID" : "1002440354",
+    "artist" : "Fünf Freunde",
+    "duration" : 3000.639,
+    "releaseDate" : 113788800,
+    "title" : "Folge 58: und die afrikanische Statue",
+    "upc" : "886445150094"
+  },
+  {
+    "albumID" : "1002517367",
+    "artist" : "Fünf Freunde",
+    "duration" : 2976.908000000001,
+    "releaseDate" : 118540800,
+    "title" : "Folge 59: und das Abenteuer im Schnee",
+    "upc" : "886445150100"
+  },
+  {
+    "albumID" : "1002567431",
+    "artist" : "Fünf Freunde",
+    "duration" : 2891.5720000000006,
+    "releaseDate" : 127008000,
+    "title" : "Folge 60: tauchen unter",
+    "upc" : "886445150773"
+  },
+  {
+    "albumID" : "1002473757",
+    "artist" : "Fünf Freunde",
+    "duration" : 2869.107,
+    "releaseDate" : 134265600,
+    "title" : "Folge 61: und die Aufregung im Raubtierhaus",
+    "upc" : "886445150797"
+  },
+  {
+    "albumID" : "1002554779",
+    "artist" : "Fünf Freunde",
+    "duration" : 2937.5989999999997,
+    "releaseDate" : 134352000,
+    "title" : "Folge 62: und das Spuk-Festival",
+    "upc" : "886445150810"
+  },
+  {
+    "albumID" : "1002441517",
+    "artist" : "Fünf Freunde",
+    "duration" : 2984.653,
+    "releaseDate" : 142732800,
+    "title" : "Folge 63: und der Stein des Pharao",
+    "upc" : "886445150858"
+  },
+  {
+    "albumID" : "1002526452",
+    "artist" : "Fünf Freunde",
+    "duration" : 2598.159,
+    "releaseDate" : 148176000,
+    "title" : "Folge 64: geraten unter Verdacht",
+    "upc" : "886445150889"
+  },
+  {
+    "albumID" : "1002471431",
+    "artist" : "Fünf Freunde",
+    "duration" : 2721.0389999999998,
+    "releaseDate" : 154569600,
+    "title" : "Folge 65: und die schwarze Festung",
+    "upc" : "886445150933"
+  },
+  {
+    "albumID" : "1002472426",
+    "artist" : "Fünf Freunde",
+    "duration" : 2833.958,
+    "releaseDate" : 164246400,
+    "title" : "Folge 66: und das Seeungeheuer",
+    "upc" : "886445151084"
+  },
+  {
+    "albumID" : "1002490636",
+    "artist" : "Fünf Freunde",
+    "duration" : 3075.691000000001,
+    "releaseDate" : 169689600,
+    "title" : "Folge 67: und der unheimliche Brandstifter",
+    "upc" : "886445151091"
+  },
+  {
+    "albumID" : "1002451305",
+    "artist" : "Fünf Freunde",
+    "duration" : 2950.985,
+    "releaseDate" : 176947200,
+    "title" : "Folge 68: und die Druiden von Stonehenge",
+    "upc" : "886445151138"
+  },
+  {
+    "albumID" : "1002440287",
+    "artist" : "Fünf Freunde",
+    "duration" : 2801.7219999999998,
+    "releaseDate" : 181180800,
+    "title" : "Folge 69: und die Gefahr für die Felseninsel",
+    "upc" : "886445151176"
+  },
+  {
+    "albumID" : "1002435959",
+    "artist" : "Fünf Freunde",
+    "duration" : 2988.4559999999997,
+    "releaseDate" : 186019200,
+    "title" : "Folge 70: und die Rückkehr zur Gespensterinsel",
+    "upc" : "886445151206"
+  },
+  {
+    "albumID" : "1002446166",
+    "artist" : "Fünf Freunde",
+    "duration" : 3004.3999999999996,
+    "releaseDate" : 195091200,
+    "title" : "Folge 71: und der Verrat an Bord",
+    "upc" : "886445151282"
+  },
+  {
+    "albumID" : "1002517110",
+    "artist" : "Fünf Freunde",
+    "duration" : 3219.4680000000003,
+    "releaseDate" : 199929600,
+    "title" : "Folge 72: auf der Spur der Entführer",
+    "upc" : "886445151305"
+  },
+  {
+    "albumID" : "1002442247",
+    "artist" : "Fünf Freunde",
+    "duration" : 3066.3720000000003,
+    "releaseDate" : 208396800,
+    "title" : "Folge 73: und das Rätsel der Zinnmine",
+    "upc" : "886445151336"
+  },
+  {
+    "albumID" : "1002500357",
+    "artist" : "Fünf Freunde",
+    "duration" : 3205.6799999999994,
+    "releaseDate" : 213235200,
+    "title" : "Folge 74: verfolgen den Wilderer",
+    "upc" : "886445151466"
+  },
+  {
+    "albumID" : "1002455677",
+    "artist" : "Fünf Freunde",
+    "duration" : 3248.6019999999994,
+    "releaseDate" : 224121600,
+    "title" : "Folge 75: und das unheimliche Hexenhaus",
+    "upc" : "886445151480"
+  },
+  {
+    "albumID" : "1002471497",
+    "artist" : "Fünf Freunde",
+    "duration" : 2659.4550000000004,
+    "releaseDate" : 231984000,
+    "title" : "Folge 76: und das Geheimnis des Maskottchens",
+    "upc" : "886445151534"
+  },
+  {
+    "albumID" : "1002505973",
+    "artist" : "Fünf Freunde",
+    "duration" : 2912.188,
+    "releaseDate" : 237427200,
+    "title" : "Folge 77: und das unheimliche Bergmonster",
+    "upc" : "886445151589"
+  },
+  {
+    "albumID" : "1002435233",
+    "artist" : "Fünf Freunde",
+    "duration" : 2988.2960000000007,
+    "releaseDate" : 244080000,
+    "title" : "Folge 78: und die Piraten-Bande",
+    "upc" : "886445151602"
+  },
+  {
+    "albumID" : "1002449735",
+    "artist" : "Fünf Freunde",
+    "duration" : 3110.693000000001,
+    "releaseDate" : 248313600,
+    "title" : "Folge 79: und das Rätsel des Drachenbootes",
+    "upc" : "886445151619"
+  },
+  {
+    "albumID" : "1002556381",
+    "artist" : "Fünf Freunde",
+    "duration" : 3344.6669999999995,
+    "releaseDate" : 256780800,
+    "title" : "Folge 80: und das gefährliche Antoniusfeuer",
+    "upc" : "886445158045"
+  },
+  {
+    "albumID" : "1002550834",
+    "artist" : "Fünf Freunde",
+    "duration" : 3165.04,
+    "releaseDate" : 261619200,
+    "title" : "Folge 81: und das Höhlen-Labyrinth",
+    "upc" : "886445158236"
+  },
+  {
+    "albumID" : "1002549626",
+    "artist" : "Fünf Freunde",
+    "duration" : 3007.6029999999996,
+    "releaseDate" : 261705600,
+    "title" : "Folge 82: und der verhängnisvolle Treibsand",
+    "upc" : "886445158267"
+  },
+  {
+    "albumID" : "1002476977",
+    "artist" : "Fünf Freunde",
+    "duration" : 3025.495,
+    "releaseDate" : 275529600,
+    "title" : "Folge 83: und das Abenteuer im Hundeschlitten",
+    "upc" : "886445158304"
+  },
+  {
+    "albumID" : "1002472613",
+    "artist" : "Fünf Freunde",
+    "duration" : 2979.1580000000004,
+    "releaseDate" : 277344000,
+    "title" : "Folge 84: und der Gesang der Sirenen",
+    "upc" : "886445158311"
+  },
+  {
+    "albumID" : "1002449644",
+    "artist" : "Fünf Freunde",
+    "duration" : 3395.4780000000005,
+    "releaseDate" : 287625600,
+    "title" : "Folge 85: und der verschwundene Wikingerhelm",
+    "upc" : "886445158359"
+  },
+  {
+    "albumID" : "1002525241",
+    "artist" : "Fünf Freunde",
+    "duration" : 3480.211,
+    "releaseDate" : 293068800,
+    "title" : "Folge 86: und die verbotenen Blüten",
+    "upc" : "886445158441"
+  },
+  {
+    "albumID" : "1002449933",
+    "artist" : "Fünf Freunde",
+    "duration" : 3329.12,
+    "releaseDate" : 297907200,
+    "title" : "Folge 87: und das rätselhafte Sternbild",
+    "upc" : "886445158496"
+  },
+  {
+    "albumID" : "1002438239",
+    "artist" : "Fünf Freunde",
+    "duration" : 3683.3870000000006,
+    "releaseDate" : 306374400,
+    "title" : "Folge 88: und das Gespenst von Canterbury",
+    "upc" : "886445158557"
+  },
+  {
+    "albumID" : "1002548994",
+    "artist" : "Fünf Freunde",
+    "duration" : 3336.0139999999997,
+    "releaseDate" : 312422400,
+    "title" : "Folge 89: und das Familienwappen",
+    "upc" : "886445158861"
+  },
+  {
+    "albumID" : "1002511109",
+    "artist" : "Fünf Freunde",
+    "duration" : 3242.171,
+    "releaseDate" : 319075200,
+    "title" : "Folge 90: retten die Honigbienen",
+    "upc" : "886445158878"
+  },
+  {
+    "albumID" : "1002570415",
+    "artist" : "Fünf Freunde",
+    "duration" : 3354.08,
+    "releaseDate" : 324518400,
+    "title" : "Folge 91: und der Schatz aus dem U-Boot",
+    "upc" : "886445158892"
+  },
+  {
+    "albumID" : "1002458852",
+    "artist" : "Fünf Freunde",
+    "duration" : 3319.3350000000005,
+    "releaseDate" : 329356800,
+    "title" : "Folge 92: auf der Insel der Seeräuber",
+    "upc" : "886445158960"
+  },
+  {
+    "albumID" : "1002463832",
+    "artist" : "Fünf Freunde",
+    "duration" : 3208.388000000001,
+    "releaseDate" : 338428800,
+    "title" : "Folge 93: und das Geheimnis des Winterwaldes",
+    "upc" : "886445159028"
+  },
+  {
+    "albumID" : "1002492769",
+    "artist" : "Fünf Freunde",
+    "duration" : 3353.7210000000005,
+    "releaseDate" : 343872000,
+    "title" : "Folge 94: und die Sturmflut",
+    "upc" : "886445159110"
+  },
+  {
+    "albumID" : "1237102110",
+    "artist" : "Fünf Freunde",
+    "duration" : 4891.400000000001,
+    "releaseDate" : 349315200,
+    "title" : "01/Das Original-Hörspiel zum Kinofilm",
+    "upc" : "886446466149"
+  },
+  {
+    "albumID" : "494238775",
+    "artist" : "Fünf Freunde",
+    "duration" : 2194.9999999999995,
+    "releaseDate" : 349401600,
+    "title" : "Fünf Freunde - Der Original-Soundtrack zum Kinofilm",
+    "upc" : "886443316942"
+  },
+  {
+    "albumID" : "1002509099",
+    "artist" : "Fünf Freunde",
+    "duration" : 2991.2659999999996,
+    "releaseDate" : 350524800,
+    "title" : "Folge 95: in der Höhle des Urmenschen",
+    "upc" : "886445159387"
+  },
+  {
+    "albumID" : "1002507458",
+    "artist" : "Fünf Freunde",
+    "duration" : 3206.8269999999993,
+    "releaseDate" : 355968000,
+    "title" : "Folge 96: und das gefährliche Treibgut",
+    "upc" : "886445159400"
+  },
+  {
+    "albumID" : "1002457509",
+    "artist" : "Fünf Freunde",
+    "duration" : 3483.813000000001,
+    "releaseDate" : 360806400,
+    "title" : "Folge 97: auf der Spur der Silberdiebe",
+    "upc" : "886445159448"
+  },
+  {
+    "albumID" : "1002566875",
+    "artist" : "Fünf Freunde",
+    "duration" : 3123.174,
+    "releaseDate" : 369273600,
+    "title" : "Folge 98: und die Legende der Zwillingseiche",
+    "upc" : "886445159462"
+  },
+  {
+    "albumID" : "1002437946",
+    "artist" : "Fünf Freunde",
+    "duration" : 3471.4149999999995,
+    "releaseDate" : 375321600,
+    "title" : "Folge 99: und der seltsame Leuchtturm",
+    "upc" : "886445159479"
+  },
+  {
+    "albumID" : "1237104158",
+    "artist" : "Fünf Freunde",
+    "duration" : 4631.759000000001,
+    "releaseDate" : 381369600,
+    "title" : "Folge 2: Das Original-Hörspiel zum Kinofilm",
+    "upc" : "886446466217"
+  },
+  {
+    "albumID" : "1002455448",
+    "artist" : "Fünf Freunde",
+    "duration" : 3543.039,
+    "releaseDate" : 382579200,
+    "title" : "Folge 100: und das Gorillakind in Gefahr",
+    "upc" : "886445159486"
+  },
+  {
+    "albumID" : "1002552325",
+    "artist" : "Fünf Freunde",
+    "duration" : 3413.1330000000007,
+    "releaseDate" : 387417600,
+    "title" : "Folge 101: und der vergessene Schatz",
+    "upc" : "886445159516"
+  },
+  {
+    "albumID" : "1002491981",
+    "artist" : "Fünf Freunde",
+    "duration" : 3712.9439999999995,
+    "releaseDate" : 392256000,
+    "title" : "Folge 102: und die goldene Maske des Pharao",
+    "upc" : "886445160703"
+  },
+  {
+    "albumID" : "1002495973",
+    "artist" : "Fünf Freunde",
+    "duration" : 3704.506,
+    "releaseDate" : 400723200,
+    "title" : "Folge 103: und die giftigen Feuerquallen",
+    "upc" : "886445160710"
+  },
+  {
+    "albumID" : "1002460785",
+    "artist" : "Fünf Freunde",
+    "duration" : 3572.718999999999,
+    "releaseDate" : 406771200,
+    "title" : "Folge 104: und die Jagd nach der Diebesbande",
+    "upc" : "886445160727"
+  },
+  {
+    "albumID" : "1237107921",
+    "artist" : "Fünf Freunde",
+    "duration" : 4889.2530000000015,
+    "releaseDate" : 411609600,
+    "title" : "Folge 3: Das Original-Hörspiel zum Kinofilm",
+    "upc" : "886446466316"
+  },
+  {
+    "albumID" : "1002529779",
+    "artist" : "Fünf Freunde",
+    "duration" : 3195.0400000000004,
+    "releaseDate" : 414028800,
+    "title" : "Folge 105: und das magische Spinnennetz",
+    "upc" : "886444430890"
+  },
+  {
+    "albumID" : "1047765214",
+    "artist" : "Fünf Freunde",
+    "duration" : 3416.1029999999987,
+    "releaseDate" : 418867200,
+    "title" : "Folge 106: und das geheimnisvolle Polarschiff",
+    "upc" : "886445317442"
+  },
+  {
+    "albumID" : "1047761358",
+    "artist" : "Fünf Freunde",
+    "duration" : 3258.4129999999996,
+    "releaseDate" : 423705600,
+    "title" : "Folge 107: und die Nacht im Safari-Park",
+    "upc" : "886445317459"
+  },
+  {
+    "albumID" : "1047763791",
+    "artist" : "Fünf Freunde",
+    "duration" : 3220.105,
+    "releaseDate" : 433382400,
+    "title" : "Folge 108: und die Entführung im Skigebiet",
+    "upc" : "886445317466"
+  },
+  {
+    "albumID" : "1047760819",
+    "artist" : "Fünf Freunde",
+    "duration" : 3541.3879999999995,
+    "releaseDate" : 438220800,
+    "title" : "Folge 109: und die mysteriöse Botschaft",
+    "upc" : "886445317473"
+  },
+  {
+    "albumID" : "1237110207",
+    "artist" : "Fünf Freunde",
+    "duration" : 4881.759999999998,
+    "releaseDate" : 444268800,
+    "title" : "Folge 4: Das Original-Hörspiel zum Kinofilm",
+    "upc" : "886446466415"
+  },
+  {
+    "albumID" : "1047765883",
+    "artist" : "Fünf Freunde",
+    "duration" : 3344.7859999999996,
+    "releaseDate" : 445478400,
+    "title" : "Folge 110: auf dem Pfad der Küstenschmuggler",
+    "upc" : "886445317480"
+  },
+  {
+    "albumID" : "1047761277",
+    "artist" : "Fünf Freunde",
+    "duration" : 3384.3720000000008,
+    "releaseDate" : 450316800,
+    "title" : "Folge 111: und das Geheimverlies im Schloss",
+    "upc" : "886445317497"
+  },
+  {
+    "albumID" : "1047761322",
+    "artist" : "Fünf Freunde",
+    "duration" : 3565.6790000000005,
+    "releaseDate" : 455155200,
+    "title" : "Folge 112: und der Delfin in der Felsenbucht",
+    "upc" : "886445317503"
+  },
+  {
+    "albumID" : "1047762136",
+    "artist" : "Fünf Freunde",
+    "duration" : 3474.458,
+    "releaseDate" : 463622400,
+    "title" : "Folge 113: und das Feuer auf der Felseninsel",
+    "upc" : "886445317510"
+  },
+  {
+    "albumID" : "1048622732",
+    "artist" : "Fünf Freunde",
+    "duration" : 3726.7850000000008,
+    "releaseDate" : 469670400,
+    "title" : "Folge 114: und der Skandal auf der Freilichtbühne",
+    "upc" : "886444980586"
+  },
+  {
+    "albumID" : "1070221537",
+    "artist" : "Fünf Freunde",
+    "duration" : 3099.5459999999994,
+    "releaseDate" : 477532800,
+    "title" : "Folge 115: helfen den Flutopfern",
+    "upc" : "886445603002"
+  },
+  {
+    "albumID" : "1090908738",
+    "artist" : "Fünf Freunde",
+    "duration" : 3197.6370000000015,
+    "releaseDate" : 482371200,
+    "title" : "Folge 116: und der chinesische Pflanzenzauber",
+    "upc" : "886445603019"
+  },
+  {
+    "albumID" : "1110806395",
+    "artist" : "Fünf Freunde",
+    "duration" : 3732.012999999999,
+    "releaseDate" : 486604800,
+    "title" : "Folge 117: und der Wolf in den Highlands",
+    "upc" : "886445603026"
+  },
+  {
+    "albumID" : "1137115177",
+    "artist" : "Fünf Freunde",
+    "duration" : 3214.252000000001,
+    "releaseDate" : 495072000,
+    "title" : "Folge 118: und der falsche Patient",
+    "upc" : "886445603033"
+  },
+  {
+    "albumID" : "1168002592",
+    "artist" : "Fünf Freunde",
+    "duration" : 3928.4529999999995,
+    "releaseDate" : 501120000,
+    "title" : "Folge 119: und das versunkene Schiff",
+    "upc" : "886445603040"
+  },
+  {
+    "albumID" : "1186268045",
+    "artist" : "Fünf Freunde",
+    "duration" : 3747.0269999999996,
+    "releaseDate" : 508982400,
+    "title" : "Folge 120: und die doppelte Erfindung",
+    "upc" : "886446072036"
+  },
+  {
+    "albumID" : "1214872067",
+    "artist" : "Fünf Freunde",
+    "duration" : 3690.5589999999997,
+    "releaseDate" : 514425600,
+    "title" : "Folge 121: und die verlassene Jagdhütte",
+    "upc" : "886446072043"
+  },
+  {
+    "albumID" : "1223460942",
+    "artist" : "Fünf Freunde",
+    "duration" : 3405.482000000001,
+    "releaseDate" : 519264000,
+    "title" : "Folge 122: und der Großalarm in Kirrin",
+    "upc" : "886446072050"
+  },
+  {
+    "albumID" : "1266015928",
+    "artist" : "Fünf Freunde",
+    "duration" : 3419.6300000000006,
+    "releaseDate" : 527731200,
+    "title" : "Folge 123: und der Zug im Dunkeln",
+    "upc" : "886446072067"
+  },
+  {
+    "albumID" : "1287526566",
+    "artist" : "Fünf Freunde",
+    "duration" : 3320.506,
+    "releaseDate" : 531964800,
+    "title" : "Folge 124: auf der Suche nach Timmy",
+    "upc" : "886446072074"
+  },
+  {
+    "albumID" : "1334680351",
+    "artist" : "Fünf Freunde",
+    "duration" : 3247.2799999999997,
+    "releaseDate" : 541036800,
+    "title" : "Folge 125: und die gemeine Falle",
+    "upc" : "886446194707"
+  },
+  {
+    "albumID" : "1347817522",
+    "artist" : "Fünf Freunde",
+    "duration" : 394.706,
+    "releaseDate" : 541641600,
+    "title" : "Wir sind Fünf Freunde - Der Titelsong zum Kinofilm - Single",
+    "upc" : "886446967172"
+  },
+  {
+    "albumID" : "1349181673",
+    "artist" : "Fünf Freunde",
+    "duration" : 4888.414,
+    "releaseDate" : 542851200,
+    "title" : "Fünf Freunde und das Tal der Dinosaurier - Das Original-Hörspiel zum Kinofilm",
+    "upc" : "886446839158"
+  },
+  {
+    "albumID" : "1351881860",
+    "artist" : "Fünf Freunde",
+    "duration" : 3301.543999999999,
+    "releaseDate" : 545875200,
+    "title" : "Folge 126: und die gefährlichen Wurzeln",
+    "upc" : "886446452944"
+  },
+  {
+    "albumID" : "1380123428",
+    "artist" : "Fünf Freunde",
+    "duration" : 3440.2139999999995,
+    "releaseDate" : 550713600,
+    "title" : "Folge 127: und die Teufelsbucht",
+    "upc" : "886446832463"
+  },
+  {
+    "albumID" : "1406274389",
+    "artist" : "Fünf Freunde",
+    "duration" : 3293.8419999999996,
+    "releaseDate" : 557971200,
+    "title" : "Folge 128: und der unsichtbare Feind",
+    "upc" : "886446954943"
+  },
+  {
+    "albumID" : "1438531017",
+    "artist" : "Fünf Freunde",
+    "duration" : 3166.013000000001,
+    "releaseDate" : 564624000,
+    "title" : "Folge 129: und die kleinen Detektive",
+    "upc" : "886447192641"
+  },
+  {
+    "albumID" : "1449471516",
+    "artist" : "Fünf Freunde",
+    "duration" : 3333.2940000000003,
+    "releaseDate" : 571881600,
+    "title" : "Folge 130: und die Glocke der Wikinger",
+    "upc" : "886447234150"
+  },
+  {
+    "albumID" : "1456262331",
+    "artist" : "Fünf Freunde",
+    "duration" : 3300.9589999999994,
+    "releaseDate" : 577929600,
+    "title" : "Folge 131: verfolgen die Fahrraddiebe",
+    "upc" : "886447439845"
+  },
+  {
+    "albumID" : "1462260896",
+    "artist" : "Fünf Freunde",
+    "duration" : 3312.839,
+    "releaseDate" : 583372800,
+    "title" : "Folge 132: und das Rätsel um den Stromausfall",
+    "upc" : "886447441978"
+  },
+  {
+    "albumID" : "1476377929",
+    "artist" : "Fünf Freunde",
+    "duration" : 3673.7989999999995,
+    "releaseDate" : 590630400,
+    "title" : "Folge 133: und der Esel in der Tropfsteinhöhle",
+    "upc" : "886447545874"
+  },
+  {
+    "albumID" : "1479043394",
+    "artist" : "Fünf Freunde",
+    "duration" : 3355.988,
+    "releaseDate" : 596073600,
+    "title" : "Folge 134: und die unheimliche Achterbahn",
+    "upc" : "886447870525"
+  },
+  {
+    "albumID" : "1486745040",
+    "artist" : "Fünf Freunde",
+    "duration" : 3531.666,
+    "releaseDate" : 602121600,
+    "title" : "Folge 135: und die verdächtige Ölfirma",
+    "upc" : "886448053972"
+  },
+  {
+    "albumID" : "1496579888",
+    "artist" : "Fünf Freunde",
+    "duration" : 3495.773,
+    "releaseDate" : 607564800,
+    "title" : "Folge 136: Fünf Freunde und der wütende Stier",
+    "upc" : "886448054009"
+  },
+  {
+    "albumID" : "1513394768",
+    "artist" : "Fünf Freunde",
+    "duration" : 3635.7630000000004,
+    "releaseDate" : 613008000,
+    "title" : "Folge 137: und der Schokoladendieb von London",
+    "upc" : "886448109389"
+  },
+  {
+    "albumID" : "1527753025",
+    "artist" : "Fünf Freunde",
+    "duration" : 3709.1180000000004,
+    "releaseDate" : 620870400,
+    "title" : "Folge 138: am Ende der Welt",
+    "upc" : "886448109402"
+  },
+  {
+    "albumID" : "1538124716",
+    "artist" : "Fünf Freunde",
+    "duration" : 3432.480999999999,
+    "releaseDate" : 628128000,
+    "title" : "Folge 139: und die Geisterstadt",
+    "upc" : "886448109419"
+  },
+  {
+    "albumID" : "1548686906",
+    "artist" : "Fünf Freunde",
+    "duration" : 3516.627000000001,
+    "releaseDate" : 634176000,
+    "title" : "Folge 140: und das geheimnisvolle Licht",
+    "upc" : "886448779681"
+  },
+  {
+    "albumID" : "1555076346",
+    "artist" : "Fünf Freunde",
+    "duration" : 3583.575,
+    "releaseDate" : 637804800,
+    "title" : "141/und das rätselhafte Spukhaus",
+    "upc" : "886448779728"
+  },
+  {
+    "albumID" : "1564073760",
+    "artist" : "Fünf Freunde",
+    "duration" : 3558.759,
+    "releaseDate" : 643248000,
+    "title" : "Folge 142: Fünf Freunde und der mysteriöse Dieb",
+    "upc" : "886449071142"
+  },
+  {
+    "albumID" : "1573253958",
+    "artist" : "Fünf Freunde",
+    "duration" : 3586.881999999999,
+    "releaseDate" : 648086400,
+    "title" : "Folge 143: und die verschwundene Riesenschildkröte",
+    "upc" : "886449238415"
+  },
+  {
+    "albumID" : "1584618476",
+    "artist" : "Fünf Freunde",
+    "duration" : 3753.6550000000007,
+    "releaseDate" : 653529600,
+    "title" : "Folge 144: und die große Meuterei",
+    "upc" : "886449510177"
+  },
+  {
+    "albumID" : "1589803355",
+    "artist" : "Fünf Freunde",
+    "duration" : 3515.6,
+    "releaseDate" : 657763200,
+    "title" : "Folge 145: und die Suche nach dem Mondgestein",
+    "upc" : "886449446216"
+  },
+  {
+    "albumID" : "1594162214",
+    "artist" : "Fünf Freunde",
+    "duration" : 7081.951000000001,
+    "releaseDate" : 660009600,
+    "title" : "Adventskalender - Fünf Freunde und das Abenteuer im Wald",
+    "upc" : "886449446247"
+  },
+  {
+    "albumID" : "1597090871",
+    "artist" : "Fünf Freunde",
+    "duration" : 3375.163,
+    "releaseDate" : 664416000,
+    "title" : "Folge 146: und die verdächtige Fahrradbotin",
+    "upc" : "886449665600"
+  },
+  {
+    "albumID" : "1610357337",
+    "artist" : "Fünf Freunde",
+    "duration" : 3944.4680000000003,
+    "releaseDate" : 669254400,
+    "title" : "Folge 147: und das unheimliche Dorf im See",
+    "upc" : "886449704828"
+  },
+  {
+    "albumID" : "1683548852",
+    "artist" : "Fünf Freunde",
+    "duration" : 3504.6260000000007,
+    "releaseDate" : 674697600,
+    "title" : "Folge 148: und die Lichter in der Niemandsbucht",
+    "upc" : "886449704910"
+  },
+  {
+    "albumID" : "1683548108",
+    "artist" : "Fünf Freunde",
+    "duration" : 3628.388,
+    "releaseDate" : 680140800,
+    "title" : "Folge 149: und der Schatz in der Drachenschlucht",
+    "upc" : "886449967308"
+  },
+  {
+    "albumID" : "1683542941",
+    "artist" : "Fünf Freunde",
+    "duration" : 7379.993000000002,
+    "releaseDate" : 688003200,
+    "title" : "Folge 150: und der Verrat auf dem Hausboot",
+    "upc" : "886449974498"
+  },
+  {
+    "albumID" : "1683803556",
+    "artist" : "Fünf Freunde",
+    "duration" : 3258.159000000001,
+    "releaseDate" : 691027200,
+    "title" : "Folge 151: und das unterirdische Versteck",
+    "upc" : "196871072779"
+  },
+  {
+    "albumID" : "1683805474",
+    "artist" : "Fünf Freunde",
+    "duration" : 3545.1980000000003,
+    "releaseDate" : 695865600,
+    "title" : "Folge 152: und das Geheimnis der Kelly Brüder",
+    "upc" : "196871072878"
   },
   {
     "albumID" : "1677590329",
@@ -80,60 +1280,12 @@
     "upc" : "196589965684"
   },
   {
-    "albumID" : "1761129434",
+    "albumID" : "1683310849",
     "artist" : "Fünf Freunde",
-    "duration" : 3423.6540000000014,
-    "releaseDate" : 749088000,
-    "title" : "Folge 162: und die Legende vom versteckten Sohn",
-    "upc" : "196872211900"
-  },
-  {
-    "albumID" : "1753048795",
-    "artist" : "Fünf Freunde",
-    "duration" : 3167.9859999999994,
-    "releaseDate" : 743644800,
-    "title" : "Folge 161: und der Juwelenschatz",
-    "upc" : "196872196801"
-  },
-  {
-    "albumID" : "1740115018",
-    "artist" : "Fünf Freunde",
-    "duration" : 3477.599,
-    "releaseDate" : 738806400,
-    "title" : "Folge 160: und der verschwundene Bräutigam",
-    "upc" : "196871670098"
-  },
-  {
-    "albumID" : "1728467266",
-    "artist" : "Fünf Freunde",
-    "duration" : 3439.6249999999995,
-    "releaseDate" : 732758400,
-    "title" : "Folge 159: und das riesige Reptil",
-    "upc" : "196871355032"
-  },
-  {
-    "albumID" : "1719773899",
-    "artist" : "Fünf Freunde",
-    "duration" : 3249.854,
-    "releaseDate" : 727315200,
-    "title" : "Folge 158: und das verlorene Maß",
-    "upc" : "196871326766"
-  },
-  {
-    "albumID" : "1712266854",
-    "artist" : "Fünf Freunde",
-    "duration" : 3752.0959999999995,
-    "releaseDate" : 722476800,
-    "title" : "Folge 157: und das seltsame Haus in der Schlucht",
-    "upc" : "196871075657"
-  },
-  {
-    "albumID" : "1701392024",
-    "artist" : "Fünf Freunde",
-    "duration" : 3088.2400000000002,
-    "releaseDate" : 717033600,
-    "title" : "Folge 156: und die verlassene Villa",
-    "upc" : "196871052214"
+    "duration" : 3785.186,
+    "releaseDate" : 706752000,
+    "title" : "Folge 154:  und die Geheimbotschaft in der Ruine",
+    "upc" : "196589966315"
   },
   {
     "albumID" : "1694279786",
@@ -144,60 +1296,12 @@
     "upc" : "196589971890"
   },
   {
-    "albumID" : "1683310849",
+    "albumID" : "1701392024",
     "artist" : "Fünf Freunde",
-    "duration" : 3785.186,
-    "releaseDate" : 706752000,
-    "title" : "Folge 154:  und die Geheimbotschaft in der Ruine",
-    "upc" : "196589966315"
-  },
-  {
-    "albumID" : "1677590329",
-    "artist" : "Fünf Freunde",
-    "duration" : 3419.3740000000003,
-    "releaseDate" : 702518400,
-    "title" : "Folge 153: und der weiße Hai",
-    "upc" : "196589965684"
-  },
-  {
-    "albumID" : "1761129434",
-    "artist" : "Fünf Freunde",
-    "duration" : 3423.6540000000014,
-    "releaseDate" : 749088000,
-    "title" : "Folge 162: und die Legende vom versteckten Sohn",
-    "upc" : "196872211900"
-  },
-  {
-    "albumID" : "1753048795",
-    "artist" : "Fünf Freunde",
-    "duration" : 3167.9859999999994,
-    "releaseDate" : 743644800,
-    "title" : "Folge 161: und der Juwelenschatz",
-    "upc" : "196872196801"
-  },
-  {
-    "albumID" : "1740115018",
-    "artist" : "Fünf Freunde",
-    "duration" : 3477.599,
-    "releaseDate" : 738806400,
-    "title" : "Folge 160: und der verschwundene Bräutigam",
-    "upc" : "196871670098"
-  },
-  {
-    "albumID" : "1728467266",
-    "artist" : "Fünf Freunde",
-    "duration" : 3439.6249999999995,
-    "releaseDate" : 732758400,
-    "title" : "Folge 159: und das riesige Reptil",
-    "upc" : "196871355032"
-  },
-  {
-    "albumID" : "1719773899",
-    "artist" : "Fünf Freunde",
-    "duration" : 3249.854,
-    "releaseDate" : 727315200,
-    "title" : "Folge 158: und das verlorene Maß",
-    "upc" : "196871326766"
+    "duration" : 3088.2400000000002,
+    "releaseDate" : 717033600,
+    "title" : "Folge 156: und die verlassene Villa",
+    "upc" : "196871052214"
   },
   {
     "albumID" : "1712266854",
@@ -208,60 +1312,12 @@
     "upc" : "196871075657"
   },
   {
-    "albumID" : "1701392024",
+    "albumID" : "1719773899",
     "artist" : "Fünf Freunde",
-    "duration" : 3088.2400000000002,
-    "releaseDate" : 717033600,
-    "title" : "Folge 156: und die verlassene Villa",
-    "upc" : "196871052214"
-  },
-  {
-    "albumID" : "1694279786",
-    "artist" : "Fünf Freunde",
-    "duration" : 3639.814,
-    "releaseDate" : 711590400,
-    "title" : "Folge 155: und das Erbe der Lady Thornton",
-    "upc" : "196589971890"
-  },
-  {
-    "albumID" : "1683310849",
-    "artist" : "Fünf Freunde",
-    "duration" : 3785.186,
-    "releaseDate" : 706752000,
-    "title" : "Folge 154:  und die Geheimbotschaft in der Ruine",
-    "upc" : "196589966315"
-  },
-  {
-    "albumID" : "1677590329",
-    "artist" : "Fünf Freunde",
-    "duration" : 3419.3740000000003,
-    "releaseDate" : 702518400,
-    "title" : "Folge 153: und der weiße Hai",
-    "upc" : "196589965684"
-  },
-  {
-    "albumID" : "1761129434",
-    "artist" : "Fünf Freunde",
-    "duration" : 3423.6540000000014,
-    "releaseDate" : 749088000,
-    "title" : "Folge 162: und die Legende vom versteckten Sohn",
-    "upc" : "196872211900"
-  },
-  {
-    "albumID" : "1753048795",
-    "artist" : "Fünf Freunde",
-    "duration" : 3167.9859999999994,
-    "releaseDate" : 743644800,
-    "title" : "Folge 161: und der Juwelenschatz",
-    "upc" : "196872196801"
-  },
-  {
-    "albumID" : "1740115018",
-    "artist" : "Fünf Freunde",
-    "duration" : 3477.599,
-    "releaseDate" : 738806400,
-    "title" : "Folge 160: und der verschwundene Bräutigam",
-    "upc" : "196871670098"
+    "duration" : 3249.854,
+    "releaseDate" : 727315200,
+    "title" : "Folge 158: und das verlorene Maß",
+    "upc" : "196871326766"
   },
   {
     "albumID" : "1728467266",
@@ -272,60 +1328,12 @@
     "upc" : "196871355032"
   },
   {
-    "albumID" : "1719773899",
+    "albumID" : "1740115018",
     "artist" : "Fünf Freunde",
-    "duration" : 3249.854,
-    "releaseDate" : 727315200,
-    "title" : "Folge 158: und das verlorene Maß",
-    "upc" : "196871326766"
-  },
-  {
-    "albumID" : "1712266854",
-    "artist" : "Fünf Freunde",
-    "duration" : 3752.0959999999995,
-    "releaseDate" : 722476800,
-    "title" : "Folge 157: und das seltsame Haus in der Schlucht",
-    "upc" : "196871075657"
-  },
-  {
-    "albumID" : "1701392024",
-    "artist" : "Fünf Freunde",
-    "duration" : 3088.2400000000002,
-    "releaseDate" : 717033600,
-    "title" : "Folge 156: und die verlassene Villa",
-    "upc" : "196871052214"
-  },
-  {
-    "albumID" : "1694279786",
-    "artist" : "Fünf Freunde",
-    "duration" : 3639.814,
-    "releaseDate" : 711590400,
-    "title" : "Folge 155: und das Erbe der Lady Thornton",
-    "upc" : "196589971890"
-  },
-  {
-    "albumID" : "1683310849",
-    "artist" : "Fünf Freunde",
-    "duration" : 3785.186,
-    "releaseDate" : 706752000,
-    "title" : "Folge 154:  und die Geheimbotschaft in der Ruine",
-    "upc" : "196589966315"
-  },
-  {
-    "albumID" : "1677590329",
-    "artist" : "Fünf Freunde",
-    "duration" : 3419.3740000000003,
-    "releaseDate" : 702518400,
-    "title" : "Folge 153: und der weiße Hai",
-    "upc" : "196589965684"
-  },
-  {
-    "albumID" : "1761129434",
-    "artist" : "Fünf Freunde",
-    "duration" : 3423.6540000000014,
-    "releaseDate" : 749088000,
-    "title" : "Folge 162: und die Legende vom versteckten Sohn",
-    "upc" : "196872211900"
+    "duration" : 3477.599,
+    "releaseDate" : 738806400,
+    "title" : "Folge 160: und der verschwundene Bräutigam",
+    "upc" : "196871670098"
   },
   {
     "albumID" : "1753048795",
@@ -336,1027 +1344,11 @@
     "upc" : "196872196801"
   },
   {
-    "albumID" : "1740115018",
-    "artist" : "Fünf Freunde",
-    "duration" : 3477.599,
-    "releaseDate" : 738806400,
-    "title" : "Folge 160: und der verschwundene Bräutigam",
-    "upc" : "196871670098"
-  },
-  {
-    "albumID" : "1728467266",
-    "artist" : "Fünf Freunde",
-    "duration" : 3439.6249999999995,
-    "releaseDate" : 732758400,
-    "title" : "Folge 159: und das riesige Reptil",
-    "upc" : "196871355032"
-  },
-  {
-    "albumID" : "1719773899",
-    "artist" : "Fünf Freunde",
-    "duration" : 3249.854,
-    "releaseDate" : 727315200,
-    "title" : "Folge 158: und das verlorene Maß",
-    "upc" : "196871326766"
-  },
-  {
-    "albumID" : "1712266854",
-    "artist" : "Fünf Freunde",
-    "duration" : 3752.0959999999995,
-    "releaseDate" : 722476800,
-    "title" : "Folge 157: und das seltsame Haus in der Schlucht",
-    "upc" : "196871075657"
-  },
-  {
-    "albumID" : "1701392024",
-    "artist" : "Fünf Freunde",
-    "duration" : 3088.2400000000002,
-    "releaseDate" : 717033600,
-    "title" : "Folge 156: und die verlassene Villa",
-    "upc" : "196871052214"
-  },
-  {
-    "albumID" : "1694279786",
-    "artist" : "Fünf Freunde",
-    "duration" : 3639.814,
-    "releaseDate" : 711590400,
-    "title" : "Folge 155: und das Erbe der Lady Thornton",
-    "upc" : "196589971890"
-  },
-  {
-    "albumID" : "1683310849",
-    "artist" : "Fünf Freunde",
-    "duration" : 3785.186,
-    "releaseDate" : 706752000,
-    "title" : "Folge 154:  und die Geheimbotschaft in der Ruine",
-    "upc" : "196589966315"
-  },
-  {
-    "albumID" : "1677590329",
-    "artist" : "Fünf Freunde",
-    "duration" : 3419.3740000000003,
-    "releaseDate" : 702518400,
-    "title" : "Folge 153: und der weiße Hai",
-    "upc" : "196589965684"
-  },
-  {
     "albumID" : "1761129434",
     "artist" : "Fünf Freunde",
     "duration" : 3423.6540000000014,
     "releaseDate" : 749088000,
     "title" : "Folge 162: und die Legende vom versteckten Sohn",
     "upc" : "196872211900"
-  },
-  {
-    "albumID" : "1753048795",
-    "artist" : "Fünf Freunde",
-    "duration" : 3167.9859999999994,
-    "releaseDate" : 743644800,
-    "title" : "Folge 161: und der Juwelenschatz",
-    "upc" : "196872196801"
-  },
-  {
-    "albumID" : "1740115018",
-    "artist" : "Fünf Freunde",
-    "duration" : 3477.599,
-    "releaseDate" : 738806400,
-    "title" : "Folge 160: und der verschwundene Bräutigam",
-    "upc" : "196871670098"
-  },
-  {
-    "albumID" : "1728467266",
-    "artist" : "Fünf Freunde",
-    "duration" : 3439.6249999999995,
-    "releaseDate" : 732758400,
-    "title" : "Folge 159: und das riesige Reptil",
-    "upc" : "196871355032"
-  },
-  {
-    "albumID" : "1719773899",
-    "artist" : "Fünf Freunde",
-    "duration" : 3249.854,
-    "releaseDate" : 727315200,
-    "title" : "Folge 158: und das verlorene Maß",
-    "upc" : "196871326766"
-  },
-  {
-    "albumID" : "1712266854",
-    "artist" : "Fünf Freunde",
-    "duration" : 3752.0959999999995,
-    "releaseDate" : 722476800,
-    "title" : "Folge 157: und das seltsame Haus in der Schlucht",
-    "upc" : "196871075657"
-  },
-  {
-    "albumID" : "1701392024",
-    "artist" : "Fünf Freunde",
-    "duration" : 3088.2400000000002,
-    "releaseDate" : 717033600,
-    "title" : "Folge 156: und die verlassene Villa",
-    "upc" : "196871052214"
-  },
-  {
-    "albumID" : "1694279786",
-    "artist" : "Fünf Freunde",
-    "duration" : 3639.814,
-    "releaseDate" : 711590400,
-    "title" : "Folge 155: und das Erbe der Lady Thornton",
-    "upc" : "196589971890"
-  },
-  {
-    "albumID" : "1683310849",
-    "artist" : "Fünf Freunde",
-    "duration" : 3785.186,
-    "releaseDate" : 706752000,
-    "title" : "Folge 154:  und die Geheimbotschaft in der Ruine",
-    "upc" : "196589966315"
-  },
-  {
-    "albumID" : "1677590329",
-    "artist" : "Fünf Freunde",
-    "duration" : 3419.3740000000003,
-    "releaseDate" : 702518400,
-    "title" : "Folge 153: und der weiße Hai",
-    "upc" : "196589965684"
-  },
-  {
-    "albumID" : "1761129434",
-    "artist" : "Fünf Freunde",
-    "duration" : 3423.6540000000014,
-    "releaseDate" : 749088000,
-    "title" : "Folge 162: und die Legende vom versteckten Sohn",
-    "upc" : "196872211900"
-  },
-  {
-    "albumID" : "1753048795",
-    "artist" : "Fünf Freunde",
-    "duration" : 3167.9859999999994,
-    "releaseDate" : 743644800,
-    "title" : "Folge 161: und der Juwelenschatz",
-    "upc" : "196872196801"
-  },
-  {
-    "albumID" : "1740115018",
-    "artist" : "Fünf Freunde",
-    "duration" : 3477.599,
-    "releaseDate" : 738806400,
-    "title" : "Folge 160: und der verschwundene Bräutigam",
-    "upc" : "196871670098"
-  },
-  {
-    "albumID" : "1728467266",
-    "artist" : "Fünf Freunde",
-    "duration" : 3439.6249999999995,
-    "releaseDate" : 732758400,
-    "title" : "Folge 159: und das riesige Reptil",
-    "upc" : "196871355032"
-  },
-  {
-    "albumID" : "1719773899",
-    "artist" : "Fünf Freunde",
-    "duration" : 3249.854,
-    "releaseDate" : 727315200,
-    "title" : "Folge 158: und das verlorene Maß",
-    "upc" : "196871326766"
-  },
-  {
-    "albumID" : "1712266854",
-    "artist" : "Fünf Freunde",
-    "duration" : 3752.0959999999995,
-    "releaseDate" : 722476800,
-    "title" : "Folge 157: und das seltsame Haus in der Schlucht",
-    "upc" : "196871075657"
-  },
-  {
-    "albumID" : "1701392024",
-    "artist" : "Fünf Freunde",
-    "duration" : 3088.2400000000002,
-    "releaseDate" : 717033600,
-    "title" : "Folge 156: und die verlassene Villa",
-    "upc" : "196871052214"
-  },
-  {
-    "albumID" : "1694279786",
-    "artist" : "Fünf Freunde",
-    "duration" : 3639.814,
-    "releaseDate" : 711590400,
-    "title" : "Folge 155: und das Erbe der Lady Thornton",
-    "upc" : "196589971890"
-  },
-  {
-    "albumID" : "1683310849",
-    "artist" : "Fünf Freunde",
-    "duration" : 3785.186,
-    "releaseDate" : 706752000,
-    "title" : "Folge 154:  und die Geheimbotschaft in der Ruine",
-    "upc" : "196589966315"
-  },
-  {
-    "albumID" : "1677590329",
-    "artist" : "Fünf Freunde",
-    "duration" : 3419.3740000000003,
-    "releaseDate" : 702518400,
-    "title" : "Folge 153: und der weiße Hai",
-    "upc" : "196589965684"
-  },
-  {
-    "albumID" : "1761129434",
-    "artist" : "Fünf Freunde",
-    "duration" : 3423.6540000000014,
-    "releaseDate" : 749088000,
-    "title" : "Folge 162: und die Legende vom versteckten Sohn",
-    "upc" : "196872211900"
-  },
-  {
-    "albumID" : "1753048795",
-    "artist" : "Fünf Freunde",
-    "duration" : 3167.9859999999994,
-    "releaseDate" : 743644800,
-    "title" : "Folge 161: und der Juwelenschatz",
-    "upc" : "196872196801"
-  },
-  {
-    "albumID" : "1740115018",
-    "artist" : "Fünf Freunde",
-    "duration" : 3477.599,
-    "releaseDate" : 738806400,
-    "title" : "Folge 160: und der verschwundene Bräutigam",
-    "upc" : "196871670098"
-  },
-  {
-    "albumID" : "1728467266",
-    "artist" : "Fünf Freunde",
-    "duration" : 3439.6249999999995,
-    "releaseDate" : 732758400,
-    "title" : "Folge 159: und das riesige Reptil",
-    "upc" : "196871355032"
-  },
-  {
-    "albumID" : "1719773899",
-    "artist" : "Fünf Freunde",
-    "duration" : 3249.854,
-    "releaseDate" : 727315200,
-    "title" : "Folge 158: und das verlorene Maß",
-    "upc" : "196871326766"
-  },
-  {
-    "albumID" : "1712266854",
-    "artist" : "Fünf Freunde",
-    "duration" : 3752.0959999999995,
-    "releaseDate" : 722476800,
-    "title" : "Folge 157: und das seltsame Haus in der Schlucht",
-    "upc" : "196871075657"
-  },
-  {
-    "albumID" : "1701392024",
-    "artist" : "Fünf Freunde",
-    "duration" : 3088.2400000000002,
-    "releaseDate" : 717033600,
-    "title" : "Folge 156: und die verlassene Villa",
-    "upc" : "196871052214"
-  },
-  {
-    "albumID" : "1694279786",
-    "artist" : "Fünf Freunde",
-    "duration" : 3639.814,
-    "releaseDate" : 711590400,
-    "title" : "Folge 155: und das Erbe der Lady Thornton",
-    "upc" : "196589971890"
-  },
-  {
-    "albumID" : "1683310849",
-    "artist" : "Fünf Freunde",
-    "duration" : 3785.186,
-    "releaseDate" : 706752000,
-    "title" : "Folge 154:  und die Geheimbotschaft in der Ruine",
-    "upc" : "196589966315"
-  },
-  {
-    "albumID" : "1677590329",
-    "artist" : "Fünf Freunde",
-    "duration" : 3419.3740000000003,
-    "releaseDate" : 702518400,
-    "title" : "Folge 153: und der weiße Hai",
-    "upc" : "196589965684"
-  },
-  {
-    "albumID" : "1761129434",
-    "artist" : "Fünf Freunde",
-    "duration" : 3423.6540000000014,
-    "releaseDate" : 749088000,
-    "title" : "Folge 162: und die Legende vom versteckten Sohn",
-    "upc" : "196872211900"
-  },
-  {
-    "albumID" : "1753048795",
-    "artist" : "Fünf Freunde",
-    "duration" : 3167.9859999999994,
-    "releaseDate" : 743644800,
-    "title" : "Folge 161: und der Juwelenschatz",
-    "upc" : "196872196801"
-  },
-  {
-    "albumID" : "1740115018",
-    "artist" : "Fünf Freunde",
-    "duration" : 3477.599,
-    "releaseDate" : 738806400,
-    "title" : "Folge 160: und der verschwundene Bräutigam",
-    "upc" : "196871670098"
-  },
-  {
-    "albumID" : "1728467266",
-    "artist" : "Fünf Freunde",
-    "duration" : 3439.6249999999995,
-    "releaseDate" : 732758400,
-    "title" : "Folge 159: und das riesige Reptil",
-    "upc" : "196871355032"
-  },
-  {
-    "albumID" : "1719773899",
-    "artist" : "Fünf Freunde",
-    "duration" : 3249.854,
-    "releaseDate" : 727315200,
-    "title" : "Folge 158: und das verlorene Maß",
-    "upc" : "196871326766"
-  },
-  {
-    "albumID" : "1712266854",
-    "artist" : "Fünf Freunde",
-    "duration" : 3752.0959999999995,
-    "releaseDate" : 722476800,
-    "title" : "Folge 157: und das seltsame Haus in der Schlucht",
-    "upc" : "196871075657"
-  },
-  {
-    "albumID" : "1701392024",
-    "artist" : "Fünf Freunde",
-    "duration" : 3088.2400000000002,
-    "releaseDate" : 717033600,
-    "title" : "Folge 156: und die verlassene Villa",
-    "upc" : "196871052214"
-  },
-  {
-    "albumID" : "1694279786",
-    "artist" : "Fünf Freunde",
-    "duration" : 3639.814,
-    "releaseDate" : 711590400,
-    "title" : "Folge 155: und das Erbe der Lady Thornton",
-    "upc" : "196589971890"
-  },
-  {
-    "albumID" : "1683310849",
-    "artist" : "Fünf Freunde",
-    "duration" : 3785.186,
-    "releaseDate" : 706752000,
-    "title" : "Folge 154:  und die Geheimbotschaft in der Ruine",
-    "upc" : "196589966315"
-  },
-  {
-    "albumID" : "1677590329",
-    "artist" : "Fünf Freunde",
-    "duration" : 3419.3740000000003,
-    "releaseDate" : 702518400,
-    "title" : "Folge 153: und der weiße Hai",
-    "upc" : "196589965684"
-  },
-  {
-    "albumID" : "1761129434",
-    "artist" : "Fünf Freunde",
-    "duration" : 3423.6540000000014,
-    "releaseDate" : 749088000,
-    "title" : "Folge 162: und die Legende vom versteckten Sohn",
-    "upc" : "196872211900"
-  },
-  {
-    "albumID" : "1753048795",
-    "artist" : "Fünf Freunde",
-    "duration" : 3167.9859999999994,
-    "releaseDate" : 743644800,
-    "title" : "Folge 161: und der Juwelenschatz",
-    "upc" : "196872196801"
-  },
-  {
-    "albumID" : "1740115018",
-    "artist" : "Fünf Freunde",
-    "duration" : 3477.599,
-    "releaseDate" : 738806400,
-    "title" : "Folge 160: und der verschwundene Bräutigam",
-    "upc" : "196871670098"
-  },
-  {
-    "albumID" : "1728467266",
-    "artist" : "Fünf Freunde",
-    "duration" : 3439.6249999999995,
-    "releaseDate" : 732758400,
-    "title" : "Folge 159: und das riesige Reptil",
-    "upc" : "196871355032"
-  },
-  {
-    "albumID" : "1719773899",
-    "artist" : "Fünf Freunde",
-    "duration" : 3249.854,
-    "releaseDate" : 727315200,
-    "title" : "Folge 158: und das verlorene Maß",
-    "upc" : "196871326766"
-  },
-  {
-    "albumID" : "1712266854",
-    "artist" : "Fünf Freunde",
-    "duration" : 3752.0959999999995,
-    "releaseDate" : 722476800,
-    "title" : "Folge 157: und das seltsame Haus in der Schlucht",
-    "upc" : "196871075657"
-  },
-  {
-    "albumID" : "1701392024",
-    "artist" : "Fünf Freunde",
-    "duration" : 3088.2400000000002,
-    "releaseDate" : 717033600,
-    "title" : "Folge 156: und die verlassene Villa",
-    "upc" : "196871052214"
-  },
-  {
-    "albumID" : "1694279786",
-    "artist" : "Fünf Freunde",
-    "duration" : 3639.814,
-    "releaseDate" : 711590400,
-    "title" : "Folge 155: und das Erbe der Lady Thornton",
-    "upc" : "196589971890"
-  },
-  {
-    "albumID" : "1683310849",
-    "artist" : "Fünf Freunde",
-    "duration" : 3785.186,
-    "releaseDate" : 706752000,
-    "title" : "Folge 154:  und die Geheimbotschaft in der Ruine",
-    "upc" : "196589966315"
-  },
-  {
-    "albumID" : "1677590329",
-    "artist" : "Fünf Freunde",
-    "duration" : 3419.3740000000003,
-    "releaseDate" : 702518400,
-    "title" : "Folge 153: und der weiße Hai",
-    "upc" : "196589965684"
-  },
-  {
-    "albumID" : "1761129434",
-    "artist" : "Fünf Freunde",
-    "duration" : 3423.6540000000014,
-    "releaseDate" : 749088000,
-    "title" : "Folge 162: und die Legende vom versteckten Sohn",
-    "upc" : "196872211900"
-  },
-  {
-    "albumID" : "1753048795",
-    "artist" : "Fünf Freunde",
-    "duration" : 3167.9859999999994,
-    "releaseDate" : 743644800,
-    "title" : "Folge 161: und der Juwelenschatz",
-    "upc" : "196872196801"
-  },
-  {
-    "albumID" : "1740115018",
-    "artist" : "Fünf Freunde",
-    "duration" : 3477.599,
-    "releaseDate" : 738806400,
-    "title" : "Folge 160: und der verschwundene Bräutigam",
-    "upc" : "196871670098"
-  },
-  {
-    "albumID" : "1728467266",
-    "artist" : "Fünf Freunde",
-    "duration" : 3439.6249999999995,
-    "releaseDate" : 732758400,
-    "title" : "Folge 159: und das riesige Reptil",
-    "upc" : "196871355032"
-  },
-  {
-    "albumID" : "1719773899",
-    "artist" : "Fünf Freunde",
-    "duration" : 3249.854,
-    "releaseDate" : 727315200,
-    "title" : "Folge 158: und das verlorene Maß",
-    "upc" : "196871326766"
-  },
-  {
-    "albumID" : "1712266854",
-    "artist" : "Fünf Freunde",
-    "duration" : 3752.0959999999995,
-    "releaseDate" : 722476800,
-    "title" : "Folge 157: und das seltsame Haus in der Schlucht",
-    "upc" : "196871075657"
-  },
-  {
-    "albumID" : "1701392024",
-    "artist" : "Fünf Freunde",
-    "duration" : 3088.2400000000002,
-    "releaseDate" : 717033600,
-    "title" : "Folge 156: und die verlassene Villa",
-    "upc" : "196871052214"
-  },
-  {
-    "albumID" : "1694279786",
-    "artist" : "Fünf Freunde",
-    "duration" : 3639.814,
-    "releaseDate" : 711590400,
-    "title" : "Folge 155: und das Erbe der Lady Thornton",
-    "upc" : "196589971890"
-  },
-  {
-    "albumID" : "1683310849",
-    "artist" : "Fünf Freunde",
-    "duration" : 3785.186,
-    "releaseDate" : 706752000,
-    "title" : "Folge 154:  und die Geheimbotschaft in der Ruine",
-    "upc" : "196589966315"
-  },
-  {
-    "albumID" : "1677590329",
-    "artist" : "Fünf Freunde",
-    "duration" : 3419.3740000000003,
-    "releaseDate" : 702518400,
-    "title" : "Folge 153: und der weiße Hai",
-    "upc" : "196589965684"
-  },
-  {
-    "albumID" : "1761129434",
-    "artist" : "Fünf Freunde",
-    "duration" : 3423.6540000000014,
-    "releaseDate" : 749088000,
-    "title" : "Folge 162: und die Legende vom versteckten Sohn",
-    "upc" : "196872211900"
-  },
-  {
-    "albumID" : "1753048795",
-    "artist" : "Fünf Freunde",
-    "duration" : 3167.9859999999994,
-    "releaseDate" : 743644800,
-    "title" : "Folge 161: und der Juwelenschatz",
-    "upc" : "196872196801"
-  },
-  {
-    "albumID" : "1740115018",
-    "artist" : "Fünf Freunde",
-    "duration" : 3477.599,
-    "releaseDate" : 738806400,
-    "title" : "Folge 160: und der verschwundene Bräutigam",
-    "upc" : "196871670098"
-  },
-  {
-    "albumID" : "1728467266",
-    "artist" : "Fünf Freunde",
-    "duration" : 3439.6249999999995,
-    "releaseDate" : 732758400,
-    "title" : "Folge 159: und das riesige Reptil",
-    "upc" : "196871355032"
-  },
-  {
-    "albumID" : "1719773899",
-    "artist" : "Fünf Freunde",
-    "duration" : 3249.854,
-    "releaseDate" : 727315200,
-    "title" : "Folge 158: und das verlorene Maß",
-    "upc" : "196871326766"
-  },
-  {
-    "albumID" : "1712266854",
-    "artist" : "Fünf Freunde",
-    "duration" : 3752.0959999999995,
-    "releaseDate" : 722476800,
-    "title" : "Folge 157: und das seltsame Haus in der Schlucht",
-    "upc" : "196871075657"
-  },
-  {
-    "albumID" : "1701392024",
-    "artist" : "Fünf Freunde",
-    "duration" : 3088.2400000000002,
-    "releaseDate" : 717033600,
-    "title" : "Folge 156: und die verlassene Villa",
-    "upc" : "196871052214"
-  },
-  {
-    "albumID" : "1694279786",
-    "artist" : "Fünf Freunde",
-    "duration" : 3639.814,
-    "releaseDate" : 711590400,
-    "title" : "Folge 155: und das Erbe der Lady Thornton",
-    "upc" : "196589971890"
-  },
-  {
-    "albumID" : "1683310849",
-    "artist" : "Fünf Freunde",
-    "duration" : 3785.186,
-    "releaseDate" : 706752000,
-    "title" : "Folge 154:  und die Geheimbotschaft in der Ruine",
-    "upc" : "196589966315"
-  },
-  {
-    "albumID" : "1677590329",
-    "artist" : "Fünf Freunde",
-    "duration" : 3419.3740000000003,
-    "releaseDate" : 702518400,
-    "title" : "Folge 153: und der weiße Hai",
-    "upc" : "196589965684"
-  },
-  {
-    "albumID" : "1761129434",
-    "artist" : "Fünf Freunde",
-    "duration" : 3423.6540000000014,
-    "releaseDate" : 749088000,
-    "title" : "Folge 162: und die Legende vom versteckten Sohn",
-    "upc" : "196872211900"
-  },
-  {
-    "albumID" : "1753048795",
-    "artist" : "Fünf Freunde",
-    "duration" : 3167.9859999999994,
-    "releaseDate" : 743644800,
-    "title" : "Folge 161: und der Juwelenschatz",
-    "upc" : "196872196801"
-  },
-  {
-    "albumID" : "1740115018",
-    "artist" : "Fünf Freunde",
-    "duration" : 3477.599,
-    "releaseDate" : 738806400,
-    "title" : "Folge 160: und der verschwundene Bräutigam",
-    "upc" : "196871670098"
-  },
-  {
-    "albumID" : "1728467266",
-    "artist" : "Fünf Freunde",
-    "duration" : 3439.6249999999995,
-    "releaseDate" : 732758400,
-    "title" : "Folge 159: und das riesige Reptil",
-    "upc" : "196871355032"
-  },
-  {
-    "albumID" : "1719773899",
-    "artist" : "Fünf Freunde",
-    "duration" : 3249.854,
-    "releaseDate" : 727315200,
-    "title" : "Folge 158: und das verlorene Maß",
-    "upc" : "196871326766"
-  },
-  {
-    "albumID" : "1712266854",
-    "artist" : "Fünf Freunde",
-    "duration" : 3752.0959999999995,
-    "releaseDate" : 722476800,
-    "title" : "Folge 157: und das seltsame Haus in der Schlucht",
-    "upc" : "196871075657"
-  },
-  {
-    "albumID" : "1701392024",
-    "artist" : "Fünf Freunde",
-    "duration" : 3088.2400000000002,
-    "releaseDate" : 717033600,
-    "title" : "Folge 156: und die verlassene Villa",
-    "upc" : "196871052214"
-  },
-  {
-    "albumID" : "1694279786",
-    "artist" : "Fünf Freunde",
-    "duration" : 3639.814,
-    "releaseDate" : 711590400,
-    "title" : "Folge 155: und das Erbe der Lady Thornton",
-    "upc" : "196589971890"
-  },
-  {
-    "albumID" : "1683310849",
-    "artist" : "Fünf Freunde",
-    "duration" : 3785.186,
-    "releaseDate" : 706752000,
-    "title" : "Folge 154:  und die Geheimbotschaft in der Ruine",
-    "upc" : "196589966315"
-  },
-  {
-    "albumID" : "1677590329",
-    "artist" : "Fünf Freunde",
-    "duration" : 3419.3740000000003,
-    "releaseDate" : 702518400,
-    "title" : "Folge 153: und der weiße Hai",
-    "upc" : "196589965684"
-  },
-  {
-    "albumID" : "1761129434",
-    "artist" : "Fünf Freunde",
-    "duration" : 3423.6540000000014,
-    "releaseDate" : 749088000,
-    "title" : "Folge 162: und die Legende vom versteckten Sohn",
-    "upc" : "196872211900"
-  },
-  {
-    "albumID" : "1753048795",
-    "artist" : "Fünf Freunde",
-    "duration" : 3167.9859999999994,
-    "releaseDate" : 743644800,
-    "title" : "Folge 161: und der Juwelenschatz",
-    "upc" : "196872196801"
-  },
-  {
-    "albumID" : "1740115018",
-    "artist" : "Fünf Freunde",
-    "duration" : 3477.599,
-    "releaseDate" : 738806400,
-    "title" : "Folge 160: und der verschwundene Bräutigam",
-    "upc" : "196871670098"
-  },
-  {
-    "albumID" : "1728467266",
-    "artist" : "Fünf Freunde",
-    "duration" : 3439.6249999999995,
-    "releaseDate" : 732758400,
-    "title" : "Folge 159: und das riesige Reptil",
-    "upc" : "196871355032"
-  },
-  {
-    "albumID" : "1719773899",
-    "artist" : "Fünf Freunde",
-    "duration" : 3249.854,
-    "releaseDate" : 727315200,
-    "title" : "Folge 158: und das verlorene Maß",
-    "upc" : "196871326766"
-  },
-  {
-    "albumID" : "1712266854",
-    "artist" : "Fünf Freunde",
-    "duration" : 3752.0959999999995,
-    "releaseDate" : 722476800,
-    "title" : "Folge 157: und das seltsame Haus in der Schlucht",
-    "upc" : "196871075657"
-  },
-  {
-    "albumID" : "1701392024",
-    "artist" : "Fünf Freunde",
-    "duration" : 3088.2400000000002,
-    "releaseDate" : 717033600,
-    "title" : "Folge 156: und die verlassene Villa",
-    "upc" : "196871052214"
-  },
-  {
-    "albumID" : "1694279786",
-    "artist" : "Fünf Freunde",
-    "duration" : 3639.814,
-    "releaseDate" : 711590400,
-    "title" : "Folge 155: und das Erbe der Lady Thornton",
-    "upc" : "196589971890"
-  },
-  {
-    "albumID" : "1683310849",
-    "artist" : "Fünf Freunde",
-    "duration" : 3785.186,
-    "releaseDate" : 706752000,
-    "title" : "Folge 154:  und die Geheimbotschaft in der Ruine",
-    "upc" : "196589966315"
-  },
-  {
-    "albumID" : "1677590329",
-    "artist" : "Fünf Freunde",
-    "duration" : 3419.3740000000003,
-    "releaseDate" : 702518400,
-    "title" : "Folge 153: und der weiße Hai",
-    "upc" : "196589965684"
-  },
-  {
-    "albumID" : "1761129434",
-    "artist" : "Fünf Freunde",
-    "duration" : 3423.6540000000014,
-    "releaseDate" : 749088000,
-    "title" : "Folge 162: und die Legende vom versteckten Sohn",
-    "upc" : "196872211900"
-  },
-  {
-    "albumID" : "1753048795",
-    "artist" : "Fünf Freunde",
-    "duration" : 3167.9859999999994,
-    "releaseDate" : 743644800,
-    "title" : "Folge 161: und der Juwelenschatz",
-    "upc" : "196872196801"
-  },
-  {
-    "albumID" : "1740115018",
-    "artist" : "Fünf Freunde",
-    "duration" : 3477.599,
-    "releaseDate" : 738806400,
-    "title" : "Folge 160: und der verschwundene Bräutigam",
-    "upc" : "196871670098"
-  },
-  {
-    "albumID" : "1728467266",
-    "artist" : "Fünf Freunde",
-    "duration" : 3439.6249999999995,
-    "releaseDate" : 732758400,
-    "title" : "Folge 159: und das riesige Reptil",
-    "upc" : "196871355032"
-  },
-  {
-    "albumID" : "1719773899",
-    "artist" : "Fünf Freunde",
-    "duration" : 3249.854,
-    "releaseDate" : 727315200,
-    "title" : "Folge 158: und das verlorene Maß",
-    "upc" : "196871326766"
-  },
-  {
-    "albumID" : "1712266854",
-    "artist" : "Fünf Freunde",
-    "duration" : 3752.0959999999995,
-    "releaseDate" : 722476800,
-    "title" : "Folge 157: und das seltsame Haus in der Schlucht",
-    "upc" : "196871075657"
-  },
-  {
-    "albumID" : "1701392024",
-    "artist" : "Fünf Freunde",
-    "duration" : 3088.2400000000002,
-    "releaseDate" : 717033600,
-    "title" : "Folge 156: und die verlassene Villa",
-    "upc" : "196871052214"
-  },
-  {
-    "albumID" : "1694279786",
-    "artist" : "Fünf Freunde",
-    "duration" : 3639.814,
-    "releaseDate" : 711590400,
-    "title" : "Folge 155: und das Erbe der Lady Thornton",
-    "upc" : "196589971890"
-  },
-  {
-    "albumID" : "1683310849",
-    "artist" : "Fünf Freunde",
-    "duration" : 3785.186,
-    "releaseDate" : 706752000,
-    "title" : "Folge 154:  und die Geheimbotschaft in der Ruine",
-    "upc" : "196589966315"
-  },
-  {
-    "albumID" : "1677590329",
-    "artist" : "Fünf Freunde",
-    "duration" : 3419.3740000000003,
-    "releaseDate" : 702518400,
-    "title" : "Folge 153: und der weiße Hai",
-    "upc" : "196589965684"
-  },
-  {
-    "albumID" : "1761129434",
-    "artist" : "Fünf Freunde",
-    "duration" : 3423.6540000000014,
-    "releaseDate" : 749088000,
-    "title" : "Folge 162: und die Legende vom versteckten Sohn",
-    "upc" : "196872211900"
-  },
-  {
-    "albumID" : "1753048795",
-    "artist" : "Fünf Freunde",
-    "duration" : 3167.9859999999994,
-    "releaseDate" : 743644800,
-    "title" : "Folge 161: und der Juwelenschatz",
-    "upc" : "196872196801"
-  },
-  {
-    "albumID" : "1740115018",
-    "artist" : "Fünf Freunde",
-    "duration" : 3477.599,
-    "releaseDate" : 738806400,
-    "title" : "Folge 160: und der verschwundene Bräutigam",
-    "upc" : "196871670098"
-  },
-  {
-    "albumID" : "1728467266",
-    "artist" : "Fünf Freunde",
-    "duration" : 3439.6249999999995,
-    "releaseDate" : 732758400,
-    "title" : "Folge 159: und das riesige Reptil",
-    "upc" : "196871355032"
-  },
-  {
-    "albumID" : "1719773899",
-    "artist" : "Fünf Freunde",
-    "duration" : 3249.854,
-    "releaseDate" : 727315200,
-    "title" : "Folge 158: und das verlorene Maß",
-    "upc" : "196871326766"
-  },
-  {
-    "albumID" : "1712266854",
-    "artist" : "Fünf Freunde",
-    "duration" : 3752.0959999999995,
-    "releaseDate" : 722476800,
-    "title" : "Folge 157: und das seltsame Haus in der Schlucht",
-    "upc" : "196871075657"
-  },
-  {
-    "albumID" : "1701392024",
-    "artist" : "Fünf Freunde",
-    "duration" : 3088.2400000000002,
-    "releaseDate" : 717033600,
-    "title" : "Folge 156: und die verlassene Villa",
-    "upc" : "196871052214"
-  },
-  {
-    "albumID" : "1694279786",
-    "artist" : "Fünf Freunde",
-    "duration" : 3639.814,
-    "releaseDate" : 711590400,
-    "title" : "Folge 155: und das Erbe der Lady Thornton",
-    "upc" : "196589971890"
-  },
-  {
-    "albumID" : "1683310849",
-    "artist" : "Fünf Freunde",
-    "duration" : 3785.186,
-    "releaseDate" : 706752000,
-    "title" : "Folge 154:  und die Geheimbotschaft in der Ruine",
-    "upc" : "196589966315"
-  },
-  {
-    "albumID" : "1677590329",
-    "artist" : "Fünf Freunde",
-    "duration" : 3419.3740000000003,
-    "releaseDate" : 702518400,
-    "title" : "Folge 153: und der weiße Hai",
-    "upc" : "196589965684"
-  },
-  {
-    "albumID" : "1761129434",
-    "artist" : "Fünf Freunde",
-    "duration" : 3423.6540000000014,
-    "releaseDate" : 749088000,
-    "title" : "Folge 162: und die Legende vom versteckten Sohn",
-    "upc" : "196872211900"
-  },
-  {
-    "albumID" : "1753048795",
-    "artist" : "Fünf Freunde",
-    "duration" : 3167.9859999999994,
-    "releaseDate" : 743644800,
-    "title" : "Folge 161: und der Juwelenschatz",
-    "upc" : "196872196801"
-  },
-  {
-    "albumID" : "1740115018",
-    "artist" : "Fünf Freunde",
-    "duration" : 3477.599,
-    "releaseDate" : 738806400,
-    "title" : "Folge 160: und der verschwundene Bräutigam",
-    "upc" : "196871670098"
-  },
-  {
-    "albumID" : "1728467266",
-    "artist" : "Fünf Freunde",
-    "duration" : 3439.6249999999995,
-    "releaseDate" : 732758400,
-    "title" : "Folge 159: und das riesige Reptil",
-    "upc" : "196871355032"
-  },
-  {
-    "albumID" : "1719773899",
-    "artist" : "Fünf Freunde",
-    "duration" : 3249.854,
-    "releaseDate" : 727315200,
-    "title" : "Folge 158: und das verlorene Maß",
-    "upc" : "196871326766"
-  },
-  {
-    "albumID" : "1712266854",
-    "artist" : "Fünf Freunde",
-    "duration" : 3752.0959999999995,
-    "releaseDate" : 722476800,
-    "title" : "Folge 157: und das seltsame Haus in der Schlucht",
-    "upc" : "196871075657"
-  },
-  {
-    "albumID" : "1701392024",
-    "artist" : "Fünf Freunde",
-    "duration" : 3088.2400000000002,
-    "releaseDate" : 717033600,
-    "title" : "Folge 156: und die verlassene Villa",
-    "upc" : "196871052214"
-  },
-  {
-    "albumID" : "1694279786",
-    "artist" : "Fünf Freunde",
-    "duration" : 3639.814,
-    "releaseDate" : 711590400,
-    "title" : "Folge 155: und das Erbe der Lady Thornton",
-    "upc" : "196589971890"
-  },
-  {
-    "albumID" : "1683310849",
-    "artist" : "Fünf Freunde",
-    "duration" : 3785.186,
-    "releaseDate" : 706752000,
-    "title" : "Folge 154:  und die Geheimbotschaft in der Ruine",
-    "upc" : "196589966315"
-  },
-  {
-    "albumID" : "1677590329",
-    "artist" : "Fünf Freunde",
-    "duration" : 3419.3740000000003,
-    "releaseDate" : 702518400,
-    "title" : "Folge 153: und der weiße Hai",
-    "upc" : "196589965684"
   }
 ]
