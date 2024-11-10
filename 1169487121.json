@@ -1,0 +1,178 @@
+[
+  {
+    "albumID" : "1169504912",
+    "artist" : "Die PSI-Akten",
+    "duration" : 2479.2389999999996,
+    "releaseDate" : 502329600,
+    "title" : "Folge 1: Flucht vor dem Werwolf",
+    "upc" : "4260147779719"
+  },
+  {
+    "albumID" : "1169506614",
+    "artist" : "Die PSI-Akten",
+    "duration" : 2893.575,
+    "releaseDate" : 502329600,
+    "title" : "Folge 2: Burning Grace - Wald der Todgeweihten",
+    "upc" : "4260147779726"
+  },
+  {
+    "albumID" : "1169507242",
+    "artist" : "Die PSI-Akten",
+    "duration" : 3097.5200000000004,
+    "releaseDate" : 502329600,
+    "title" : "Folge 3: Blutspur der Mumie",
+    "upc" : "4260147779733"
+  },
+  {
+    "albumID" : "1169508122",
+    "artist" : "Die PSI-Akten",
+    "duration" : 2216.7219999999998,
+    "releaseDate" : 502329600,
+    "title" : "Folge 4: Kaltes Grauen",
+    "upc" : "4260147779740"
+  },
+  {
+    "albumID" : "1169509179",
+    "artist" : "Die PSI-Akten",
+    "duration" : 3009.453,
+    "releaseDate" : 502934400,
+    "title" : "Folge 5: Villa der Verdammten",
+    "upc" : "4260147779757"
+  },
+  {
+    "albumID" : "1169509255",
+    "artist" : "Die PSI-Akten",
+    "duration" : 3273.8529999999996,
+    "releaseDate" : 502934400,
+    "title" : "Folge 6: Malwine - Fluch einer Hexe",
+    "upc" : "4260147779764"
+  },
+  {
+    "albumID" : "1169509756",
+    "artist" : "Die PSI-Akten",
+    "duration" : 2741.467,
+    "releaseDate" : 502934400,
+    "title" : "Folge 7: Allein in der Nacht",
+    "upc" : "4260147779771"
+  },
+  {
+    "albumID" : "1169514235",
+    "artist" : "Die PSI-Akten",
+    "duration" : 3414.4410000000003,
+    "releaseDate" : 502934400,
+    "title" : "Folge 8: Arachnia - Mutation des Grauens",
+    "upc" : "4260147779788"
+  },
+  {
+    "albumID" : "1169486925",
+    "artist" : "Die PSI-Akten",
+    "duration" : 3053.6789999999996,
+    "releaseDate" : 503539200,
+    "title" : "Folge 10: Das Antlitz des Todes",
+    "upc" : "4260147779801"
+  },
+  {
+    "albumID" : "1169504727",
+    "artist" : "Die PSI-Akten",
+    "duration" : 2944.4139999999993,
+    "releaseDate" : 503539200,
+    "title" : "Folge 11: Karibischer Fluch",
+    "upc" : "4260147779818"
+  },
+  {
+    "albumID" : "1169499615",
+    "artist" : "Die PSI-Akten",
+    "duration" : 3499.2,
+    "releaseDate" : 503539200,
+    "title" : "Folge 12: Draculas Rückkehr",
+    "upc" : "4260147779825"
+  },
+  {
+    "albumID" : "1169523967",
+    "artist" : "Die PSI-Akten",
+    "duration" : 3048.706,
+    "releaseDate" : 503539200,
+    "title" : "Folge 9: Frankensteins Erbe",
+    "upc" : "4260147779795"
+  },
+  {
+    "albumID" : "1169505165",
+    "artist" : "Die PSI-Akten",
+    "duration" : 3489.372999999999,
+    "releaseDate" : 504144000,
+    "title" : "Folge 13: 13",
+    "upc" : "4260147779832"
+  },
+  {
+    "albumID" : "1169492223",
+    "artist" : "Die PSI-Akten",
+    "duration" : 2335.866,
+    "releaseDate" : 504144000,
+    "title" : "Folge 14: Aus einer anderen Welt",
+    "upc" : "4260147779849"
+  },
+  {
+    "albumID" : "1169492884",
+    "artist" : "Die PSI-Akten",
+    "duration" : 2500.0679999999998,
+    "releaseDate" : 504144000,
+    "title" : "Folge 15: Tanz der Satanskobolde",
+    "upc" : "4260147779856"
+  },
+  {
+    "albumID" : "1169504906",
+    "artist" : "Die PSI-Akten",
+    "duration" : 2445.2120000000004,
+    "releaseDate" : 504144000,
+    "title" : "Folge 16: Jäger der Finsternis",
+    "upc" : "4260147779863"
+  },
+  {
+    "albumID" : "1707949692",
+    "artist" : "Die PSI-Akten",
+    "duration" : 3234.9979999999996,
+    "releaseDate" : 720057600,
+    "title" : "Folge 17: Draculas Wirtshaus",
+    "upc" : "4260507190048"
+  },
+  {
+    "albumID" : "1725812182",
+    "artist" : "Die PSI-Akten",
+    "duration" : 3193.9989999999993,
+    "releaseDate" : 729129600,
+    "title" : "Folge 17: Das grüne Feuer",
+    "upc" : "4260507191519"
+  },
+  {
+    "albumID" : "1740071051",
+    "artist" : "Die PSI-Akten",
+    "duration" : 3259.9999999999995,
+    "releaseDate" : 736992000,
+    "title" : "Folge 19: Kaltes Grab",
+    "upc" : "4260507194749"
+  },
+  {
+    "albumID" : "1753845989",
+    "artist" : "Die PSI-Akten",
+    "duration" : 2905.0009999999993,
+    "releaseDate" : 743644800,
+    "title" : "Folge 20: Der Schmetterlingssammler",
+    "upc" : "4260507196996"
+  },
+  {
+    "albumID" : "1761141438",
+    "artist" : "Die PSI-Akten",
+    "duration" : 3071.0029999999992,
+    "releaseDate" : 747878400,
+    "title" : "Folge 21: Der blutrote Blitz",
+    "upc" : "4260507198372"
+  },
+  {
+    "albumID" : "1773757291",
+    "artist" : "Die PSI-Akten",
+    "duration" : 180.24,
+    "releaseDate" : 753926400,
+    "title" : "Folge 22: Starr vor Angst",
+    "upc" : "4260507199737"
+  }
+]
