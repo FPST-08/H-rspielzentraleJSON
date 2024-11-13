@@ -1,203 +1,11 @@
 [
   {
-    "albumID" : "1426359224",
-    "artist" : "Tony Ballard",
-    "duration" : 4424.853999999999,
-    "releaseDate" : 557971200,
-    "title" : "Folge 32: Wenn die Toten sich erheben ...",
-    "upc" : "4260507143020"
-  },
-  {
-    "albumID" : "1441656528",
-    "artist" : "Tony Ballard",
-    "duration" : 4576.039000000001,
-    "releaseDate" : 566438400,
-    "title" : "Folge 33: Verflucht",
-    "upc" : "4260507144058"
-  },
-  {
-    "albumID" : "1458109899",
-    "artist" : "Tony Ballard",
-    "duration" : 3531.3350000000005,
-    "releaseDate" : 577929600,
-    "title" : "Folge 34: Prof. Kulls Blutnixe",
-    "upc" : "4260507147981"
-  },
-  {
-    "albumID" : "1464142936",
-    "artist" : "Tony Ballard",
-    "duration" : 3234.4660000000003,
-    "releaseDate" : 582163200,
-    "title" : "Folge 35: Der Albtraum-Dämon",
-    "upc" : "4260507150813"
-  },
-  {
-    "albumID" : "1473306204",
-    "artist" : "Tony Ballard",
-    "duration" : 4492.509000000001,
-    "releaseDate" : 585792000,
-    "title" : "Folge 10: Die Hexe und der Silberdämon",
-    "upc" : "4260507152374"
-  },
-  {
-    "albumID" : "1473301836",
-    "artist" : "Tony Ballard",
-    "duration" : 3066.410000000001,
-    "releaseDate" : 585792000,
-    "title" : "Folge 11: Das Höllenschwert",
-    "upc" : "4260507152381"
-  },
-  {
-    "albumID" : "1473302801",
-    "artist" : "Tony Ballard",
-    "duration" : 4151.855,
-    "releaseDate" : 585792000,
-    "title" : "Folge 12: Der Schatz der toten Seelen",
-    "upc" : "4260507152398"
-  },
-  {
-    "albumID" : "1473303737",
-    "artist" : "Tony Ballard",
-    "duration" : 3724.399999999999,
-    "releaseDate" : 585792000,
-    "title" : "Folge 13: Lockruf der Zombies",
-    "upc" : "4260507152404"
-  },
-  {
-    "albumID" : "1473311766",
-    "artist" : "Tony Ballard",
-    "duration" : 4424.814,
-    "releaseDate" : 585792000,
-    "title" : "Folge 14: Das Schiff der schwarzen Piraten",
-    "upc" : "4260507152411"
-  },
-  {
-    "albumID" : "1473312236",
-    "artist" : "Tony Ballard",
-    "duration" : 3682.3990000000003,
-    "releaseDate" : 585792000,
-    "title" : "Folge 15: Der Sarg der tausend Tode",
-    "upc" : "4260507152428"
-  },
-  {
-    "albumID" : "1473313488",
-    "artist" : "Tony Ballard",
-    "duration" : 4292.706000000001,
-    "releaseDate" : 585792000,
-    "title" : "Folge 16: Die Vampir-Klinik",
-    "upc" : "4260507152435"
-  },
-  {
-    "albumID" : "1473315244",
-    "artist" : "Tony Ballard",
-    "duration" : 3745.214,
-    "releaseDate" : 585792000,
-    "title" : "Folge 17: Ich jagte das rote Skelett",
-    "upc" : "4260507152442"
-  },
-  {
-    "albumID" : "1473317064",
-    "artist" : "Tony Ballard",
-    "duration" : 3651.175,
-    "releaseDate" : 585792000,
-    "title" : "Folge 18: Horrorhölle Tansania",
-    "upc" : "4260507152459"
-  },
-  {
-    "albumID" : "1473318223",
-    "artist" : "Tony Ballard",
-    "duration" : 4572.432000000001,
-    "releaseDate" : 585792000,
-    "title" : "Folge 19: Duell der Dämonen",
-    "upc" : "4260507152466"
-  },
-  {
     "albumID" : "1473282199",
     "artist" : "Tony Ballard",
     "duration" : 3786.577,
     "releaseDate" : 585792000,
     "title" : "Folge 1: Die Höllenbrut",
     "upc" : "4260507152282"
-  },
-  {
-    "albumID" : "1473319105",
-    "artist" : "Tony Ballard",
-    "duration" : 3998.4389999999994,
-    "releaseDate" : 585792000,
-    "title" : "Folge 20: In den Krallen der Tigerfrauen",
-    "upc" : "4260507152473"
-  },
-  {
-    "albumID" : "1473319926",
-    "artist" : "Tony Ballard",
-    "duration" : 4756.681,
-    "releaseDate" : 585792000,
-    "title" : "Folge 21: Die Kamikaze-Monster",
-    "upc" : "4260507152480"
-  },
-  {
-    "albumID" : "1473320246",
-    "artist" : "Tony Ballard",
-    "duration" : 4483.348,
-    "releaseDate" : 585792000,
-    "title" : "Folge 22: Die Schrecken des Mortimer K.",
-    "upc" : "4260507152497"
-  },
-  {
-    "albumID" : "1473320965",
-    "artist" : "Tony Ballard",
-    "duration" : 4761.294000000001,
-    "releaseDate" : 585792000,
-    "title" : "Folge 23: Der Tod schleicht durch London",
-    "upc" : "4260507152503"
-  },
-  {
-    "albumID" : "1473320977",
-    "artist" : "Tony Ballard",
-    "duration" : 4721.201,
-    "releaseDate" : 585792000,
-    "title" : "Folge 24: In den Klauen der Knochenmänner",
-    "upc" : "4260507152510"
-  },
-  {
-    "albumID" : "1473321629",
-    "artist" : "Tony Ballard",
-    "duration" : 4689.334999999999,
-    "releaseDate" : 585792000,
-    "title" : "Folge 25: Als der Silberdämon starb",
-    "upc" : "4260507152527"
-  },
-  {
-    "albumID" : "1473322250",
-    "artist" : "Tony Ballard",
-    "duration" : 4410.152,
-    "releaseDate" : 585792000,
-    "title" : "Folge 26: Die Hexe und ihr Henker",
-    "upc" : "4260507152534"
-  },
-  {
-    "albumID" : "1473348814",
-    "artist" : "Tony Ballard",
-    "duration" : 4630.346999999999,
-    "releaseDate" : 585792000,
-    "title" : "Folge 27: Sie wollten meine Seele fressen",
-    "upc" : "4260507152541"
-  },
-  {
-    "albumID" : "1473323054",
-    "artist" : "Tony Ballard",
-    "duration" : 3762.096,
-    "releaseDate" : 585792000,
-    "title" : "Folge 28: Der Teufel führt Regie",
-    "upc" : "4260507152558"
-  },
-  {
-    "albumID" : "1473323352",
-    "artist" : "Tony Ballard",
-    "duration" : 3820.4660000000003,
-    "releaseDate" : 585792000,
-    "title" : "Folge 29: Der Kampf um den Ring",
-    "upc" : "4260507152565"
   },
   {
     "albumID" : "1473282193",
@@ -208,20 +16,12 @@
     "upc" : "4260507152299"
   },
   {
-    "albumID" : "1473323686",
+    "albumID" : "1473283678",
     "artist" : "Tony Ballard",
-    "duration" : 4734.6939999999995,
+    "duration" : 3623.381999999999,
     "releaseDate" : 585792000,
-    "title" : "Folge 30: Monster aus der Retorte",
-    "upc" : "4260507152572"
-  },
-  {
-    "albumID" : "1473326325",
-    "artist" : "Tony Ballard",
-    "duration" : 4067.186,
-    "releaseDate" : 585792000,
-    "title" : "Folge 31: Brutstätte des Bösen",
-    "upc" : "4260507152589"
+    "title" : "Folge 4: Fahrstuhl zur Hölle",
+    "upc" : "4260507152312"
   },
   {
     "albumID" : "1473283464",
@@ -232,12 +32,12 @@
     "upc" : "4260507152305"
   },
   {
-    "albumID" : "1473283678",
+    "albumID" : "1473300230",
     "artist" : "Tony Ballard",
-    "duration" : 3623.381999999999,
+    "duration" : 2769.3669999999997,
     "releaseDate" : 585792000,
-    "title" : "Folge 4: Fahrstuhl zur Hölle",
-    "upc" : "4260507152312"
+    "title" : "Folge 8: Im Niemandsland des Bösen",
+    "upc" : "4260507152350"
   },
   {
     "albumID" : "1473285112",
@@ -264,20 +64,12 @@
     "upc" : "4260507152343"
   },
   {
-    "albumID" : "1473300230",
+    "albumID" : "1464142936",
     "artist" : "Tony Ballard",
-    "duration" : 2769.3669999999997,
-    "releaseDate" : 585792000,
-    "title" : "Folge 8: Im Niemandsland des Bösen",
-    "upc" : "4260507152350"
-  },
-  {
-    "albumID" : "1473300536",
-    "artist" : "Tony Ballard",
-    "duration" : 2743.5350000000008,
-    "releaseDate" : 585792000,
-    "title" : "Folge 9: Die weiße Hexe",
-    "upc" : "4260507152367"
+    "duration" : 3234.4660000000003,
+    "releaseDate" : 582163200,
+    "title" : "Folge 35: Der Albtraum-Dämon",
+    "upc" : "4260507150813"
   },
   {
     "albumID" : "1481063002",
@@ -288,76 +80,28 @@
     "upc" : "4260507153821"
   },
   {
+    "albumID" : "1473302801",
+    "artist" : "Tony Ballard",
+    "duration" : 4151.855,
+    "releaseDate" : 585792000,
+    "title" : "Folge 12: Der Schatz der toten Seelen",
+    "upc" : "4260507152398"
+  },
+  {
+    "albumID" : "1473300536",
+    "artist" : "Tony Ballard",
+    "duration" : 2743.5350000000008,
+    "releaseDate" : 585792000,
+    "title" : "Folge 9: Die weiße Hexe",
+    "upc" : "4260507152367"
+  },
+  {
     "albumID" : "1511554591",
     "artist" : "Tony Ballard",
     "duration" : 4789.529,
     "releaseDate" : 612403200,
     "title" : "Folge 37: Zeberus, die Höllenbestie",
     "upc" : "4260507159038"
-  },
-  {
-    "albumID" : "1523477552",
-    "artist" : "Tony Ballard",
-    "duration" : 4684.093000000001,
-    "releaseDate" : 619056000,
-    "title" : "Folge 38: Der geflügelte Tod",
-    "upc" : "4260507160201"
-  },
-  {
-    "albumID" : "1531773202",
-    "artist" : "Tony Ballard",
-    "duration" : 4342.856999999998,
-    "releaseDate" : 625104000,
-    "title" : "Folge 39: Duell um das Höllenschwert",
-    "upc" : "4260507161482"
-  },
-  {
-    "albumID" : "1540208352",
-    "artist" : "Tony Ballard",
-    "duration" : 4704.741999999999,
-    "releaseDate" : 628732800,
-    "title" : "Folge 40: Der Galgenbaum im Jenseits",
-    "upc" : "4260507162014"
-  },
-  {
-    "albumID" : "1561871490",
-    "artist" : "Tony Ballard",
-    "duration" : 4662.9220000000005,
-    "releaseDate" : 640828800,
-    "title" : "Folge 41: Sklaven der Satansdroge",
-    "upc" : "4260507164674"
-  },
-  {
-    "albumID" : "1575187480",
-    "artist" : "Tony Ballard",
-    "duration" : 4796.481999999999,
-    "releaseDate" : 649900800,
-    "title" : "Folge 42: MARBU - Die Kraft des Todes",
-    "upc" : "4260507168917"
-  },
-  {
-    "albumID" : "1600508024",
-    "artist" : "Tony Ballard",
-    "duration" : 4753.082,
-    "releaseDate" : 664416000,
-    "title" : "Folge 43: Der Körperdieb (1/2)",
-    "upc" : "4260507171085"
-  },
-  {
-    "albumID" : "1625367732",
-    "artist" : "Tony Ballard",
-    "duration" : 4720.533,
-    "releaseDate" : 677116800,
-    "title" : "Folge 44: In der siebenten Hölle (2/2)",
-    "upc" : "4260507174123"
-  },
-  {
-    "albumID" : "1639922568",
-    "artist" : "Tony Ballard",
-    "duration" : 4184.68,
-    "releaseDate" : 684374400,
-    "title" : "Folge 45: Bei Vollmond kommt der Tod",
-    "upc" : "4260507175977"
   },
   {
     "albumID" : "1646976111",
@@ -368,20 +112,148 @@
     "upc" : "4260507176820"
   },
   {
-    "albumID" : "1652378374",
+    "albumID" : "1426359224",
     "artist" : "Tony Ballard",
-    "duration" : 3190.002,
-    "releaseDate" : 691027200,
-    "title" : "Folge 47: Mortimer Kulls höllische Pläne",
-    "upc" : "4260507177483"
+    "duration" : 4424.853999999999,
+    "releaseDate" : 557971200,
+    "title" : "Folge 32: Wenn die Toten sich erheben ...",
+    "upc" : "4260507143020"
   },
   {
-    "albumID" : "1660059676",
+    "albumID" : "1441656528",
     "artist" : "Tony Ballard",
-    "duration" : 2807.000000000001,
-    "releaseDate" : 695260800,
-    "title" : "Folge 48: Im Reich der Satansaffen",
-    "upc" : "4260507178183"
+    "duration" : 4576.039000000001,
+    "releaseDate" : 566438400,
+    "title" : "Folge 33: Verflucht",
+    "upc" : "4260507144058"
+  },
+  {
+    "albumID" : "1473312236",
+    "artist" : "Tony Ballard",
+    "duration" : 3682.3990000000003,
+    "releaseDate" : 585792000,
+    "title" : "Folge 15: Der Sarg der tausend Tode",
+    "upc" : "4260507152428"
+  },
+  {
+    "albumID" : "1473301836",
+    "artist" : "Tony Ballard",
+    "duration" : 3066.410000000001,
+    "releaseDate" : 585792000,
+    "title" : "Folge 11: Das Höllenschwert",
+    "upc" : "4260507152381"
+  },
+  {
+    "albumID" : "1458109899",
+    "artist" : "Tony Ballard",
+    "duration" : 3531.3350000000005,
+    "releaseDate" : 577929600,
+    "title" : "Folge 34: Prof. Kulls Blutnixe",
+    "upc" : "4260507147981"
+  },
+  {
+    "albumID" : "1473306204",
+    "artist" : "Tony Ballard",
+    "duration" : 4492.509000000001,
+    "releaseDate" : 585792000,
+    "title" : "Folge 10: Die Hexe und der Silberdämon",
+    "upc" : "4260507152374"
+  },
+  {
+    "albumID" : "1473303737",
+    "artist" : "Tony Ballard",
+    "duration" : 3724.399999999999,
+    "releaseDate" : 585792000,
+    "title" : "Folge 13: Lockruf der Zombies",
+    "upc" : "4260507152404"
+  },
+  {
+    "albumID" : "1473318223",
+    "artist" : "Tony Ballard",
+    "duration" : 4572.432000000001,
+    "releaseDate" : 585792000,
+    "title" : "Folge 19: Duell der Dämonen",
+    "upc" : "4260507152466"
+  },
+  {
+    "albumID" : "1473317064",
+    "artist" : "Tony Ballard",
+    "duration" : 3651.175,
+    "releaseDate" : 585792000,
+    "title" : "Folge 18: Horrorhölle Tansania",
+    "upc" : "4260507152459"
+  },
+  {
+    "albumID" : "1575187480",
+    "artist" : "Tony Ballard",
+    "duration" : 4796.481999999999,
+    "releaseDate" : 649900800,
+    "title" : "Folge 42: MARBU - Die Kraft des Todes",
+    "upc" : "4260507168917"
+  },
+  {
+    "albumID" : "1473315244",
+    "artist" : "Tony Ballard",
+    "duration" : 3745.214,
+    "releaseDate" : 585792000,
+    "title" : "Folge 17: Ich jagte das rote Skelett",
+    "upc" : "4260507152442"
+  },
+  {
+    "albumID" : "1473311766",
+    "artist" : "Tony Ballard",
+    "duration" : 4424.814,
+    "releaseDate" : 585792000,
+    "title" : "Folge 14: Das Schiff der schwarzen Piraten",
+    "upc" : "4260507152411"
+  },
+  {
+    "albumID" : "1473319926",
+    "artist" : "Tony Ballard",
+    "duration" : 4756.681,
+    "releaseDate" : 585792000,
+    "title" : "Folge 21: Die Kamikaze-Monster",
+    "upc" : "4260507152480"
+  },
+  {
+    "albumID" : "1473313488",
+    "artist" : "Tony Ballard",
+    "duration" : 4292.706000000001,
+    "releaseDate" : 585792000,
+    "title" : "Folge 16: Die Vampir-Klinik",
+    "upc" : "4260507152435"
+  },
+  {
+    "albumID" : "1473320965",
+    "artist" : "Tony Ballard",
+    "duration" : 4761.294000000001,
+    "releaseDate" : 585792000,
+    "title" : "Folge 23: Der Tod schleicht durch London",
+    "upc" : "4260507152503"
+  },
+  {
+    "albumID" : "1561871490",
+    "artist" : "Tony Ballard",
+    "duration" : 4662.9220000000005,
+    "releaseDate" : 640828800,
+    "title" : "Folge 41: Sklaven der Satansdroge",
+    "upc" : "4260507164674"
+  },
+  {
+    "albumID" : "1473319105",
+    "artist" : "Tony Ballard",
+    "duration" : 3998.4389999999994,
+    "releaseDate" : 585792000,
+    "title" : "Folge 20: In den Krallen der Tigerfrauen",
+    "upc" : "4260507152473"
+  },
+  {
+    "albumID" : "1523477552",
+    "artist" : "Tony Ballard",
+    "duration" : 4684.093000000001,
+    "releaseDate" : 619056000,
+    "title" : "Folge 38: Der geflügelte Tod",
+    "upc" : "4260507160201"
   },
   {
     "albumID" : "1670986103",
@@ -392,12 +264,164 @@
     "upc" : "4260507180544"
   },
   {
+    "albumID" : "1473321629",
+    "artist" : "Tony Ballard",
+    "duration" : 4689.334999999999,
+    "releaseDate" : 585792000,
+    "title" : "Folge 25: Als der Silberdämon starb",
+    "upc" : "4260507152527"
+  },
+  {
+    "albumID" : "1473320246",
+    "artist" : "Tony Ballard",
+    "duration" : 4483.348,
+    "releaseDate" : 585792000,
+    "title" : "Folge 22: Die Schrecken des Mortimer K.",
+    "upc" : "4260507152497"
+  },
+  {
+    "albumID" : "1473326325",
+    "artist" : "Tony Ballard",
+    "duration" : 4067.186,
+    "releaseDate" : 585792000,
+    "title" : "Folge 31: Brutstätte des Bösen",
+    "upc" : "4260507152589"
+  },
+  {
+    "albumID" : "1600508024",
+    "artist" : "Tony Ballard",
+    "duration" : 4753.082,
+    "releaseDate" : 664416000,
+    "title" : "Folge 43: Der Körperdieb (1/2)",
+    "upc" : "4260507171085"
+  },
+  {
+    "albumID" : "1473323352",
+    "artist" : "Tony Ballard",
+    "duration" : 3820.4660000000003,
+    "releaseDate" : 585792000,
+    "title" : "Folge 29: Der Kampf um den Ring",
+    "upc" : "4260507152565"
+  },
+  {
+    "albumID" : "1473320977",
+    "artist" : "Tony Ballard",
+    "duration" : 4721.201,
+    "releaseDate" : 585792000,
+    "title" : "Folge 24: In den Klauen der Knochenmänner",
+    "upc" : "4260507152510"
+  },
+  {
+    "albumID" : "1473323054",
+    "artist" : "Tony Ballard",
+    "duration" : 3762.096,
+    "releaseDate" : 585792000,
+    "title" : "Folge 28: Der Teufel führt Regie",
+    "upc" : "4260507152558"
+  },
+  {
+    "albumID" : "1473348814",
+    "artist" : "Tony Ballard",
+    "duration" : 4630.346999999999,
+    "releaseDate" : 585792000,
+    "title" : "Folge 27: Sie wollten meine Seele fressen",
+    "upc" : "4260507152541"
+  },
+  {
+    "albumID" : "1473323686",
+    "artist" : "Tony Ballard",
+    "duration" : 4734.6939999999995,
+    "releaseDate" : 585792000,
+    "title" : "Folge 30: Monster aus der Retorte",
+    "upc" : "4260507152572"
+  },
+  {
+    "albumID" : "1625367732",
+    "artist" : "Tony Ballard",
+    "duration" : 4720.533,
+    "releaseDate" : 677116800,
+    "title" : "Folge 44: In der siebenten Hölle (2/2)",
+    "upc" : "4260507174123"
+  },
+  {
+    "albumID" : "1473322250",
+    "artist" : "Tony Ballard",
+    "duration" : 4410.152,
+    "releaseDate" : 585792000,
+    "title" : "Folge 26: Die Hexe und ihr Henker",
+    "upc" : "4260507152534"
+  },
+  {
+    "albumID" : "1540208352",
+    "artist" : "Tony Ballard",
+    "duration" : 4704.741999999999,
+    "releaseDate" : 628732800,
+    "title" : "Folge 40: Der Galgenbaum im Jenseits",
+    "upc" : "4260507162014"
+  },
+  {
+    "albumID" : "1531773202",
+    "artist" : "Tony Ballard",
+    "duration" : 4342.856999999998,
+    "releaseDate" : 625104000,
+    "title" : "Folge 39: Duell um das Höllenschwert",
+    "upc" : "4260507161482"
+  },
+  {
+    "albumID" : "1660059676",
+    "artist" : "Tony Ballard",
+    "duration" : 2807.000000000001,
+    "releaseDate" : 695260800,
+    "title" : "Folge 48: Im Reich der Satansaffen",
+    "upc" : "4260507178183"
+  },
+  {
+    "albumID" : "1740091322",
+    "artist" : "Tony Ballard",
+    "duration" : 3943.74,
+    "releaseDate" : 736992000,
+    "title" : "Folge 60: Magos Höllenschädel",
+    "upc" : "4260507195043"
+  },
+  {
+    "albumID" : "1639922568",
+    "artist" : "Tony Ballard",
+    "duration" : 4184.68,
+    "releaseDate" : 684374400,
+    "title" : "Folge 45: Bei Vollmond kommt der Tod",
+    "upc" : "4260507175977"
+  },
+  {
+    "albumID" : "1753860498",
+    "artist" : "Tony Ballard",
+    "duration" : 3258.001,
+    "releaseDate" : 744249600,
+    "title" : "Folge 63: Labyrinth der Ghouls",
+    "upc" : "4260507196958"
+  },
+  {
+    "albumID" : "1652378374",
+    "artist" : "Tony Ballard",
+    "duration" : 3190.002,
+    "releaseDate" : 691027200,
+    "title" : "Folge 47: Mortimer Kulls höllische Pläne",
+    "upc" : "4260507177483"
+  },
+  {
     "albumID" : "1680683840",
     "artist" : "Tony Ballard",
     "duration" : 9515.292999999994,
     "releaseDate" : 704332800,
     "title" : "Folge 50: Die Geburt des Teufelssohns",
     "upc" : "4260507182050"
+  },
+  {
+    "albumID" : "1728024752",
+    "artist" : "Tony Ballard",
+    "duration" : 4806.512000000002,
+    "releaseDate" : 728524800,
+    "title" : "Folge 56: Das Ghoul-Imperium",
+    "upc" : "4260507191601"
   },
   {
     "albumID" : "1686158398",
@@ -424,28 +448,12 @@
     "upc" : "4260507188229"
   },
   {
-    "albumID" : "1718504044",
-    "artist" : "Tony Ballard",
-    "duration" : 4471.468999999998,
-    "releaseDate" : 721267200,
-    "title" : "Folge 54: Mr. Silvers Sohn",
-    "upc" : "4066004663890"
-  },
-  {
     "albumID" : "1712163365",
     "artist" : "Tony Ballard",
     "duration" : 4773.002999999999,
     "releaseDate" : 726105600,
     "title" : "Folge 55: Trank des Verderbens",
     "upc" : "4260507190444"
-  },
-  {
-    "albumID" : "1728024752",
-    "artist" : "Tony Ballard",
-    "duration" : 4806.512000000002,
-    "releaseDate" : 728524800,
-    "title" : "Folge 56: Das Ghoul-Imperium",
-    "upc" : "4260507191601"
   },
   {
     "albumID" : "1730694168",
@@ -456,20 +464,12 @@
     "upc" : "4260507192639"
   },
   {
-    "albumID" : "1738225283",
-    "artist" : "I-ROC",
-    "duration" : 182.526,
-    "releaseDate" : 733708800,
-    "title" : "My Crib Party (feat. Camp Bond & Tony Ballard) - Single",
-    "upc" : "198470845976"
-  },
-  {
-    "albumID" : "1737874351",
+    "albumID" : "1752445069",
     "artist" : "Tony Ballard",
-    "duration" : 4703.017,
-    "releaseDate" : 733968000,
-    "title" : "Folge 58: Ghouls in Soho",
-    "upc" : "4260507194107"
+    "duration" : 3252.0040000000013,
+    "releaseDate" : 743040000,
+    "title" : "Folge 62: In den Klauen der Ghouls",
+    "upc" : "4260507196484"
   },
   {
     "albumID" : "1739116183",
@@ -480,36 +480,20 @@
     "upc" : "4260507194473"
   },
   {
-    "albumID" : "1740091322",
+    "albumID" : "1737874351",
     "artist" : "Tony Ballard",
-    "duration" : 3943.74,
-    "releaseDate" : 736992000,
-    "title" : "Folge 60: Magos Höllenschädel",
-    "upc" : "4260507195043"
+    "duration" : 4703.017,
+    "releaseDate" : 733968000,
+    "title" : "Folge 58: Ghouls in Soho",
+    "upc" : "4260507194107"
   },
   {
-    "albumID" : "1752444796",
+    "albumID" : "1718504044",
     "artist" : "Tony Ballard",
-    "duration" : 4857.076,
-    "releaseDate" : 741225600,
-    "title" : "Folge 61: Bote der Nacht",
-    "upc" : "4260507196460"
-  },
-  {
-    "albumID" : "1752445069",
-    "artist" : "Tony Ballard",
-    "duration" : 3252.0040000000013,
-    "releaseDate" : 743040000,
-    "title" : "Folge 62: In den Klauen der Ghouls",
-    "upc" : "4260507196484"
-  },
-  {
-    "albumID" : "1753860498",
-    "artist" : "Tony Ballard",
-    "duration" : 3258.001,
-    "releaseDate" : 744249600,
-    "title" : "Folge 63: Labyrinth der Ghouls",
-    "upc" : "4260507196958"
+    "duration" : 4471.468999999998,
+    "releaseDate" : 721267200,
+    "title" : "Folge 54: Mr. Silvers Sohn",
+    "upc" : "4066004663890"
   },
   {
     "albumID" : "1763589927",
@@ -528,12 +512,12 @@
     "upc" : "4260507199461"
   },
   {
-    "albumID" : "1777286707",
-    "artist" : "K.O. Kee",
-    "duration" : 164.483,
-    "releaseDate" : 752112000,
-    "title" : "Favor (feat. Tony Ballard & Rand Scott) - Single",
-    "upc" : "198879619468"
+    "albumID" : "1752444796",
+    "artist" : "Tony Ballard",
+    "duration" : 4857.076,
+    "releaseDate" : 741225600,
+    "title" : "Folge 61: Bote der Nacht",
+    "upc" : "4260507196460"
   },
   {
     "albumID" : "1771494164",
@@ -550,5 +534,21 @@
     "releaseDate" : 756345600,
     "title" : "Folge 67: Im Bann der Bestie",
     "upc" : "4260507199867"
+  },
+  {
+    "albumID" : "1738225283",
+    "artist" : "I-ROC",
+    "duration" : 182.526,
+    "releaseDate" : 733708800,
+    "title" : "My Crib Party (feat. Camp Bond & Tony Ballard) - Single",
+    "upc" : "198470845976"
+  },
+  {
+    "albumID" : "1777286707",
+    "artist" : "K.O. Kee",
+    "duration" : 164.483,
+    "releaseDate" : 752112000,
+    "title" : "Favor (feat. Tony Ballard & Rand Scott) - Single",
+    "upc" : "198879619468"
   }
 ]
