@@ -5,14 +5,79 @@
     "url" : "https://raw.githubusercontent.com/FPST-08/H-rspielzentraleJSON/refs/heads/main/HoerspielData/Data/1008761063.json"
   },
   {
+    "id" : "1025837598",
+    "name" : "Danger",
+    "url" : "https://raw.githubusercontent.com/FPST-08/H-rspielzentraleJSON/refs/heads/main/HoerspielData/Data/1025837598.json"
+  },
+  {
+    "id" : "1032712133",
+    "name" : "NYPDead - Medical Report",
+    "url" : "https://raw.githubusercontent.com/FPST-08/H-rspielzentraleJSON/refs/heads/main/HoerspielData/Data/1032712133.json"
+  },
+  {
+    "id" : "1034806501",
+    "name" : "Planet Eden",
+    "url" : "https://raw.githubusercontent.com/FPST-08/H-rspielzentraleJSON/refs/heads/main/HoerspielData/Data/1034806501.json"
+  },
+  {
+    "id" : "1066243862",
+    "name" : "Oscar Wilde & Mycroft Holmes",
+    "url" : "https://raw.githubusercontent.com/FPST-08/H-rspielzentraleJSON/refs/heads/main/HoerspielData/Data/1066243862.json"
+  },
+  {
     "id" : "1169487121",
     "name" : "Die PSI-Akten",
     "url" : "https://raw.githubusercontent.com/FPST-08/H-rspielzentraleJSON/refs/heads/main/HoerspielData/Data/1169487121.json"
   },
   {
+    "id" : "1227494324",
+    "name" : "Neue Welten",
+    "url" : "https://raw.githubusercontent.com/FPST-08/H-rspielzentraleJSON/refs/heads/main/HoerspielData/Data/1227494324.json"
+  },
+  {
+    "id" : "1333781604",
+    "name" : "Inspector Lestrade",
+    "url" : "https://raw.githubusercontent.com/FPST-08/H-rspielzentraleJSON/refs/heads/main/HoerspielData/Data/1333781604.json"
+  },
+  {
+    "id" : "1397496585",
+    "name" : "Jules Verne & Friedhelm Ptok",
+    "url" : "https://raw.githubusercontent.com/FPST-08/H-rspielzentraleJSON/refs/heads/main/HoerspielData/Data/1397496585.json"
+  },
+  {
+    "id" : "1397878902",
+    "name" : "Edgar Allan Poe & Auguste Dupin",
+    "url" : "https://raw.githubusercontent.com/FPST-08/H-rspielzentraleJSON/refs/heads/main/HoerspielData/Data/1397878902.json"
+  },
+  {
+    "id" : "1400668275",
+    "name" : "TKKG Junior",
+    "url" : "https://raw.githubusercontent.com/FPST-08/H-rspielzentraleJSON/refs/heads/main/HoerspielData/Data/1400668275.json"
+  },
+  {
+    "id" : "1464160881",
+    "name" : "Irene Adler",
+    "url" : "https://raw.githubusercontent.com/FPST-08/H-rspielzentraleJSON/refs/heads/main/HoerspielData/Data/1464160881.json"
+  },
+  {
+    "id" : "1530805738",
+    "name" : "Dracula und der Zirkel der Sieben",
+    "url" : "https://raw.githubusercontent.com/FPST-08/H-rspielzentraleJSON/refs/heads/main/HoerspielData/Data/1530805738.json"
+  },
+  {
+    "id" : "1531742949",
+    "name" : "Frankenstein und der Zirkel der Sieben",
+    "url" : "https://raw.githubusercontent.com/FPST-08/H-rspielzentraleJSON/refs/heads/main/HoerspielData/Data/1531742949.json"
+  },
+  {
     "id" : "1540197406",
     "name" : "Akte Witz",
     "url" : "https://raw.githubusercontent.com/FPST-08/H-rspielzentraleJSON/refs/heads/main/HoerspielData/Data/1540197406.json"
+  },
+  {
+    "id" : "1540736878",
+    "name" : "Und auf Erden Stille",
+    "url" : "https://raw.githubusercontent.com/FPST-08/H-rspielzentraleJSON/refs/heads/main/HoerspielData/Data/1540736878.json"
   },
   {
     "id" : "1553809713",
@@ -25,9 +90,29 @@
     "url" : "https://raw.githubusercontent.com/FPST-08/H-rspielzentraleJSON/refs/heads/main/HoerspielData/Data/1567969655.json"
   },
   {
+    "id" : "1576901991",
+    "name" : "Die schwarze Stadt",
+    "url" : "https://raw.githubusercontent.com/FPST-08/H-rspielzentraleJSON/refs/heads/main/HoerspielData/Data/1576901991.json"
+  },
+  {
+    "id" : "1578682459",
+    "name" : "Moriarty",
+    "url" : "https://raw.githubusercontent.com/FPST-08/H-rspielzentraleJSON/refs/heads/main/HoerspielData/Data/1578682459.json"
+  },
+  {
+    "id" : "1618789792",
+    "name" : "Hurricane",
+    "url" : "https://raw.githubusercontent.com/FPST-08/H-rspielzentraleJSON/refs/heads/main/HoerspielData/Data/1618789792.json"
+  },
+  {
     "id" : "1625324182",
     "name" : "Der Sohn des Hades",
     "url" : "https://raw.githubusercontent.com/FPST-08/H-rspielzentraleJSON/refs/heads/main/HoerspielData/Data/1625324182.json"
+  },
+  {
+    "id" : "1640502543",
+    "name" : "Die größten Fälle des BND",
+    "url" : "https://raw.githubusercontent.com/FPST-08/H-rspielzentraleJSON/refs/heads/main/HoerspielData/Data/1640502543.json"
   },
   {
     "id" : "191548811",
@@ -38,6 +123,11 @@
     "id" : "201306317",
     "name" : "Die drei ???",
     "url" : "https://raw.githubusercontent.com/FPST-08/H-rspielzentraleJSON/refs/heads/main/HoerspielData/Data/201306317.json"
+  },
+  {
+    "id" : "203251327",
+    "name" : "Dorian Hunter",
+    "url" : "https://raw.githubusercontent.com/FPST-08/H-rspielzentraleJSON/refs/heads/main/HoerspielData/Data/203251327.json"
   },
   {
     "id" : "215716521",
@@ -51,8 +141,13 @@
   },
   {
     "id" : "220152697",
-    "name" : "Bibi und Tina",
+    "name" : "Peter Plate, Ulf Leo Sommer & Bibi und Tina",
     "url" : "https://raw.githubusercontent.com/FPST-08/H-rspielzentraleJSON/refs/heads/main/HoerspielData/Data/220152697.json"
+  },
+  {
+    "id" : "251279544",
+    "name" : "Jason Dark & John Sinclair",
+    "url" : "https://raw.githubusercontent.com/FPST-08/H-rspielzentraleJSON/refs/heads/main/HoerspielData/Data/251279544.json"
   },
   {
     "id" : "267092844",
@@ -70,9 +165,19 @@
     "url" : "https://raw.githubusercontent.com/FPST-08/H-rspielzentraleJSON/refs/heads/main/HoerspielData/Data/305761269.json"
   },
   {
+    "id" : "310377836",
+    "name" : "Fraktal",
+    "url" : "https://raw.githubusercontent.com/FPST-08/H-rspielzentraleJSON/refs/heads/main/HoerspielData/Data/310377836.json"
+  },
+  {
     "id" : "329049924",
     "name" : "Die drei !!!",
     "url" : "https://raw.githubusercontent.com/FPST-08/H-rspielzentraleJSON/refs/heads/main/HoerspielData/Data/329049924.json"
+  },
+  {
+    "id" : "341829716",
+    "name" : "Offenbarung 23",
+    "url" : "https://raw.githubusercontent.com/FPST-08/H-rspielzentraleJSON/refs/heads/main/HoerspielData/Data/341829716.json"
   },
   {
     "id" : "374902873",
@@ -83,6 +188,11 @@
     "id" : "375978916",
     "name" : "Die Ferienbande",
     "url" : "https://raw.githubusercontent.com/FPST-08/H-rspielzentraleJSON/refs/heads/main/HoerspielData/Data/375978916.json"
+  },
+  {
+    "id" : "395691370",
+    "name" : "Lady Bedfort",
+    "url" : "https://raw.githubusercontent.com/FPST-08/H-rspielzentraleJSON/refs/heads/main/HoerspielData/Data/395691370.json"
   },
   {
     "id" : "404571576",
@@ -110,9 +220,29 @@
     "url" : "https://raw.githubusercontent.com/FPST-08/H-rspielzentraleJSON/refs/heads/main/HoerspielData/Data/4597171.json"
   },
   {
+    "id" : "553186332",
+    "name" : "Sherlock Holmes & Co",
+    "url" : "https://raw.githubusercontent.com/FPST-08/H-rspielzentraleJSON/refs/heads/main/HoerspielData/Data/553186332.json"
+  },
+  {
+    "id" : "626774221",
+    "name" : "Professor van Dusen",
+    "url" : "https://raw.githubusercontent.com/FPST-08/H-rspielzentraleJSON/refs/heads/main/HoerspielData/Data/626774221.json"
+  },
+  {
+    "id" : "706388519",
+    "name" : "VIDAN",
+    "url" : "https://raw.githubusercontent.com/FPST-08/H-rspielzentraleJSON/refs/heads/main/HoerspielData/Data/706388519.json"
+  },
+  {
     "id" : "876466527",
     "name" : "Pater Brown",
     "url" : "https://raw.githubusercontent.com/FPST-08/H-rspielzentraleJSON/refs/heads/main/HoerspielData/Data/876466527.json"
+  },
+  {
+    "id" : "934803895",
+    "name" : "Heliosphere 2265",
+    "url" : "https://raw.githubusercontent.com/FPST-08/H-rspielzentraleJSON/refs/heads/main/HoerspielData/Data/934803895.json"
   },
   {
     "id" : "970177710",
