@@ -1,0 +1,322 @@
+[
+  {
+    "albumID" : "880970542",
+    "artist" : "Fraktal",
+    "duration" : 4242.826,
+    "releaseDate" : 424310400,
+    "title" : "Folge 01: Verloren im Mikrokosmos",
+    "upc" : "4260147772901"
+  },
+  {
+    "albumID" : "922124363",
+    "artist" : "Fraktal",
+    "duration" : 3999.746,
+    "releaseDate" : 434592000,
+    "title" : "Folge 02: Sternenstaub",
+    "upc" : "4260147773458"
+  },
+  {
+    "albumID" : "963781042",
+    "artist" : "Fraktal",
+    "duration" : 3365.2270000000003,
+    "releaseDate" : 446083200,
+    "title" : "Folge 03: Prähistorica",
+    "upc" : "4260147773861"
+  },
+  {
+    "albumID" : "986808490",
+    "artist" : "Fraktal",
+    "duration" : 3579.574,
+    "releaseDate" : 453340800,
+    "title" : "Folge 4: Kontakt",
+    "upc" : "4260147774196"
+  },
+  {
+    "albumID" : "1031580717",
+    "artist" : "Fraktal",
+    "duration" : 3352.9839999999995,
+    "releaseDate" : 464227200,
+    "title" : "Folge 05: Trojaner",
+    "upc" : "4260147774721"
+  },
+  {
+    "albumID" : "1450380770",
+    "artist" : "Fraktal",
+    "duration" : 4332.736999999999,
+    "releaseDate" : 571276800,
+    "title" : "Folge 6: Der Schleier von Kintaru",
+    "upc" : "4260507146960"
+  },
+  {
+    "albumID" : "1507178071",
+    "artist" : "Fraktal",
+    "duration" : 4497.373,
+    "releaseDate" : 607564800,
+    "title" : "Folge 13: Die Station im Eis",
+    "upc" : "4260507157959"
+  },
+  {
+    "albumID" : "1476429246",
+    "artist" : "Fraktal",
+    "duration" : 4280.785,
+    "releaseDate" : 589420800,
+    "title" : "Folge 9: Die Traummaschine",
+    "upc" : "4260507153272"
+  },
+  {
+    "albumID" : "1465882446",
+    "artist" : "Fraktal",
+    "duration" : 3806.2000000000003,
+    "releaseDate" : 581558400,
+    "title" : "Folge 8: Der leise Tod",
+    "upc" : "4260507151520"
+  },
+  {
+    "albumID" : "1462069581",
+    "artist" : "Fraktal",
+    "duration" : 4390.720000000001,
+    "releaseDate" : 577929600,
+    "title" : "Folge 7: Hinter dem Zaun",
+    "upc" : "4260507150745"
+  },
+  {
+    "albumID" : "1517166223",
+    "artist" : "Fraktal",
+    "duration" : 4096.228,
+    "releaseDate" : 617846400,
+    "title" : "Folge 14: Ultimatum",
+    "upc" : "4260507160188"
+  },
+  {
+    "albumID" : "1530813243",
+    "artist" : "Fraktal",
+    "duration" : 3756.9459999999995,
+    "releaseDate" : 625104000,
+    "title" : "Folge 16: Der Schleier fällt",
+    "upc" : "4260507161475"
+  },
+  {
+    "albumID" : "1539215497",
+    "artist" : "Fraktal",
+    "duration" : 4721.731999999999,
+    "releaseDate" : 628128000,
+    "title" : "Folge 17: Der ungebetene Gast",
+    "upc" : "4260507161840"
+  },
+  {
+    "albumID" : "1528458882",
+    "artist" : "Fraktal",
+    "duration" : 3094.9460000000004,
+    "releaseDate" : 622080000,
+    "title" : "Folge 15: Unter Feinden",
+    "upc" : "4260507161178"
+  },
+  {
+    "albumID" : "1499111467",
+    "artist" : "Fraktal",
+    "duration" : 3568.013,
+    "releaseDate" : 602726400,
+    "title" : "Folge 12: Kieron",
+    "upc" : "4260507157485"
+  },
+  {
+    "albumID" : "1499097215",
+    "artist" : "Fraktal",
+    "duration" : 4242.826,
+    "releaseDate" : 424310400,
+    "title" : "Folge 1: Verloren im Mikrokosmos",
+    "upc" : "4260507157379"
+  },
+  {
+    "albumID" : "1481062111",
+    "artist" : "Fraktal",
+    "duration" : 3441.932000000001,
+    "releaseDate" : 593654400,
+    "title" : "Folge 10: Die Nacht der Verschwörer",
+    "upc" : "4260507153807"
+  },
+  {
+    "albumID" : "1499110530",
+    "artist" : "Fraktal",
+    "duration" : 3184.619,
+    "releaseDate" : 596678400,
+    "title" : "Folge 11: Krieger des Taroximperiums",
+    "upc" : "4260507157478"
+  },
+  {
+    "albumID" : "1499107765",
+    "artist" : "Fraktal",
+    "duration" : 3441.9320000000007,
+    "releaseDate" : 593654400,
+    "title" : "Folge 10: Die Nacht der Verschwörer",
+    "upc" : "4260507157461"
+  },
+  {
+    "albumID" : "1499101103",
+    "artist" : "Fraktal",
+    "duration" : 3579.9910000000004,
+    "releaseDate" : 453340800,
+    "title" : "Folge 4: Kontakt",
+    "upc" : "4260507157409"
+  },
+  {
+    "albumID" : "1499102938",
+    "artist" : "Fraktal",
+    "duration" : 4332.732000000001,
+    "releaseDate" : 571276800,
+    "title" : "Folge 6: Der Schleier von Kintaru",
+    "upc" : "4260507157423"
+  },
+  {
+    "albumID" : "1499098070",
+    "artist" : "Fraktal",
+    "duration" : 3365.228,
+    "releaseDate" : 446083200,
+    "title" : "Folge 3: Prähistorica",
+    "upc" : "4260507157393"
+  },
+  {
+    "albumID" : "1499098438",
+    "artist" : "Fraktal",
+    "duration" : 3999.749,
+    "releaseDate" : 434592000,
+    "title" : "Folge 2: Sternenstaub",
+    "upc" : "4260507157386"
+  },
+  {
+    "albumID" : "1499101592",
+    "artist" : "Fraktal",
+    "duration" : 3352.988,
+    "releaseDate" : 464227200,
+    "title" : "Folge 5: Trojaner",
+    "upc" : "4260507157416"
+  },
+  {
+    "albumID" : "1486608515",
+    "artist" : "Fraktal",
+    "duration" : 3181.0249999999996,
+    "releaseDate" : 596678400,
+    "title" : "Folge 11: Krieger des Taroximperiums",
+    "upc" : "4260507155382"
+  },
+  {
+    "albumID" : "1499104081",
+    "artist" : "Fraktal",
+    "duration" : 3806.200000000001,
+    "releaseDate" : 581558400,
+    "title" : "Folge 8: Der leise Tod",
+    "upc" : "4260507157447"
+  },
+  {
+    "albumID" : "1495676458",
+    "artist" : "Fraktal",
+    "duration" : 3568.0119999999993,
+    "releaseDate" : 602726400,
+    "title" : "Folge 12: Kieron",
+    "upc" : "4260507156563"
+  },
+  {
+    "albumID" : "1499103061",
+    "artist" : "Fraktal",
+    "duration" : 4390.722,
+    "releaseDate" : 577929600,
+    "title" : "Folge 7: Hinter dem Zaun",
+    "upc" : "4260507157430"
+  },
+  {
+    "albumID" : "1499106651",
+    "artist" : "Fraktal",
+    "duration" : 4281.582,
+    "releaseDate" : 589420800,
+    "title" : "Folge 9: Die Traummaschine",
+    "upc" : "4260507157454"
+  },
+  {
+    "albumID" : "1747981859",
+    "artist" : "Buhos, Fraktal & Mon Dj",
+    "duration" : 186.509,
+    "releaseDate" : 739324800,
+    "title" : "ACTITUD - Single",
+    "upc" : "8447053141304"
+  },
+  {
+    "albumID" : "1658342294",
+    "artist" : "Fraktal",
+    "duration" : 1293.3070000000002,
+    "releaseDate" : 692841600,
+    "title" : "Imaginarium - EP",
+    "upc" : "00044003348240"
+  },
+  {
+    "albumID" : "1739374176",
+    "artist" : "Fraktal",
+    "duration" : 256.801,
+    "releaseDate" : 734572800,
+    "title" : "Neću Da Ti Dam - Single",
+    "upc" : "00044003407701"
+  },
+  {
+    "albumID" : "1767867013",
+    "artist" : "Fraktal",
+    "duration" : 282.513,
+    "releaseDate" : 748483200,
+    "title" : "Kaldrma - Single",
+    "upc" : "00044003430891"
+  },
+  {
+    "albumID" : "1767424917",
+    "artist" : "Fraktal, Eva Marti & Marian Dacal",
+    "duration" : 210.4,
+    "releaseDate" : 749692800,
+    "title" : "Alas Prometidas - Single",
+    "upc" : "5063549818722"
+  },
+  {
+    "albumID" : "1697523649",
+    "artist" : "Fraktal, Green & G.R.E.S",
+    "duration" : 2772.3949999999995,
+    "releaseDate" : 503366400,
+    "title" : "Fraktal",
+    "upc" : "5901720485915"
+  },
+  {
+    "albumID" : "1752200122",
+    "artist" : "Buhos",
+    "duration" : 167.293,
+    "releaseDate" : 741052800,
+    "title" : "ACTITUD (feat. Fraktal) [Remix] - Single",
+    "upc" : "8447053157343"
+  },
+  {
+    "albumID" : "1686561339",
+    "artist" : "Fraktal",
+    "duration" : 315.711,
+    "releaseDate" : 628128000,
+    "title" : "Kraj - Single",
+    "upc" : "03616550901239"
+  },
+  {
+    "albumID" : "1686562985",
+    "artist" : "Fraktal",
+    "duration" : 237.062,
+    "releaseDate" : 635126400,
+    "title" : "Your Fire - Single",
+    "upc" : "03616553067383"
+  },
+  {
+    "albumID" : "1686561128",
+    "artist" : "Fraktal",
+    "duration" : 252.837,
+    "releaseDate" : 648518400,
+    "title" : "True Love - Single",
+    "upc" : "03616557790966"
+  },
+  {
+    "albumID" : "1686561127",
+    "artist" : "Fraktal",
+    "duration" : 238.162,
+    "releaseDate" : 663811200,
+    "title" : "Neke nove stvari - Single",
+    "upc" : "03616843422038"
+  }
+]
