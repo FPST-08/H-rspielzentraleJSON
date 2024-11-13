@@ -1,0 +1,130 @@
+[
+  {
+    "albumID" : "1531742870",
+    "artist" : "Frankenstein und der Zirkel der Sieben",
+    "duration" : 4719.000999999999,
+    "releaseDate" : 623894400,
+    "title" : "Folge 1: Am Abgrund der Nacht",
+    "upc" : "4260507161529"
+  },
+  {
+    "albumID" : "1540201999",
+    "artist" : "Frankenstein und der Zirkel der Sieben",
+    "duration" : 3808.9999999999995,
+    "releaseDate" : 628732800,
+    "title" : "Folge 2: Verflucht seid ihr alle",
+    "upc" : "4260507162236"
+  },
+  {
+    "albumID" : "1553883795",
+    "artist" : "Frankenstein und der Zirkel der Sieben",
+    "duration" : 4248.002,
+    "releaseDate" : 635990400,
+    "title" : "Folge 3: Angst in den Gassen",
+    "upc" : "4260507163394"
+  },
+  {
+    "albumID" : "1570108193",
+    "artist" : "Frankenstein und der Zirkel der Sieben",
+    "duration" : 4288.509,
+    "releaseDate" : 645667200,
+    "title" : "Folge 4: Tödliches Wissen",
+    "upc" : "4260507166128"
+  },
+  {
+    "albumID" : "1614345041",
+    "artist" : "Frankenstein und der Zirkel der Sieben",
+    "duration" : 3829.004999999999,
+    "releaseDate" : 671068800,
+    "title" : "Folge 5: Aus dem Reich der Toten",
+    "upc" : "4260507172969"
+  },
+  {
+    "albumID" : "1622044521",
+    "artist" : "Frankenstein und der Zirkel der Sieben",
+    "duration" : 3732.002,
+    "releaseDate" : 675907200,
+    "title" : "Folge 6: Mörderjagd",
+    "upc" : "4260507173768"
+  },
+  {
+    "albumID" : "1635125075",
+    "artist" : "Frankenstein und der Zirkel der Sieben",
+    "duration" : 3734.9989999999993,
+    "releaseDate" : 681955200,
+    "title" : "Folge 7: Die Stunde der Wahrheit",
+    "upc" : "4260507175564"
+  },
+  {
+    "albumID" : "1709996694",
+    "artist" : "Frankenstein und der Zirkel der Sieben",
+    "duration" : 3674.9989999999993,
+    "releaseDate" : 720057600,
+    "title" : "Folge 11: Gefangene der Finsternis",
+    "upc" : "4260507190123"
+  },
+  {
+    "albumID" : "1722608745",
+    "artist" : "Frankenstein und der Zirkel der Sieben",
+    "duration" : 3725.999999999999,
+    "releaseDate" : 728524800,
+    "title" : "Folge 12: Erweckung",
+    "upc" : "4260507191434"
+  },
+  {
+    "albumID" : "1670191582",
+    "artist" : "Frankenstein und der Zirkel der Sieben",
+    "duration" : 4267,
+    "releaseDate" : 698889600,
+    "title" : "Folge 8: Das verbotene Grab",
+    "upc" : "4260507177940"
+  },
+  {
+    "albumID" : "1751234932",
+    "artist" : "Frankenstein und der Zirkel der Sieben",
+    "duration" : 3365.0029999999997,
+    "releaseDate" : 741830400,
+    "title" : "Folge 14: Wasser und Tod",
+    "upc" : "4260507196385"
+  },
+  {
+    "albumID" : "1686896093",
+    "artist" : "Frankenstein und der Zirkel der Sieben",
+    "duration" : 3606.999,
+    "releaseDate" : 707961600,
+    "title" : "Folge 9: Neuanfang",
+    "upc" : "4260507184184"
+  },
+  {
+    "albumID" : "1697861942",
+    "artist" : "Frankenstein und der Zirkel der Sieben",
+    "duration" : 3729.998000000001,
+    "releaseDate" : 714009600,
+    "title" : "Folge 10: Auf dunklen Pfaden",
+    "upc" : "4260507188144"
+  },
+  {
+    "albumID" : "1739095396",
+    "artist" : "Frankenstein und der Zirkel der Sieben",
+    "duration" : 3673.0009999999993,
+    "releaseDate" : 735177600,
+    "title" : "Folge 13: Necropolis",
+    "upc" : "4260507194411"
+  },
+  {
+    "albumID" : "1759929202",
+    "artist" : "Frankenstein und der Zirkel der Sieben",
+    "duration" : 3426.004999999999,
+    "releaseDate" : 749088000,
+    "title" : "Folge 15: Strom der Gedanken",
+    "upc" : "4260507198143"
+  },
+  {
+    "albumID" : "1767885240",
+    "artist" : "Frankenstein und der Zirkel der Sieben",
+    "duration" : 3484.0000000000005,
+    "releaseDate" : 750902400,
+    "title" : "Folge 16: Macht und Manipulation",
+    "upc" : "4260507198976"
+  }
+]
