@@ -1,13 +1,5 @@
 [
   {
-    "albumID" : "1336271005",
-    "artist" : "Die Ferienbande",
-    "duration" : 29108.002000000008,
-    "releaseDate" : -63114076800,
-    "title" : "Die große, abenteuerliche und auch mysteriöse Ferienbande Box, Folge 1-6",
-    "upc" : "4251489300709"
-  },
-  {
     "albumID" : "1370976448",
     "artist" : "Die Ferienbande",
     "duration" : 4198.87,
@@ -16,12 +8,52 @@
     "upc" : "4251489302376"
   },
   {
+    "albumID" : "1328207305",
+    "artist" : "Die Ferienbande",
+    "duration" : 3935.002,
+    "releaseDate" : 537408000,
+    "title" : "Folge 8: Die Ferienbande und der krass üble Rächer - Rückkehr, Teil 1",
+    "upc" : "4251489300761"
+  },
+  {
+    "albumID" : "1555110834",
+    "artist" : "Christoph Sieber, Titanic Redaktionskonferenz, Katie Freudenschuss, Bülent Ceylan, Werner Momsen, Die Ferienbande, Ines Anioli, Andreas Rebers, Osman Engin & Urban Priol",
+    "duration" : 3589.433999999999,
+    "releaseDate" : 635990400,
+    "title" : "Die Wahrheit über Deutschland, Pt. 15",
+    "upc" : "4251888729699"
+  },
+  {
+    "albumID" : "1328180673",
+    "artist" : "Die Ferienbande",
+    "duration" : 4019.998,
+    "releaseDate" : 537408000,
+    "title" : "Folge 9: Die Ferienbande und der krass üble Rächer - Rückfall, Teil 2",
+    "upc" : "4251489300983"
+  },
+  {
     "albumID" : "1370978346",
     "artist" : "Die Ferienbande",
     "duration" : 4737.625000000001,
     "releaseDate" : -63114076800,
     "title" : "Folge 2: Die Ferienbande und das voll gemeine Phantom",
     "upc" : "4251489302383"
+  },
+  {
+    "albumID" : "1288599346",
+    "artist" : "Die Ferienbande",
+    "duration" : 4400.665,
+    "releaseDate" : 527731200,
+    "title" : "Folge 10: Die Ferienbande und der krass üble Rächer - Teil 3: Rückschlag",
+    "upc" : "4251489300204"
+  },
+  {
+    "albumID" : "1359039049",
+    "artist" : "Die Ferienbande",
+    "duration" : 8278.001999999999,
+    "releaseDate" : 544665600,
+    "title" : "Folge 11: Die Ferienbande bricht in See (Live)",
+    "upc" : "4251489302536"
   },
   {
     "albumID" : "1370970619",
@@ -40,6 +72,30 @@
     "upc" : "4251489302314"
   },
   {
+    "albumID" : "1720738044",
+    "artist" : "Die Ferienbande",
+    "duration" : 10698.373000000018,
+    "releaseDate" : 725328000,
+    "title" : "Folge 13: Die Ferienbande und die unfassbar anstrengende Hexe",
+    "upc" : "4251489305360"
+  },
+  {
+    "albumID" : "375983795",
+    "artist" : "Die Ferienbande",
+    "duration" : 4748.394,
+    "releaseDate" : 213840000,
+    "title" : "Die Ferienbande, Folge 3: Und die unerträglichen Schmuggler",
+    "upc" : "9783931780920"
+  },
+  {
+    "albumID" : "414856806",
+    "artist" : "Die Ferienbande",
+    "duration" : 4198.879999999999,
+    "releaseDate" : 94608000,
+    "title" : "Die Ferienbande und die entsetzlichen Ferien, Teil 1",
+    "upc" : "9783941082335"
+  },
+  {
     "albumID" : "1370975198",
     "artist" : "Die Ferienbande",
     "duration" : 4770.333,
@@ -56,28 +112,12 @@
     "upc" : "4251489300402"
   },
   {
-    "albumID" : "414856806",
+    "albumID" : "377029383",
     "artist" : "Die Ferienbande",
-    "duration" : 4198.879999999999,
-    "releaseDate" : 94608000,
-    "title" : "Die Ferienbande und die entsetzlichen Ferien, Teil 1",
-    "upc" : "9783941082335"
-  },
-  {
-    "albumID" : "413668817",
-    "artist" : "Die Ferienbande",
-    "duration" : 4737.600000000001,
-    "releaseDate" : 126230400,
-    "title" : "Die Ferienbande und das voll gemeine Phantom - Teil 2",
-    "upc" : "9783941082342"
-  },
-  {
-    "albumID" : "375983795",
-    "artist" : "Die Ferienbande",
-    "duration" : 4748.394,
-    "releaseDate" : 213840000,
-    "title" : "Die Ferienbande, Folge 3: Und die unerträglichen Schmuggler",
-    "upc" : "9783931780920"
+    "duration" : 4768.775,
+    "releaseDate" : 297302400,
+    "title" : "Die Ferienbande und der kolossale Terror - Folge 6",
+    "upc" : "9783941082311"
   },
   {
     "albumID" : "375978914",
@@ -88,68 +128,12 @@
     "upc" : "9783941082120"
   },
   {
-    "albumID" : "377029383",
+    "albumID" : "413668817",
     "artist" : "Die Ferienbande",
-    "duration" : 4768.775,
-    "releaseDate" : 297302400,
-    "title" : "Die Ferienbande und der kolossale Terror - Folge 6",
-    "upc" : "9783941082311"
-  },
-  {
-    "albumID" : "1288599346",
-    "artist" : "Die Ferienbande",
-    "duration" : 4400.665,
-    "releaseDate" : 527731200,
-    "title" : "Folge 10: Die Ferienbande und der krass üble Rächer - Teil 3: Rückschlag",
-    "upc" : "4251489300204"
-  },
-  {
-    "albumID" : "1328207305",
-    "artist" : "Die Ferienbande",
-    "duration" : 3935.002,
-    "releaseDate" : 537408000,
-    "title" : "Folge 8: Die Ferienbande und der krass üble Rächer - Rückkehr, Teil 1",
-    "upc" : "4251489300761"
-  },
-  {
-    "albumID" : "1328180673",
-    "artist" : "Die Ferienbande",
-    "duration" : 4019.998,
-    "releaseDate" : 537408000,
-    "title" : "Folge 9: Die Ferienbande und der krass üble Rächer - Rückfall, Teil 2",
-    "upc" : "4251489300983"
-  },
-  {
-    "albumID" : "1359039049",
-    "artist" : "Die Ferienbande",
-    "duration" : 8278.001999999999,
-    "releaseDate" : 544665600,
-    "title" : "Folge 11: Die Ferienbande bricht in See (Live)",
-    "upc" : "4251489302536"
-  },
-  {
-    "albumID" : "1531739679",
-    "artist" : "Die Ferienbande",
-    "duration" : 3951.6529999999993,
-    "releaseDate" : 620438400,
-    "title" : "Die Ferienbande und alle Radio Comedy Folgen (Live)",
-    "upc" : "4251489303144"
-  },
-  {
-    "albumID" : "1555110834",
-    "artist" : "Christoph Sieber, Titanic Redaktionskonferenz, Katie Freudenschuss, Bülent Ceylan, Werner Momsen, Die Ferienbande, Ines Anioli, Andreas Rebers, Osman Engin & Urban Priol",
-    "duration" : 3589.433999999999,
-    "releaseDate" : 635990400,
-    "title" : "Die Wahrheit über Deutschland, Pt. 15",
-    "upc" : "4251888729699"
-  },
-  {
-    "albumID" : "1613144307",
-    "artist" : "Die Ferienbande",
-    "duration" : 8610.36299999999,
-    "releaseDate" : 668908800,
-    "title" : "Meltdown im verfluchten Horror Hotel (Live in Köln)",
-    "upc" : "4251489303984"
+    "duration" : 4737.600000000001,
+    "releaseDate" : 126230400,
+    "title" : "Die Ferienbande und das voll gemeine Phantom - Teil 2",
+    "upc" : "9783941082342"
   },
   {
     "albumID" : "1616181730",
@@ -160,11 +144,27 @@
     "upc" : "4251489304042"
   },
   {
-    "albumID" : "1720738044",
+    "albumID" : "1531739679",
     "artist" : "Die Ferienbande",
-    "duration" : 10698.373000000018,
-    "releaseDate" : 725328000,
-    "title" : "Folge 13: Die Ferienbande und die unfassbar anstrengende Hexe",
-    "upc" : "4251489305360"
+    "duration" : 3951.6529999999993,
+    "releaseDate" : 620438400,
+    "title" : "Die Ferienbande und alle Radio Comedy Folgen (Live)",
+    "upc" : "4251489303144"
+  },
+  {
+    "albumID" : "1613144307",
+    "artist" : "Die Ferienbande",
+    "duration" : 8610.36299999999,
+    "releaseDate" : 668908800,
+    "title" : "Meltdown im verfluchten Horror Hotel (Live in Köln)",
+    "upc" : "4251489303984"
+  },
+  {
+    "albumID" : "1336271005",
+    "artist" : "Die Ferienbande",
+    "duration" : 29108.002000000008,
+    "releaseDate" : -63114076800,
+    "title" : "Die große, abenteuerliche und auch mysteriöse Ferienbande Box, Folge 1-6",
+    "upc" : "4251489300709"
   }
 ]
