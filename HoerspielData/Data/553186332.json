@@ -1,0 +1,642 @@
+[
+  {
+    "albumID" : "1362213272",
+    "artist" : "Sherlock Holmes & Co",
+    "duration" : 4696.844000000001,
+    "releaseDate" : 368064000,
+    "title" : "Folge 1: Das Geisterhaus",
+    "upc" : "4260507139719"
+  },
+  {
+    "albumID" : "1362622791",
+    "artist" : "Sherlock Holmes & Co",
+    "duration" : 3667.7860000000005,
+    "releaseDate" : 550108800,
+    "title" : "Folge 38: Der schwarze Tod",
+    "upc" : "4260507139641"
+  },
+  {
+    "albumID" : "1348415649",
+    "artist" : "Sherlock Holmes & Co",
+    "duration" : 2869.8139999999994,
+    "releaseDate" : 542851200,
+    "title" : "Folge 36: Der Jungbrunnen, Episode 1",
+    "upc" : "4260507138958"
+  },
+  {
+    "albumID" : "1362210945",
+    "artist" : "Sherlock Holmes & Co",
+    "duration" : 3444.494,
+    "releaseDate" : 368064000,
+    "title" : "Folge 3: Der Mord ohne Leiche",
+    "upc" : "4260507139733"
+  },
+  {
+    "albumID" : "1566863409",
+    "artist" : "Sherlock Holmes & Co",
+    "duration" : 4101.023000000001,
+    "releaseDate" : 643852800,
+    "title" : "Folge 61: Die Spur des Verderbens, Episode 1",
+    "upc" : "4260507165992"
+  },
+  {
+    "albumID" : "1385439642",
+    "artist" : "Sherlock Holmes & Co",
+    "duration" : 2940.002,
+    "releaseDate" : 560995200,
+    "title" : "Folge 41: Das Verschwinden der Louise M., Episode 1",
+    "upc" : "4260507140906"
+  },
+  {
+    "albumID" : "1479958959",
+    "artist" : "Sherlock Holmes & Co",
+    "duration" : 3448.0010000000007,
+    "releaseDate" : 592444800,
+    "title" : "Folge 48: Das Ende des Inspektors",
+    "upc" : "4260507153784"
+  },
+  {
+    "albumID" : "1215836875",
+    "artist" : "Sherlock Holmes & Co",
+    "duration" : 2735.7299999999996,
+    "releaseDate" : 518659200,
+    "title" : "Folge 32: Der Verlust des amerikanischen Gentlemans, Episode 2",
+    "upc" : "4260507133205"
+  },
+  {
+    "albumID" : "1508102003",
+    "artist" : "Sherlock Holmes & Co",
+    "duration" : 3565.005,
+    "releaseDate" : 610588800,
+    "title" : "Folge 52: Boten der Angst",
+    "upc" : "4260507157058"
+  },
+  {
+    "albumID" : "1551321845",
+    "artist" : "Sherlock Holmes & Co",
+    "duration" : 3594.002,
+    "releaseDate" : 635990400,
+    "title" : "Folge 59: Dein Freund und Helfer",
+    "upc" : "4260507162809"
+  },
+  {
+    "albumID" : "1492454583",
+    "artist" : "Sherlock Holmes & Co",
+    "duration" : 4243.001000000001,
+    "releaseDate" : 600912000,
+    "title" : "Folge 50: Auf dass ihr gerichtet werdet",
+    "upc" : "4260507155726"
+  },
+  {
+    "albumID" : "1476428806",
+    "artist" : "Sherlock Holmes & Co",
+    "duration" : 3772.9960000000005,
+    "releaseDate" : 589420800,
+    "title" : "Folge 47: Todesmelodie",
+    "upc" : "4260507153241"
+  },
+  {
+    "albumID" : "1481061627",
+    "artist" : "Sherlock Holmes & Co",
+    "duration" : 3513.000000000001,
+    "releaseDate" : 596073600,
+    "title" : "Folge 49: Fahrstuhl zum Mord",
+    "upc" : "4260507154736"
+  },
+  {
+    "albumID" : "1463794623",
+    "artist" : "Sherlock Holmes & Co",
+    "duration" : 4655.000999999999,
+    "releaseDate" : 581558400,
+    "title" : "Folge 45: Hinter den Kulissen",
+    "upc" : "4260507150790"
+  },
+  {
+    "albumID" : "1610157105",
+    "artist" : "Sherlock Holmes & Co",
+    "duration" : 4599.003000000001,
+    "releaseDate" : 672278400,
+    "title" : "Folge 67: Der Wiedergänger",
+    "upc" : "4260507172563"
+  },
+  {
+    "albumID" : "1385488272",
+    "artist" : "Sherlock Holmes & Co",
+    "duration" : 3504,
+    "releaseDate" : 557366400,
+    "title" : "Folge 40: Zirkus des Verbrechens",
+    "upc" : "4260507140890"
+  },
+  {
+    "albumID" : "1495658335",
+    "artist" : "Sherlock Holmes & Co",
+    "duration" : 4441.001,
+    "releaseDate" : 605750400,
+    "title" : "Folge 51: Der bleiche Tod",
+    "upc" : "4260507156211"
+  },
+  {
+    "albumID" : "1578228931",
+    "artist" : "Sherlock Holmes & Co",
+    "duration" : 3451.998000000001,
+    "releaseDate" : 651110400,
+    "title" : "Folge 63: Verhängnisvolle Hoffnung",
+    "upc" : "4260507169891"
+  },
+  {
+    "albumID" : "1468478349",
+    "artist" : "Sherlock Holmes & Co",
+    "duration" : 4019.0009999999997,
+    "releaseDate" : 585187200,
+    "title" : "Folge 46: Das doppelte Gesicht",
+    "upc" : "4260507152084"
+  },
+  {
+    "albumID" : "1583616171",
+    "artist" : "Sherlock Holmes & Co",
+    "duration" : 3366.999,
+    "releaseDate" : 654134400,
+    "title" : "Folge 64: Puppenspieler",
+    "upc" : "4260507170156"
+  },
+  {
+    "albumID" : "1362650242",
+    "artist" : "Sherlock Holmes & Co",
+    "duration" : 3293.3860000000004,
+    "releaseDate" : 546480000,
+    "title" : "Folge 37: Der Jungbrunnen, Episode 2",
+    "upc" : "4260507139634"
+  },
+  {
+    "albumID" : "1215828936",
+    "artist" : "Sherlock Holmes & Co",
+    "duration" : 3012.5600000000004,
+    "releaseDate" : 514425600,
+    "title" : "Folge 31: Der Verlust des amerikanischen Gentlemans, Episode 1",
+    "upc" : "4260507133199"
+  },
+  {
+    "albumID" : "1362028441",
+    "artist" : "Sherlock Holmes & Co",
+    "duration" : 3008.0139999999997,
+    "releaseDate" : 418262400,
+    "title" : "Folge 7: Die Tragödie von Birlstone",
+    "upc" : "4260507139771"
+  },
+  {
+    "albumID" : "1690188926",
+    "artist" : "Sherlock Holmes & Co",
+    "duration" : 3598.999000000001,
+    "releaseDate" : 709171200,
+    "title" : "Folge 72: Das Geheimnis der Lady Carrington",
+    "upc" : "4260507187192"
+  },
+  {
+    "albumID" : "1451505427",
+    "artist" : "Sherlock Holmes & Co",
+    "duration" : 4492.651999999999,
+    "releaseDate" : 573696000,
+    "title" : "Folge 44: Der Falschspieler mit dem Karo-Ass",
+    "upc" : "4260507147301"
+  },
+  {
+    "albumID" : "1314336064",
+    "artist" : "Sherlock Holmes & Co",
+    "duration" : 4630,
+    "releaseDate" : 538617600,
+    "title" : "Folge 35: Die schottische Spur",
+    "upc" : "4260507137241"
+  },
+  {
+    "albumID" : "1362224421",
+    "artist" : "Sherlock Holmes & Co",
+    "duration" : 4212.301,
+    "releaseDate" : 433382400,
+    "title" : "Folge 11: Ein Fall vom Kontinent",
+    "upc" : "4260507139818"
+  },
+  {
+    "albumID" : "1296210223",
+    "artist" : "Sherlock Holmes & Co",
+    "duration" : 3773.8140000000003,
+    "releaseDate" : 532569600,
+    "title" : "Folge 34: Das Haus der Verdammten",
+    "upc" : "4260507136893"
+  },
+  {
+    "albumID" : "1515723264",
+    "artist" : "Sherlock Holmes & Co",
+    "duration" : 3406.002000000001,
+    "releaseDate" : 615427200,
+    "title" : "Folge 53: Die Rückkehr der Angst",
+    "upc" : "4260507157973"
+  },
+  {
+    "albumID" : "1589751797",
+    "artist" : "Sherlock Holmes & Co",
+    "duration" : 3500.0020000000004,
+    "releaseDate" : 660182400,
+    "title" : "Folge 65: Heim der Phantome",
+    "upc" : "4260507170460"
+  },
+  {
+    "albumID" : "1609471320",
+    "artist" : "Sherlock Holmes & Co",
+    "duration" : 3561,
+    "releaseDate" : 669859200,
+    "title" : "Folge 66: Die Stunde der Frau",
+    "upc" : "4260507172273"
+  },
+  {
+    "albumID" : "1559500558",
+    "artist" : "Sherlock Holmes & Co",
+    "duration" : 4099.603,
+    "releaseDate" : 639014400,
+    "title" : "Folge 60: Im Sumpf des Verbechens",
+    "upc" : "4260507164476"
+  },
+  {
+    "albumID" : "1515721425",
+    "artist" : "Sherlock Holmes & Co",
+    "duration" : 3775.9979999999996,
+    "releaseDate" : 620265600,
+    "title" : "Folge 54: Tod vor laufender Kamera",
+    "upc" : "4260507157980"
+  },
+  {
+    "albumID" : "1545545108",
+    "artist" : "Sherlock Holmes & Co",
+    "duration" : 3422.0009999999993,
+    "releaseDate" : 633571200,
+    "title" : "Folge 58: Unheilvolle Beute",
+    "upc" : "4260507162694"
+  },
+  {
+    "albumID" : "1172378663",
+    "artist" : "Sherlock Holmes & Co",
+    "duration" : 3784.0000000000005,
+    "releaseDate" : 501724800,
+    "title" : "Folge 29: Der Schrecken vom Central Park",
+    "upc" : "4260507130884"
+  },
+  {
+    "albumID" : "1446682786",
+    "artist" : "Sherlock Holmes & Co",
+    "duration" : 3749.9979999999996,
+    "releaseDate" : 570067200,
+    "title" : "Folge 43: Der Rachegeist von Sing Sing",
+    "upc" : "4260507145871"
+  },
+  {
+    "albumID" : "1539151082",
+    "artist" : "Sherlock Holmes & Co",
+    "duration" : 3953.0009999999984,
+    "releaseDate" : 628128000,
+    "title" : "Folge 57: Der König von New York",
+    "upc" : "4260507162021"
+  },
+  {
+    "albumID" : "1362028918",
+    "artist" : "Sherlock Holmes & Co",
+    "duration" : 3472.2549999999997,
+    "releaseDate" : 422496000,
+    "title" : "Folge 9: Die Hexe von Whitechapel",
+    "upc" : "4260507139795"
+  },
+  {
+    "albumID" : "1670985143",
+    "artist" : "Sherlock Holmes & Co",
+    "duration" : 3868.001,
+    "releaseDate" : 700099200,
+    "title" : "Folge 70: Ein wildes Spiel",
+    "upc" : "4260507180407"
+  },
+  {
+    "albumID" : "1631824314",
+    "artist" : "Sherlock Holmes & Co",
+    "duration" : 3382,
+    "releaseDate" : 680140800,
+    "title" : "Folge 68: Der kalte Hauch der Rache",
+    "upc" : "4260507175328"
+  },
+  {
+    "albumID" : "1362214704",
+    "artist" : "Sherlock Holmes & Co",
+    "duration" : 3256.2400000000007,
+    "releaseDate" : 321494400,
+    "title" : "Folge 4: Der verfluchte Gong",
+    "upc" : "4260507139740"
+  },
+  {
+    "albumID" : "1362217246",
+    "artist" : "Sherlock Holmes & Co",
+    "duration" : 2908.3869999999997,
+    "releaseDate" : 391651200,
+    "title" : "Folge 6: Der überflüssige Finger",
+    "upc" : "4260507139764"
+  },
+  {
+    "albumID" : "1719593750",
+    "artist" : "Sherlock Holmes & Co",
+    "duration" : 3816,
+    "releaseDate" : 726710400,
+    "title" : "Folge 75: Der Tyrann",
+    "upc" : "4260507191069"
+  },
+  {
+    "albumID" : "1438231195",
+    "artist" : "Sherlock Holmes & Co",
+    "duration" : 2607.0009999999997,
+    "releaseDate" : 564624000,
+    "title" : "Folge 42: Das Verschwinden der Louise M., Episode 2",
+    "upc" : "4260507143969"
+  },
+  {
+    "albumID" : "1527334025",
+    "artist" : "Sherlock Holmes & Co",
+    "duration" : 3937.004999999999,
+    "releaseDate" : 622684800,
+    "title" : "Folge 55: Perlen des Todes",
+    "upc" : "4260507161017"
+  },
+  {
+    "albumID" : "1156821380",
+    "artist" : "Sherlock Holmes & Co",
+    "duration" : 3835,
+    "releaseDate" : 499305600,
+    "title" : "Folge 28: Mörderisches Spektakel",
+    "upc" : "4260147779603"
+  },
+  {
+    "albumID" : "1104389856",
+    "artist" : "Sherlock Holmes & Co",
+    "duration" : 4493.721000000001,
+    "releaseDate" : 484790400,
+    "title" : "Folge 23: Tödliche Trauben",
+    "upc" : "4260147778071"
+  },
+  {
+    "albumID" : "1362217751",
+    "artist" : "Sherlock Holmes & Co",
+    "duration" : 3970.373999999999,
+    "releaseDate" : 351129600,
+    "title" : "Folge 5: Das Spinnennetz",
+    "upc" : "4260507139757"
+  },
+  {
+    "albumID" : "1362219327",
+    "artist" : "Sherlock Holmes & Co",
+    "duration" : 3529.5750000000003,
+    "releaseDate" : 428544000,
+    "title" : "Folge 10: Der Griff des Todes",
+    "upc" : "4260507139801"
+  },
+  {
+    "albumID" : "1386740020",
+    "artist" : "Sherlock Holmes & Co",
+    "duration" : 4092,
+    "releaseDate" : 553737600,
+    "title" : "Folge 39: Die Klinik-Morde",
+    "upc" : "4260507140883"
+  },
+  {
+    "albumID" : "1675481240",
+    "artist" : "Sherlock Holmes & Co",
+    "duration" : 4272.001,
+    "releaseDate" : 703123200,
+    "title" : "Folge 71: Schwarze Seide",
+    "upc" : "4260507180766"
+  },
+  {
+    "albumID" : "1751255229",
+    "artist" : "Sherlock Holmes & Co",
+    "duration" : 3195,
+    "releaseDate" : 744249600,
+    "title" : "Folge 80: Die dunkle Seite",
+    "upc" : "4260507196507"
+  },
+  {
+    "albumID" : "1718510430",
+    "artist" : "Sherlock Holmes & Co",
+    "duration" : 3964.9990000000007,
+    "releaseDate" : 724896000,
+    "title" : "Folge 74: Seine letzte Tasse Tee",
+    "upc" : "4260507190963"
+  },
+  {
+    "albumID" : "1573471606",
+    "artist" : "Sherlock Holmes & Co",
+    "duration" : 4392.0019999999995,
+    "releaseDate" : 648086400,
+    "title" : "Folge 62: Die Spur des Verderbens, Episode 2",
+    "upc" : "4260507166777"
+  },
+  {
+    "albumID" : "1362228200",
+    "artist" : "Sherlock Holmes & Co",
+    "duration" : 5727.245,
+    "releaseDate" : 469670400,
+    "title" : "Folge 19: Eine Stadt in Angst",
+    "upc" : "4260507139894"
+  },
+  {
+    "albumID" : "1362031097",
+    "artist" : "Sherlock Holmes & Co",
+    "duration" : 4427.1489999999985,
+    "releaseDate" : 444268800,
+    "title" : "Folge 13: Das flammende Phantom",
+    "upc" : "4260507139832"
+  },
+  {
+    "albumID" : "1362219314",
+    "artist" : "Sherlock Holmes & Co",
+    "duration" : 3420.2119999999995,
+    "releaseDate" : 418262400,
+    "title" : "Folge 8: Loge 341",
+    "upc" : "4260507139788"
+  },
+  {
+    "albumID" : "1362221589",
+    "artist" : "Sherlock Holmes & Co",
+    "duration" : 3550.4080000000004,
+    "releaseDate" : 452736000,
+    "title" : "Folge 15: Der Arrest",
+    "upc" : "4260507139856"
+  },
+  {
+    "albumID" : "1697829652",
+    "artist" : "Sherlock Holmes & Co",
+    "duration" : 3727.0009999999997,
+    "releaseDate" : 714009600,
+    "title" : "Folge 73: Der letzte Flug",
+    "upc" : "4260507188120"
+  },
+  {
+    "albumID" : "1362226831",
+    "artist" : "Sherlock Holmes & Co",
+    "duration" : 3554.722,
+    "releaseDate" : 479952000,
+    "title" : "Folge 22: Tod am Dock",
+    "upc" : "4260507139924"
+  },
+  {
+    "albumID" : "1362208877",
+    "artist" : "Sherlock Holmes & Co",
+    "duration" : 3117.571,
+    "releaseDate" : 368064000,
+    "title" : "Folge 2: Der zerbrochene Armreif",
+    "upc" : "4260507139726"
+  },
+  {
+    "albumID" : "1122944273",
+    "artist" : "Sherlock Holmes & Co",
+    "duration" : 4023,
+    "releaseDate" : 490838400,
+    "title" : "Folge 25: Wolfsspuren",
+    "upc" : "4260147778422"
+  },
+  {
+    "albumID" : "1733213506",
+    "artist" : "Sherlock Holmes & Co",
+    "duration" : 3727.9989999999993,
+    "releaseDate" : 738201600,
+    "title" : "Folge 78: Von Bullen und Bären",
+    "upc" : "4260507193889"
+  },
+  {
+    "albumID" : "1721174109",
+    "artist" : "Sherlock Holmes & Co",
+    "duration" : 3100,
+    "releaseDate" : 730339200,
+    "title" : "Folge 76: Ein lebender Köder",
+    "upc" : "4260507191410"
+  },
+  {
+    "albumID" : "1362228606",
+    "artist" : "Sherlock Holmes & Co",
+    "duration" : 3864.998,
+    "releaseDate" : 487814400,
+    "title" : "Folge 24: Der grinsende Gott",
+    "upc" : "4260507139931"
+  },
+  {
+    "albumID" : "1739114179",
+    "artist" : "Sherlock Holmes & Co",
+    "duration" : 3777,
+    "releaseDate" : 741830400,
+    "title" : "Folge 79: Die Reise des Toten",
+    "upc" : "4260507194435"
+  },
+  {
+    "albumID" : "1362230641",
+    "artist" : "Sherlock Holmes & Co",
+    "duration" : 2767.341000000001,
+    "releaseDate" : 494467200,
+    "title" : "Folge 26: Der Schrei der Banshee, Episode 1",
+    "upc" : "4260507139948"
+  },
+  {
+    "albumID" : "1533646567",
+    "artist" : "Sherlock Holmes & Co",
+    "duration" : 3912.997,
+    "releaseDate" : 625708800,
+    "title" : "Folge 56: Preußisch Blau",
+    "upc" : "4260507161543"
+  },
+  {
+    "albumID" : "1654617141",
+    "artist" : "Sherlock Holmes & Co",
+    "duration" : 3560.9029999999993,
+    "releaseDate" : 692236800,
+    "title" : "Folge 69: Der Schatz der toten Seelen",
+    "upc" : "4260507177582"
+  },
+  {
+    "albumID" : "1362030315",
+    "artist" : "Sherlock Holmes & Co",
+    "duration" : 4426.999,
+    "releaseDate" : 438825600,
+    "title" : "Folge 12: Das Blut junger Frauen",
+    "upc" : "4260507139825"
+  },
+  {
+    "albumID" : "1184465291",
+    "artist" : "Sherlock Holmes & Co",
+    "duration" : 3854.8949999999995,
+    "releaseDate" : 508377600,
+    "title" : "Folge 30: Das Rattendorf",
+    "upc" : "4260507131676"
+  },
+  {
+    "albumID" : "1362224919",
+    "artist" : "Sherlock Holmes & Co",
+    "duration" : 4325.997000000001,
+    "releaseDate" : 470880000,
+    "title" : "Folge 20: Die Verschwundenen von Zimmer 5",
+    "upc" : "4260507139900"
+  },
+  {
+    "albumID" : "1362233355",
+    "artist" : "Sherlock Holmes & Co",
+    "duration" : 2579.8230000000003,
+    "releaseDate" : 494467200,
+    "title" : "Folge 27: Der Schrei der Banshee, Episode 2",
+    "upc" : "4260507139955"
+  },
+  {
+    "albumID" : "1362032378",
+    "artist" : "Sherlock Holmes & Co",
+    "duration" : 4120.437999999999,
+    "releaseDate" : 447897600,
+    "title" : "Folge 14: Der Mann in Orange",
+    "upc" : "4260507139849"
+  },
+  {
+    "albumID" : "1362037443",
+    "artist" : "Sherlock Holmes & Co",
+    "duration" : 3571.9980000000005,
+    "releaseDate" : 474508800,
+    "title" : "Folge 21: Botschaft aus dem Totenreich",
+    "upc" : "4260507139917"
+  },
+  {
+    "albumID" : "1362033941",
+    "artist" : "Sherlock Holmes & Co",
+    "duration" : 3609.2540000000004,
+    "releaseDate" : 456364800,
+    "title" : "Folge 16: Das Erbe der Familie Chambois",
+    "upc" : "4260507139863"
+  },
+  {
+    "albumID" : "1733212589",
+    "artist" : "Sherlock Holmes & Co",
+    "duration" : 3808.9980000000005,
+    "releaseDate" : 734572800,
+    "title" : "Folge 77: Edler Pesthauch",
+    "upc" : "4260507193865"
+  },
+  {
+    "albumID" : "1362220690",
+    "artist" : "Sherlock Holmes & Co",
+    "duration" : 3811.859,
+    "releaseDate" : 459388800,
+    "title" : "Folge 17: Das Verlangen zu töten",
+    "upc" : "4260507139870"
+  },
+  {
+    "albumID" : "1362049041",
+    "artist" : "Sherlock Holmes & Co",
+    "duration" : 3806.2189999999996,
+    "releaseDate" : 464227200,
+    "title" : "Folge 18: Die Geisterfrau",
+    "upc" : "4260507139887"
+  },
+  {
+    "albumID" : "1362304783",
+    "artist" : "Sherlock Holmes & Co",
+    "duration" : 3763.341,
+    "releaseDate" : 524707200,
+    "title" : "Folge 33: Femme Fatale",
+    "upc" : "4260507139962"
+  }
+]
