@@ -1,0 +1,82 @@
+[
+  {
+    "albumID" : "1685831892",
+    "artist" : "Die schwarze Stadt",
+    "duration" : 4494.243999999999,
+    "releaseDate" : 686793600,
+    "title" : "S02E01: Emporsteigen",
+    "upc" : "4066339210776"
+  },
+  {
+    "albumID" : "1685846108",
+    "artist" : "Die schwarze Stadt",
+    "duration" : 4351.814,
+    "releaseDate" : 686793600,
+    "title" : "S02E02: Was ist Angst?",
+    "upc" : "4066339210677"
+  },
+  {
+    "albumID" : "1685844084",
+    "artist" : "Die schwarze Stadt",
+    "duration" : 4639.207999999999,
+    "releaseDate" : 686793600,
+    "title" : "S02E03: Der Verräter",
+    "upc" : "4066339210707"
+  },
+  {
+    "albumID" : "1685847842",
+    "artist" : "Die schwarze Stadt",
+    "duration" : 5607.541,
+    "releaseDate" : 686793600,
+    "title" : "S02E05: Haberbachs Auftrag",
+    "upc" : "4066339210660"
+  },
+  {
+    "albumID" : "1685861018",
+    "artist" : "Die schwarze Stadt",
+    "duration" : 3954.6359999999986,
+    "releaseDate" : 686793600,
+    "title" : "S02E04: Das Mutterschiff",
+    "upc" : "4066339210653"
+  },
+  {
+    "albumID" : "1685843884",
+    "artist" : "Die schwarze Stadt",
+    "duration" : 4246.185,
+    "releaseDate" : 686793600,
+    "title" : "S02E07: Das Duell",
+    "upc" : "4066339210615"
+  },
+  {
+    "albumID" : "1685849149",
+    "artist" : "Die schwarze Stadt",
+    "duration" : 4888.940000000001,
+    "releaseDate" : 686793600,
+    "title" : "S02E06: Blutige Sonne",
+    "upc" : "4066339210721"
+  },
+  {
+    "albumID" : "1685849491",
+    "artist" : "Die schwarze Stadt",
+    "duration" : 4586.463000000001,
+    "releaseDate" : 686793600,
+    "title" : "S02E08: New York",
+    "upc" : "4066339210646"
+  },
+  {
+    "albumID" : "1685864526",
+    "artist" : "Die schwarze Stadt",
+    "duration" : 5245.077000000001,
+    "releaseDate" : 686793600,
+    "title" : "S02E09: Der blaue Planet",
+    "upc" : "4066339210745"
+  },
+  {
+    "albumID" : "1685845099",
+    "artist" : "Die schwarze Stadt",
+    "duration" : 3933.818,
+    "releaseDate" : 686793600,
+    "title" : "S02E10: Der Anfang von allem",
+    "upc" : "4066339210790"
+  }
+]
