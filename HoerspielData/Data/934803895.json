@@ -1,0 +1,194 @@
+[
+  {
+    "albumID" : "1460141226",
+    "artist" : "Heliosphere 2265",
+    "duration" : 3551.26,
+    "releaseDate" : 576720000,
+    "title" : "Folge 1: Das dunkle Fragment",
+    "upc" : "4260507150639"
+  },
+  {
+    "albumID" : "1457671762",
+    "artist" : "Heliosphere 2265",
+    "duration" : 4085.3630000000003,
+    "releaseDate" : 577324800,
+    "title" : "Folge 2: Zwischen den Welten",
+    "upc" : "4260507149206"
+  },
+  {
+    "albumID" : "1458112950",
+    "artist" : "Heliosphere 2265",
+    "duration" : 4007.2560000000003,
+    "releaseDate" : 577929600,
+    "title" : "Folge 3: Enthüllungen",
+    "upc" : "4260507149213"
+  },
+  {
+    "albumID" : "1458719889",
+    "artist" : "Heliosphere 2265",
+    "duration" : 3645.415,
+    "releaseDate" : 579139200,
+    "title" : "Folge 5: Im Zentrum der Gewalten",
+    "upc" : "4260507149237"
+  },
+  {
+    "albumID" : "1458720334",
+    "artist" : "Heliosphere 2265",
+    "duration" : 4199.204000000001,
+    "releaseDate" : 578534400,
+    "title" : "Folge 4: Das Gesicht des Verrats",
+    "upc" : "4260507149220"
+  },
+  {
+    "albumID" : "1458719296",
+    "artist" : "Heliosphere 2265",
+    "duration" : 2958.4429999999998,
+    "releaseDate" : 580348800,
+    "title" : "Folge 7: Die Opfer der Entscheidung",
+    "upc" : "4260507149251"
+  },
+  {
+    "albumID" : "1458718812",
+    "artist" : "Heliosphere 2265",
+    "duration" : 3901.788999999999,
+    "releaseDate" : 580953600,
+    "title" : "Folge 8: Getrennte Wege",
+    "upc" : "4260507149268"
+  },
+  {
+    "albumID" : "1458719703",
+    "artist" : "Heliosphere 2265",
+    "duration" : 3111.5589999999997,
+    "releaseDate" : 579744000,
+    "title" : "Folge 6: Die Bürde des Captains",
+    "upc" : "4260507149244"
+  },
+  {
+    "albumID" : "1458718930",
+    "artist" : "Heliosphere 2265",
+    "duration" : 4078.815,
+    "releaseDate" : 581558400,
+    "title" : "Folge 9: Entscheidung bei NOVA",
+    "upc" : "4260507149275"
+  },
+  {
+    "albumID" : "1461336819",
+    "artist" : "Heliosphere 2265",
+    "duration" : 3820.6599999999994,
+    "releaseDate" : 583372800,
+    "title" : "Folge 11: Vergeltung",
+    "upc" : "4260507150141"
+  },
+  {
+    "albumID" : "1458719089",
+    "artist" : "Heliosphere 2265",
+    "duration" : 3963.9590000000007,
+    "releaseDate" : 582163200,
+    "title" : "Folge 10: Zwischen Himmel und Hölle",
+    "upc" : "4260507149282"
+  },
+  {
+    "albumID" : "1472538314",
+    "artist" : "Heliosphere 2265",
+    "duration" : 4286.997,
+    "releaseDate" : 591235200,
+    "title" : "Folge 12.1: Der Jahrhundertplan: Sarahs Geständnis",
+    "upc" : "4260507151988"
+  },
+  {
+    "albumID" : "1489196172",
+    "artist" : "Heliosphere 2265",
+    "duration" : 3100.167000000001,
+    "releaseDate" : 602121600,
+    "title" : "Folge 12.2: Der Jahrhundertplan: Omega",
+    "upc" : "4260507155481"
+  },
+  {
+    "albumID" : "1576496844",
+    "artist" : "Heliosphere 2265",
+    "duration" : 3993.999999999999,
+    "releaseDate" : 652320000,
+    "title" : "Folge 13: Die andere Seite",
+    "upc" : "4260507168979"
+  },
+  {
+    "albumID" : "1576497487",
+    "artist" : "Heliosphere 2265",
+    "duration" : 3693.0009999999997,
+    "releaseDate" : 657763200,
+    "title" : "Folge 14: Das erste Ziel",
+    "upc" : "4260507168993"
+  },
+  {
+    "albumID" : "1600501267",
+    "artist" : "Heliosphere 2265",
+    "duration" : 3085.998,
+    "releaseDate" : 664416000,
+    "title" : "Folge 15: Die Büchse der Pandora",
+    "upc" : "4260507171146"
+  },
+  {
+    "albumID" : "1610704001",
+    "artist" : "Heliosphere 2265",
+    "duration" : 3819.003000000001,
+    "releaseDate" : 672278400,
+    "title" : "Folge 16: Freund oder Feind?",
+    "upc" : "4260507172921"
+  },
+  {
+    "albumID" : "1680674602",
+    "artist" : "Heliosphere 2265",
+    "duration" : 3301.9990000000003,
+    "releaseDate" : 704332800,
+    "title" : "Folge 18: Die Wahl",
+    "upc" : "4260507181930"
+  },
+  {
+    "albumID" : "1690147177",
+    "artist" : "Heliosphere 2265",
+    "duration" : 3751.0039999999995,
+    "releaseDate" : 710380800,
+    "title" : "Folge 19: Hetzjagd",
+    "upc" : "4260507187093"
+  },
+  {
+    "albumID" : "1655639086",
+    "artist" : "Heliosphere 2265",
+    "duration" : 3672.9969999999994,
+    "releaseDate" : 692236800,
+    "title" : "Folge 17: Kampf um die Zukunft",
+    "upc" : "4260507177803"
+  },
+  {
+    "albumID" : "1706885850",
+    "artist" : "Heliosphere 2265",
+    "duration" : 3933.001,
+    "releaseDate" : 719452800,
+    "title" : "Folge 20: Im Zentrum der Dunkelheit",
+    "upc" : "4260507189387"
+  },
+  {
+    "albumID" : "1753852716",
+    "artist" : "Heliosphere 2265",
+    "duration" : 4044.001,
+    "releaseDate" : 744249600,
+    "title" : "Folge 23: Das Helix-Mosaik",
+    "upc" : "4260507197054"
+  },
+  {
+    "albumID" : "1725804629",
+    "artist" : "Heliosphere 2265",
+    "duration" : 3275.0019999999995,
+    "releaseDate" : 730339200,
+    "title" : "Folge 21: Ohne Ausweg",
+    "upc" : "4260507192363"
+  },
+  {
+    "albumID" : "1740078182",
+    "artist" : "Heliosphere 2265",
+    "duration" : 3216.999,
+    "releaseDate" : 738806400,
+    "title" : "Folge 22: Heimkehr",
+    "upc" : "4260507195067"
+  }
+]
