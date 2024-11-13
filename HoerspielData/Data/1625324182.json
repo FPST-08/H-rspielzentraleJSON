@@ -28,8 +28,16 @@
     "artist" : "Der Sohn des Hades",
     "duration" : 2769.3339999999994,
     "releaseDate" : 743040000,
-    "title" : "Folge 4: Die Insel des Dajjâl",
+    "title" : "Folge 4: Die Insel des Dajjâl",
     "upc" : "4260434322949"
+  },
+  {
+    "albumID" : "1758837671",
+    "artist" : "Der Sohn des Hades",
+    "duration" : 2845.162999999999,
+    "releaseDate" : 746064000,
+    "title" : "Folge 7: 7 Sterne",
+    "upc" : "4260434323977"
   },
   {
     "albumID" : "1752509211",
@@ -46,13 +54,5 @@
     "releaseDate" : 743040000,
     "title" : "Folge 6: Diener des Bösen",
     "upc" : "4260434323915"
-  },
-  {
-    "albumID" : "1758837671",
-    "artist" : "Der Sohn des Hades",
-    "duration" : 2845.162999999999,
-    "releaseDate" : 746064000,
-    "title" : "Folge 7: 7 Sterne",
-    "upc" : "4260434323977"
   }
 ]
