@@ -1,1123 +1,707 @@
 [
   {
-    "albumID" : "1751468900",
+    "albumID" : "1332712464",
     "artist" : "TKKG",
-    "duration" : 4074.308000000001,
-    "releaseDate" : 738806400,
-    "title" : "Folge 232: Drohnenaugen in der Nacht",
-    "upc" : "196872199994"
+    "duration" : 3679.296,
+    "releaseDate" : 541036800,
+    "title" : "Folge 204: Verschwörung auf hoher See",
+    "upc" : "886446809557"
   },
   {
-    "albumID" : "1751468642",
+    "albumID" : "1449473902",
     "artist" : "TKKG",
-    "duration" : 4077.2389999999996,
-    "releaseDate" : 732758400,
-    "title" : "Folge 231: Knackis streicheln mit der Faust",
-    "upc" : "196872196443"
+    "duration" : 4211.840000000001,
+    "releaseDate" : 574300800,
+    "title" : "Folge 209: Drohbriefe von Unbekannt",
+    "upc" : "886447380123"
   },
   {
-    "albumID" : "1751468268",
+    "albumID" : "1454389428",
     "artist" : "TKKG",
-    "duration" : 3494.163,
-    "releaseDate" : 727315200,
-    "title" : "Folge 230: Die Tesla-Verschwörung",
-    "upc" : "196872196313"
+    "duration" : 3962.932999999999,
+    "releaseDate" : 580953600,
+    "title" : "Folge 210: Raubzug im Casino",
+    "upc" : "886447380130"
   },
   {
-    "albumID" : "1751888366",
+    "albumID" : "1434672470",
     "artist" : "TKKG",
-    "duration" : 8681.237000000001,
-    "releaseDate" : 723081600,
-    "title" : "Auch Gauner feiern Weihnachten (Adventskalender)",
-    "upc" : "196872196528"
+    "duration" : 9787.974999999999,
+    "releaseDate" : 560995200,
+    "title" : "Ein fast perfektes Weihnachtsmenü",
+    "upc" : "886446992037"
   },
   {
-    "albumID" : "1751467059",
+    "albumID" : "1208973032",
     "artist" : "TKKG",
-    "duration" : 3590.613,
-    "releaseDate" : 715824000,
-    "title" : "Folge 229: Auf den Schwingen des Totenvogels",
-    "upc" : "196872196269"
+    "duration" : 7463.462000000001,
+    "releaseDate" : 511401600,
+    "title" : "Folge 200: Der große Coup",
+    "upc" : "886446167053"
   },
   {
-    "albumID" : "1751468665",
+    "albumID" : "1087326591",
     "artist" : "TKKG",
-    "duration" : 4060.453,
-    "releaseDate" : 709776000,
-    "title" : "Folge 228: Das Geld, das niemand wollte",
-    "upc" : "196872196245"
+    "duration" : 2960.4549999999995,
+    "releaseDate" : 360806400,
+    "title" : "Folge 178: Hai-Alarm im Aquapark",
+    "upc" : "886445640908"
   },
   {
-    "albumID" : "1751468455",
+    "albumID" : "1486568481",
     "artist" : "TKKG",
-    "duration" : 4430.364,
-    "releaseDate" : 703123200,
-    "title" : "Folge 227: Zwei für Zwölf",
-    "upc" : "196872195972"
+    "duration" : 4596.358000000001,
+    "releaseDate" : 597283200,
+    "title" : "Folge 213: Das unheimliche Dorf",
+    "upc" : "886447884843"
   },
   {
-    "albumID" : "1751465793",
+    "albumID" : "1174859884",
     "artist" : "TKKG",
-    "duration" : 4188.32,
-    "releaseDate" : 697680000,
-    "title" : "Folge 226: Der Täter ist unter uns",
-    "upc" : "196872195873"
+    "duration" : 3118.8779999999997,
+    "releaseDate" : 502329600,
+    "title" : "Folge 199: Verfolgungsjagd vor Mitternacht",
+    "upc" : "886445582895"
   },
   {
-    "albumID" : "1751465070",
+    "albumID" : "1493944495",
     "artist" : "TKKG",
-    "duration" : 3949.5329999999994,
-    "releaseDate" : 689817600,
-    "title" : "Folge 225: Tanz mit der Giftschlange",
-    "upc" : "196872195828"
+    "duration" : 4259.908000000001,
+    "releaseDate" : 605145600,
+    "title" : "Folge 214: Diamantenrausch auf der A9",
+    "upc" : "886447884850"
   },
   {
-    "albumID" : "1685185731",
+    "albumID" : "1216486986",
     "artist" : "TKKG",
-    "duration" : 4529.267999999999,
-    "releaseDate" : 683769600,
-    "title" : "Folge 224: Bilderdiebe haben kein Gesicht",
-    "upc" : "886449827220"
+    "duration" : 3256.865999999999,
+    "releaseDate" : -44150400,
+    "title" : "Folge 116: Klassenfahrt zur Hexenburg",
+    "upc" : "886446428260"
   },
   {
-    "albumID" : "1751468900",
+    "albumID" : "1542192404",
     "artist" : "TKKG",
-    "duration" : 4074.308000000001,
-    "releaseDate" : 738806400,
-    "title" : "Folge 232: Drohnenaugen in der Nacht",
-    "upc" : "196872199994"
+    "duration" : 4574.9980000000005,
+    "releaseDate" : 634176000,
+    "title" : "Folge 217: Tödliche Klarinette",
+    "upc" : "886448206224"
   },
   {
-    "albumID" : "1751468642",
+    "albumID" : "1345999553",
     "artist" : "TKKG",
-    "duration" : 4077.2389999999996,
-    "releaseDate" : 732758400,
-    "title" : "Folge 231: Knackis streicheln mit der Faust",
-    "upc" : "196872196443"
+    "duration" : 4179.6759999999995,
+    "releaseDate" : 547084800,
+    "title" : "Folge 205: Teuflische Kaffeefahrt",
+    "upc" : "886446809564"
   },
   {
-    "albumID" : "1751468268",
+    "albumID" : "1439195203",
     "artist" : "TKKG",
-    "duration" : 3494.163,
-    "releaseDate" : 727315200,
-    "title" : "Folge 230: Die Tesla-Verschwörung",
-    "upc" : "196872196313"
+    "duration" : 3346.2010000000005,
+    "releaseDate" : 570067200,
+    "title" : "Folge 208: Geheimnis im Tresor",
+    "upc" : "886447234419"
   },
   {
-    "albumID" : "1751888366",
+    "albumID" : "1245097655",
     "artist" : "TKKG",
-    "duration" : 8681.237000000001,
-    "releaseDate" : 723081600,
-    "title" : "Auch Gauner feiern Weihnachten (Adventskalender)",
-    "upc" : "196872196528"
+    "duration" : 4003.8529999999996,
+    "releaseDate" : 527731200,
+    "title" : "Folge 202: Ein Paradies für Diebe",
+    "upc" : "886446167077"
   },
   {
-    "albumID" : "1751467059",
+    "albumID" : "1560974913",
     "artist" : "TKKG",
-    "duration" : 3590.613,
-    "releaseDate" : 715824000,
-    "title" : "Folge 229: Auf den Schwingen des Totenvogels",
-    "upc" : "196872196269"
+    "duration" : 3733.757,
+    "releaseDate" : 645667200,
+    "title" : "Folge 219: Terror frei Haus",
+    "upc" : "886449034147"
   },
   {
-    "albumID" : "1751468665",
+    "albumID" : "1233291606",
     "artist" : "TKKG",
-    "duration" : 4060.453,
-    "releaseDate" : 709776000,
-    "title" : "Folge 228: Das Geld, das niemand wollte",
-    "upc" : "196872196245"
+    "duration" : 4039.9069999999997,
+    "releaseDate" : 518659200,
+    "title" : "Folge 201: Vom Goldschatz besessen",
+    "upc" : "886446167060"
   },
   {
-    "albumID" : "1751468455",
+    "albumID" : "1195637277",
     "artist" : "TKKG",
-    "duration" : 4430.364,
-    "releaseDate" : 703123200,
-    "title" : "Folge 227: Zwei für Zwölf",
-    "upc" : "196872195972"
+    "duration" : 3495.9060000000013,
+    "releaseDate" : -120355200,
+    "title" : "Folge 101: Opfer fliegen 1. Klasse",
+    "upc" : "886446327112"
   },
   {
-    "albumID" : "1751465793",
+    "albumID" : "1150338992",
     "artist" : "TKKG",
-    "duration" : 4188.32,
-    "releaseDate" : 697680000,
-    "title" : "Folge 226: Der Täter ist unter uns",
-    "upc" : "196872195873"
+    "duration" : 3277.342,
+    "releaseDate" : 477532800,
+    "title" : "Folge 195: Dem Sonnenkönig auf der Spur",
+    "upc" : "886446058641"
   },
   {
-    "albumID" : "1751465070",
+    "albumID" : "1580961248",
     "artist" : "TKKG",
-    "duration" : 3949.5329999999994,
-    "releaseDate" : 689817600,
-    "title" : "Folge 225: Tanz mit der Giftschlange",
-    "upc" : "196872195828"
+    "duration" : 3882.665999999999,
+    "releaseDate" : 652320000,
+    "title" : "Folge 220: Attentat am Gämsengrat",
+    "upc" : "886449503797"
   },
   {
-    "albumID" : "1685185731",
+    "albumID" : "1195632440",
     "artist" : "TKKG",
-    "duration" : 4529.267999999999,
-    "releaseDate" : 683769600,
-    "title" : "Folge 224: Bilderdiebe haben kein Gesicht",
-    "upc" : "886449827220"
+    "duration" : 2732.1059999999998,
+    "releaseDate" : -133660800,
+    "title" : "Folge 100: Fieser Trick mit Nr. 100",
+    "upc" : "886446327099"
   },
   {
-    "albumID" : "1751468900",
+    "albumID" : "1477493477",
     "artist" : "TKKG",
-    "duration" : 4074.308000000001,
-    "releaseDate" : 738806400,
-    "title" : "Folge 232: Drohnenaugen in der Nacht",
-    "upc" : "196872199994"
+    "duration" : 3612.8280000000013,
+    "releaseDate" : 596073600,
+    "title" : "Folge 212: Tyrannei Kommando Eins",
+    "upc" : "886447588741"
   },
   {
-    "albumID" : "1751468642",
+    "albumID" : "1450498987",
     "artist" : "TKKG",
-    "duration" : 4077.2389999999996,
-    "releaseDate" : 732758400,
-    "title" : "Folge 231: Knackis streicheln mit der Faust",
-    "upc" : "196872196443"
+    "duration" : 3460.3189999999995,
+    "releaseDate" : -176601600,
+    "title" : "Das Geheimnis um TKKG (Neuaufnahme)",
+    "upc" : "886447519189"
   },
   {
-    "albumID" : "1751468268",
+    "albumID" : "1521299226",
     "artist" : "TKKG",
-    "duration" : 3494.163,
-    "releaseDate" : 727315200,
-    "title" : "Folge 230: Die Tesla-Verschwörung",
-    "upc" : "196872196313"
+    "duration" : 4095.8399999999997,
+    "releaseDate" : 617241600,
+    "title" : "Folge 215: Verbrechen im Moorsteiner Wald",
+    "upc" : "886448206217"
   },
   {
-    "albumID" : "1751888366",
+    "albumID" : "1559602751",
     "artist" : "TKKG",
-    "duration" : 8681.237000000001,
-    "releaseDate" : 723081600,
-    "title" : "Auch Gauner feiern Weihnachten (Adventskalender)",
-    "upc" : "196872196528"
+    "duration" : 4129.000999999999,
+    "releaseDate" : 640224000,
+    "title" : "Folge 218: Schutzgeld für Dämonen",
+    "upc" : "886448206248"
   },
   {
-    "albumID" : "1751467059",
+    "albumID" : "1148961615",
     "artist" : "TKKG",
-    "duration" : 3590.613,
-    "releaseDate" : 715824000,
-    "title" : "Folge 229: Auf den Schwingen des Totenvogels",
-    "upc" : "196872196269"
+    "duration" : 3952.692,
+    "releaseDate" : 486604800,
+    "title" : "Folge 197: Bei Anpfiff Übergabe",
+    "upc" : "886446058665"
   },
   {
-    "albumID" : "1751468665",
+    "albumID" : "1087309130",
     "artist" : "TKKG",
-    "duration" : 4060.453,
-    "releaseDate" : 709776000,
-    "title" : "Folge 228: Das Geld, das niemand wollte",
-    "upc" : "196872196245"
+    "duration" : 4434.147,
+    "releaseDate" : 469670400,
+    "title" : "Folge 194: Der Friedhof der Namenlosen",
+    "upc" : "886445641073"
   },
   {
-    "albumID" : "1751468455",
+    "albumID" : "1298617442",
     "artist" : "TKKG",
-    "duration" : 4430.364,
-    "releaseDate" : 703123200,
-    "title" : "Folge 227: Zwei für Zwölf",
-    "upc" : "196872195972"
+    "duration" : 3976.0160000000005,
+    "releaseDate" : 533174400,
+    "title" : "Folge 203: Der Räuber mit der Weihnachtsmaske",
+    "upc" : "886446167084"
   },
   {
-    "albumID" : "1751465793",
+    "albumID" : "1397341082",
     "artist" : "TKKG",
-    "duration" : 4188.32,
-    "releaseDate" : 697680000,
-    "title" : "Folge 226: Der Täter ist unter uns",
-    "upc" : "196872195873"
+    "duration" : 3751.0780000000004,
+    "releaseDate" : 558576000,
+    "title" : "Folge 207: Doppelte Entführung",
+    "upc" : "886446967141"
   },
   {
-    "albumID" : "1751465070",
+    "albumID" : "1216486401",
     "artist" : "TKKG",
-    "duration" : 3949.5329999999994,
-    "releaseDate" : 689817600,
-    "title" : "Folge 225: Tanz mit der Giftschlange",
-    "upc" : "196872195828"
+    "duration" : 2999.882,
+    "releaseDate" : -25401600,
+    "title" : "Folge 119: Frische Spur nach 70 Jahren",
+    "upc" : "886446428307"
   },
   {
-    "albumID" : "1685185731",
+    "albumID" : "1087331171",
     "artist" : "TKKG",
-    "duration" : 4529.267999999999,
-    "releaseDate" : 683769600,
-    "title" : "Folge 224: Bilderdiebe haben kein Gesicht",
-    "upc" : "886449827220"
+    "duration" : 3631.881000000001,
+    "releaseDate" : 369273600,
+    "title" : "Folge 179: Abzocke im Online-Chat",
+    "upc" : "886445640915"
   },
   {
-    "albumID" : "1751468900",
+    "albumID" : "1480819029",
     "artist" : "TKKG",
-    "duration" : 4074.308000000001,
-    "releaseDate" : 738806400,
-    "title" : "Folge 232: Drohnenaugen in der Nacht",
-    "upc" : "196872199994"
+    "duration" : 4471.907,
+    "releaseDate" : 590889600,
+    "title" : "Folge 211: Geiselnahme im Villenviertel",
+    "upc" : "886447989760"
   },
   {
-    "albumID" : "1751468642",
+    "albumID" : "1371388955",
     "artist" : "TKKG",
-    "duration" : 4077.2389999999996,
-    "releaseDate" : 732758400,
-    "title" : "Folge 231: Knackis streicheln mit der Faust",
-    "upc" : "196872196443"
+    "duration" : 3926.616,
+    "releaseDate" : 552528000,
+    "title" : "Folge 206: Achtung, UFO-Kult!",
+    "upc" : "886446920689"
   },
   {
-    "albumID" : "1751468268",
+    "albumID" : "1600511548",
     "artist" : "TKKG",
-    "duration" : 3494.163,
-    "releaseDate" : 727315200,
-    "title" : "Folge 230: Die Tesla-Verschwörung",
-    "upc" : "196872196313"
+    "duration" : 4083.7599999999993,
+    "releaseDate" : 665625600,
+    "title" : "Folge 221: Beim Raubzug helfen Ahnungslose",
+    "upc" : "886449194681"
   },
   {
-    "albumID" : "1751888366",
+    "albumID" : "1148959439",
     "artist" : "TKKG",
-    "duration" : 8681.237000000001,
-    "releaseDate" : 723081600,
-    "title" : "Auch Gauner feiern Weihnachten (Adventskalender)",
-    "upc" : "196872196528"
+    "duration" : 3856.201,
+    "releaseDate" : 482371200,
+    "title" : "Folge 196: Tatort Wagenburg",
+    "upc" : "886446058658"
   },
   {
-    "albumID" : "1751467059",
+    "albumID" : "1195630985",
     "artist" : "TKKG",
-    "duration" : 3590.613,
-    "releaseDate" : 715824000,
-    "title" : "Folge 229: Auf den Schwingen des Totenvogels",
-    "upc" : "196872196269"
+    "duration" : 2942.281,
+    "releaseDate" : -120268800,
+    "title" : "Folge 102: Angst auf der Autobahn",
+    "upc" : "886446327143"
   },
   {
-    "albumID" : "1751468665",
+    "albumID" : "1087321041",
     "artist" : "TKKG",
-    "duration" : 4060.453,
-    "releaseDate" : 709776000,
-    "title" : "Folge 228: Das Geld, das niemand wollte",
-    "upc" : "196872196245"
+    "duration" : 3637.3849999999993,
+    "releaseDate" : 401932800,
+    "title" : "Folge 184: Die ewige Finsternis",
+    "upc" : "886445640960"
   },
   {
-    "albumID" : "1751468455",
+    "albumID" : "1087325856",
     "artist" : "TKKG",
-    "duration" : 4430.364,
-    "releaseDate" : 703123200,
-    "title" : "Folge 227: Zwei für Zwölf",
-    "upc" : "196872195972"
+    "duration" : 3331.719,
+    "releaseDate" : 231984000,
+    "title" : "Folge 158: Trainer unter Verdacht",
+    "upc" : "886445640656"
   },
   {
-    "albumID" : "1751465793",
+    "albumID" : "1145292244",
     "artist" : "TKKG",
-    "duration" : 4188.32,
-    "releaseDate" : 697680000,
-    "title" : "Folge 226: Der Täter ist unter uns",
-    "upc" : "196872195873"
+    "duration" : 3528.8670000000006,
+    "releaseDate" : 496886400,
+    "title" : "Folge 198: Der Golem vom Dunkelsee",
+    "upc" : "886445582888"
   },
   {
-    "albumID" : "1751465070",
+    "albumID" : "1195640790",
     "artist" : "TKKG",
-    "duration" : 3949.5329999999994,
-    "releaseDate" : 689817600,
-    "title" : "Folge 225: Tanz mit der Giftschlange",
-    "upc" : "196872195828"
+    "duration" : 2983.082,
+    "releaseDate" : -70156800,
+    "title" : "Folge 111: Die tödliche Falle",
+    "upc" : "886446327235"
   },
   {
-    "albumID" : "1685185731",
+    "albumID" : "1087327863",
     "artist" : "TKKG",
-    "duration" : 4529.267999999999,
-    "releaseDate" : 683769600,
-    "title" : "Folge 224: Bilderdiebe haben kein Gesicht",
-    "upc" : "886449827220"
+    "duration" : 3800.5050000000006,
+    "releaseDate" : 418867200,
+    "title" : "Folge 187: Ausspioniert!",
+    "upc" : "886445640991"
   },
   {
-    "albumID" : "1751468900",
+    "albumID" : "1195642309",
     "artist" : "TKKG",
-    "duration" : 4074.308000000001,
-    "releaseDate" : 738806400,
-    "title" : "Folge 232: Drohnenaugen in der Nacht",
-    "upc" : "196872199994"
+    "duration" : 2620.4510000000005,
+    "releaseDate" : -59788800,
+    "title" : "Folge 113: Mit heißer Nadel Jagd auf Kids",
+    "upc" : "886446327259"
   },
   {
-    "albumID" : "1751468642",
+    "albumID" : "1195638051",
     "artist" : "TKKG",
-    "duration" : 4077.2389999999996,
-    "releaseDate" : 732758400,
-    "title" : "Folge 231: Knackis streicheln mit der Faust",
-    "upc" : "196872196443"
+    "duration" : 2919.4,
+    "releaseDate" : -107049600,
+    "title" : "Folge 103: Mörderischer Stammbaum",
+    "upc" : "886446327150"
   },
   {
-    "albumID" : "1751468268",
+    "albumID" : "1087327153",
     "artist" : "TKKG",
-    "duration" : 3494.163,
-    "releaseDate" : 727315200,
-    "title" : "Folge 230: Die Tesla-Verschwörung",
-    "upc" : "196872196313"
+    "duration" : 4152.721,
+    "releaseDate" : 387417600,
+    "title" : "Folge 182: Im Bann des Übersinnlichen",
+    "upc" : "886445640946"
   },
   {
-    "albumID" : "1751888366",
+    "albumID" : "1463157148",
     "artist" : "TKKG",
-    "duration" : 8681.237000000001,
-    "releaseDate" : 723081600,
-    "title" : "Auch Gauner feiern Weihnachten (Adventskalender)",
-    "upc" : "196872196528"
+    "duration" : 4732.599999999999,
+    "releaseDate" : 581558400,
+    "title" : "Jede Legende hat ihren Anfang (Hörspiel zum Kinofilm 2019)",
+    "upc" : "886447651599"
   },
   {
-    "albumID" : "1751467059",
+    "albumID" : "1216488734",
     "artist" : "TKKG",
-    "duration" : 3590.613,
-    "releaseDate" : 715824000,
-    "title" : "Folge 229: Auf den Schwingen des Totenvogels",
-    "upc" : "196872196269"
+    "duration" : 2931.4790000000007,
+    "releaseDate" : -4233600,
+    "title" : "Folge 123: Mordkomplott im Luxus-Klo",
+    "upc" : "886446428345"
   },
   {
-    "albumID" : "1751468665",
+    "albumID" : "1087320029",
     "artist" : "TKKG",
-    "duration" : 4060.453,
-    "releaseDate" : 709776000,
-    "title" : "Folge 228: Das Geld, das niemand wollte",
-    "upc" : "196872196245"
+    "duration" : 3741.269,
+    "releaseDate" : 445478400,
+    "title" : "Folge 190: Der eiskalte Clown",
+    "upc" : "886445641028"
   },
   {
-    "albumID" : "1751468455",
+    "albumID" : "1087334826",
     "artist" : "TKKG",
-    "duration" : 4430.364,
-    "releaseDate" : 703123200,
-    "title" : "Folge 227: Zwei für Zwölf",
-    "upc" : "196872195972"
+    "duration" : 4000.173,
+    "releaseDate" : 414028800,
+    "title" : "Folge 186: Die schlafende Chinesin",
+    "upc" : "886445640984"
   },
   {
-    "albumID" : "1751465793",
+    "albumID" : "1087307956",
     "artist" : "TKKG",
-    "duration" : 4188.32,
-    "releaseDate" : 697680000,
-    "title" : "Folge 226: Der Täter ist unter uns",
-    "upc" : "196872195873"
+    "duration" : 3697.3619999999987,
+    "releaseDate" : 455155200,
+    "title" : "Folge 192: Feuer auf Gut Ribbeck!",
+    "upc" : "886445641042"
   },
   {
-    "albumID" : "1751465070",
+    "albumID" : "1216485027",
     "artist" : "TKKG",
-    "duration" : 3949.5329999999994,
-    "releaseDate" : 689817600,
-    "title" : "Folge 225: Tanz mit der Giftschlange",
-    "upc" : "196872195828"
+    "duration" : 2590.082000000001,
+    "releaseDate" : 244080000,
+    "title" : "Folge 160: Das Grauen naht um Zwölf",
+    "upc" : "886446428574"
   },
   {
-    "albumID" : "1685185731",
+    "albumID" : "1087320423",
     "artist" : "TKKG",
-    "duration" : 4529.267999999999,
-    "releaseDate" : 683769600,
-    "title" : "Folge 224: Bilderdiebe haben kein Gesicht",
-    "upc" : "886449827220"
+    "duration" : 3264.318000000001,
+    "releaseDate" : 280972800,
+    "title" : "Folge 167: Der Unsichtbare",
+    "upc" : "886445640755"
   },
   {
-    "albumID" : "1751468900",
+    "albumID" : "1087336971",
     "artist" : "TKKG",
-    "duration" : 4074.308000000001,
-    "releaseDate" : 738806400,
-    "title" : "Folge 232: Drohnenaugen in der Nacht",
-    "upc" : "196872199994"
+    "duration" : 3698.051,
+    "releaseDate" : 406771200,
+    "title" : "Folge 185: der unsichtbare Dieb",
+    "upc" : "886445640977"
   },
   {
-    "albumID" : "1751468642",
+    "albumID" : "1536103570",
     "artist" : "TKKG",
-    "duration" : 4077.2389999999996,
-    "releaseDate" : 732758400,
-    "title" : "Folge 231: Knackis streicheln mit der Faust",
-    "upc" : "196872196443"
+    "duration" : 4088.7069999999994,
+    "releaseDate" : 627523200,
+    "title" : "Folge 216: Das Geheimnis im Jagdschloss (Kopfhörer-Hörspiel)",
+    "upc" : "886448767053"
   },
   {
-    "albumID" : "1751468268",
+    "albumID" : "1087307958",
     "artist" : "TKKG",
-    "duration" : 3494.163,
-    "releaseDate" : 727315200,
-    "title" : "Folge 230: Die Tesla-Verschwörung",
-    "upc" : "196872196313"
+    "duration" : 3499.481999999999,
+    "releaseDate" : 450316800,
+    "title" : "Folge 191: Nord-Nordwest zum Hexenplatz",
+    "upc" : "886445641035"
   },
   {
-    "albumID" : "1751888366",
+    "albumID" : "1087308911",
     "artist" : "TKKG",
-    "duration" : 8681.237000000001,
-    "releaseDate" : 723081600,
-    "title" : "Auch Gauner feiern Weihnachten (Adventskalender)",
-    "upc" : "196872196528"
+    "duration" : 4026.518,
+    "releaseDate" : 464832000,
+    "title" : "Folge 193: Das Weihnachts-Phantom",
+    "upc" : "886445641066"
   },
   {
-    "albumID" : "1751467059",
+    "albumID" : "1087331214",
     "artist" : "TKKG",
-    "duration" : 3590.613,
-    "releaseDate" : 715824000,
-    "title" : "Folge 229: Auf den Schwingen des Totenvogels",
-    "upc" : "196872196269"
+    "duration" : 3653.937,
+    "releaseDate" : 153273600,
+    "title" : "Folge 148: Fieser Trick beim Finale",
+    "upc" : "886445640540"
   },
   {
-    "albumID" : "1751468665",
+    "albumID" : "1590344047",
     "artist" : "TKKG",
-    "duration" : 4060.453,
-    "releaseDate" : 709776000,
-    "title" : "Folge 228: Das Geld, das niemand wollte",
-    "upc" : "196872196245"
+    "duration" : 9031.906999999997,
+    "releaseDate" : 658368000,
+    "title" : "Schreckliche Weihnacht überall (Adventskalender)",
+    "upc" : "886449404261"
   },
   {
-    "albumID" : "1751468455",
+    "albumID" : "1087321042",
     "artist" : "TKKG",
-    "duration" : 4430.364,
-    "releaseDate" : 703123200,
-    "title" : "Folge 227: Zwei für Zwölf",
-    "upc" : "196872195972"
+    "duration" : 3800.476,
+    "releaseDate" : 375321600,
+    "title" : "Folge 180: Alarm im Raubtierhaus",
+    "upc" : "886445640922"
   },
   {
-    "albumID" : "1751465793",
+    "albumID" : "1087320030",
     "artist" : "TKKG",
-    "duration" : 4188.32,
-    "releaseDate" : 697680000,
-    "title" : "Folge 226: Der Täter ist unter uns",
-    "upc" : "196872195873"
+    "duration" : 3343.9719999999993,
+    "releaseDate" : 438220800,
+    "title" : "Folge 189: Iwan, der Schreckliche",
+    "upc" : "886445641011"
   },
   {
-    "albumID" : "1751465070",
+    "albumID" : "1087328597",
     "artist" : "TKKG",
-    "duration" : 3949.5329999999994,
-    "releaseDate" : 689817600,
-    "title" : "Folge 225: Tanz mit der Giftschlange",
-    "upc" : "196872195828"
+    "duration" : 2813.3470000000007,
+    "releaseDate" : 306979200,
+    "title" : "Folge 170: Schock im Schnee",
+    "upc" : "886445640786"
   },
   {
-    "albumID" : "1685185731",
+    "albumID" : "1087177228",
     "artist" : "TKKG",
-    "duration" : 4529.267999999999,
-    "releaseDate" : 683769600,
-    "title" : "Folge 224: Bilderdiebe haben kein Gesicht",
-    "upc" : "886449827220"
+    "duration" : 3222.667999999999,
+    "releaseDate" : 84067200,
+    "title" : "Folge 137: Verschleppt ins Tal Diabolo",
+    "upc" : "886445640410"
   },
   {
-    "albumID" : "1751468900",
+    "albumID" : "1087333074",
     "artist" : "TKKG",
-    "duration" : 4074.308000000001,
-    "releaseDate" : 738806400,
-    "title" : "Folge 232: Drohnenaugen in der Nacht",
-    "upc" : "196872199994"
+    "duration" : 3913.7980000000007,
+    "releaseDate" : 382579200,
+    "title" : "Folge 181: Der vertauschte Koffer",
+    "upc" : "886445640939"
   },
   {
-    "albumID" : "1751468642",
+    "albumID" : "1087327950",
     "artist" : "TKKG",
-    "duration" : 4077.2389999999996,
-    "releaseDate" : 732758400,
-    "title" : "Folge 231: Knackis streicheln mit der Faust",
-    "upc" : "196872196443"
+    "duration" : 3322.9710000000005,
+    "releaseDate" : 296092800,
+    "title" : "Folge 168: Millionencoup im Stadion",
+    "upc" : "886445640762"
   },
   {
-    "albumID" : "1751468268",
+    "albumID" : "1216486810",
     "artist" : "TKKG",
-    "duration" : 3494.163,
-    "releaseDate" : 727315200,
-    "title" : "Folge 230: Die Tesla-Verschwörung",
-    "upc" : "196872196313"
+    "duration" : 3209.865999999999,
+    "releaseDate" : 275529600,
+    "title" : "Folge 165: Advent mit Knall-Effekt",
+    "upc" : "886446428666"
   },
   {
-    "albumID" : "1751888366",
+    "albumID" : "1087322245",
     "artist" : "TKKG",
-    "duration" : 8681.237000000001,
-    "releaseDate" : 723081600,
-    "title" : "Auch Gauner feiern Weihnachten (Adventskalender)",
-    "upc" : "196872196528"
+    "duration" : 2870.5070000000005,
+    "releaseDate" : 299116800,
+    "title" : "Folge 169: Tatort Dschungel",
+    "upc" : "886445640779"
   },
   {
-    "albumID" : "1751467059",
+    "albumID" : "1216483982",
     "artist" : "TKKG",
-    "duration" : 3590.613,
-    "releaseDate" : 715824000,
-    "title" : "Folge 229: Auf den Schwingen des Totenvogels",
-    "upc" : "196872196269"
+    "duration" : 3250.388000000001,
+    "releaseDate" : -9676800,
+    "title" : "Folge 122: Der Goldschatz, der vom Himmel fiel",
+    "upc" : "886446428338"
   },
   {
-    "albumID" : "1751468665",
+    "albumID" : "1087327191",
     "artist" : "TKKG",
-    "duration" : 4060.453,
-    "releaseDate" : 709776000,
-    "title" : "Folge 228: Das Geld, das niemand wollte",
-    "upc" : "196872196245"
+    "duration" : 3150.305,
+    "releaseDate" : 153360000,
+    "title" : "Folge 149: Tims gefährlichster Gegner",
+    "upc" : "886445640557"
   },
   {
-    "albumID" : "1751468455",
+    "albumID" : "1195640824",
     "artist" : "TKKG",
-    "duration" : 4430.364,
-    "releaseDate" : 703123200,
-    "title" : "Folge 227: Zwei für Zwölf",
-    "upc" : "196872195972"
+    "duration" : 2868.3209999999995,
+    "releaseDate" : -104630400,
+    "title" : "Folge 104: Im Wettbüro des Teufels",
+    "upc" : "886446327167"
   },
   {
-    "albumID" : "1751465793",
+    "albumID" : "1216486752",
     "artist" : "TKKG",
-    "duration" : 4188.32,
-    "releaseDate" : 697680000,
-    "title" : "Folge 226: Der Täter ist unter uns",
-    "upc" : "196872195873"
+    "duration" : 2996.6020000000008,
+    "releaseDate" : 64108800,
+    "title" : "Folge 135: Der Meisterdieb und seine Feinde",
+    "upc" : "886446428482"
   },
   {
-    "albumID" : "1751465070",
+    "albumID" : "1087329420",
     "artist" : "TKKG",
-    "duration" : 3949.5329999999994,
-    "releaseDate" : 689817600,
-    "title" : "Folge 225: Tanz mit der Giftschlange",
-    "upc" : "196872195828"
+    "duration" : 3355.28,
+    "releaseDate" : 432172800,
+    "title" : "Folge 188: Die blauen Schafe von Artelsbach",
+    "upc" : "886445641004"
   },
   {
-    "albumID" : "1685185731",
+    "albumID" : "1087332112",
     "artist" : "TKKG",
-    "duration" : 4529.267999999999,
-    "releaseDate" : 683769600,
-    "title" : "Folge 224: Bilderdiebe haben kein Gesicht",
-    "upc" : "886449827220"
+    "duration" : 3495.6280000000006,
+    "releaseDate" : 175132800,
+    "title" : "Folge 152: Max und Anna, ein diebisches Paar",
+    "upc" : "886445640588"
   },
   {
-    "albumID" : "1751468900",
+    "albumID" : "1087326483",
     "artist" : "TKKG",
-    "duration" : 4074.308000000001,
-    "releaseDate" : 738806400,
-    "title" : "Folge 232: Drohnenaugen in der Nacht",
-    "upc" : "196872199994"
+    "duration" : 2940.3750000000005,
+    "releaseDate" : 134352000,
+    "title" : "Folge 146: Nonstop in die Raketenfalle",
+    "upc" : "886445640526"
   },
   {
-    "albumID" : "1751468642",
+    "albumID" : "1195642078",
     "artist" : "TKKG",
-    "duration" : 4077.2389999999996,
-    "releaseDate" : 732758400,
-    "title" : "Folge 231: Knackis streicheln mit der Faust",
-    "upc" : "196872196443"
+    "duration" : 3237.878,
+    "releaseDate" : -75600000,
+    "title" : "Folge 110: Das Phantom im Schokoladenmuseum",
+    "upc" : "886446327228"
   },
   {
-    "albumID" : "1751468268",
+    "albumID" : "1087323229",
     "artist" : "TKKG",
-    "duration" : 3494.163,
-    "releaseDate" : 727315200,
-    "title" : "Folge 230: Die Tesla-Verschwörung",
-    "upc" : "196872196313"
+    "duration" : 3021.7329999999997,
+    "releaseDate" : 216864000,
+    "title" : "Folge 156: Erpresser fahren Achterbahn",
+    "upc" : "886445640625"
   },
   {
-    "albumID" : "1751888366",
+    "albumID" : "1195643556",
     "artist" : "TKKG",
-    "duration" : 8681.237000000001,
-    "releaseDate" : 723081600,
-    "title" : "Auch Gauner feiern Weihnachten (Adventskalender)",
-    "upc" : "196872196528"
+    "duration" : 2659.854,
+    "releaseDate" : -59875200,
+    "title" : "Folge 112: Bombenspaß bei Kies & Knete",
+    "upc" : "886446327242"
   },
   {
-    "albumID" : "1751467059",
+    "albumID" : "1216484141",
     "artist" : "TKKG",
-    "duration" : 3590.613,
-    "releaseDate" : 715824000,
-    "title" : "Folge 229: Auf den Schwingen des Totenvogels",
-    "upc" : "196872196269"
+    "duration" : 3079.6150000000002,
+    "releaseDate" : 95558400,
+    "title" : "Folge 140: Draculas Erben",
+    "upc" : "886446428512"
   },
   {
-    "albumID" : "1751468665",
+    "albumID" : "1216486910",
     "artist" : "TKKG",
-    "duration" : 4060.453,
-    "releaseDate" : 709776000,
-    "title" : "Folge 228: Das Geld, das niemand wollte",
-    "upc" : "196872196245"
+    "duration" : 3084.6669999999995,
+    "releaseDate" : 261705600,
+    "title" : "Folge 164: Operation Hexen-Graffiti",
+    "upc" : "886446428659"
   },
   {
-    "albumID" : "1751468455",
+    "albumID" : "1087333378",
     "artist" : "TKKG",
-    "duration" : 4430.364,
-    "releaseDate" : 703123200,
-    "title" : "Folge 227: Zwei für Zwölf",
-    "upc" : "196872195972"
+    "duration" : 3425.4660000000013,
+    "releaseDate" : 190252800,
+    "title" : "Folge 153: Es geschah in einer Regennacht",
+    "upc" : "886445640595"
   },
   {
-    "albumID" : "1751465793",
+    "albumID" : "1087322158",
     "artist" : "TKKG",
-    "duration" : 4188.32,
-    "releaseDate" : 697680000,
-    "title" : "Folge 226: Der Täter ist unter uns",
-    "upc" : "196872195873"
+    "duration" : 3800.387,
+    "releaseDate" : 118540800,
+    "title" : "Folge 143: Das unheimliche Haus",
+    "upc" : "886445640496"
   },
   {
-    "albumID" : "1751465070",
+    "albumID" : "1216486749",
     "artist" : "TKKG",
-    "duration" : 3949.5329999999994,
-    "releaseDate" : 689817600,
-    "title" : "Folge 225: Tanz mit der Giftschlange",
-    "upc" : "196872195828"
+    "duration" : 2745.2169999999996,
+    "releaseDate" : 248313600,
+    "title" : "Folge 161: Ein Yeti in der Millionenstadt",
+    "upc" : "886446428604"
   },
   {
-    "albumID" : "1685185731",
+    "albumID" : "1087331843",
     "artist" : "TKKG",
-    "duration" : 4529.267999999999,
-    "releaseDate" : 683769600,
-    "title" : "Folge 224: Bilderdiebe haben kein Gesicht",
-    "upc" : "886449827220"
+    "duration" : 3441.5339999999997,
+    "releaseDate" : 324518400,
+    "title" : "Folge 173: Die Skelettbande",
+    "upc" : "886445640847"
   },
   {
-    "albumID" : "1751468900",
+    "albumID" : "1087326606",
     "artist" : "TKKG",
-    "duration" : 4074.308000000001,
-    "releaseDate" : 738806400,
-    "title" : "Folge 232: Drohnenaugen in der Nacht",
-    "upc" : "196872199994"
+    "duration" : 3524.3750000000005,
+    "releaseDate" : 338428800,
+    "title" : "Folge 174: Doppelgänger auf der Rennbahn",
+    "upc" : "886445640854"
   },
   {
-    "albumID" : "1751468642",
+    "albumID" : "1087322825",
     "artist" : "TKKG",
-    "duration" : 4077.2389999999996,
-    "releaseDate" : 732758400,
-    "title" : "Folge 231: Knackis streicheln mit der Faust",
-    "upc" : "196872196443"
+    "duration" : 3335.0009999999997,
+    "releaseDate" : 277344000,
+    "title" : "Folge 166: Das Mädchen mit der Kristallkugel",
+    "upc" : "886445640748"
   },
   {
-    "albumID" : "1751468268",
+    "albumID" : "1195640800",
     "artist" : "TKKG",
-    "duration" : 3494.163,
-    "releaseDate" : 727315200,
-    "title" : "Folge 230: Die Tesla-Verschwörung",
-    "upc" : "196872196313"
+    "duration" : 3474.5600000000004,
+    "releaseDate" : -81043200,
+    "title" : "Folge 109: Mörderspiel im Burghotel",
+    "upc" : "886446327211"
   },
   {
-    "albumID" : "1751888366",
+    "albumID" : "1216485638",
     "artist" : "TKKG",
-    "duration" : 8681.237000000001,
-    "releaseDate" : 723081600,
-    "title" : "Auch Gauner feiern Weihnachten (Adventskalender)",
-    "upc" : "196872196528"
+    "duration" : 2731.5879999999997,
+    "releaseDate" : -30844800,
+    "title" : "Folge 118: Im Kaufhaus ist der Teufel los",
+    "upc" : "886446428291"
   },
   {
-    "albumID" : "1751467059",
+    "albumID" : "1195643560",
     "artist" : "TKKG",
-    "duration" : 3590.613,
-    "releaseDate" : 715824000,
-    "title" : "Folge 229: Auf den Schwingen des Totenvogels",
-    "upc" : "196872196269"
+    "duration" : 2928.160999999999,
+    "releaseDate" : 35078400,
+    "title" : "Folge 130: Die gefährliche Zeugin verschwindet",
+    "upc" : "886446327266"
   },
   {
-    "albumID" : "1751468665",
+    "albumID" : "1087329422",
     "artist" : "TKKG",
-    "duration" : 4060.453,
-    "releaseDate" : 709776000,
-    "title" : "Folge 228: Das Geld, das niemand wollte",
-    "upc" : "196872196245"
+    "duration" : 3461.4790000000007,
+    "releaseDate" : 350524800,
+    "title" : "Folge 176: Verbrechen im Rampenlicht",
+    "upc" : "886445640861"
   },
   {
-    "albumID" : "1751468455",
+    "albumID" : "1216486405",
     "artist" : "TKKG",
-    "duration" : 4430.364,
-    "releaseDate" : 703123200,
-    "title" : "Folge 227: Zwei für Zwölf",
-    "upc" : "196872195972"
+    "duration" : 3207.532,
+    "releaseDate" : 45360000,
+    "title" : "Folge 132: Homejacker machen Überstunden",
+    "upc" : "886446428437"
   },
   {
-    "albumID" : "1751465793",
+    "albumID" : "1087329868",
     "artist" : "TKKG",
-    "duration" : 4188.32,
-    "releaseDate" : 697680000,
-    "title" : "Folge 226: Der Täter ist unter uns",
-    "upc" : "196872195873"
-  },
-  {
-    "albumID" : "1751465070",
-    "artist" : "TKKG",
-    "duration" : 3949.5329999999994,
-    "releaseDate" : 689817600,
-    "title" : "Folge 225: Tanz mit der Giftschlange",
-    "upc" : "196872195828"
-  },
-  {
-    "albumID" : "1685185731",
-    "artist" : "TKKG",
-    "duration" : 4529.267999999999,
-    "releaseDate" : 683769600,
-    "title" : "Folge 224: Bilderdiebe haben kein Gesicht",
-    "upc" : "886449827220"
-  },
-  {
-    "albumID" : "1751468900",
-    "artist" : "TKKG",
-    "duration" : 4074.308000000001,
-    "releaseDate" : 738806400,
-    "title" : "Folge 232: Drohnenaugen in der Nacht",
-    "upc" : "196872199994"
-  },
-  {
-    "albumID" : "1751468642",
-    "artist" : "TKKG",
-    "duration" : 4077.2389999999996,
-    "releaseDate" : 732758400,
-    "title" : "Folge 231: Knackis streicheln mit der Faust",
-    "upc" : "196872196443"
-  },
-  {
-    "albumID" : "1751468268",
-    "artist" : "TKKG",
-    "duration" : 3494.163,
-    "releaseDate" : 727315200,
-    "title" : "Folge 230: Die Tesla-Verschwörung",
-    "upc" : "196872196313"
-  },
-  {
-    "albumID" : "1751888366",
-    "artist" : "TKKG",
-    "duration" : 8681.237000000001,
-    "releaseDate" : 723081600,
-    "title" : "Auch Gauner feiern Weihnachten (Adventskalender)",
-    "upc" : "196872196528"
-  },
-  {
-    "albumID" : "1751467059",
-    "artist" : "TKKG",
-    "duration" : 3590.613,
-    "releaseDate" : 715824000,
-    "title" : "Folge 229: Auf den Schwingen des Totenvogels",
-    "upc" : "196872196269"
-  },
-  {
-    "albumID" : "1751468665",
-    "artist" : "TKKG",
-    "duration" : 4060.453,
-    "releaseDate" : 709776000,
-    "title" : "Folge 228: Das Geld, das niemand wollte",
-    "upc" : "196872196245"
-  },
-  {
-    "albumID" : "1751468455",
-    "artist" : "TKKG",
-    "duration" : 4430.364,
-    "releaseDate" : 703123200,
-    "title" : "Folge 227: Zwei für Zwölf",
-    "upc" : "196872195972"
-  },
-  {
-    "albumID" : "1751465793",
-    "artist" : "TKKG",
-    "duration" : 4188.32,
-    "releaseDate" : 697680000,
-    "title" : "Folge 226: Der Täter ist unter uns",
-    "upc" : "196872195873"
-  },
-  {
-    "albumID" : "1751465070",
-    "artist" : "TKKG",
-    "duration" : 3949.5329999999994,
-    "releaseDate" : 689817600,
-    "title" : "Folge 225: Tanz mit der Giftschlange",
-    "upc" : "196872195828"
-  },
-  {
-    "albumID" : "1685185731",
-    "artist" : "TKKG",
-    "duration" : 4529.267999999999,
-    "releaseDate" : 683769600,
-    "title" : "Folge 224: Bilderdiebe haben kein Gesicht",
-    "upc" : "886449827220"
-  },
-  {
-    "albumID" : "1751468900",
-    "artist" : "TKKG",
-    "duration" : 4074.308000000001,
-    "releaseDate" : 738806400,
-    "title" : "Folge 232: Drohnenaugen in der Nacht",
-    "upc" : "196872199994"
-  },
-  {
-    "albumID" : "1751468642",
-    "artist" : "TKKG",
-    "duration" : 4077.2389999999996,
-    "releaseDate" : 732758400,
-    "title" : "Folge 231: Knackis streicheln mit der Faust",
-    "upc" : "196872196443"
-  },
-  {
-    "albumID" : "1751468268",
-    "artist" : "TKKG",
-    "duration" : 3494.163,
-    "releaseDate" : 727315200,
-    "title" : "Folge 230: Die Tesla-Verschwörung",
-    "upc" : "196872196313"
-  },
-  {
-    "albumID" : "1751888366",
-    "artist" : "TKKG",
-    "duration" : 8681.237000000001,
-    "releaseDate" : 723081600,
-    "title" : "Auch Gauner feiern Weihnachten (Adventskalender)",
-    "upc" : "196872196528"
-  },
-  {
-    "albumID" : "1751467059",
-    "artist" : "TKKG",
-    "duration" : 3590.613,
-    "releaseDate" : 715824000,
-    "title" : "Folge 229: Auf den Schwingen des Totenvogels",
-    "upc" : "196872196269"
-  },
-  {
-    "albumID" : "1751468665",
-    "artist" : "TKKG",
-    "duration" : 4060.453,
-    "releaseDate" : 709776000,
-    "title" : "Folge 228: Das Geld, das niemand wollte",
-    "upc" : "196872196245"
-  },
-  {
-    "albumID" : "1751468455",
-    "artist" : "TKKG",
-    "duration" : 4430.364,
-    "releaseDate" : 703123200,
-    "title" : "Folge 227: Zwei für Zwölf",
-    "upc" : "196872195972"
-  },
-  {
-    "albumID" : "1751465793",
-    "artist" : "TKKG",
-    "duration" : 4188.32,
-    "releaseDate" : 697680000,
-    "title" : "Folge 226: Der Täter ist unter uns",
-    "upc" : "196872195873"
-  },
-  {
-    "albumID" : "1751465070",
-    "artist" : "TKKG",
-    "duration" : 3949.5329999999994,
-    "releaseDate" : 689817600,
-    "title" : "Folge 225: Tanz mit der Giftschlange",
-    "upc" : "196872195828"
-  },
-  {
-    "albumID" : "1685185731",
-    "artist" : "TKKG",
-    "duration" : 4529.267999999999,
-    "releaseDate" : 683769600,
-    "title" : "Folge 224: Bilderdiebe haben kein Gesicht",
-    "upc" : "886449827220"
-  },
-  {
-    "albumID" : "1751468900",
-    "artist" : "TKKG",
-    "duration" : 4074.308000000001,
-    "releaseDate" : 738806400,
-    "title" : "Folge 232: Drohnenaugen in der Nacht",
-    "upc" : "196872199994"
-  },
-  {
-    "albumID" : "1751468642",
-    "artist" : "TKKG",
-    "duration" : 4077.2389999999996,
-    "releaseDate" : 732758400,
-    "title" : "Folge 231: Knackis streicheln mit der Faust",
-    "upc" : "196872196443"
-  },
-  {
-    "albumID" : "1751468268",
-    "artist" : "TKKG",
-    "duration" : 3494.163,
-    "releaseDate" : 727315200,
-    "title" : "Folge 230: Die Tesla-Verschwörung",
-    "upc" : "196872196313"
-  },
-  {
-    "albumID" : "1751888366",
-    "artist" : "TKKG",
-    "duration" : 8681.237000000001,
-    "releaseDate" : 723081600,
-    "title" : "Auch Gauner feiern Weihnachten (Adventskalender)",
-    "upc" : "196872196528"
-  },
-  {
-    "albumID" : "1751467059",
-    "artist" : "TKKG",
-    "duration" : 3590.613,
-    "releaseDate" : 715824000,
-    "title" : "Folge 229: Auf den Schwingen des Totenvogels",
-    "upc" : "196872196269"
-  },
-  {
-    "albumID" : "1751468665",
-    "artist" : "TKKG",
-    "duration" : 4060.453,
-    "releaseDate" : 709776000,
-    "title" : "Folge 228: Das Geld, das niemand wollte",
-    "upc" : "196872196245"
-  },
-  {
-    "albumID" : "1751468455",
-    "artist" : "TKKG",
-    "duration" : 4430.364,
-    "releaseDate" : 703123200,
-    "title" : "Folge 227: Zwei für Zwölf",
-    "upc" : "196872195972"
-  },
-  {
-    "albumID" : "1751465793",
-    "artist" : "TKKG",
-    "duration" : 4188.32,
-    "releaseDate" : 697680000,
-    "title" : "Folge 226: Der Täter ist unter uns",
-    "upc" : "196872195873"
-  },
-  {
-    "albumID" : "1751465070",
-    "artist" : "TKKG",
-    "duration" : 3949.5329999999994,
-    "releaseDate" : 689817600,
-    "title" : "Folge 225: Tanz mit der Giftschlange",
-    "upc" : "196872195828"
-  },
-  {
-    "albumID" : "1685185731",
-    "artist" : "TKKG",
-    "duration" : 4529.267999999999,
-    "releaseDate" : 683769600,
-    "title" : "Folge 224: Bilderdiebe haben kein Gesicht",
-    "upc" : "886449827220"
-  },
-  {
-    "albumID" : "1751468900",
-    "artist" : "TKKG",
-    "duration" : 4074.308000000001,
-    "releaseDate" : 738806400,
-    "title" : "Folge 232: Drohnenaugen in der Nacht",
-    "upc" : "196872199994"
-  },
-  {
-    "albumID" : "1751468642",
-    "artist" : "TKKG",
-    "duration" : 4077.2389999999996,
-    "releaseDate" : 732758400,
-    "title" : "Folge 231: Knackis streicheln mit der Faust",
-    "upc" : "196872196443"
-  },
-  {
-    "albumID" : "1751468268",
-    "artist" : "TKKG",
-    "duration" : 3494.163,
-    "releaseDate" : 727315200,
-    "title" : "Folge 230: Die Tesla-Verschwörung",
-    "upc" : "196872196313"
-  },
-  {
-    "albumID" : "1751888366",
-    "artist" : "TKKG",
-    "duration" : 8681.237000000001,
-    "releaseDate" : 723081600,
-    "title" : "Auch Gauner feiern Weihnachten (Adventskalender)",
-    "upc" : "196872196528"
-  },
-  {
-    "albumID" : "1751467059",
-    "artist" : "TKKG",
-    "duration" : 3590.613,
-    "releaseDate" : 715824000,
-    "title" : "Folge 229: Auf den Schwingen des Totenvogels",
-    "upc" : "196872196269"
-  },
-  {
-    "albumID" : "1751468665",
-    "artist" : "TKKG",
-    "duration" : 4060.453,
-    "releaseDate" : 709776000,
-    "title" : "Folge 228: Das Geld, das niemand wollte",
-    "upc" : "196872196245"
-  },
-  {
-    "albumID" : "1751468455",
-    "artist" : "TKKG",
-    "duration" : 4430.364,
-    "releaseDate" : 703123200,
-    "title" : "Folge 227: Zwei für Zwölf",
-    "upc" : "196872195972"
-  },
-  {
-    "albumID" : "1751465793",
-    "artist" : "TKKG",
-    "duration" : 4188.32,
-    "releaseDate" : 697680000,
-    "title" : "Folge 226: Der Täter ist unter uns",
-    "upc" : "196872195873"
-  },
-  {
-    "albumID" : "1751465070",
-    "artist" : "TKKG",
-    "duration" : 3949.5329999999994,
-    "releaseDate" : 689817600,
-    "title" : "Folge 225: Tanz mit der Giftschlange",
-    "upc" : "196872195828"
-  },
-  {
-    "albumID" : "1685185731",
-    "artist" : "TKKG",
-    "duration" : 4529.267999999999,
-    "releaseDate" : 683769600,
-    "title" : "Folge 224: Bilderdiebe haben kein Gesicht",
-    "upc" : "886449827220"
-  },
-  {
-    "albumID" : "1751468900",
-    "artist" : "TKKG",
-    "duration" : 4074.308000000001,
-    "releaseDate" : 738806400,
-    "title" : "Folge 232: Drohnenaugen in der Nacht",
-    "upc" : "196872199994"
-  },
-  {
-    "albumID" : "1751468642",
-    "artist" : "TKKG",
-    "duration" : 4077.2389999999996,
-    "releaseDate" : 732758400,
-    "title" : "Folge 231: Knackis streicheln mit der Faust",
-    "upc" : "196872196443"
-  },
-  {
-    "albumID" : "1751468268",
-    "artist" : "TKKG",
-    "duration" : 3494.163,
-    "releaseDate" : 727315200,
-    "title" : "Folge 230: Die Tesla-Verschwörung",
-    "upc" : "196872196313"
-  },
-  {
-    "albumID" : "1751888366",
-    "artist" : "TKKG",
-    "duration" : 8681.237000000001,
-    "releaseDate" : 723081600,
-    "title" : "Auch Gauner feiern Weihnachten (Adventskalender)",
-    "upc" : "196872196528"
-  },
-  {
-    "albumID" : "1751467059",
-    "artist" : "TKKG",
-    "duration" : 3590.613,
-    "releaseDate" : 715824000,
-    "title" : "Folge 229: Auf den Schwingen des Totenvogels",
-    "upc" : "196872196269"
-  },
-  {
-    "albumID" : "1751468665",
-    "artist" : "TKKG",
-    "duration" : 4060.453,
-    "releaseDate" : 709776000,
-    "title" : "Folge 228: Das Geld, das niemand wollte",
-    "upc" : "196872196245"
-  },
-  {
-    "albumID" : "1751468455",
-    "artist" : "TKKG",
-    "duration" : 4430.364,
-    "releaseDate" : 703123200,
-    "title" : "Folge 227: Zwei für Zwölf",
-    "upc" : "196872195972"
-  },
-  {
-    "albumID" : "1751465793",
-    "artist" : "TKKG",
-    "duration" : 4188.32,
-    "releaseDate" : 697680000,
-    "title" : "Folge 226: Der Täter ist unter uns",
-    "upc" : "196872195873"
-  },
-  {
-    "albumID" : "1751465070",
-    "artist" : "TKKG",
-    "duration" : 3949.5329999999994,
-    "releaseDate" : 689817600,
-    "title" : "Folge 225: Tanz mit der Giftschlange",
-    "upc" : "196872195828"
-  },
-  {
-    "albumID" : "1685185731",
-    "artist" : "TKKG",
-    "duration" : 4529.267999999999,
-    "releaseDate" : 683769600,
-    "title" : "Folge 224: Bilderdiebe haben kein Gesicht",
-    "upc" : "886449827220"
+    "duration" : 3500.4119999999994,
+    "releaseDate" : 108864000,
+    "title" : "Folge 142: Bankräuber mit Supertrick",
+    "upc" : "886445640489"
   },
   {
     "albumID" : "1754104087",
@@ -1126,5 +710,429 @@
     "releaseDate" : 745459200,
     "title" : "Folge 233: Räuberwald",
     "upc" : "196872211658"
+  },
+  {
+    "albumID" : "1195639982",
+    "artist" : "TKKG",
+    "duration" : 3367.946,
+    "releaseDate" : -96768000,
+    "title" : "Folge 106: Mädchenraub im Ferienhaus",
+    "upc" : "886446327181"
+  },
+  {
+    "albumID" : "1216489474",
+    "artist" : "TKKG",
+    "duration" : 3559.892999999999,
+    "releaseDate" : 100396800,
+    "title" : "Folge 141: Todesbiss der schwarzen Mamba",
+    "upc" : "886446428529"
+  },
+  {
+    "albumID" : "1087322498",
+    "artist" : "TKKG",
+    "duration" : 3566.944,
+    "releaseDate" : 396489600,
+    "title" : "Folge 183: Blindgänger im Villenviertel",
+    "upc" : "886445640953"
+  },
+  {
+    "albumID" : "1087322970",
+    "artist" : "TKKG",
+    "duration" : 3456.1710000000016,
+    "releaseDate" : 134265600,
+    "title" : "Folge 145: Hinterhalt am schwarzen Fels",
+    "upc" : "886445640519"
+  },
+  {
+    "albumID" : "1216486809",
+    "artist" : "TKKG",
+    "duration" : 3490.653,
+    "releaseDate" : 161222400,
+    "title" : "Folge 150: Heiße Nächte im Dezember",
+    "upc" : "886446428550"
+  },
+  {
+    "albumID" : "1216485771",
+    "artist" : "TKKG",
+    "duration" : 3502.810999999999,
+    "releaseDate" : 15120000,
+    "title" : "Folge 127: Im Schlauchboot durch die Unterwelt",
+    "upc" : "886446428383"
+  },
+  {
+    "albumID" : "1216489440",
+    "artist" : "TKKG",
+    "duration" : 3305.466,
+    "releaseDate" : 142732800,
+    "title" : "Folge 147: Hölle ohne Hintertür",
+    "upc" : "886446428543"
+  },
+  {
+    "albumID" : "1195640806",
+    "artist" : "TKKG",
+    "duration" : 3002.3739999999993,
+    "releaseDate" : -99187200,
+    "title" : "Folge 105: Vermißte Kids und Killerpflanzen",
+    "upc" : "886446327174"
+  },
+  {
+    "albumID" : "1216489187",
+    "artist" : "TKKG",
+    "duration" : 2908.718,
+    "releaseDate" : 235008000,
+    "title" : "Folge 159: Böses Spiel im Sommercamp",
+    "upc" : "886446428567"
+  },
+  {
+    "albumID" : "1216486764",
+    "artist" : "TKKG",
+    "duration" : 3595.6119999999996,
+    "releaseDate" : 68947200,
+    "title" : "Folge 136: Argentinische Entführung",
+    "upc" : "886446428499"
+  },
+  {
+    "albumID" : "1087332113",
+    "artist" : "TKKG",
+    "duration" : 3810.055,
+    "releaseDate" : 312422400,
+    "title" : "Folge 171: Das lebende Gemälde",
+    "upc" : "886445640793"
+  },
+  {
+    "albumID" : "1087329715",
+    "artist" : "TKKG",
+    "duration" : 3830.3360000000007,
+    "releaseDate" : 355968000,
+    "title" : "Folge 177: Die Spur der Wölfin",
+    "upc" : "886445640885"
+  },
+  {
+    "albumID" : "1216485702",
+    "artist" : "TKKG",
+    "duration" : 3078.588,
+    "releaseDate" : 11491200,
+    "title" : "Folge 126: Teddy Talers Höllenfahrt",
+    "upc" : "886446428376"
+  },
+  {
+    "albumID" : "1086570316",
+    "artist" : "TKKG",
+    "duration" : 2796.401,
+    "releaseDate" : 1814400,
+    "title" : "Folge 124: Vergebliche Suche nach Gaby",
+    "upc" : "886445640267"
+  },
+  {
+    "albumID" : "1154531423",
+    "artist" : "TKKG",
+    "duration" : 5712.081000000001,
+    "releaseDate" : 343872000,
+    "title" : "Folge 175: Nachtwanderung mit Schrecken",
+    "upc" : "886444473460"
+  },
+  {
+    "albumID" : "1216489439",
+    "artist" : "TKKG",
+    "duration" : 3575.7179999999994,
+    "releaseDate" : 50803200,
+    "title" : "Folge 133: Auf vier Pfoten zur Millionenbeute",
+    "upc" : "886446428444"
+  },
+  {
+    "albumID" : "1087175155",
+    "artist" : "TKKG",
+    "duration" : 2962.841000000001,
+    "releaseDate" : 21772800,
+    "title" : "Folge 128: Die Gehilfen des Terrors",
+    "upc" : "886445640328"
+  },
+  {
+    "albumID" : "1216489428",
+    "artist" : "TKKG",
+    "duration" : 3836.2259999999997,
+    "releaseDate" : 84240000,
+    "title" : "Folge 139: Oskar jagt die Drogendealer",
+    "upc" : "886446428505"
+  },
+  {
+    "albumID" : "1751468900",
+    "artist" : "TKKG",
+    "duration" : 4074.308000000001,
+    "releaseDate" : 738806400,
+    "title" : "Folge 232: Drohnenaugen in der Nacht",
+    "upc" : "196872199994"
+  },
+  {
+    "albumID" : "1216486931",
+    "artist" : "TKKG",
+    "duration" : 3397.1749999999997,
+    "releaseDate" : 6048000,
+    "title" : "Folge 125: Der Mörder aus einer anderen Zeit",
+    "upc" : "886446428369"
+  },
+  {
+    "albumID" : "1216486936",
+    "artist" : "TKKG",
+    "duration" : 3623.0119999999997,
+    "releaseDate" : 261619200,
+    "title" : "Folge 163: Die Makler-Mafia",
+    "upc" : "886446428642"
+  },
+  {
+    "albumID" : "1216489453",
+    "artist" : "TKKG",
+    "duration" : 3300.3330000000005,
+    "releaseDate" : -15120000,
+    "title" : "Folge 121: Ein cooler Typ aus der Hölle",
+    "upc" : "886446428321"
+  },
+  {
+    "albumID" : "1087177832",
+    "artist" : "TKKG",
+    "duration" : 3161.4410000000003,
+    "releaseDate" : 84153600,
+    "title" : "Folge 138: Raubzug mit Bumerang",
+    "upc" : "886445640427"
+  },
+  {
+    "albumID" : "1087326266",
+    "artist" : "TKKG",
+    "duration" : 3518.173000000001,
+    "releaseDate" : 319075200,
+    "title" : "Folge 172: Das Geheimnis der Moorleiche",
+    "upc" : "886445640809"
+  },
+  {
+    "albumID" : "1216486782",
+    "artist" : "TKKG",
+    "duration" : 3421.7200000000003,
+    "releaseDate" : 55641600,
+    "title" : "Folge 134: Wer stoppt die Weihnachts-Gangster",
+    "upc" : "886446428475"
+  },
+  {
+    "albumID" : "1195639126",
+    "artist" : "TKKG",
+    "duration" : 3567.211999999999,
+    "releaseDate" : -93744000,
+    "title" : "Folge 107: Lösegeld für einen Irrtum",
+    "upc" : "886446327198"
+  },
+  {
+    "albumID" : "1087331218",
+    "artist" : "TKKG",
+    "duration" : 3758.121000000001,
+    "releaseDate" : 166320000,
+    "title" : "Folge 151: Gekauftes Spiel",
+    "upc" : "886445640571"
+  },
+  {
+    "albumID" : "1216486640",
+    "artist" : "TKKG",
+    "duration" : 2980.7730000000006,
+    "releaseDate" : 40521600,
+    "title" : "Folge 131: Stundenlohn für flotte Gangster",
+    "upc" : "886446428413"
+  },
+  {
+    "albumID" : "1087330050",
+    "artist" : "TKKG",
+    "duration" : 3329.695,
+    "releaseDate" : 225936000,
+    "title" : "Folge 157: Oskar und die sieben Zwerge",
+    "upc" : "886445640632"
+  },
+  {
+    "albumID" : "1087325899",
+    "artist" : "TKKG",
+    "duration" : 3836.039,
+    "releaseDate" : 199929600,
+    "title" : "Folge 154: Das Geheimnis der Burgruine",
+    "upc" : "886445640601"
+  },
+  {
+    "albumID" : "1195639983",
+    "artist" : "TKKG",
+    "duration" : 2569.64,
+    "releaseDate" : -85795200,
+    "title" : "Folge 108: Das Konzert bei den Ratten",
+    "upc" : "886446327204"
+  },
+  {
+    "albumID" : "1087319262",
+    "artist" : "TKKG",
+    "duration" : 2782.7580000000007,
+    "releaseDate" : 208396800,
+    "title" : "Folge 155: Gefangen im Spukhaus",
+    "upc" : "886445640618"
+  },
+  {
+    "albumID" : "1086574965",
+    "artist" : "TKKG",
+    "duration" : 2986.130999999999,
+    "releaseDate" : -48988800,
+    "title" : "Folge 115: Der Diamant im Bauch der Kobra",
+    "upc" : "886445640168"
+  },
+  {
+    "albumID" : "1087180132",
+    "artist" : "TKKG",
+    "duration" : 3024.64,
+    "releaseDate" : 27216000,
+    "title" : "Folge 129: Der Erpresser fährt bis Endstation",
+    "upc" : "886445640335"
+  },
+  {
+    "albumID" : "1216483973",
+    "artist" : "TKKG",
+    "duration" : 3304.829,
+    "releaseDate" : -59702400,
+    "title" : "Folge 114: Die Sekte Satans",
+    "upc" : "886446427812"
+  },
+  {
+    "albumID" : "1087173572",
+    "artist" : "TKKG",
+    "duration" : 3300.878,
+    "releaseDate" : -36288000,
+    "title" : "Folge 117: Im Schloß der schlafenden Vampire",
+    "upc" : "886445640182"
+  },
+  {
+    "albumID" : "1216488364",
+    "artist" : "TKKG",
+    "duration" : 3023.6139999999996,
+    "releaseDate" : 256176000,
+    "title" : "Folge 162: Gefahr für Oskar!",
+    "upc" : "886446428635"
+  },
+  {
+    "albumID" : "1216486746",
+    "artist" : "TKKG",
+    "duration" : 3274.7090000000003,
+    "releaseDate" : -19958400,
+    "title" : "Folge 120: Bei Anruf Angst",
+    "upc" : "886446428314"
+  },
+  {
+    "albumID" : "1087320310",
+    "artist" : "TKKG",
+    "duration" : 3753.3340000000003,
+    "releaseDate" : 123379200,
+    "title" : "Folge 144: Schreckensnacht im Schlangenmaul",
+    "upc" : "886445640502"
+  },
+  {
+    "albumID" : "1685185731",
+    "artist" : "TKKG",
+    "duration" : 4529.267999999999,
+    "releaseDate" : 683769600,
+    "title" : "Folge 224: Bilderdiebe haben kein Gesicht",
+    "upc" : "886449827220"
+  },
+  {
+    "albumID" : "1559714078",
+    "artist" : "TKKG",
+    "duration" : 8362.18,
+    "releaseDate" : 628473600,
+    "title" : "Morgen kommt das Weihnachtsgrauen (Adventskalender)",
+    "upc" : "886449128891"
+  },
+  {
+    "albumID" : "1685181389",
+    "artist" : "TKKG",
+    "duration" : 4105.746,
+    "releaseDate" : 677721600,
+    "title" : "Folge 223: Betrüger Super Sauber",
+    "upc" : "886449719310"
+  },
+  {
+    "albumID" : "1685179952",
+    "artist" : "TKKG",
+    "duration" : 4195.308000000001,
+    "releaseDate" : 671673600,
+    "title" : "Folge 222: Roter Drache 222",
+    "upc" : "196871091329"
+  },
+  {
+    "albumID" : "314343718",
+    "artist" : "TKKG",
+    "duration" : 3086,
+    "releaseDate" : 261619200,
+    "title" : "TKKG 164 - Operation Hexen-Graffiti",
+    "upc" : "884977167061"
+  },
+  {
+    "albumID" : "1751468642",
+    "artist" : "TKKG",
+    "duration" : 4077.2389999999996,
+    "releaseDate" : 732758400,
+    "title" : "Folge 231: Knackis streicheln mit der Faust",
+    "upc" : "196872196443"
+  },
+  {
+    "albumID" : "1751468268",
+    "artist" : "TKKG",
+    "duration" : 3494.163,
+    "releaseDate" : 727315200,
+    "title" : "Folge 230: Die Tesla-Verschwörung",
+    "upc" : "196872196313"
+  },
+  {
+    "albumID" : "1751465070",
+    "artist" : "TKKG",
+    "duration" : 3949.5329999999994,
+    "releaseDate" : 689817600,
+    "title" : "Folge 225: Tanz mit der Giftschlange",
+    "upc" : "196872195828"
+  },
+  {
+    "albumID" : "1751465793",
+    "artist" : "TKKG",
+    "duration" : 4188.32,
+    "releaseDate" : 697680000,
+    "title" : "Folge 226: Der Täter ist unter uns",
+    "upc" : "196872195873"
+  },
+  {
+    "albumID" : "1751888366",
+    "artist" : "TKKG",
+    "duration" : 8681.237000000001,
+    "releaseDate" : 723081600,
+    "title" : "Auch Gauner feiern Weihnachten (Adventskalender)",
+    "upc" : "196872196528"
+  },
+  {
+    "albumID" : "1751467059",
+    "artist" : "TKKG",
+    "duration" : 3590.613,
+    "releaseDate" : 715824000,
+    "title" : "Folge 229: Auf den Schwingen des Totenvogels",
+    "upc" : "196872196269"
+  },
+  {
+    "albumID" : "1751468665",
+    "artist" : "TKKG",
+    "duration" : 4060.453,
+    "releaseDate" : 709776000,
+    "title" : "Folge 228: Das Geld, das niemand wollte",
+    "upc" : "196872196245"
+  },
+  {
+    "albumID" : "1536103124",
+    "artist" : "TKKG",
+    "duration" : 3979.679,
+    "releaseDate" : 627523200,
+    "title" : "Folge 216: Das Geheimnis im Jagdschloss",
+    "upc" : "886448206231"
+  },
+  {
+    "albumID" : "1751468455",
+    "artist" : "TKKG",
+    "duration" : 4430.364,
+    "releaseDate" : 703123200,
+    "title" : "Folge 227: Zwei für Zwölf",
+    "upc" : "196872195972"
   }
 ]
