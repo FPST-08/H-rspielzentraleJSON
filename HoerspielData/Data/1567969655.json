@@ -1,27 +1,11 @@
 [
   {
-    "albumID" : "1773785411",
-    "artist" : "Die Denkmaschine",
-    "duration" : 3761.000000000001,
-    "releaseDate" : 752716800,
-    "title" : "Folge 12: Die Kristallkugel",
-    "upc" : "4260507199614"
-  },
-  {
     "albumID" : "1579281477",
     "artist" : "Die Denkmaschine",
     "duration" : 5970.598999999999,
     "releaseDate" : 648691200,
     "title" : "Folge 1: Der unterbrochene Funktelegraph",
     "upc" : "4260507169914"
-  },
-  {
-    "albumID" : "1567977759",
-    "artist" : "Die Denkmaschine",
-    "duration" : 4429.842000000001,
-    "releaseDate" : 651110400,
-    "title" : "Folge 3: Das verlassene Haus",
-    "upc" : "4260507165039"
   },
   {
     "albumID" : "1567969600",
@@ -32,12 +16,12 @@
     "upc" : "4260507165015"
   },
   {
-    "albumID" : "1591875204",
+    "albumID" : "1567977759",
     "artist" : "Die Denkmaschine",
-    "duration" : 4878,
-    "releaseDate" : 670464000,
-    "title" : "Folge 5: Die versteckte Million",
-    "upc" : "4260507170620"
+    "duration" : 4429.842000000001,
+    "releaseDate" : 651110400,
+    "title" : "Folge 3: Das verlassene Haus",
+    "upc" : "4260507165039"
   },
   {
     "albumID" : "1578227066",
@@ -48,6 +32,14 @@
     "upc" : "4260507166678"
   },
   {
+    "albumID" : "1591875204",
+    "artist" : "Die Denkmaschine",
+    "duration" : 4878,
+    "releaseDate" : 670464000,
+    "title" : "Folge 5: Die versteckte Million",
+    "upc" : "4260507170620"
+  },
+  {
     "albumID" : "1604175249",
     "artist" : "Die Denkmaschine",
     "duration" : 4179.001,
@@ -56,20 +48,12 @@
     "upc" : "4260507171450"
   },
   {
-    "albumID" : "1724715505",
+    "albumID" : "1651406956",
     "artist" : "Die Denkmaschine",
-    "duration" : 3961.999999999999,
-    "releaseDate" : 727315200,
-    "title" : "Folge 10: Das perfekte Alibi",
-    "upc" : "4260507191557"
-  },
-  {
-    "albumID" : "1747615660",
-    "artist" : "Die Denkmaschine",
-    "duration" : 3553.0980000000004,
-    "releaseDate" : 740016000,
-    "title" : "Folge 11: Das Motorboot",
-    "upc" : "4260507195876"
+    "duration" : 3726.0010000000007,
+    "releaseDate" : 701913600,
+    "title" : "Folge 7: Das Rätsel des gestohlenen Rubens",
+    "upc" : "4260507177384"
   },
   {
     "albumID" : "1662324929",
@@ -88,11 +72,27 @@
     "upc" : "4260507180933"
   },
   {
-    "albumID" : "1651406956",
+    "albumID" : "1724715505",
     "artist" : "Die Denkmaschine",
-    "duration" : 3726.0010000000007,
-    "releaseDate" : 701913600,
-    "title" : "Folge 7: Das Rätsel des gestohlenen Rubens",
-    "upc" : "4260507177384"
+    "duration" : 3961.999999999999,
+    "releaseDate" : 727315200,
+    "title" : "Folge 10: Das perfekte Alibi",
+    "upc" : "4260507191557"
+  },
+  {
+    "albumID" : "1747615660",
+    "artist" : "Die Denkmaschine",
+    "duration" : 3553.0980000000004,
+    "releaseDate" : 740016000,
+    "title" : "Folge 11: Das Motorboot",
+    "upc" : "4260507195876"
+  },
+  {
+    "albumID" : "1773785411",
+    "artist" : "Die Denkmaschine",
+    "duration" : 3761.000000000001,
+    "releaseDate" : 752716800,
+    "title" : "Folge 12: Die Kristallkugel",
+    "upc" : "4260507199614"
   }
 ]
