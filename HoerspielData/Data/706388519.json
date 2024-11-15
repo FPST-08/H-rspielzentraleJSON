@@ -1,35 +1,35 @@
 [
   {
-    "albumID" : "1492421826",
+    "albumID" : "1492425426",
     "artist" : "VIDAN",
-    "duration" : 3902.0659999999984,
-    "releaseDate" : 602726400,
-    "title" : "Staffel 1: Schrei nach Leben, Folge 1: Aus der Tiefe",
-    "upc" : "886448121695"
+    "duration" : 3614.321999999999,
+    "releaseDate" : 601948800,
+    "title" : "Staffel 1: Schrei nach Leben, Folge 10: Getrieben",
+    "upc" : "886448180357"
   },
   {
-    "albumID" : "1492422544",
+    "albumID" : "1492425079",
     "artist" : "VIDAN",
-    "duration" : 3534.544,
-    "releaseDate" : 602726400,
-    "title" : "Staffel 1: Schrei nach Leben, Folge 2: Demut",
-    "upc" : "886448180166"
+    "duration" : 2896.825,
+    "releaseDate" : 602035200,
+    "title" : "Staffel 1: Schrei nach Leben, Folge 9: Unerbittlich",
+    "upc" : "886448180234"
   },
   {
-    "albumID" : "1492423136",
+    "albumID" : "1492424373",
     "artist" : "VIDAN",
-    "duration" : 3481.4909999999995,
-    "releaseDate" : 602553600,
-    "title" : "Staffel 1: Schrei nach Leben, Folge 3: Ruhe!",
-    "upc" : "886448180173"
+    "duration" : 3252.6149999999993,
+    "releaseDate" : 602121600,
+    "title" : "Staffel 1: Schrei nach Leben, Folge 8: Der Gouverneur",
+    "upc" : "886448180227"
   },
   {
-    "albumID" : "1492423317",
+    "albumID" : "1492424219",
     "artist" : "VIDAN",
-    "duration" : 3650.7350000000006,
-    "releaseDate" : 602467200,
-    "title" : "Staffel 1: Schrei nach Leben, Folge 4: Balfour Island",
-    "upc" : "886448180180"
+    "duration" : 2876.559999999999,
+    "releaseDate" : 602208000,
+    "title" : "Staffel 1: Schrei nach Leben, Folge 7: Avantage",
+    "upc" : "886448180210"
   },
   {
     "albumID" : "1492424407",
@@ -48,36 +48,44 @@
     "upc" : "886448180197"
   },
   {
-    "albumID" : "1492424219",
+    "albumID" : "1492423317",
     "artist" : "VIDAN",
-    "duration" : 2876.559999999999,
-    "releaseDate" : 602208000,
-    "title" : "Staffel 1: Schrei nach Leben, Folge 7: Avantage",
-    "upc" : "886448180210"
+    "duration" : 3650.7350000000006,
+    "releaseDate" : 602467200,
+    "title" : "Staffel 1: Schrei nach Leben, Folge 4: Balfour Island",
+    "upc" : "886448180180"
   },
   {
-    "albumID" : "1562984863",
+    "albumID" : "1492423136",
     "artist" : "VIDAN",
-    "duration" : 3171.282,
-    "releaseDate" : 642643200,
-    "title" : "Staffel 2: Schrei nach Stille, Folge 1: Ende der Stille",
-    "upc" : "886449060856"
+    "duration" : 3481.4909999999995,
+    "releaseDate" : 602553600,
+    "title" : "Staffel 1: Schrei nach Leben, Folge 3: Ruhe!",
+    "upc" : "886448180173"
   },
   {
-    "albumID" : "1492424373",
+    "albumID" : "1492421826",
     "artist" : "VIDAN",
-    "duration" : 3252.6149999999993,
-    "releaseDate" : 602121600,
-    "title" : "Staffel 1: Schrei nach Leben, Folge 8: Der Gouverneur",
-    "upc" : "886448180227"
+    "duration" : 3902.0659999999984,
+    "releaseDate" : 602726400,
+    "title" : "Staffel 1: Schrei nach Leben, Folge 1: Aus der Tiefe",
+    "upc" : "886448121695"
   },
   {
-    "albumID" : "1492425079",
+    "albumID" : "1492422544",
     "artist" : "VIDAN",
-    "duration" : 2896.825,
-    "releaseDate" : 602035200,
-    "title" : "Staffel 1: Schrei nach Leben, Folge 9: Unerbittlich",
-    "upc" : "886448180234"
+    "duration" : 3534.544,
+    "releaseDate" : 602726400,
+    "title" : "Staffel 1: Schrei nach Leben, Folge 2: Demut",
+    "upc" : "886448180166"
+  },
+  {
+    "albumID" : "1510357716",
+    "artist" : "VIDAN",
+    "duration" : 2396.055,
+    "releaseDate" : 610588800,
+    "title" : "Staffel 1: Schrei nach Leben - Original Soundtrack",
+    "upc" : "886448430643"
   },
   {
     "albumID" : "1562988630",
@@ -86,22 +94,6 @@
     "releaseDate" : 642556800,
     "title" : "Staffel 2: Schrei nach Stille, Folge 2: Der Allumfassende",
     "upc" : "886449060887"
-  },
-  {
-    "albumID" : "1492425426",
-    "artist" : "VIDAN",
-    "duration" : 3614.321999999999,
-    "releaseDate" : 601948800,
-    "title" : "Staffel 1: Schrei nach Leben, Folge 10: Getrieben",
-    "upc" : "886448180357"
-  },
-  {
-    "albumID" : "1700837745",
-    "artist" : "VIDAN",
-    "duration" : 3645.92,
-    "releaseDate" : 717638400,
-    "title" : "Folge 1: Der Tod in Santa Charcas (Staffel 3: Schrei nach Vernichtung)",
-    "upc" : "196871108362"
   },
   {
     "albumID" : "1562990928",
@@ -136,14 +128,6 @@
     "upc" : "886449060979"
   },
   {
-    "albumID" : "1562997096",
-    "artist" : "VIDAN",
-    "duration" : 3068.8539999999994,
-    "releaseDate" : 642556800,
-    "title" : "Staffel 2: Schrei nach Stille, Folge 4: Die Geplagten",
-    "upc" : "886449060948"
-  },
-  {
     "albumID" : "1563002758",
     "artist" : "VIDAN",
     "duration" : 2872.4519999999998,
@@ -152,12 +136,12 @@
     "upc" : "886449060962"
   },
   {
-    "albumID" : "1563013631",
+    "albumID" : "1562997096",
     "artist" : "VIDAN",
-    "duration" : 3242.319,
+    "duration" : 3068.8539999999994,
     "releaseDate" : 642556800,
-    "title" : "Staffel 2: Schrei nach Stille, Folge 10: Vollendung?",
-    "upc" : "886449061013"
+    "title" : "Staffel 2: Schrei nach Stille, Folge 4: Die Geplagten",
+    "upc" : "886449060948"
   },
   {
     "albumID" : "1563010908",
@@ -168,12 +152,28 @@
     "upc" : "886449061006"
   },
   {
-    "albumID" : "1700898667",
+    "albumID" : "1563013631",
     "artist" : "VIDAN",
-    "duration" : 3164.545,
+    "duration" : 3242.319,
+    "releaseDate" : 642556800,
+    "title" : "Staffel 2: Schrei nach Stille, Folge 10: Vollendung?",
+    "upc" : "886449061013"
+  },
+  {
+    "albumID" : "1562984863",
+    "artist" : "VIDAN",
+    "duration" : 3171.282,
+    "releaseDate" : 642643200,
+    "title" : "Staffel 2: Schrei nach Stille, Folge 1: Ende der Stille",
+    "upc" : "886449060856"
+  },
+  {
+    "albumID" : "1700837745",
+    "artist" : "VIDAN",
+    "duration" : 3645.92,
     "releaseDate" : 717638400,
-    "title" : "Staffel 3: Schrei nach Vernichtung, Folge 2: Mutation",
-    "upc" : "196871108386"
+    "title" : "Folge 1: Der Tod in Santa Charcas (Staffel 3: Schrei nach Vernichtung)",
+    "upc" : "196871108362"
   },
   {
     "albumID" : "1700901895",
@@ -184,14 +184,6 @@
     "upc" : "196871108423"
   },
   {
-    "albumID" : "1700906183",
-    "artist" : "VIDAN",
-    "duration" : 3607.7340000000004,
-    "releaseDate" : 717638400,
-    "title" : "Staffel 3: Schrei nach Vernichtung, Folge 6: Der El Paso-Vorfall",
-    "upc" : "196871108492"
-  },
-  {
     "albumID" : "1700905402",
     "artist" : "VIDAN",
     "duration" : 3266.974,
@@ -200,12 +192,20 @@
     "upc" : "196871108447"
   },
   {
-    "albumID" : "1700905912",
+    "albumID" : "1700906183",
     "artist" : "VIDAN",
-    "duration" : 3528.1079999999997,
+    "duration" : 3607.7340000000004,
     "releaseDate" : 717638400,
-    "title" : "Staffel 3: Schrei nach Vernichtung, Folge 5: Flehende Seelen",
-    "upc" : "196871108461"
+    "title" : "Staffel 3: Schrei nach Vernichtung, Folge 6: Der El Paso-Vorfall",
+    "upc" : "196871108492"
+  },
+  {
+    "albumID" : "1700898667",
+    "artist" : "VIDAN",
+    "duration" : 3164.545,
+    "releaseDate" : 717638400,
+    "title" : "Staffel 3: Schrei nach Vernichtung, Folge 2: Mutation",
+    "upc" : "196871108386"
   },
   {
     "albumID" : "1700925166",
@@ -216,20 +216,20 @@
     "upc" : "196871108522"
   },
   {
+    "albumID" : "1700905912",
+    "artist" : "VIDAN",
+    "duration" : 3528.1079999999997,
+    "releaseDate" : 717638400,
+    "title" : "Staffel 3: Schrei nach Vernichtung, Folge 5: Flehende Seelen",
+    "upc" : "196871108461"
+  },
+  {
     "albumID" : "1700906341",
     "artist" : "VIDAN",
     "duration" : 2755.1609999999996,
     "releaseDate" : 717638400,
     "title" : "Folge 8: Die Gesandte (Staffel 3: Schrei nach Vernichtung)",
     "upc" : "196871108560"
-  },
-  {
-    "albumID" : "1700906725",
-    "artist" : "VIDAN",
-    "duration" : 3501.668,
-    "releaseDate" : 717638400,
-    "title" : "Staffel 3: Schrei nach Vernichtung, Folge 9: Nootaus Kampf",
-    "upc" : "196871108614"
   },
   {
     "albumID" : "1700907151",
@@ -240,11 +240,11 @@
     "upc" : "196871108652"
   },
   {
-    "albumID" : "1510357716",
+    "albumID" : "1700906725",
     "artist" : "VIDAN",
-    "duration" : 2396.055,
-    "releaseDate" : 610588800,
-    "title" : "Staffel 1: Schrei nach Leben - Original Soundtrack",
-    "upc" : "886448430643"
+    "duration" : 3501.668,
+    "releaseDate" : 717638400,
+    "title" : "Staffel 3: Schrei nach Vernichtung, Folge 9: Nootaus Kampf",
+    "upc" : "196871108614"
   }
 ]
