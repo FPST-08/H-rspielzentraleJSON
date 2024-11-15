@@ -24,12 +24,12 @@
     "upc" : "4260507163417"
   },
   {
-    "albumID" : "1638707133",
+    "albumID" : "1564712088",
     "artist" : "Dracula und der Zirkel der Sieben",
-    "duration" : 3532.0000000000005,
-    "releaseDate" : 683769600,
-    "title" : "Folge 6: Unter Bestien",
-    "upc" : "4260507175731"
+    "duration" : 3836.003,
+    "releaseDate" : 641433600,
+    "title" : "Folge 4: Hinter den Schatten",
+    "upc" : "4260507165640"
   },
   {
     "albumID" : "1618276221",
@@ -40,12 +40,12 @@
     "upc" : "4260507173249"
   },
   {
-    "albumID" : "1564712088",
+    "albumID" : "1638707133",
     "artist" : "Dracula und der Zirkel der Sieben",
-    "duration" : 3836.003,
-    "releaseDate" : 641433600,
-    "title" : "Folge 4: Hinter den Schatten",
-    "upc" : "4260507165640"
+    "duration" : 3532.0000000000005,
+    "releaseDate" : 683769600,
+    "title" : "Folge 6: Unter Bestien",
+    "upc" : "4260507175731"
   },
   {
     "albumID" : "1647813206",
@@ -54,6 +54,14 @@
     "releaseDate" : 688003200,
     "title" : "Folge 7: Die Schädelmühle",
     "upc" : "4260507176721"
+  },
+  {
+    "albumID" : "1648261309",
+    "artist" : "Dracula und der Zirkel der Sieben",
+    "duration" : 3354.0009999999993,
+    "releaseDate" : 688608000,
+    "title" : "Folge 8: Der Atem des Todes",
+    "upc" : "4260507177070"
   },
   {
     "albumID" : "1693232736",
@@ -72,30 +80,6 @@
     "upc" : "4260507188281"
   },
   {
-    "albumID" : "1746148991",
-    "artist" : "Dracula und der Zirkel der Sieben",
-    "duration" : 3346.0020000000004,
-    "releaseDate" : 740620800,
-    "title" : "Folge 13: Der Ruf des Bösen",
-    "upc" : "4260507195777"
-  },
-  {
-    "albumID" : "1763599493",
-    "artist" : "Dracula und der Zirkel der Sieben",
-    "duration" : 3787.392,
-    "releaseDate" : 750297600,
-    "title" : "Folge 15: Das Mal der Frevler",
-    "upc" : "4260507198723"
-  },
-  {
-    "albumID" : "1648261309",
-    "artist" : "Dracula und der Zirkel der Sieben",
-    "duration" : 3354.0009999999993,
-    "releaseDate" : 688608000,
-    "title" : "Folge 8: Der Atem des Todes",
-    "upc" : "4260507177070"
-  },
-  {
     "albumID" : "1712141259",
     "artist" : "Dracula und der Zirkel der Sieben",
     "duration" : 3402.001000000001,
@@ -112,12 +96,12 @@
     "upc" : "4260507192479"
   },
   {
-    "albumID" : "1768710399",
+    "albumID" : "1746148991",
     "artist" : "Dracula und der Zirkel der Sieben",
-    "duration" : 4166.001,
-    "releaseDate" : 751507200,
-    "title" : "Folge 16: Der Sohn des Verderbens",
-    "upc" : "4260507199188"
+    "duration" : 3346.0020000000004,
+    "releaseDate" : 740620800,
+    "title" : "Folge 13: Der Ruf des Bösen",
+    "upc" : "4260507195777"
   },
   {
     "albumID" : "1759924867",
@@ -126,5 +110,21 @@
     "releaseDate" : 746668800,
     "title" : "Folge 14: Blutsühne",
     "upc" : "4260507198181"
+  },
+  {
+    "albumID" : "1763599493",
+    "artist" : "Dracula und der Zirkel der Sieben",
+    "duration" : 3787.392,
+    "releaseDate" : 750297600,
+    "title" : "Folge 15: Das Mal der Frevler",
+    "upc" : "4260507198723"
+  },
+  {
+    "albumID" : "1768710399",
+    "artist" : "Dracula und der Zirkel der Sieben",
+    "duration" : 4166.001,
+    "releaseDate" : 751507200,
+    "title" : "Folge 16: Der Sohn des Verderbens",
+    "upc" : "4260507199188"
   }
 ]
