@@ -1,51 +1,43 @@
 [
   {
-    "albumID" : "1686112767",
+    "albumID" : "1686437597",
     "artist" : "Hurricane",
-    "duration" : 3494.7200000000003,
-    "releaseDate" : 674092800,
-    "title" : "Hurricane - Stadt der Lügen / Folge 1: Die erste Jagd",
-    "upc" : "886449896806"
+    "duration" : 3971.9470000000006,
+    "releaseDate" : 673315200,
+    "title" : "Folge 10: Im Zentrum der Gewalt (Hurricane - Stadt der Lügen)",
+    "upc" : "886449897100"
   },
   {
-    "albumID" : "1766528982",
+    "albumID" : "1686411729",
     "artist" : "Hurricane",
-    "duration" : 3867.013,
-    "releaseDate" : 749692800,
-    "title" : "Staffel 2, Folge 1: Two Sins - zwei Sünden sind nicht genug",
-    "upc" : "196872244106"
+    "duration" : 3321.1209999999996,
+    "releaseDate" : 673401600,
+    "title" : "Folge 9: Die Zeit läuft ab (Hurricane - Stadt der Lügen)",
+    "upc" : "886449897070"
   },
   {
-    "albumID" : "1686129345",
+    "albumID" : "1686438377",
     "artist" : "Hurricane",
-    "duration" : 3104.321000000001,
-    "releaseDate" : 674006400,
-    "title" : "Hurricane - Stadt der Lügen / Folge 2: Der Klan",
-    "upc" : "886449896868"
+    "duration" : 3030.387,
+    "releaseDate" : 673488000,
+    "title" : "Folge 8: Das Ende des Vertrauens (Hurricane - Stadt der Lügen)",
+    "upc" : "886449897285"
   },
   {
-    "albumID" : "1766525746",
+    "albumID" : "1686444983",
     "artist" : "Hurricane",
-    "duration" : 2717.4529999999995,
-    "releaseDate" : 749606400,
-    "title" : "Staffel 2, Folge 2: Die Pipeline",
-    "upc" : "196872244229"
+    "duration" : 3617.2149999999997,
+    "releaseDate" : 673574400,
+    "title" : "Folge 7: Tiefe Verstrickungen (Hurricane - Stadt der Lügen)",
+    "upc" : "886449897056"
   },
   {
-    "albumID" : "1766525827",
+    "albumID" : "1686410364",
     "artist" : "Hurricane",
-    "duration" : 3154.079,
-    "releaseDate" : 749606400,
-    "title" : "Staffel 2, Folge 4: Eis bricht",
-    "upc" : "196872244397"
-  },
-  {
-    "albumID" : "1686130258",
-    "artist" : "Hurricane",
-    "duration" : 3276.9339999999993,
-    "releaseDate" : 673920000,
-    "title" : "Hurricane - Stadt der Lügen / Folge 3: Arctic Diamond",
-    "upc" : "886449896936"
+    "duration" : 2894.974,
+    "releaseDate" : 673660800,
+    "title" : "Folge 6: Die neue Jagd (Hurricane - Stadt der Lügen)",
+    "upc" : "886449896998"
   },
   {
     "albumID" : "1686129907",
@@ -56,14 +48,6 @@
     "upc" : "886449896967"
   },
   {
-    "albumID" : "1766725877",
-    "artist" : "Hurricane",
-    "duration" : 2783.8530000000005,
-    "releaseDate" : 749606400,
-    "title" : "Staffel 2, Folge 3: Das Kartell",
-    "upc" : "196872244267"
-  },
-  {
     "albumID" : "1687932730",
     "artist" : "Hurricane",
     "duration" : 2900.386,
@@ -72,20 +56,60 @@
     "upc" : "886449897193"
   },
   {
+    "albumID" : "1686130258",
+    "artist" : "Hurricane",
+    "duration" : 3276.9339999999993,
+    "releaseDate" : 673920000,
+    "title" : "Hurricane - Stadt der Lügen / Folge 3: Arctic Diamond",
+    "upc" : "886449896936"
+  },
+  {
+    "albumID" : "1686129345",
+    "artist" : "Hurricane",
+    "duration" : 3104.321000000001,
+    "releaseDate" : 674006400,
+    "title" : "Hurricane - Stadt der Lügen / Folge 2: Der Klan",
+    "upc" : "886449896868"
+  },
+  {
+    "albumID" : "1686112767",
+    "artist" : "Hurricane",
+    "duration" : 3494.7200000000003,
+    "releaseDate" : 674092800,
+    "title" : "Hurricane - Stadt der Lügen / Folge 1: Die erste Jagd",
+    "upc" : "886449896806"
+  },
+  {
+    "albumID" : "1766525746",
+    "artist" : "Hurricane",
+    "duration" : 2717.4529999999995,
+    "releaseDate" : 749606400,
+    "title" : "Staffel 2, Folge 2: Die Pipeline",
+    "upc" : "196872244229"
+  },
+  {
+    "albumID" : "1766725877",
+    "artist" : "Hurricane",
+    "duration" : 2783.8530000000005,
+    "releaseDate" : 749606400,
+    "title" : "Staffel 2, Folge 3: Das Kartell",
+    "upc" : "196872244267"
+  },
+  {
+    "albumID" : "1766525827",
+    "artist" : "Hurricane",
+    "duration" : 3154.079,
+    "releaseDate" : 749606400,
+    "title" : "Staffel 2, Folge 4: Eis bricht",
+    "upc" : "196872244397"
+  },
+  {
     "albumID" : "1766526185",
     "artist" : "Hurricane",
     "duration" : 3304.5469999999996,
     "releaseDate" : 749606400,
     "title" : "Staffel 2, Folge 5: Präzision",
     "upc" : "196872244441"
-  },
-  {
-    "albumID" : "1686444983",
-    "artist" : "Hurricane",
-    "duration" : 3617.2149999999997,
-    "releaseDate" : 673574400,
-    "title" : "Folge 7: Tiefe Verstrickungen (Hurricane - Stadt der Lügen)",
-    "upc" : "886449897056"
   },
   {
     "albumID" : "1766525989",
@@ -104,28 +128,12 @@
     "upc" : "196872244595"
   },
   {
-    "albumID" : "1686437597",
-    "artist" : "Hurricane",
-    "duration" : 3971.9470000000006,
-    "releaseDate" : 673315200,
-    "title" : "Folge 10: Im Zentrum der Gewalt (Hurricane - Stadt der Lügen)",
-    "upc" : "886449897100"
-  },
-  {
     "albumID" : "1766526216",
     "artist" : "Hurricane",
     "duration" : 3345.0159999999996,
     "releaseDate" : 749606400,
     "title" : "Staffel 2, Folge 9: Lügner",
     "upc" : "196872244670"
-  },
-  {
-    "albumID" : "1686438377",
-    "artist" : "Hurricane",
-    "duration" : 3030.387,
-    "releaseDate" : 673488000,
-    "title" : "Folge 8: Das Ende des Vertrauens (Hurricane - Stadt der Lügen)",
-    "upc" : "886449897285"
   },
   {
     "albumID" : "1766526281",
@@ -136,14 +144,6 @@
     "upc" : "196872244649"
   },
   {
-    "albumID" : "1686411729",
-    "artist" : "Hurricane",
-    "duration" : 3321.1209999999996,
-    "releaseDate" : 673401600,
-    "title" : "Folge 9: Die Zeit läuft ab (Hurricane - Stadt der Lügen)",
-    "upc" : "886449897070"
-  },
-  {
     "albumID" : "1766526468",
     "artist" : "Hurricane",
     "duration" : 5424.915999999999,
@@ -152,11 +152,11 @@
     "upc" : "196872244717"
   },
   {
-    "albumID" : "1686410364",
+    "albumID" : "1766528982",
     "artist" : "Hurricane",
-    "duration" : 2894.974,
-    "releaseDate" : 673660800,
-    "title" : "Folge 6: Die neue Jagd (Hurricane - Stadt der Lügen)",
-    "upc" : "886449896998"
+    "duration" : 3867.013,
+    "releaseDate" : 749692800,
+    "title" : "Staffel 2, Folge 1: Two Sins - zwei Sünden sind nicht genug",
+    "upc" : "196872244106"
   }
 ]
