@@ -1,5 +1,477 @@
 [
   {
+    "albumID" : "327253628",
+    "artist" : "John Sinclair",
+    "duration" : 3780.854,
+    "releaseDate" : -5443200,
+    "title" : "John Sinclair, Folge 3: Achterbahn ins Jenseits",
+    "upc" : "9783838765181"
+  },
+  {
+    "albumID" : "309318278",
+    "artist" : "Jason Dark & John Sinclair",
+    "duration" : 3474.7320000000004,
+    "releaseDate" : 21859200,
+    "title" : "John Sinclair, Folge 7: Das Horror-Schloss Im Spessart",
+    "upc" : "9783838761107"
+  },
+  {
+    "albumID" : "309163044",
+    "artist" : "Jason Dark & John Sinclair",
+    "duration" : 3218.028,
+    "releaseDate" : 21859200,
+    "title" : "John Sinclair, Folge 8: Das Mädchen von Atlantis",
+    "upc" : "9783838761114"
+  },
+  {
+    "albumID" : "309317148",
+    "artist" : "Jason Dark & John Sinclair",
+    "duration" : 3193.8679999999995,
+    "releaseDate" : 21859200,
+    "title" : "John Sinclair, Folge 9: Das Dämonenauge (2/2)",
+    "upc" : "9783838761121"
+  },
+  {
+    "albumID" : "309321030",
+    "artist" : "Jason Dark & John Sinclair",
+    "duration" : 3159.535,
+    "releaseDate" : 27216000,
+    "title" : "John Sinclair, Folge 12: Der Hexer Von Paris (Teil 1 von 2)",
+    "upc" : "9783838761152"
+  },
+  {
+    "albumID" : "309321421",
+    "artist" : "Jason Dark & John Sinclair",
+    "duration" : 3260.932,
+    "releaseDate" : 27216000,
+    "title" : "John Sinclair, Folge 10: Die Horror-Reiter",
+    "upc" : "9783838761138"
+  },
+  {
+    "albumID" : "309322022",
+    "artist" : "Jason Dark & John Sinclair",
+    "duration" : 3301.764,
+    "releaseDate" : 27216000,
+    "title" : "John Sinclair, Folge 11: Kino des Schreckens",
+    "upc" : "9783838761145"
+  },
+  {
+    "albumID" : "309165861",
+    "artist" : "Jason Dark & John Sinclair",
+    "duration" : 3038.0660000000003,
+    "releaseDate" : 36374400,
+    "title" : "John Sinclair, Folge 14: Knochensaat",
+    "upc" : "9783838761176"
+  },
+  {
+    "albumID" : "309162788",
+    "artist" : "Jason Dark & John Sinclair",
+    "duration" : 2952.946,
+    "releaseDate" : 36374400,
+    "title" : "John Sinclair, Folge 15: Die Geisterbraut",
+    "upc" : "9783838761183"
+  },
+  {
+    "albumID" : "309164868",
+    "artist" : "Jason Dark & John Sinclair",
+    "duration" : 2942.3070000000002,
+    "releaseDate" : 36374400,
+    "title" : "John Sinclair, Folge 13: Gefangen in der Mikrowelt (Teil 2 von 2)",
+    "upc" : "9783838761169"
+  },
+  {
+    "albumID" : "309311997",
+    "artist" : "Jason Dark & John Sinclair",
+    "duration" : 2729.3740000000003,
+    "releaseDate" : 36374400,
+    "title" : "John Sinclair, Folge 16: Die Horror-Cops (Teil 1 von 3)",
+    "upc" : "9783838761190"
+  },
+  {
+    "albumID" : "309151058",
+    "artist" : "Jason Dark & John Sinclair",
+    "duration" : 2800.706,
+    "releaseDate" : 36374400,
+    "title" : "John Sinclair, Folge 17: Bills Hinrichtung (Teil 2 von 3)",
+    "upc" : "9783838761206"
+  },
+  {
+    "albumID" : "309312300",
+    "artist" : "Jason Dark & John Sinclair",
+    "duration" : 2881.7749999999996,
+    "releaseDate" : 36374400,
+    "title" : "John Sinclair, Folge 18: Die teuflischen Puppen (Teil 3 von 3)",
+    "upc" : "9783838761213"
+  },
+  {
+    "albumID" : "356602701",
+    "artist" : "John Sinclair",
+    "duration" : 4623.1810000000005,
+    "releaseDate" : 48384000,
+    "title" : "John Sinclair, Der Anfang (SE 01)",
+    "upc" : "9783838760988"
+  },
+  {
+    "albumID" : "309189303",
+    "artist" : "Jason Dark & John Sinclair",
+    "duration" : 2944.666,
+    "releaseDate" : 61171200,
+    "title" : "John Sinclair, Folge 20: Das Buch der grausamen Träume",
+    "upc" : "9783838761237"
+  },
+  {
+    "albumID" : "309311844",
+    "artist" : "Jason Dark & John Sinclair",
+    "duration" : 2700.96,
+    "releaseDate" : 61171200,
+    "title" : "John Sinclair, Folge 21: Die Höllenkutsche (Teil 1 von 2)",
+    "upc" : "9783838761244"
+  },
+  {
+    "albumID" : "309311337",
+    "artist" : "Jason Dark & John Sinclair",
+    "duration" : 2866.254,
+    "releaseDate" : 61171200,
+    "title" : "John Sinclair, Folge 19: Der Sensenmann als Hochzeitsgast",
+    "upc" : "9783838761220"
+  },
+  {
+    "albumID" : "309184009",
+    "artist" : "Jason Dark & John Sinclair",
+    "duration" : 2673.2419999999997,
+    "releaseDate" : 66528000,
+    "title" : "John Sinclair, Folge 22: Asmodinas Reich (Teli 2 von 2)",
+    "upc" : "9783838761251"
+  },
+  {
+    "albumID" : "309190683",
+    "artist" : "Jason Dark & John Sinclair",
+    "duration" : 2934.681,
+    "releaseDate" : 67824000,
+    "title" : "John Sinclair, Folge 23: Der unheimliche Richter",
+    "upc" : "9783838761268"
+  },
+  {
+    "albumID" : "309195958",
+    "artist" : "Jason Dark & John Sinclair",
+    "duration" : 2731.171,
+    "releaseDate" : 76896000,
+    "title" : "John Sinclair, Folge 24: Die Drohung (Teil 1 von 3)",
+    "upc" : "9783838761275"
+  },
+  {
+    "albumID" : "309208816",
+    "artist" : "Jason Dark & John Sinclair",
+    "duration" : 2775.905,
+    "releaseDate" : 76896000,
+    "title" : "John Sinclair, Folge 25: Ein Friedhof am Ende der Welt (Teil 2 von 3)",
+    "upc" : "9783838761282"
+  },
+  {
+    "albumID" : "309190742",
+    "artist" : "Jason Dark & John Sinclair",
+    "duration" : 2896.9849999999997,
+    "releaseDate" : 83116800,
+    "title" : "John Sinclair, Folge 26: Das letzte Duell (Teil 3 von 3)",
+    "upc" : "9783838761299"
+  },
+  {
+    "albumID" : "309338194",
+    "artist" : "Jason Dark & John Sinclair",
+    "duration" : 3107.266,
+    "releaseDate" : 83116800,
+    "title" : "John Sinclair, Folge 27: Asmodinas Todesengel",
+    "upc" : "9783838761305"
+  },
+  {
+    "albumID" : "309189296",
+    "artist" : "Jason Dark & John Sinclair",
+    "duration" : 2821.652,
+    "releaseDate" : 104976000,
+    "title" : "John Sinclair, Folge 28: Das Eisgefängnis",
+    "upc" : "9783838761312"
+  },
+  {
+    "albumID" : "309164676",
+    "artist" : "Jason Dark & John Sinclair",
+    "duration" : 2857.534,
+    "releaseDate" : 104976000,
+    "title" : "John Sinclair, Folge 29: Die grausamen Ritter (Teil 1 von 2)",
+    "upc" : "9783838761329"
+  },
+  {
+    "albumID" : "309176828",
+    "artist" : "Jason Dark & John Sinclair",
+    "duration" : 2838.453,
+    "releaseDate" : 122256000,
+    "title" : "John Sinclair, Folge 31: Der Würfel des Unheils",
+    "upc" : "9783838761343"
+  },
+  {
+    "albumID" : "309182108",
+    "artist" : "Jason Dark & John Sinclair",
+    "duration" : 2853.054,
+    "releaseDate" : 122256000,
+    "title" : "John Sinclair, Folge 32: Dr. Tods Monsterhöhle",
+    "upc" : "9783838761350"
+  },
+  {
+    "albumID" : "309200070",
+    "artist" : "Jason Dark & John Sinclair",
+    "duration" : 2966.8149999999996,
+    "releaseDate" : 122256000,
+    "title" : "John Sinclair, Folge 30: Die Drachensaat (Teil 2 von 2)",
+    "upc" : "9783838761336"
+  },
+  {
+    "albumID" : "309572213",
+    "artist" : "Jason Dark & John Sinclair",
+    "duration" : 7653.507999999998,
+    "releaseDate" : 137289600,
+    "title" : "John Sinclair, SE 02: Der Pfähler",
+    "upc" : "9783838761510"
+  },
+  {
+    "albumID" : "309182475",
+    "artist" : "Jason Dark & John Sinclair",
+    "duration" : 2803.9469999999997,
+    "releaseDate" : 156038400,
+    "title" : "John Sinclair, Folge 33: Die Eisvampire",
+    "upc" : "9783838761367"
+  },
+  {
+    "albumID" : "309206799",
+    "artist" : "Jason Dark & John Sinclair",
+    "duration" : 2857.5850000000005,
+    "releaseDate" : 156038400,
+    "title" : "John Sinclair, Folge 34: Mr. Mondos Monster (Teil 1 von 2)",
+    "upc" : "9783838761374"
+  },
+  {
+    "albumID" : "309190980",
+    "artist" : "Jason Dark & John Sinclair",
+    "duration" : 3423.254,
+    "releaseDate" : 170899200,
+    "title" : "John Sinclair, Folge 36: Der Todesnebel",
+    "upc" : "9783838761398"
+  },
+  {
+    "albumID" : "309201143",
+    "artist" : "Jason Dark & John Sinclair",
+    "duration" : 2821.3329999999996,
+    "releaseDate" : 170899200,
+    "title" : "John Sinclair, Folge 35: Königin der Wölfe (Teil 2 von 2)",
+    "upc" : "9783838761381"
+  },
+  {
+    "albumID" : "309201413",
+    "artist" : "Jason Dark & John Sinclair",
+    "duration" : 3073.6259999999997,
+    "releaseDate" : 203299200,
+    "title" : "John Sinclair, Folge 37: Dr. Tods Horror-Insel",
+    "upc" : "9783838761404"
+  },
+  {
+    "albumID" : "309571812",
+    "artist" : "Jason Dark & John Sinclair",
+    "duration" : 3368.799,
+    "releaseDate" : 206323200,
+    "title" : "John Sinclair, Folge 38: Im Land Des Vampirs (1/3)",
+    "upc" : "9783838761411"
+  },
+  {
+    "albumID" : "309174968",
+    "artist" : "Jason Dark & John Sinclair",
+    "duration" : 2931.9849999999997,
+    "releaseDate" : 208742400,
+    "title" : "John Sinclair, Folge 39: Schreie in der Horror-Gruft (Teil 2 von 3)",
+    "upc" : "9783838761428"
+  },
+  {
+    "albumID" : "309156072",
+    "artist" : "Jason Dark & John Sinclair",
+    "duration" : 3233.8940000000002,
+    "releaseDate" : 208742400,
+    "title" : "John Sinclair, Folge 40: Mein Todesurteil (Teil 3 von 3)",
+    "upc" : "9783838761435"
+  },
+  {
+    "albumID" : "1164965153",
+    "artist" : "John Sinclair",
+    "duration" : 4481.487000000001,
+    "releaseDate" : 215654400,
+    "title" : "Tonstudio Braun, Folge 50: Blutiger Halloween",
+    "upc" : "9783838780504"
+  },
+  {
+    "albumID" : "309170640",
+    "artist" : "Jason Dark & John Sinclair",
+    "duration" : 2910.7210000000005,
+    "releaseDate" : 215913600,
+    "title" : "John Sinclair, Folge 42: Blutiger Halloween",
+    "upc" : "9783838761459"
+  },
+  {
+    "albumID" : "309326889",
+    "artist" : "Jason Dark & John Sinclair",
+    "duration" : 3120.999999999999,
+    "releaseDate" : 219024000,
+    "title" : "John Sinclair, Folge 41: Die Schöne Aus Dem Totenreich",
+    "upc" : "9783838761442"
+  },
+  {
+    "albumID" : "309326366",
+    "artist" : "Jason Dark & John Sinclair",
+    "duration" : 2874.747,
+    "releaseDate" : 229219200,
+    "title" : "John Sinclair, Folge 43: Ich Flog In Die Todeswolke (1/2)",
+    "upc" : "9783838761466"
+  },
+  {
+    "albumID" : "309170807",
+    "artist" : "Jason Dark & John Sinclair",
+    "duration" : 3264.187,
+    "releaseDate" : 232329600,
+    "title" : "John Sinclair, Folge 44: Das Elixier des Teufels (Teil 2 von 2)",
+    "upc" : "9783838761473"
+  },
+  {
+    "albumID" : "309171574",
+    "artist" : "Jason Dark & John Sinclair",
+    "duration" : 3403.5069999999996,
+    "releaseDate" : 237772800,
+    "title" : "John Sinclair, Folge 45: Die Teufelsuhr",
+    "upc" : "9783838761480"
+  },
+  {
+    "albumID" : "309174960",
+    "artist" : "Jason Dark & John Sinclair",
+    "duration" : 2842.015,
+    "releaseDate" : 237772800,
+    "title" : "John Sinclair, Folge 46: Myxins Entführung",
+    "upc" : "9783838761497"
+  },
+  {
+    "albumID" : "333633618",
+    "artist" : "John Sinclair",
+    "duration" : 3889.6119999999996,
+    "releaseDate" : 249609600,
+    "title" : "John Sinclair, Folge 1: Im Nachtclub der Vampire (Remastered)",
+    "upc" : "9783838765167"
+  },
+  {
+    "albumID" : "327254705",
+    "artist" : "John Sinclair",
+    "duration" : 3023.167,
+    "releaseDate" : 249609600,
+    "title" : "John Sinclair, Folge 2: Die Totenkopf-Insel",
+    "upc" : "9783838765174"
+  },
+  {
+    "albumID" : "327299068",
+    "artist" : "John Sinclair",
+    "duration" : 3979.61,
+    "releaseDate" : 253497600,
+    "title" : "Geisterjäger, Folge 5: Der Mörder mit dem Januskopf (Remastered)",
+    "upc" : "9783838765204"
+  },
+  {
+    "albumID" : "327305262",
+    "artist" : "John Sinclair",
+    "duration" : 3654.2620000000006,
+    "releaseDate" : 253497600,
+    "title" : "John Sinclair, Folge 4: Damona, Dienerin des Satans (Remastered)",
+    "upc" : "9783838765198"
+  },
+  {
+    "albumID" : "327268038",
+    "artist" : "John Sinclair",
+    "duration" : 3962.347000000001,
+    "releaseDate" : 253497600,
+    "title" : "John Sinclair, Folge 6: Schach mit dem Dämon (Remastered)",
+    "upc" : "9783838765211"
+  },
+  {
+    "albumID" : "309171918",
+    "artist" : "John Sinclair",
+    "duration" : 2807.8140000000003,
+    "releaseDate" : 255916800,
+    "title" : "John Sinclair, Folge 47: Die Werwolf-Sippe",
+    "upc" : "9783838760582"
+  },
+  {
+    "albumID" : "309326145",
+    "artist" : "John Sinclair",
+    "duration" : 2968.279,
+    "releaseDate" : 255916800,
+    "title" : "John Sinclair, Folge 48: Lupinas Todfeind",
+    "upc" : "9783838760599"
+  },
+  {
+    "albumID" : "310881960",
+    "artist" : "John Sinclair & Jason Dark",
+    "duration" : 3623.5179999999996,
+    "releaseDate" : 261360000,
+    "title" : "John Sinclair, Folge 50: Zombies in Manhattan",
+    "upc" : "9783785740590"
+  },
+  {
+    "albumID" : "310881940",
+    "artist" : "John Sinclair & Jason Dark",
+    "duration" : 2793.8530000000005,
+    "releaseDate" : 261360000,
+    "title" : "John Sinclair, Folge 49: Ich jagte Jack the Ripper",
+    "upc" : "9783785740606"
+  },
+  {
+    "albumID" : "324275565",
+    "artist" : "John Sinclair",
+    "duration" : 3135.650000000001,
+    "releaseDate" : 266803200,
+    "title" : "John Sinclair, Folge 52: Horrortrip zur Schönheitsfarm",
+    "upc" : "9783785740620"
+  },
+  {
+    "albumID" : "324276149",
+    "artist" : "John Sinclair",
+    "duration" : 2765.741,
+    "releaseDate" : 266803200,
+    "title" : "John Sinclair,  Folge 51: Mannequins mit Mörderaugen",
+    "upc" : "9783785740613"
+  },
+  {
+    "albumID" : "327483755",
+    "artist" : "John Sinclair",
+    "duration" : 3213.9290000000005,
+    "releaseDate" : 271641600,
+    "title" : "John Sinclair, Folge 53: Dämonen im Raketencamp",
+    "upc" : "9783785740637"
+  },
+  {
+    "albumID" : "327354595",
+    "artist" : "John Sinclair",
+    "duration" : 2661.348,
+    "releaseDate" : 271641600,
+    "title" : "John Sinclair, Folge 54: Ein schwarzer Tag in meinem Leben",
+    "upc" : "9783785740644"
+  },
+  {
+    "albumID" : "356571065",
+    "artist" : "John Sinclair",
+    "duration" : 3284.2960000000003,
+    "releaseDate" : 288921600,
+    "title" : "John Sinclair, Folge 55: Fenris, der Götterwolf",
+    "upc" : "9783838766249"
+  },
+  {
+    "albumID" : "356610081",
+    "artist" : "John Sinclair",
+    "duration" : 3026.238,
+    "releaseDate" : 288921600,
+    "title" : "John Sinclair, Folge 56: Eine schaurige Warnung",
+    "upc" : "9783838766232"
+  },
+  {
     "albumID" : "356472016",
     "artist" : "John Sinclair",
     "duration" : 4625.505999999999,
@@ -16,1140 +488,12 @@
     "upc" : "9783838766294"
   },
   {
-    "albumID" : "309318278",
-    "artist" : "Jason Dark & John Sinclair",
-    "duration" : 3474.7320000000004,
-    "releaseDate" : 21859200,
-    "title" : "John Sinclair, Folge 7: Das Horror-Schloss Im Spessart",
-    "upc" : "9783838761107"
-  },
-  {
-    "albumID" : "333633618",
-    "artist" : "John Sinclair",
-    "duration" : 3889.6119999999996,
-    "releaseDate" : 249609600,
-    "title" : "John Sinclair, Folge 1: Im Nachtclub der Vampire (Remastered)",
-    "upc" : "9783838765167"
-  },
-  {
-    "albumID" : "957426097",
-    "artist" : "John Sinclair",
-    "duration" : 7522.109000000001,
-    "releaseDate" : 447897600,
-    "title" : "Folge 100: Das Ende",
-    "upc" : "9783838775432"
-  },
-  {
-    "albumID" : "309189303",
-    "artist" : "Jason Dark & John Sinclair",
-    "duration" : 2944.666,
-    "releaseDate" : 61171200,
-    "title" : "John Sinclair, Folge 20: Das Buch der grausamen Träume",
-    "upc" : "9783838761237"
-  },
-  {
-    "albumID" : "327254705",
-    "artist" : "John Sinclair",
-    "duration" : 3023.167,
-    "releaseDate" : 249609600,
-    "title" : "John Sinclair, Folge 2: Die Totenkopf-Insel",
-    "upc" : "9783838765174"
-  },
-  {
-    "albumID" : "1112187172",
-    "artist" : "John Sinclair",
-    "duration" : 3114.3079999999995,
-    "releaseDate" : 508896000,
-    "title" : "Folge 113: Mandraka, der Schwarzblut-Vampir",
-    "upc" : "9783838779102"
-  },
-  {
-    "albumID" : "1409830569",
-    "artist" : "John Sinclair",
-    "duration" : 3111.0019999999995,
-    "releaseDate" : 562204800,
-    "title" : "Folge 125: Zombies aus dem Höllenfeuer. Teil 1 von 3",
-    "upc" : "9783838787619"
-  },
-  {
-    "albumID" : "1236862571",
-    "artist" : "John Sinclair",
-    "duration" : 3893.743,
-    "releaseDate" : 538617600,
-    "title" : "Folge 119: Drei Herzen aus Eis. Teil 1 von 4",
-    "upc" : "9783838783338"
-  },
-  {
-    "albumID" : "386719338",
-    "artist" : "John Sinclair",
-    "duration" : 3338.506,
-    "releaseDate" : 304560000,
-    "title" : "John Sinclair Classics, Folge 4: Das Leichenhaus der Lady L.",
-    "upc" : "9783838766676"
-  },
-  {
-    "albumID" : "309189296",
-    "artist" : "Jason Dark & John Sinclair",
-    "duration" : 2821.652,
-    "releaseDate" : 104976000,
-    "title" : "John Sinclair, Folge 28: Das Eisgefängnis",
-    "upc" : "9783838761312"
-  },
-  {
-    "albumID" : "1409832147",
-    "artist" : "John Sinclair",
-    "duration" : 3270.793,
-    "releaseDate" : 573004800,
-    "title" : "Folge 129: Gruft der wimmernden Seelen",
-    "upc" : "9783838788913"
-  },
-  {
-    "albumID" : "309170640",
-    "artist" : "Jason Dark & John Sinclair",
-    "duration" : 2910.7210000000005,
-    "releaseDate" : 215913600,
-    "title" : "John Sinclair, Folge 42: Blutiger Halloween",
-    "upc" : "9783838761459"
-  },
-  {
-    "albumID" : "327253628",
-    "artist" : "John Sinclair",
-    "duration" : 3780.854,
-    "releaseDate" : -5443200,
-    "title" : "John Sinclair, Folge 3: Achterbahn ins Jenseits",
-    "upc" : "9783838765181"
-  },
-  {
-    "albumID" : "309165861",
-    "artist" : "Jason Dark & John Sinclair",
-    "duration" : 3038.0660000000003,
-    "releaseDate" : 36374400,
-    "title" : "John Sinclair, Folge 14: Knochensaat",
-    "upc" : "9783838761176"
-  },
-  {
-    "albumID" : "310881960",
-    "artist" : "John Sinclair & Jason Dark",
-    "duration" : 3623.5179999999996,
-    "releaseDate" : 261360000,
-    "title" : "John Sinclair, Folge 50: Zombies in Manhattan",
-    "upc" : "9783785740590"
-  },
-  {
-    "albumID" : "1236848232",
-    "artist" : "John Sinclair",
-    "duration" : 3273.708,
-    "releaseDate" : 543974400,
-    "title" : "Folge 121: Die Geburt des Schwarzen Tods. Teil 3 von 4",
-    "upc" : "9783838783352"
-  },
-  {
-    "albumID" : "309171574",
-    "artist" : "Jason Dark & John Sinclair",
-    "duration" : 3403.5069999999996,
-    "releaseDate" : 237772800,
-    "title" : "John Sinclair, Folge 45: Die Teufelsuhr",
-    "upc" : "9783838761480"
-  },
-  {
-    "albumID" : "309163044",
-    "artist" : "Jason Dark & John Sinclair",
-    "duration" : 3218.028,
-    "releaseDate" : 21859200,
-    "title" : "John Sinclair, Folge 8: Das Mädchen von Atlantis",
-    "upc" : "9783838761114"
-  },
-  {
-    "albumID" : "309321030",
-    "artist" : "Jason Dark & John Sinclair",
-    "duration" : 3159.535,
-    "releaseDate" : 27216000,
-    "title" : "John Sinclair, Folge 12: Der Hexer Von Paris (Teil 1 von 2)",
-    "upc" : "9783838761152"
-  },
-  {
-    "albumID" : "309195958",
-    "artist" : "Jason Dark & John Sinclair",
-    "duration" : 2731.171,
-    "releaseDate" : 76896000,
-    "title" : "John Sinclair, Folge 24: Die Drohung (Teil 1 von 3)",
-    "upc" : "9783838761275"
-  },
-  {
     "albumID" : "371219234",
     "artist" : "John Sinclair",
     "duration" : 3510.6940000000004,
     "releaseDate" : 296784000,
     "title" : "John Sinclair, Classics Folge 3: Dr. Satanos",
     "upc" : "9783838766485"
-  },
-  {
-    "albumID" : "309321421",
-    "artist" : "Jason Dark & John Sinclair",
-    "duration" : 3260.932,
-    "releaseDate" : 27216000,
-    "title" : "John Sinclair, Folge 10: Die Horror-Reiter",
-    "upc" : "9783838761138"
-  },
-  {
-    "albumID" : "1193213771",
-    "artist" : "John Sinclair",
-    "duration" : 4027.3620000000005,
-    "releaseDate" : 522288000,
-    "title" : "Folge 117: Zombies auf dem Roten Platz",
-    "upc" : "9783838783314"
-  },
-  {
-    "albumID" : "1236872881",
-    "artist" : "John Sinclair",
-    "duration" : 3360.2490000000003,
-    "releaseDate" : 528336000,
-    "title" : "Folge 118: Die Kreuzweg-Legende",
-    "upc" : "9783838783321"
-  },
-  {
-    "albumID" : "1560216795",
-    "artist" : "John Sinclair",
-    "duration" : 3051.855,
-    "releaseDate" : 641433600,
-    "title" : "Folge 145: Villa Frankenstein",
-    "upc" : "9783838797069"
-  },
-  {
-    "albumID" : "1369227922",
-    "artist" : "John Sinclair",
-    "duration" : 3505.8030000000003,
-    "releaseDate" : 557366400,
-    "title" : "Folge 124: Die Rache der Horror-Reiter",
-    "upc" : "9783838787602"
-  },
-  {
-    "albumID" : "309190683",
-    "artist" : "Jason Dark & John Sinclair",
-    "duration" : 2934.681,
-    "releaseDate" : 67824000,
-    "title" : "John Sinclair, Folge 23: Der unheimliche Richter",
-    "upc" : "9783838761268"
-  },
-  {
-    "albumID" : "1369227784",
-    "artist" : "John Sinclair",
-    "duration" : 3287.8519999999994,
-    "releaseDate" : 554342400,
-    "title" : "Folge 123: Alvas Feuerkuss",
-    "upc" : "9783838787596"
-  },
-  {
-    "albumID" : "309176828",
-    "artist" : "Jason Dark & John Sinclair",
-    "duration" : 2838.453,
-    "releaseDate" : 122256000,
-    "title" : "John Sinclair, Folge 31: Der Würfel des Unheils",
-    "upc" : "9783838761343"
-  },
-  {
-    "albumID" : "634857916",
-    "artist" : "John Sinclair",
-    "duration" : 4721.906999999999,
-    "releaseDate" : 388022400,
-    "title" : "Folge 83: Ein Leben unter Toten",
-    "upc" : "4250783611221"
-  },
-  {
-    "albumID" : "402447168",
-    "artist" : "John Sinclair",
-    "duration" : 3521.1340000000005,
-    "releaseDate" : 311212800,
-    "title" : "John Sinclair, Classics Folge 5: Sakuro, der Dämon",
-    "upc" : "9783838766898"
-  },
-  {
-    "albumID" : "1367885836",
-    "artist" : "John Sinclair",
-    "duration" : 3704.1580000000004,
-    "releaseDate" : 546480000,
-    "title" : "Folge 122: Inferno in der Alptraum-Schlucht. Teil 4 von 4",
-    "upc" : "9783838783369"
-  },
-  {
-    "albumID" : "1458759447",
-    "artist" : "John Sinclair",
-    "duration" : 4985.943,
-    "releaseDate" : 578188800,
-    "title" : "Sinclair, Staffel 1: Dead Zone, Folge 1: Zeichen",
-    "upc" : "4251535784934"
-  },
-  {
-    "albumID" : "1561134968",
-    "artist" : "John Sinclair",
-    "duration" : 3017.843,
-    "releaseDate" : 604540800,
-    "title" : "Folge 136: Vampir-Express. Teil 1 von 2 (Ungekürzt)",
-    "upc" : "4066004037202"
-  },
-  {
-    "albumID" : "1561138632",
-    "artist" : "John Sinclair",
-    "duration" : 3648,
-    "releaseDate" : 596505600,
-    "title" : "Folge 134: Die lebende Legende (Teil 1 von 2)",
-    "upc" : "4066004037240"
-  },
-  {
-    "albumID" : "310881940",
-    "artist" : "John Sinclair & Jason Dark",
-    "duration" : 2793.8530000000005,
-    "releaseDate" : 261360000,
-    "title" : "John Sinclair, Folge 49: Ich jagte Jack the Ripper",
-    "upc" : "9783785740606"
-  },
-  {
-    "albumID" : "309164676",
-    "artist" : "Jason Dark & John Sinclair",
-    "duration" : 2857.534,
-    "releaseDate" : 104976000,
-    "title" : "John Sinclair, Folge 29: Die grausamen Ritter (Teil 1 von 2)",
-    "upc" : "9783838761329"
-  },
-  {
-    "albumID" : "1561133380",
-    "artist" : "John Sinclair",
-    "duration" : 3539.999,
-    "releaseDate" : 615081600,
-    "title" : "Folge 139: Werwolf-Omen",
-    "upc" : "4066004037189"
-  },
-  {
-    "albumID" : "608279663",
-    "artist" : "John Sinclair",
-    "duration" : 3543.457,
-    "releaseDate" : 384912000,
-    "title" : "Folge 80: Sieben Siegel der Magie - Kreuz-Trilogie, Teil 1",
-    "upc" : "9783838771762"
-  },
-  {
-    "albumID" : "1577386889",
-    "artist" : "John Sinclair",
-    "duration" : 3196.001,
-    "releaseDate" : 649296000,
-    "title" : "Folge 147: Die Schwert-Legende",
-    "upc" : "9783838797083"
-  },
-  {
-    "albumID" : "1409831150",
-    "artist" : "John Sinclair",
-    "duration" : 3076.054,
-    "releaseDate" : 565228800,
-    "title" : "Folge 126: Die Rache der Großen Alten. Teil 2 von 3",
-    "upc" : "9783838787626"
-  },
-  {
-    "albumID" : "1058880189",
-    "artist" : "John Sinclair",
-    "duration" : 2768.0209999999997,
-    "releaseDate" : 492652800,
-    "title" : "Folge 110: Die Träne des Teufels, Teil 1 von 2",
-    "upc" : "9783838778532"
-  },
-  {
-    "albumID" : "1595830049",
-    "artist" : "John Sinclair",
-    "duration" : 3440.772,
-    "releaseDate" : 617587200,
-    "title" : "Folge 40: Der Albtraum-Friedhof (Classics) [Ungekürzt]",
-    "upc" : "9783838794150"
-  },
-  {
-    "albumID" : "327299068",
-    "artist" : "John Sinclair",
-    "duration" : 3979.61,
-    "releaseDate" : 253497600,
-    "title" : "Geisterjäger, Folge 5: Der Mörder mit dem Januskopf (Remastered)",
-    "upc" : "9783838765204"
-  },
-  {
-    "albumID" : "309311997",
-    "artist" : "Jason Dark & John Sinclair",
-    "duration" : 2729.3740000000003,
-    "releaseDate" : 36374400,
-    "title" : "John Sinclair, Folge 16: Die Horror-Cops (Teil 1 von 3)",
-    "upc" : "9783838761190"
-  },
-  {
-    "albumID" : "1459632701",
-    "artist" : "John Sinclair",
-    "duration" : 3882.955,
-    "releaseDate" : 580953600,
-    "title" : "Folge 131: Zombie-Ballade",
-    "upc" : "9783838789729"
-  },
-  {
-    "albumID" : "309208816",
-    "artist" : "Jason Dark & John Sinclair",
-    "duration" : 2775.905,
-    "releaseDate" : 76896000,
-    "title" : "John Sinclair, Folge 25: Ein Friedhof am Ende der Welt (Teil 2 von 3)",
-    "upc" : "9783838761282"
-  },
-  {
-    "albumID" : "309571812",
-    "artist" : "Jason Dark & John Sinclair",
-    "duration" : 3368.799,
-    "releaseDate" : 206323200,
-    "title" : "John Sinclair, Folge 38: Im Land Des Vampirs (1/3)",
-    "upc" : "9783838761411"
-  },
-  {
-    "albumID" : "1112100940",
-    "artist" : "John Sinclair",
-    "duration" : 3937.0530000000003,
-    "releaseDate" : 500515200,
-    "title" : "Classics, Folge 27: Wenn der Werwolf heult",
-    "upc" : "9783838779058"
-  },
-  {
-    "albumID" : "309162788",
-    "artist" : "Jason Dark & John Sinclair",
-    "duration" : 2952.946,
-    "releaseDate" : 36374400,
-    "title" : "John Sinclair, Folge 15: Die Geisterbraut",
-    "upc" : "9783838761183"
-  },
-  {
-    "albumID" : "1606784261",
-    "artist" : "John Sinclair",
-    "duration" : 3061.1270000000004,
-    "releaseDate" : 667440000,
-    "title" : "Folge 151: Samarans Todeswasser - Teil 1 von 2",
-    "upc" : "9783838797120"
-  },
-  {
-    "albumID" : "309322022",
-    "artist" : "Jason Dark & John Sinclair",
-    "duration" : 3301.764,
-    "releaseDate" : 27216000,
-    "title" : "John Sinclair, Folge 11: Kino des Schreckens",
-    "upc" : "9783838761145"
-  },
-  {
-    "albumID" : "1236873317",
-    "artist" : "John Sinclair",
-    "duration" : 3437.3340000000003,
-    "releaseDate" : 541036800,
-    "title" : "Folge 120: Die goldenen Skelette. Teil 2 von 4",
-    "upc" : "9783838783345"
-  },
-  {
-    "albumID" : "986945730",
-    "artist" : "John Sinclair",
-    "duration" : 3477.309,
-    "releaseDate" : 474422400,
-    "title" : "Folge 105: Shimadas Mordaugen (Teil 1 von 3)",
-    "upc" : "9783838776897"
-  },
-  {
-    "albumID" : "1561130359",
-    "artist" : "John Sinclair",
-    "duration" : 4071.7529999999997,
-    "releaseDate" : 606960000,
-    "title" : "Folge 137: Kampf um Lady X (Teil 2 von 2)",
-    "upc" : "4066004037134"
-  },
-  {
-    "albumID" : "1458757823",
-    "artist" : "John Sinclair",
-    "duration" : 3391.452,
-    "releaseDate" : 578188800,
-    "title" : "Folge 130: Mirandas Monsterwelt",
-    "upc" : "9783838789712"
-  },
-  {
-    "albumID" : "1369226177",
-    "artist" : "John Sinclair",
-    "duration" : 3509.0190000000002,
-    "releaseDate" : 548899200,
-    "title" : "Classics, Folge 33: Irrfahrt ins Jenseits",
-    "upc" : "9783838783468"
-  },
-  {
-    "albumID" : "1660529862",
-    "artist" : "John Sinclair",
-    "duration" : 3310.687,
-    "releaseDate" : 696470400,
-    "title" : "Folge 158: Londons Gruselkammer Nr. 1",
-    "upc" : "9783754003589"
-  },
-  {
-    "albumID" : "1193212687",
-    "artist" : "John Sinclair",
-    "duration" : 3318.093999999999,
-    "releaseDate" : 514684800,
-    "title" : "Folge 115: Der Planet der Magier. Teil 3 von 4",
-    "upc" : "9783838783291"
-  },
-  {
-    "albumID" : "1634384314",
-    "artist" : "John Sinclair",
-    "duration" : 3135.0000000000005,
-    "releaseDate" : 683164800,
-    "title" : "Folge 155: Die schwebenden Leichen von Prag - Teil 1 von 2",
-    "upc" : "9783754003558"
-  },
-  {
-    "albumID" : "973020839",
-    "artist" : "John Sinclair",
-    "duration" : 2733.8659999999995,
-    "releaseDate" : 456364800,
-    "title" : "Folge 101: Der Hexenwürger von Blackmoore, Teil 1",
-    "upc" : "9783838775487"
-  },
-  {
-    "albumID" : "1564820359",
-    "artist" : "John Sinclair",
-    "duration" : 3233.880999999999,
-    "releaseDate" : 643852800,
-    "title" : "Folge 146: Meine Henkersmahlzeit",
-    "upc" : "4066004042817"
-  },
-  {
-    "albumID" : "1695542521",
-    "artist" : "John Sinclair",
-    "duration" : 3064.899,
-    "releaseDate" : 714614400,
-    "title" : "Folge 162: Das Vampir-Internat",
-    "upc" : "9783754005620"
-  },
-  {
-    "albumID" : "1112119820",
-    "artist" : "John Sinclair",
-    "duration" : 4796.121,
-    "releaseDate" : 502934400,
-    "title" : "Folge 112: Tal der vergessenen Toten",
-    "upc" : "9783838779065"
-  },
-  {
-    "albumID" : "309190742",
-    "artist" : "Jason Dark & John Sinclair",
-    "duration" : 2896.9849999999997,
-    "releaseDate" : 83116800,
-    "title" : "John Sinclair, Folge 26: Das letzte Duell (Teil 3 von 3)",
-    "upc" : "9783838761299"
-  },
-  {
-    "albumID" : "910994230",
-    "artist" : "John Sinclair",
-    "duration" : 3306.8,
-    "releaseDate" : 445478400,
-    "title" : "Folge 98: Treffpunkt Leichenhaus",
-    "upc" : "9783838774589"
-  },
-  {
-    "albumID" : "309311844",
-    "artist" : "Jason Dark & John Sinclair",
-    "duration" : 2700.96,
-    "releaseDate" : 61171200,
-    "title" : "John Sinclair, Folge 21: Die Höllenkutsche (Teil 1 von 2)",
-    "upc" : "9783838761244"
-  },
-  {
-    "albumID" : "309206799",
-    "artist" : "Jason Dark & John Sinclair",
-    "duration" : 2857.5850000000005,
-    "releaseDate" : 156038400,
-    "title" : "John Sinclair, Folge 34: Mr. Mondos Monster (Teil 1 von 2)",
-    "upc" : "9783838761374"
-  },
-  {
-    "albumID" : "1561139447",
-    "artist" : "John Sinclair",
-    "duration" : 3229.306,
-    "releaseDate" : 602121600,
-    "title" : "Classics, Folge 38: Die Totenkopf-Gang",
-    "upc" : "4066004037233"
-  },
-  {
-    "albumID" : "986900232",
-    "artist" : "John Sinclair",
-    "duration" : 3608.734,
-    "releaseDate" : 471398400,
-    "title" : "Classics, Folge 24: Hochzeit der Vampire",
-    "upc" : "9783838775616"
-  },
-  {
-    "albumID" : "1058879871",
-    "artist" : "John Sinclair",
-    "duration" : 3355.132,
-    "releaseDate" : 490147200,
-    "title" : "Folge 109: Sieben Dolche für den Teufel",
-    "upc" : "9783838778525"
-  },
-  {
-    "albumID" : "1693242126",
-    "artist" : "John Sinclair",
-    "duration" : 5691.107000000001,
-    "releaseDate" : 710899200,
-    "title" : "Villa Wahnsinn (50 Jahre John Sinclair)",
-    "upc" : "9783754007501"
-  },
-  {
-    "albumID" : "1112139963",
-    "artist" : "John Sinclair",
-    "duration" : 3255.0510000000004,
-    "releaseDate" : 505958400,
-    "title" : "Classics, Folge 28: Die Geisterhöhle",
-    "upc" : "9783838779089"
-  },
-  {
-    "albumID" : "1650043122",
-    "artist" : "John Sinclair",
-    "duration" : 3742.1469999999995,
-    "releaseDate" : 691027200,
-    "title" : "Folge 157: Geister-Dämmerung",
-    "upc" : "9783754003572"
-  },
-  {
-    "albumID" : "418709399",
-    "artist" : "John Sinclair",
-    "duration" : 3276.428,
-    "releaseDate" : 319680000,
-    "title" : "John Sinclair - Classics, Folge 6: Friedhof der Vampire",
-    "upc" : "9783838766881"
-  },
-  {
-    "albumID" : "986927635",
-    "artist" : "John Sinclair",
-    "duration" : 2654.533,
-    "releaseDate" : 463536000,
-    "title" : "Folge 103: Ghoul-Parasiten",
-    "upc" : "9783838775586"
-  },
-  {
-    "albumID" : "327268038",
-    "artist" : "John Sinclair",
-    "duration" : 3962.347000000001,
-    "releaseDate" : 253497600,
-    "title" : "John Sinclair, Folge 6: Schach mit dem Dämon (Remastered)",
-    "upc" : "9783838765211"
-  },
-  {
-    "albumID" : "309164868",
-    "artist" : "Jason Dark & John Sinclair",
-    "duration" : 2942.3070000000002,
-    "releaseDate" : 36374400,
-    "title" : "John Sinclair, Folge 13: Gefangen in der Mikrowelt (Teil 2 von 2)",
-    "upc" : "9783838761169"
-  },
-  {
-    "albumID" : "1409831056",
-    "artist" : "John Sinclair",
-    "duration" : 4331.033,
-    "releaseDate" : 570585600,
-    "title" : "Folge 128: Hemators tödliche Welt. Teil 4 von 4",
-    "upc" : "9783838787640"
-  },
-  {
-    "albumID" : "327305262",
-    "artist" : "John Sinclair",
-    "duration" : 3654.2620000000006,
-    "releaseDate" : 253497600,
-    "title" : "John Sinclair, Folge 4: Damona, Dienerin des Satans (Remastered)",
-    "upc" : "9783838765198"
-  },
-  {
-    "albumID" : "309326889",
-    "artist" : "Jason Dark & John Sinclair",
-    "duration" : 3120.999999999999,
-    "releaseDate" : 219024000,
-    "title" : "John Sinclair, Folge 41: Die Schöne Aus Dem Totenreich",
-    "upc" : "9783838761442"
-  },
-  {
-    "albumID" : "444178625",
-    "artist" : "John Sinclair",
-    "duration" : 3557.822,
-    "releaseDate" : 330566400,
-    "title" : "Classics Folge 7: Die Töchter der Hölle",
-    "upc" : "9783838768199"
-  },
-  {
-    "albumID" : "1193212676",
-    "artist" : "John Sinclair",
-    "duration" : 3271.8939999999993,
-    "releaseDate" : 511315200,
-    "title" : "Folge 114: Die Eismeer-Hexe. Teil 2 von 4",
-    "upc" : "9783838781808"
-  },
-  {
-    "albumID" : "554174497",
-    "artist" : "John Sinclair",
-    "duration" : 3145.3879999999995,
-    "releaseDate" : 366854400,
-    "title" : "Folge 76: Herrin der Dunkelwelt",
-    "upc" : "9783838770499"
-  },
-  {
-    "albumID" : "309182475",
-    "artist" : "Jason Dark & John Sinclair",
-    "duration" : 2803.9469999999997,
-    "releaseDate" : 156038400,
-    "title" : "John Sinclair, Folge 33: Die Eisvampire",
-    "upc" : "9783838761367"
-  },
-  {
-    "albumID" : "1193209827",
-    "artist" : "John Sinclair",
-    "duration" : 3705.3199999999997,
-    "releaseDate" : 525312000,
-    "title" : "Classics, Folge 30: Das Phantom von Soho",
-    "upc" : "9783838783437"
-  },
-  {
-    "albumID" : "309170807",
-    "artist" : "Jason Dark & John Sinclair",
-    "duration" : 3264.187,
-    "releaseDate" : 232329600,
-    "title" : "John Sinclair, Folge 44: Das Elixier des Teufels (Teil 2 von 2)",
-    "upc" : "9783838761473"
-  },
-  {
-    "albumID" : "309182108",
-    "artist" : "Jason Dark & John Sinclair",
-    "duration" : 2853.054,
-    "releaseDate" : 122256000,
-    "title" : "John Sinclair, Folge 32: Dr. Tods Monsterhöhle",
-    "upc" : "9783838761350"
-  },
-  {
-    "albumID" : "910994433",
-    "artist" : "John Sinclair",
-    "duration" : 3541.7709999999997,
-    "releaseDate" : 437616000,
-    "title" : "Folge 96: Pandoras Botschaft",
-    "upc" : "9783785749272"
-  },
-  {
-    "albumID" : "1444651046",
-    "artist" : "John Sinclair",
-    "duration" : 2819.1420000000003,
-    "releaseDate" : 567043200,
-    "title" : "Folge 127: Zwei Schwerter gegen die Hölle. Teil 3 von 4",
-    "upc" : "9783838787633"
-  },
-  {
-    "albumID" : "1680860045",
-    "artist" : "John Sinclair",
-    "duration" : 6607.088999999999,
-    "releaseDate" : 706752000,
-    "title" : "Classics, Folge 50: Die Katakomben von Paris",
-    "upc" : "9783754006504"
-  },
-  {
-    "albumID" : "309326366",
-    "artist" : "Jason Dark & John Sinclair",
-    "duration" : 2874.747,
-    "releaseDate" : 229219200,
-    "title" : "John Sinclair, Folge 43: Ich Flog In Die Todeswolke (1/2)",
-    "upc" : "9783838761466"
-  },
-  {
-    "albumID" : "1058880201",
-    "artist" : "John Sinclair",
-    "duration" : 3186.92,
-    "releaseDate" : 484790400,
-    "title" : "Folge 108: Satans Knochenuhr",
-    "upc" : "9783838778464"
-  },
-  {
-    "albumID" : "1409844360",
-    "artist" : "John Sinclair",
-    "duration" : 3484.916,
-    "releaseDate" : 559785600,
-    "title" : "Classics, Folge 34: Die Todesgondel",
-    "upc" : "9783838787657"
-  },
-  {
-    "albumID" : "1561968353",
-    "artist" : "John Sinclair",
-    "duration" : 3060.0000000000005,
-    "releaseDate" : 591494400,
-    "title" : "Folge 133: Mörderische Weihnachten",
-    "upc" : "4066004037226"
-  },
-  {
-    "albumID" : "465049804",
-    "artist" : "John Sinclair",
-    "duration" : 2936.333,
-    "releaseDate" : 337824000,
-    "title" : "Folge 68: Die Leichenkutsche von London",
-    "upc" : "4049324044747"
-  },
-  {
-    "albumID" : "309151058",
-    "artist" : "Jason Dark & John Sinclair",
-    "duration" : 2800.706,
-    "releaseDate" : 36374400,
-    "title" : "John Sinclair, Folge 17: Bills Hinrichtung (Teil 2 von 3)",
-    "upc" : "9783838761206"
-  },
-  {
-    "albumID" : "1058880720",
-    "artist" : "John Sinclair",
-    "duration" : 3720.943,
-    "releaseDate" : 495072000,
-    "title" : "Folge 111: Abrechnung mit Jane Collins, Teil 2 von 2",
-    "upc" : "9783838778549"
-  },
-  {
-    "albumID" : "396107978",
-    "artist" : "John Sinclair",
-    "duration" : 2957.187,
-    "releaseDate" : 308793600,
-    "title" : "John Sinclair, Folge 60: Ich stieß das Tor zur Hölle auf",
-    "upc" : "9783838766737"
-  },
-  {
-    "albumID" : "470491866",
-    "artist" : "John Sinclair",
-    "duration" : 3163.4610000000002,
-    "releaseDate" : 340243200,
-    "title" : "Classics Folge 9: Die Nacht des schwarzen Drachen",
-    "upc" : "9783838769127"
-  },
-  {
-    "albumID" : "598581246",
-    "artist" : "John Sinclair",
-    "duration" : 4547.438,
-    "releaseDate" : 382579200,
-    "title" : "Classics Folge 14: Dämonos",
-    "upc" : "9783838771373"
-  },
-  {
-    "albumID" : "1236847654",
-    "artist" : "John Sinclair",
-    "duration" : 3565.266,
-    "releaseDate" : 530668800,
-    "title" : "Classics, Folge 31: Die Drachenburg",
-    "upc" : "9783838783444"
-  },
-  {
-    "albumID" : "762808016",
-    "artist" : "John Sinclair",
-    "duration" : 3937.0550000000003,
-    "releaseDate" : 409190400,
-    "title" : "Folge 88: Die Leichenstadt",
-    "upc" : "9783838772912"
-  },
-  {
-    "albumID" : "1453987198",
-    "artist" : "John Sinclair",
-    "duration" : 3619.5330000000004,
-    "releaseDate" : 575510400,
-    "title" : "Classics, Folge 35: Der Voodoo-Mörder",
-    "upc" : "9783838787664"
-  },
-  {
-    "albumID" : "498475675",
-    "artist" : "John Sinclair",
-    "duration" : 3752.706,
-    "releaseDate" : 351129600,
-    "title" : "Classics Folge 10: Die Insel der Skelette",
-    "upc" : "9783838769912"
-  },
-  {
-    "albumID" : "580463366",
-    "artist" : "John Sinclair",
-    "duration" : 3842.2270000000003,
-    "releaseDate" : 375926400,
-    "title" : "Folge 13: John Sinclair Classics - Amoklauf der Mumie",
-    "upc" : "9783838770888"
-  },
-  {
-    "albumID" : "1058879868",
-    "artist" : "John Sinclair",
-    "duration" : 3330.1750000000006,
-    "releaseDate" : 479347200,
-    "title" : "Folge 107: Der Kampf mit den Giganten, Teil 3 von 3",
-    "upc" : "9783838778372"
-  },
-  {
-    "albumID" : "986946738",
-    "artist" : "John Sinclair",
-    "duration" : 3158.2929999999997,
-    "releaseDate" : 476928000,
-    "title" : "Folge 106: Xorrons Totenheer (Teil 2 von 3)",
-    "upc" : "9783838776903"
-  },
-  {
-    "albumID" : "1561134270",
-    "artist" : "John Sinclair",
-    "duration" : 3780.6870000000004,
-    "releaseDate" : 612403200,
-    "title" : "Folge 138: Albtraum-Comic",
-    "upc" : "4066004037196"
-  },
-  {
-    "albumID" : "1631530909",
-    "artist" : "John Sinclair",
-    "duration" : 3514.403999999999,
-    "releaseDate" : 677721600,
-    "title" : "Folge 154: Ich und der Poltergeist",
-    "upc" : "4066004480008"
-  },
-  {
-    "albumID" : "309174960",
-    "artist" : "Jason Dark & John Sinclair",
-    "duration" : 2842.015,
-    "releaseDate" : 237772800,
-    "title" : "John Sinclair, Folge 46: Myxins Entführung",
-    "upc" : "9783838761497"
-  },
-  {
-    "albumID" : "309201413",
-    "artist" : "Jason Dark & John Sinclair",
-    "duration" : 3073.6259999999997,
-    "releaseDate" : 203299200,
-    "title" : "John Sinclair, Folge 37: Dr. Tods Horror-Insel",
-    "upc" : "9783838761404"
-  },
-  {
-    "albumID" : "537591474",
-    "artist" : "John Sinclair",
-    "duration" : 3838.892,
-    "releaseDate" : 362016000,
-    "title" : "John Sinclair, Classics Folge 11: Der Blutgraf",
-    "upc" : "9783838770185"
-  },
-  {
-    "albumID" : "1058882914",
-    "artist" : "John Sinclair",
-    "duration" : 3216.052,
-    "releaseDate" : 487209600,
-    "title" : "Classics, Folge 26: Der Fluch aus dem Dschungel",
-    "upc" : "9783838778501"
-  },
-  {
-    "albumID" : "1675823797",
-    "artist" : "John Sinclair",
-    "duration" : 3258.5860000000002,
-    "releaseDate" : 704332800,
-    "title" : "Folge 160: Die Unheimliche vom Schandturm",
-    "upc" : "9783754005606"
-  },
-  {
-    "albumID" : "309312300",
-    "artist" : "Jason Dark & John Sinclair",
-    "duration" : 2881.7749999999996,
-    "releaseDate" : 36374400,
-    "title" : "John Sinclair, Folge 18: Die teuflischen Puppen (Teil 3 von 3)",
-    "upc" : "9783838761213"
-  },
-  {
-    "albumID" : "1580549902",
-    "artist" : "John Sinclair",
-    "duration" : 3858.523000000001,
-    "releaseDate" : 583372800,
-    "title" : "Classics, Folge 36: Die Rache der roten Hexe",
-    "upc" : "9783838789057"
-  },
-  {
-    "albumID" : "493272604",
-    "artist" : "John Sinclair",
-    "duration" : 3385.9990000000003,
-    "releaseDate" : 348710400,
-    "title" : "Folge 71: Der Mann, der nicht sterben konnte",
-    "upc" : "9783838769837"
-  },
-  {
-    "albumID" : "570751019",
-    "artist" : "John Sinclair",
-    "duration" : 3367.4520000000007,
-    "releaseDate" : 374716800,
-    "title" : "Folge 78: Die Todesgöttin",
-    "upc" : "9783838770963"
-  },
-  {
-    "albumID" : "986931860",
-    "artist" : "John Sinclair",
-    "duration" : 3019.2509999999997,
-    "releaseDate" : 465955200,
-    "title" : "Folge 104: Die magische Bombe",
-    "upc" : "9783838775593"
-  },
-  {
-    "albumID" : "1592683630",
-    "artist" : "John Sinclair",
-    "duration" : 2777.7459999999996,
-    "releaseDate" : 659577600,
-    "title" : "Folge 149: Die Rache des Kopflosen",
-    "upc" : "9783838797106"
-  },
-  {
-    "albumID" : "1193212642",
-    "artist" : "John Sinclair",
-    "duration" : 3861.84,
-    "releaseDate" : 517449600,
-    "title" : "Folge 116: Die Totenmaske aus Atlantis. Teil 4 von 4",
-    "upc" : "9783838783307"
-  },
-  {
-    "albumID" : "309200070",
-    "artist" : "Jason Dark & John Sinclair",
-    "duration" : 2966.8149999999996,
-    "releaseDate" : 122256000,
-    "title" : "John Sinclair, Folge 30: Die Drachensaat (Teil 2 von 2)",
-    "upc" : "9783838761336"
-  },
-  {
-    "albumID" : "1561139523",
-    "artist" : "John Sinclair",
-    "duration" : 3394.001,
-    "releaseDate" : 588816000,
-    "title" : "Classics, Folge 37: Zirkus Luzifer",
-    "upc" : "4066004037257"
-  },
-  {
-    "albumID" : "608280636",
-    "artist" : "John Sinclair",
-    "duration" : 4300.305,
-    "releaseDate" : 384912000,
-    "title" : "Folge 81: Allein in der Drachenhöhle - Kreuz-Trilogie, Teil 2",
-    "upc" : "9783838771779"
-  },
-  {
-    "albumID" : "309174968",
-    "artist" : "Jason Dark & John Sinclair",
-    "duration" : 2931.9849999999997,
-    "releaseDate" : 208742400,
-    "title" : "John Sinclair, Folge 39: Schreie in der Horror-Gruft (Teil 2 von 3)",
-    "upc" : "9783838761428"
-  },
-  {
-    "albumID" : "309190980",
-    "artist" : "Jason Dark & John Sinclair",
-    "duration" : 3423.254,
-    "releaseDate" : 170899200,
-    "title" : "John Sinclair, Folge 36: Der Todesnebel",
-    "upc" : "9783838761398"
-  },
-  {
-    "albumID" : "1119170879",
-    "artist" : "John Sinclair",
-    "duration" : 3618.119,
-    "releaseDate" : 520300800,
-    "title" : "Classics, Folge 29: Der Hexenclub",
-    "upc" : "9783838779096"
-  },
-  {
-    "albumID" : "392283108",
-    "artist" : "John Sinclair",
-    "duration" : 2992.9209999999994,
-    "releaseDate" : 307065600,
-    "title" : "John Sinclair, Folge 59: Das Erbe des Schwarzen Tods",
-    "upc" : "9783838766744"
-  },
-  {
-    "albumID" : "309311337",
-    "artist" : "Jason Dark & John Sinclair",
-    "duration" : 2866.254,
-    "releaseDate" : 61171200,
-    "title" : "John Sinclair, Folge 19: Der Sensenmann als Hochzeitsgast",
-    "upc" : "9783838761220"
-  },
-  {
-    "albumID" : "309338194",
-    "artist" : "Jason Dark & John Sinclair",
-    "duration" : 3107.266,
-    "releaseDate" : 83116800,
-    "title" : "John Sinclair, Folge 27: Asmodinas Todesengel",
-    "upc" : "9783838761305"
-  },
-  {
-    "albumID" : "1730690941",
-    "artist" : "John Sinclair",
-    "duration" : 3319.9990000000003,
-    "releaseDate" : 730944000,
-    "title" : "Folge 168: Der grausame Wald - Teil 1 von 2",
-    "upc" : "9783754008980"
-  },
-  {
-    "albumID" : "309184009",
-    "artist" : "Jason Dark & John Sinclair",
-    "duration" : 2673.2419999999997,
-    "releaseDate" : 66528000,
-    "title" : "John Sinclair, Folge 22: Asmodinas Reich (Teli 2 von 2)",
-    "upc" : "9783838761251"
-  },
-  {
-    "albumID" : "1236841956",
-    "artist" : "John Sinclair",
-    "duration" : 3612.989,
-    "releaseDate" : 535507200,
-    "title" : "Classics, Folge 32: Das Todeskabinett",
-    "upc" : "9783838783451"
-  },
-  {
-    "albumID" : "309317148",
-    "artist" : "Jason Dark & John Sinclair",
-    "duration" : 3193.8679999999995,
-    "releaseDate" : 21859200,
-    "title" : "John Sinclair, Folge 9: Das Dämonenauge (2/2)",
-    "upc" : "9783838761121"
-  },
-  {
-    "albumID" : "403746153",
-    "artist" : "John Sinclair",
-    "duration" : 3700.519,
-    "releaseDate" : 312422400,
-    "title" : "John Sinclair, Folge 62: Bring mir den Kopf von Asmodina (III/III)",
-    "upc" : "9783838767390"
-  },
-  {
-    "albumID" : "545608305",
-    "artist" : "John Sinclair",
-    "duration" : 3634.679,
-    "releaseDate" : 364435200,
-    "title" : "Folge 75: Albtraum in Atlantis",
-    "upc" : "9783838770703"
-  },
-  {
-    "albumID" : "431079949",
-    "artist" : "John Sinclair",
-    "duration" : 2860.32,
-    "releaseDate" : 325036800,
-    "title" : "John Sinclair, Folge 65: Das Vampirnest",
-    "upc" : "9783838768137"
-  },
-  {
-    "albumID" : "1561145780",
-    "artist" : "John Sinclair",
-    "duration" : 3193.7079999999996,
-    "releaseDate" : 638409600,
-    "title" : "Classics, Folge 42: Das Hochhaus der Dämonen",
-    "upc" : "4066004037264"
-  },
-  {
-    "albumID" : "1706824983",
-    "artist" : "John Sinclair",
-    "duration" : 3464.549,
-    "releaseDate" : 717638400,
-    "title" : "Folge 163: Die Werwolf-Schlucht",
-    "upc" : "9783754008935"
-  },
-  {
-    "albumID" : "449150577",
-    "artist" : "John Sinclair",
-    "duration" : 3404.1990000000005,
-    "releaseDate" : 332985600,
-    "title" : "Folge 67: Die Gruft mit dem Höllenauge",
-    "upc" : "9783838768236"
-  },
-  {
-    "albumID" : "402446668",
-    "artist" : "John Sinclair",
-    "duration" : 2978.6000000000004,
-    "releaseDate" : 311212800,
-    "title" : "John Sinclair, Folge 61: Im Zentrum des Schreckens (II/III)",
-    "upc" : "9783838767383"
   },
   {
     "albumID" : "378824710",
@@ -1160,68 +504,60 @@
     "upc" : "9783838766713"
   },
   {
-    "albumID" : "562917502",
+    "albumID" : "381704062",
     "artist" : "John Sinclair",
-    "duration" : 4252.2789999999995,
-    "releaseDate" : 369878400,
-    "title" : "John Sinclair, Classics Folge 12: Das Höllenheer",
-    "upc" : "9783838770789"
+    "duration" : 2885.737,
+    "releaseDate" : 301536000,
+    "title" : "John Sinclair, Folge 58: Asmodinas Todeslabyrinth",
+    "upc" : "9783838766683"
   },
   {
-    "albumID" : "1744947018",
+    "albumID" : "386719338",
     "artist" : "John Sinclair",
-    "duration" : 3690.365,
-    "releaseDate" : 741225600,
-    "title" : "Folge 172: Das Erbe der Templer",
-    "upc" : "9783754012819"
+    "duration" : 3338.506,
+    "releaseDate" : 304560000,
+    "title" : "John Sinclair Classics, Folge 4: Das Leichenhaus der Lady L.",
+    "upc" : "9783838766676"
   },
   {
-    "albumID" : "1613257417",
+    "albumID" : "392283108",
     "artist" : "John Sinclair",
-    "duration" : 3881.087,
-    "releaseDate" : 669859200,
-    "title" : "Folge 152: Todesfalle unter Wasser - Teil 2 von 2",
-    "upc" : "4066004438917"
+    "duration" : 2992.9209999999994,
+    "releaseDate" : 307065600,
+    "title" : "John Sinclair, Folge 59: Das Erbe des Schwarzen Tods",
+    "upc" : "9783838766744"
   },
   {
-    "albumID" : "779458288",
+    "albumID" : "396107978",
     "artist" : "John Sinclair",
-    "duration" : 3726.1059999999993,
-    "releaseDate" : 411609600,
-    "title" : "Folge 89: In den Krallen der roten Vampire",
-    "upc" : "9783838773544"
+    "duration" : 2957.187,
+    "releaseDate" : 308793600,
+    "title" : "John Sinclair, Folge 60: Ich stieß das Tor zur Hölle auf",
+    "upc" : "9783838766737"
   },
   {
-    "albumID" : "983241687",
+    "albumID" : "402447168",
     "artist" : "John Sinclair",
-    "duration" : 3404.7599999999998,
-    "releaseDate" : 453340800,
-    "title" : "Classics, Folge 22: Der See des Schreckens",
-    "upc" : "9783838775470"
+    "duration" : 3521.1340000000005,
+    "releaseDate" : 311212800,
+    "title" : "John Sinclair, Classics Folge 5: Sakuro, der Dämon",
+    "upc" : "9783838766898"
   },
   {
-    "albumID" : "1561133198",
+    "albumID" : "402446668",
     "artist" : "John Sinclair",
-    "duration" : 3652.7359999999994,
-    "releaseDate" : 620265600,
-    "title" : "Folge 140: Shimadas Höllenschloss (Teil 1 von 2)",
-    "upc" : "4066004037172"
+    "duration" : 2978.6000000000004,
+    "releaseDate" : 311212800,
+    "title" : "John Sinclair, Folge 61: Im Zentrum des Schreckens (II/III)",
+    "upc" : "9783838767383"
   },
   {
-    "albumID" : "327483755",
+    "albumID" : "403746153",
     "artist" : "John Sinclair",
-    "duration" : 3213.9290000000005,
-    "releaseDate" : 271641600,
-    "title" : "John Sinclair, Folge 53: Dämonen im Raketencamp",
-    "upc" : "9783785740637"
-  },
-  {
-    "albumID" : "309156072",
-    "artist" : "Jason Dark & John Sinclair",
-    "duration" : 3233.8940000000002,
-    "releaseDate" : 208742400,
-    "title" : "John Sinclair, Folge 40: Mein Todesurteil (Teil 3 von 3)",
-    "upc" : "9783838761435"
+    "duration" : 3700.519,
+    "releaseDate" : 312422400,
+    "title" : "John Sinclair, Folge 62: Bring mir den Kopf von Asmodina (III/III)",
+    "upc" : "9783838767390"
   },
   {
     "albumID" : "412855445",
@@ -1232,180 +568,12 @@
     "upc" : "9783838767185"
   },
   {
-    "albumID" : "1574468889",
+    "albumID" : "418709399",
     "artist" : "John Sinclair",
-    "duration" : 3269.979,
-    "releaseDate" : 646272000,
-    "title" : "Folge 43: Der Hexer mit der Flammenpeitsche (Classics)",
-    "upc" : "9783838797038"
-  },
-  {
-    "albumID" : "324275565",
-    "artist" : "John Sinclair",
-    "duration" : 3135.650000000001,
-    "releaseDate" : 266803200,
-    "title" : "John Sinclair, Folge 52: Horrortrip zur Schönheitsfarm",
-    "upc" : "9783785740620"
-  },
-  {
-    "albumID" : "1582446310",
-    "artist" : "John Sinclair",
-    "duration" : 3296.498,
-    "releaseDate" : 654652800,
-    "title" : "Classics, Folge 44: Die Spinnen-Königin",
-    "upc" : "9783838797045"
-  },
-  {
-    "albumID" : "309201143",
-    "artist" : "Jason Dark & John Sinclair",
-    "duration" : 2821.3329999999996,
-    "releaseDate" : 170899200,
-    "title" : "John Sinclair, Folge 35: Königin der Wölfe (Teil 2 von 2)",
-    "upc" : "9783838761381"
-  },
-  {
-    "albumID" : "1570802127",
-    "artist" : "John Sinclair",
-    "duration" : 3316.782,
-    "releaseDate" : 598492800,
-    "title" : "Folge 135: Ninja, Zombies und Shimada. Teil 2 von 2 (Ungekürzt)",
-    "upc" : "4066004037219"
-  },
-  {
-    "albumID" : "1640726865",
-    "artist" : "John Sinclair",
-    "duration" : 3291.984,
-    "releaseDate" : 686188800,
-    "title" : "Folge 156: Höllen-Friedhof (Teil 2 von 2)",
-    "upc" : "9783754003565"
-  },
-  {
-    "albumID" : "796926574",
-    "artist" : "John Sinclair",
-    "duration" : 2776.532,
-    "releaseDate" : 416448000,
-    "title" : "Folge 90: Belphégors Rückkehr",
-    "upc" : "9783838773674"
-  },
-  {
-    "albumID" : "1058883665",
-    "artist" : "John Sinclair",
-    "duration" : 3361.214,
-    "releaseDate" : 482371200,
-    "title" : "Classics, Folge 25: Dr. Tods Höllenfahrt",
-    "upc" : "9783838776910"
-  },
-  {
-    "albumID" : "1735439696",
-    "artist" : "John Sinclair",
-    "duration" : 3251.6629999999996,
-    "releaseDate" : 735782400,
-    "title" : "Folge 170: Ein Grab aus der Vergangenheit",
-    "upc" : "9783754012789"
-  },
-  {
-    "albumID" : "356571065",
-    "artist" : "John Sinclair",
-    "duration" : 3284.2960000000003,
-    "releaseDate" : 288921600,
-    "title" : "John Sinclair, Folge 55: Fenris, der Götterwolf",
-    "upc" : "9783838766249"
-  },
-  {
-    "albumID" : "436337105",
-    "artist" : "John Sinclair",
-    "duration" : 3475.726,
-    "releaseDate" : 327542400,
-    "title" : "John Sinclair, Folge 66: Hexenwahn",
-    "upc" : "9783838768212"
-  },
-  {
-    "albumID" : "324276149",
-    "artist" : "John Sinclair",
-    "duration" : 2765.741,
-    "releaseDate" : 266803200,
-    "title" : "John Sinclair,  Folge 51: Mannequins mit Mörderaugen",
-    "upc" : "9783785740613"
-  },
-  {
-    "albumID" : "309171918",
-    "artist" : "John Sinclair",
-    "duration" : 2807.8140000000003,
-    "releaseDate" : 255916800,
-    "title" : "John Sinclair, Folge 47: Die Werwolf-Sippe",
-    "upc" : "9783838760582"
-  },
-  {
-    "albumID" : "1631842629",
-    "artist" : "John Sinclair",
-    "duration" : 3289.998,
-    "releaseDate" : 680745600,
-    "title" : "Folge 47: Flugvampire greifen an (Classics)",
-    "upc" : "4066004480022"
-  },
-  {
-    "albumID" : "668515143",
-    "artist" : "John Sinclair",
-    "duration" : 3072.853,
-    "releaseDate" : 398304000,
-    "title" : "Folge 85: Kalis Schlangengrube",
-    "upc" : "9783838772448"
-  },
-  {
-    "albumID" : "1604567143",
-    "artist" : "John Sinclair",
-    "duration" : 3309.5889999999995,
-    "releaseDate" : 665020800,
-    "title" : "Classics, Folge 45: Das Todeskarussell",
-    "upc" : "9783838797052"
-  },
-  {
-    "albumID" : "949585255",
-    "artist" : "John Sinclair",
-    "duration" : 3621.5320000000006,
-    "releaseDate" : 447897600,
-    "title" : "Folge 99: Das gläserne Grauen",
-    "upc" : "9783838774558"
-  },
-  {
-    "albumID" : "514759783",
-    "artist" : "John Sinclair",
-    "duration" : 3375.654,
-    "releaseDate" : 355276800,
-    "title" : "Folge 73: Die Werwolf-Elite",
-    "upc" : "9783838770062"
-  },
-  {
-    "albumID" : "479568458",
-    "artist" : "John Sinclair",
-    "duration" : 2761.187,
-    "releaseDate" : 343872000,
-    "title" : "Folge 70: Die Hexeninsel",
-    "upc" : "9783838769189"
-  },
-  {
-    "albumID" : "453536817",
-    "artist" : "John Sinclair",
-    "duration" : 3213.134,
-    "releaseDate" : 335404800,
-    "title" : "Classics Folge 8: Das Rätsel der gläsernen Särge",
-    "upc" : "9783838768281"
-  },
-  {
-    "albumID" : "660880978",
-    "artist" : "John Sinclair",
-    "duration" : 3781.0290000000005,
-    "releaseDate" : 393465600,
-    "title" : "Folge 84: Ewige Schreie",
-    "upc" : "9783838771922"
-  },
-  {
-    "albumID" : "641572055",
-    "artist" : "John Sinclair",
-    "duration" : 4287.076,
-    "releaseDate" : 390441600,
-    "title" : "Classics Folge 15: Die Bräute des Vampirs",
-    "upc" : "9783838771892"
+    "duration" : 3276.428,
+    "releaseDate" : 319680000,
+    "title" : "John Sinclair - Classics, Folge 6: Friedhof der Vampire",
+    "upc" : "9783838766881"
   },
   {
     "albumID" : "425336465",
@@ -1416,116 +584,60 @@
     "upc" : "9783838767277"
   },
   {
-    "albumID" : "1752443351",
+    "albumID" : "431079949",
     "artist" : "John Sinclair",
-    "duration" : 3026.893,
-    "releaseDate" : 743644800,
-    "title" : "Folge 173: Im Namen der Hölle",
-    "upc" : "9783754012826"
+    "duration" : 2860.32,
+    "releaseDate" : 325036800,
+    "title" : "John Sinclair, Folge 65: Das Vampirnest",
+    "upc" : "9783838768137"
   },
   {
-    "albumID" : "1561129043",
+    "albumID" : "436337105",
     "artist" : "John Sinclair",
-    "duration" : 3285.953,
-    "releaseDate" : 609897600,
-    "title" : "Folge 39: Die Killerpuppen (Classics)",
-    "upc" : "9783838794143"
+    "duration" : 3475.726,
+    "releaseDate" : 327542400,
+    "title" : "John Sinclair, Folge 66: Hexenwahn",
+    "upc" : "9783838768212"
   },
   {
-    "albumID" : "858549973",
+    "albumID" : "444178625",
     "artist" : "John Sinclair",
-    "duration" : 3180.383,
-    "releaseDate" : 429753600,
-    "title" : "Folge 94: Verdammt und begraben",
-    "upc" : "9783838774107"
+    "duration" : 3557.822,
+    "releaseDate" : 330566400,
+    "title" : "Classics Folge 7: Die Töchter der Hölle",
+    "upc" : "9783838768199"
   },
   {
-    "albumID" : "702942325",
+    "albumID" : "449150577",
     "artist" : "John Sinclair",
-    "duration" : 3260.0409999999993,
-    "releaseDate" : 406771200,
-    "title" : "Folge 87: Schlucht der stummen Götter",
-    "upc" : "9783838772721"
+    "duration" : 3404.1990000000005,
+    "releaseDate" : 332985600,
+    "title" : "Folge 67: Die Gruft mit dem Höllenauge",
+    "upc" : "9783838768236"
   },
   {
-    "albumID" : "1561127091",
+    "albumID" : "453536817",
     "artist" : "John Sinclair",
-    "duration" : 3818.946,
-    "releaseDate" : 635990400,
-    "title" : "Folge 144: Im Tempel des Drachen",
-    "upc" : "4066004037097"
+    "duration" : 3213.134,
+    "releaseDate" : 335404800,
+    "title" : "Classics Folge 8: Das Rätsel der gläsernen Särge",
+    "upc" : "9783838768281"
   },
   {
-    "albumID" : "567092015",
+    "albumID" : "465049804",
     "artist" : "John Sinclair",
-    "duration" : 4024.8140000000003,
-    "releaseDate" : 371692800,
-    "title" : "Folge 77: Der lächelnde Henker",
-    "upc" : "9783838770864"
+    "duration" : 2936.333,
+    "releaseDate" : 337824000,
+    "title" : "Folge 68: Die Leichenkutsche von London",
+    "upc" : "4049324044747"
   },
   {
-    "albumID" : "986927227",
+    "albumID" : "470491866",
     "artist" : "John Sinclair",
-    "duration" : 2931.054,
-    "releaseDate" : 458697600,
-    "title" : "Folge 102: Wikkas Rache (Teil 2 von 2)",
-    "upc" : "9783838775524"
-  },
-  {
-    "albumID" : "906726729",
-    "artist" : "John Sinclair",
-    "duration" : 3256.12,
-    "releaseDate" : 432172800,
-    "title" : "Folge 95: Der Schädelthron",
-    "upc" : "9783838774169"
-  },
-  {
-    "albumID" : "1671697356",
-    "artist" : "John Sinclair",
-    "duration" : 3779.144,
-    "releaseDate" : 701913600,
-    "title" : "Folge 159: Skylla, die Menschenschlange",
-    "upc" : "9783754005590"
-  },
-  {
-    "albumID" : "356610081",
-    "artist" : "John Sinclair",
-    "duration" : 3026.238,
-    "releaseDate" : 288921600,
-    "title" : "John Sinclair, Folge 56: Eine schaurige Warnung",
-    "upc" : "9783838766232"
-  },
-  {
-    "albumID" : "1714228737",
-    "artist" : "John Sinclair",
-    "duration" : 3088.853000000001,
-    "releaseDate" : 724291200,
-    "title" : "Folge 166: Der Doge, sein Henker und ich",
-    "upc" : "9783754008966"
-  },
-  {
-    "albumID" : "1721171144",
-    "artist" : "John Sinclair",
-    "duration" : 3456.9760000000006,
-    "releaseDate" : 727920000,
-    "title" : "Folge 167: Teufelsspuk und Killer-Strigen",
-    "upc" : "9783754008973"
-  },
-  {
-    "albumID" : "834316835",
-    "artist" : "John Sinclair",
-    "duration" : 3137.961,
-    "releaseDate" : 419212800,
-    "title" : "Folge 91: Der Höllenwurm",
-    "upc" : "9783838773865"
-  },
-  {
-    "albumID" : "1706826007",
-    "artist" : "John Sinclair",
-    "duration" : 3052.962,
-    "releaseDate" : 720057600,
-    "title" : "Folge 164: Baals Opferdolch - Teil 1 von 2",
-    "upc" : "9783754008942"
+    "duration" : 3163.4610000000002,
+    "releaseDate" : 340243200,
+    "title" : "Classics Folge 9: Die Nacht des schwarzen Drachen",
+    "upc" : "9783838769127"
   },
   {
     "albumID" : "474828411",
@@ -1536,100 +648,28 @@
     "upc" : "9783838769172"
   },
   {
-    "albumID" : "799415412",
+    "albumID" : "479568458",
     "artist" : "John Sinclair",
-    "duration" : 3709.533,
-    "releaseDate" : 414028800,
-    "title" : "Classics, Folge 18: Die Armee der Unsichtbaren",
-    "upc" : "9783838773605"
+    "duration" : 2761.187,
+    "releaseDate" : 343872000,
+    "title" : "Folge 70: Die Hexeninsel",
+    "upc" : "9783838769189"
   },
   {
-    "albumID" : "813670556",
+    "albumID" : "493272604",
     "artist" : "John Sinclair",
-    "duration" : 3494.7059999999997,
-    "releaseDate" : 424310400,
-    "title" : "Classics, Folge 19: Horrorfest am Galgenhügel",
-    "upc" : "9783838773698"
+    "duration" : 3385.9990000000003,
+    "releaseDate" : 348710400,
+    "title" : "Folge 71: Der Mann, der nicht sterben konnte",
+    "upc" : "9783838769837"
   },
   {
-    "albumID" : "706048126",
+    "albumID" : "498475675",
     "artist" : "John Sinclair",
-    "duration" : 3625.148,
-    "releaseDate" : 403142400,
-    "title" : "Classics Folge 17: Die teuflischen Schädel",
-    "upc" : "9783838772790"
-  },
-  {
-    "albumID" : "381704062",
-    "artist" : "John Sinclair",
-    "duration" : 2885.737,
-    "releaseDate" : 301536000,
-    "title" : "John Sinclair, Folge 58: Asmodinas Todeslabyrinth",
-    "upc" : "9783838766683"
-  },
-  {
-    "albumID" : "606997602",
-    "artist" : "John Sinclair",
-    "duration" : 4769.279000000001,
-    "releaseDate" : 384912000,
-    "title" : "Folge 82: Macht und Mythos - Kreuz-Trilogie, Teil 3",
-    "upc" : "9783838771786"
-  },
-  {
-    "albumID" : "910993163",
-    "artist" : "John Sinclair",
-    "duration" : 2973.841,
-    "releaseDate" : 440640000,
-    "title" : "Folge 97: Die Tochter des Totengräbers",
-    "upc" : "9783785749289"
-  },
-  {
-    "albumID" : "857899527",
-    "artist" : "John Sinclair",
-    "duration" : 3281.373,
-    "releaseDate" : 427334400,
-    "title" : "Folge 93: Der Pesthügel von Shanghai",
-    "upc" : "9783838774053"
-  },
-  {
-    "albumID" : "309326145",
-    "artist" : "John Sinclair",
-    "duration" : 2968.279,
-    "releaseDate" : 255916800,
-    "title" : "John Sinclair, Folge 48: Lupinas Todfeind",
-    "upc" : "9783838760599"
-  },
-  {
-    "albumID" : "1620084934",
-    "artist" : "John Sinclair",
-    "duration" : 3595.9210000000003,
-    "releaseDate" : 675302400,
-    "title" : "Folge 153: Ihr Freund, der Ghoul",
-    "upc" : "9783754003534"
-  },
-  {
-    "albumID" : "327354595",
-    "artist" : "John Sinclair",
-    "duration" : 2661.348,
-    "releaseDate" : 271641600,
-    "title" : "John Sinclair, Folge 54: Ein schwarzer Tag in meinem Leben",
-    "upc" : "9783785740644"
-  },
-  {
-    "albumID" : "670251199",
-    "artist" : "John Sinclair",
-    "duration" : 3971.909,
-    "releaseDate" : 395884800,
-    "title" : "Classics Folge 16: Der Gnom mit den Krallenhänden",
-    "upc" : "9783838772301"
-  },
-  {
-    "albumID" : "1482413342",
-    "artist" : "John Sinclair",
-    "duration" : 5732.327,
-    "releaseDate" : 594172800,
-    "title" : "Sonderedition 13: Der Unheimliche von Dartmoor",
-    "upc" : "9783838789750"
+    "duration" : 3752.706,
+    "releaseDate" : 351129600,
+    "title" : "Classics Folge 10: Die Insel der Skelette",
+    "upc" : "9783838769912"
   },
   {
     "albumID" : "505442414",
@@ -1640,60 +680,12 @@
     "upc" : "9783838769998"
   },
   {
-    "albumID" : "986877146",
+    "albumID" : "514759783",
     "artist" : "John Sinclair",
-    "duration" : 3075.841,
-    "releaseDate" : 461116800,
-    "title" : "Classics, Folge 23: In Satans Diensten",
-    "upc" : "9783838775555"
-  },
-  {
-    "albumID" : "914030484",
-    "artist" : "John Sinclair",
-    "duration" : 3568.9820000000004,
-    "releaseDate" : 443059200,
-    "title" : "Classics, Folge 21: Bruderschaft des Satans",
-    "upc" : "9783785749722"
-  },
-  {
-    "albumID" : "1670096143",
-    "artist" : "John Sinclair",
-    "duration" : 3503.08,
-    "releaseDate" : 698889600,
-    "title" : "Folge 49: Die Rache des Kreuzritters (Classics)",
-    "upc" : "9783754003497"
-  },
-  {
-    "albumID" : "885528028",
-    "artist" : "John Sinclair",
-    "duration" : 3694.7079999999996,
-    "releaseDate" : 434592000,
-    "title" : "Classics, Folge 20: Doktor Tod",
-    "upc" : "9783785746202"
-  },
-  {
-    "albumID" : "1621697656",
-    "artist" : "John Sinclair",
-    "duration" : 3322.756,
-    "releaseDate" : 672883200,
-    "title" : "Folge 46: Der Fluch der schwarzen Hand (Classics) [Ungekürzt]",
-    "upc" : "4066004459097"
-  },
-  {
-    "albumID" : "1645373628",
-    "artist" : "John Sinclair",
-    "duration" : 3531.031000000001,
-    "releaseDate" : 688608000,
-    "title" : "Classics, Folge 48 - Im Haus des Schreckens",
-    "upc" : "9783754003480"
-  },
-  {
-    "albumID" : "1166157776",
-    "artist" : "John Sinclair",
-    "duration" : 6978.076000000001,
-    "releaseDate" : 500256000,
-    "title" : "Folge 2000: Das Höllenkreuz",
-    "upc" : "9783838781570"
+    "duration" : 3375.654,
+    "releaseDate" : 355276800,
+    "title" : "Folge 73: Die Werwolf-Elite",
+    "upc" : "9783838770062"
   },
   {
     "albumID" : "525781768",
@@ -1704,20 +696,60 @@
     "upc" : "9783838770147"
   },
   {
-    "albumID" : "1757445916",
+    "albumID" : "537591474",
     "artist" : "John Sinclair",
-    "duration" : 3315.794,
-    "releaseDate" : 746668800,
-    "title" : "Folge 174: Das Richtschwert der Templer - Teil 1 von 2",
-    "upc" : "9783754012833"
+    "duration" : 3838.892,
+    "releaseDate" : 362016000,
+    "title" : "John Sinclair, Classics Folge 11: Der Blutgraf",
+    "upc" : "9783838770185"
   },
   {
-    "albumID" : "1328304430",
+    "albumID" : "545608305",
     "artist" : "John Sinclair",
-    "duration" : 3724.081,
-    "releaseDate" : 536544000,
-    "title" : "Sonderedition 3: Angst über London",
-    "upc" : "9783838788784"
+    "duration" : 3634.679,
+    "releaseDate" : 364435200,
+    "title" : "Folge 75: Albtraum in Atlantis",
+    "upc" : "9783838770703"
+  },
+  {
+    "albumID" : "554174497",
+    "artist" : "John Sinclair",
+    "duration" : 3145.3879999999995,
+    "releaseDate" : 366854400,
+    "title" : "Folge 76: Herrin der Dunkelwelt",
+    "upc" : "9783838770499"
+  },
+  {
+    "albumID" : "562917502",
+    "artist" : "John Sinclair",
+    "duration" : 4252.2789999999995,
+    "releaseDate" : 369878400,
+    "title" : "John Sinclair, Classics Folge 12: Das Höllenheer",
+    "upc" : "9783838770789"
+  },
+  {
+    "albumID" : "567092015",
+    "artist" : "John Sinclair",
+    "duration" : 4024.8140000000003,
+    "releaseDate" : 371692800,
+    "title" : "Folge 77: Der lächelnde Henker",
+    "upc" : "9783838770864"
+  },
+  {
+    "albumID" : "570751019",
+    "artist" : "John Sinclair",
+    "duration" : 3367.4520000000007,
+    "releaseDate" : 374716800,
+    "title" : "Folge 78: Die Todesgöttin",
+    "upc" : "9783838770963"
+  },
+  {
+    "albumID" : "580463366",
+    "artist" : "John Sinclair",
+    "duration" : 3842.2270000000003,
+    "releaseDate" : 375926400,
+    "title" : "Folge 13: John Sinclair Classics - Amoklauf der Mumie",
+    "upc" : "9783838770888"
   },
   {
     "albumID" : "587349267",
@@ -1728,36 +760,76 @@
     "upc" : "9783838770994"
   },
   {
-    "albumID" : "1685979438",
+    "albumID" : "598581246",
     "artist" : "John Sinclair",
-    "duration" : 3554.6839999999997,
-    "releaseDate" : 709776000,
-    "title" : "Folge 161: Jenseits-Melodie",
-    "upc" : "9783754005613"
+    "duration" : 4547.438,
+    "releaseDate" : 382579200,
+    "title" : "Classics Folge 14: Dämonos",
+    "upc" : "9783838771373"
   },
   {
-    "albumID" : "1594396664",
+    "albumID" : "608279663",
     "artist" : "John Sinclair",
-    "duration" : 6535.905999999998,
-    "releaseDate" : 661392000,
-    "title" : "Folge 150: Eisherz (Ungekürzt)",
-    "upc" : "9783838797113"
+    "duration" : 3543.457,
+    "releaseDate" : 384912000,
+    "title" : "Folge 80: Sieben Siegel der Magie - Kreuz-Trilogie, Teil 1",
+    "upc" : "9783838771762"
   },
   {
-    "albumID" : "1561134198",
+    "albumID" : "606997602",
     "artist" : "John Sinclair",
-    "duration" : 3469.998,
-    "releaseDate" : 623116800,
-    "title" : "Folge 141: Shao (Teil 2 von 2)",
-    "upc" : "4066004037165"
+    "duration" : 4769.279000000001,
+    "releaseDate" : 384912000,
+    "title" : "Folge 82: Macht und Mythos - Kreuz-Trilogie, Teil 3",
+    "upc" : "9783838771786"
   },
   {
-    "albumID" : "857856050",
+    "albumID" : "608280636",
     "artist" : "John Sinclair",
-    "duration" : 3312.161,
-    "releaseDate" : 421891200,
-    "title" : "Folge 92: Satans Eulen",
-    "upc" : "9783838773919"
+    "duration" : 4300.305,
+    "releaseDate" : 384912000,
+    "title" : "Folge 81: Allein in der Drachenhöhle - Kreuz-Trilogie, Teil 2",
+    "upc" : "9783838771779"
+  },
+  {
+    "albumID" : "634857916",
+    "artist" : "John Sinclair",
+    "duration" : 4721.906999999999,
+    "releaseDate" : 388022400,
+    "title" : "Folge 83: Ein Leben unter Toten",
+    "upc" : "4250783611221"
+  },
+  {
+    "albumID" : "641572055",
+    "artist" : "John Sinclair",
+    "duration" : 4287.076,
+    "releaseDate" : 390441600,
+    "title" : "Classics Folge 15: Die Bräute des Vampirs",
+    "upc" : "9783838771892"
+  },
+  {
+    "albumID" : "660880978",
+    "artist" : "John Sinclair",
+    "duration" : 3781.0290000000005,
+    "releaseDate" : 393465600,
+    "title" : "Folge 84: Ewige Schreie",
+    "upc" : "9783838771922"
+  },
+  {
+    "albumID" : "670251199",
+    "artist" : "John Sinclair",
+    "duration" : 3971.909,
+    "releaseDate" : 395884800,
+    "title" : "Classics Folge 16: Der Gnom mit den Krallenhänden",
+    "upc" : "9783838772301"
+  },
+  {
+    "albumID" : "668515143",
+    "artist" : "John Sinclair",
+    "duration" : 3072.853,
+    "releaseDate" : 398304000,
+    "title" : "Folge 85: Kalis Schlangengrube",
+    "upc" : "9783838772448"
   },
   {
     "albumID" : "684305871",
@@ -1768,156 +840,20 @@
     "upc" : "9783838772592"
   },
   {
-    "albumID" : "1579311149",
+    "albumID" : "706048126",
     "artist" : "John Sinclair",
-    "duration" : 4092.903,
-    "releaseDate" : 651715200,
-    "title" : "Folge 148: Ninja-Rache",
-    "upc" : "9783838797090"
+    "duration" : 3625.148,
+    "releaseDate" : 403142400,
+    "title" : "Classics Folge 17: Die teuflischen Schädel",
+    "upc" : "9783838772790"
   },
   {
-    "albumID" : "1740068810",
+    "albumID" : "702942325",
     "artist" : "John Sinclair",
-    "duration" : 3445.7900000000004,
-    "releaseDate" : 738806400,
-    "title" : "Folge 171: Kalis tödlicher Spiegel",
-    "upc" : "9783754012802"
-  },
-  {
-    "albumID" : "1712098121",
-    "artist" : "John Sinclair",
-    "duration" : 3200.9579999999996,
-    "releaseDate" : 722476800,
-    "title" : "Folge 165: Mit Blut geschrieben - Teil 2 von 2",
-    "upc" : "9783754008959"
-  },
-  {
-    "albumID" : "1770031182",
-    "artist" : "John Sinclair",
-    "duration" : 4973.939999999999,
-    "releaseDate" : 751507200,
-    "title" : "Sonderedition 17: Das Horror-Restaurant (Ungekürzt)",
-    "upc" : "9783754015919"
-  },
-  {
-    "albumID" : "1761130963",
-    "artist" : "John Sinclair",
-    "duration" : 3077.2040000000006,
-    "releaseDate" : 749088000,
-    "title" : "Folge 175: Der Grusel-Star. Teil 2 von 2",
-    "upc" : "9783754015865"
-  },
-  {
-    "albumID" : "1393021078",
-    "artist" : "John Sinclair",
-    "duration" : 7181.510999999998,
-    "releaseDate" : 551923200,
-    "title" : "Deadwood - Stadt der Särge, Sonderedition 11",
-    "upc" : "9783838787749"
-  },
-  {
-    "albumID" : "1409829823",
-    "artist" : "John Sinclair",
-    "duration" : 6057.974999999999,
-    "releaseDate" : 559785600,
-    "title" : "Engel? - Sonderedition 12",
-    "upc" : "9783838788814"
-  },
-  {
-    "albumID" : "1299646891",
-    "artist" : "John Sinclair",
-    "duration" : 5603.225,
-    "releaseDate" : 533174400,
-    "title" : "Das andere Ufer der Nacht - Sonderedition 10",
-    "upc" : "4251234394175"
-  },
-  {
-    "albumID" : "1729347613",
-    "artist" : "John Sinclair",
-    "duration" : 3440.0989999999997,
-    "releaseDate" : 732758400,
-    "title" : "Folge 169: Lupina gegen Mandragoro - Teil 2 von 2",
-    "upc" : "9783754012772"
-  },
-  {
-    "albumID" : "1592684618",
-    "artist" : "John Sinclair",
-    "duration" : 5524.947000000001,
-    "releaseDate" : 657158400,
-    "title" : "Sonderedition 15: Tödliche Märchen",
-    "upc" : "9783838798417"
-  },
-  {
-    "albumID" : "1561133200",
-    "artist" : "John Sinclair",
-    "duration" : 3160.542,
-    "releaseDate" : 630201600,
-    "title" : "Folge 142: Das Grauen aus dem Bleisarg",
-    "upc" : "4066004037110"
-  },
-  {
-    "albumID" : "1655103006",
-    "artist" : "John Sinclair",
-    "duration" : 6615.87,
-    "releaseDate" : 692841600,
-    "title" : "Sonderedition 16: Totenkopf-TV",
-    "upc" : "9783754003206"
-  },
-  {
-    "albumID" : "1561134205",
-    "artist" : "John Sinclair",
-    "duration" : 5818.9360000000015,
-    "releaseDate" : 625708800,
-    "title" : "Folge 14: Die Blutorgel 9 Sonderedition)",
-    "upc" : "4066004037141"
-  },
-  {
-    "albumID" : "1561132606",
-    "artist" : "John Sinclair",
-    "duration" : 3417,
-    "releaseDate" : 633571200,
-    "title" : "Folge 143: Der unheimliche Shaolin",
-    "upc" : "4066004037103"
-  },
-  {
-    "albumID" : "1053136971",
-    "artist" : "John Sinclair",
-    "duration" : 3697.357,
-    "releaseDate" : 469584000,
-    "title" : "Tonstudio Braun, Folge 1: Das Horror-Schloß im Spessart",
-    "upc" : "9783838780016"
-  },
-  {
-    "albumID" : "1287069371",
-    "artist" : "John Sinclair",
-    "duration" : 7510.599000000002,
-    "releaseDate" : 528336000,
-    "title" : "Oculus - Im Auge des Sturms - Sonderedition 8",
-    "upc" : "4251234340165"
-  },
-  {
-    "albumID" : "1469537496",
-    "artist" : "John Sinclair",
-    "duration" : 4327.500000000001,
-    "releaseDate" : 583372800,
-    "title" : "Sinclair, Staffel 1: Dead Zone, Folge 2: Strafe",
-    "upc" : "4251625918898"
-  },
-  {
-    "albumID" : "309572213",
-    "artist" : "Jason Dark & John Sinclair",
-    "duration" : 7653.507999999998,
-    "releaseDate" : 137289600,
-    "title" : "John Sinclair, SE 02: Der Pfähler",
-    "upc" : "9783838761510"
-  },
-  {
-    "albumID" : "1160769728",
-    "artist" : "John Sinclair",
-    "duration" : 5445.223000000001,
-    "releaseDate" : 498096000,
-    "title" : "Sonderedition 6: Melinas Mordgespenster",
-    "upc" : "9783838778686"
+    "duration" : 3260.0409999999993,
+    "releaseDate" : 406771200,
+    "title" : "Folge 87: Schlucht der stummen Götter",
+    "upc" : "9783838772721"
   },
   {
     "albumID" : "731655746",
@@ -1928,28 +864,228 @@
     "upc" : "9783838772837"
   },
   {
-    "albumID" : "1255577553",
+    "albumID" : "762808016",
     "artist" : "John Sinclair",
-    "duration" : 9968.790999999997,
-    "releaseDate" : 528336000,
-    "title" : "Brandmal - Sonderedition 7",
-    "upc" : "4251234334959"
+    "duration" : 3937.0550000000003,
+    "releaseDate" : 409190400,
+    "title" : "Folge 88: Die Leichenstadt",
+    "upc" : "9783838772912"
   },
   {
-    "albumID" : "1053137417",
+    "albumID" : "779458288",
     "artist" : "John Sinclair",
-    "duration" : 3598.2180000000003,
-    "releaseDate" : 470188800,
-    "title" : "Tonstudio Braun, Folge 2: Der schwarze Henker",
-    "upc" : "9783838780023"
+    "duration" : 3726.1059999999993,
+    "releaseDate" : 411609600,
+    "title" : "Folge 89: In den Krallen der roten Vampire",
+    "upc" : "9783838773544"
   },
   {
-    "albumID" : "1561130320",
+    "albumID" : "799415412",
     "artist" : "John Sinclair",
-    "duration" : 3256.9639999999995,
-    "releaseDate" : 628128000,
-    "title" : "Folge 41: Der schwarze Würger (Classics)",
-    "upc" : "4066004037080"
+    "duration" : 3709.533,
+    "releaseDate" : 414028800,
+    "title" : "Classics, Folge 18: Die Armee der Unsichtbaren",
+    "upc" : "9783838773605"
+  },
+  {
+    "albumID" : "796926574",
+    "artist" : "John Sinclair",
+    "duration" : 2776.532,
+    "releaseDate" : 416448000,
+    "title" : "Folge 90: Belphégors Rückkehr",
+    "upc" : "9783838773674"
+  },
+  {
+    "albumID" : "834316835",
+    "artist" : "John Sinclair",
+    "duration" : 3137.961,
+    "releaseDate" : 419212800,
+    "title" : "Folge 91: Der Höllenwurm",
+    "upc" : "9783838773865"
+  },
+  {
+    "albumID" : "857856050",
+    "artist" : "John Sinclair",
+    "duration" : 3312.161,
+    "releaseDate" : 421891200,
+    "title" : "Folge 92: Satans Eulen",
+    "upc" : "9783838773919"
+  },
+  {
+    "albumID" : "813670556",
+    "artist" : "John Sinclair",
+    "duration" : 3494.7059999999997,
+    "releaseDate" : 424310400,
+    "title" : "Classics, Folge 19: Horrorfest am Galgenhügel",
+    "upc" : "9783838773698"
+  },
+  {
+    "albumID" : "857899527",
+    "artist" : "John Sinclair",
+    "duration" : 3281.373,
+    "releaseDate" : 427334400,
+    "title" : "Folge 93: Der Pesthügel von Shanghai",
+    "upc" : "9783838774053"
+  },
+  {
+    "albumID" : "858549973",
+    "artist" : "John Sinclair",
+    "duration" : 3180.383,
+    "releaseDate" : 429753600,
+    "title" : "Folge 94: Verdammt und begraben",
+    "upc" : "9783838774107"
+  },
+  {
+    "albumID" : "906726729",
+    "artist" : "John Sinclair",
+    "duration" : 3256.12,
+    "releaseDate" : 432172800,
+    "title" : "Folge 95: Der Schädelthron",
+    "upc" : "9783838774169"
+  },
+  {
+    "albumID" : "885528028",
+    "artist" : "John Sinclair",
+    "duration" : 3694.7079999999996,
+    "releaseDate" : 434592000,
+    "title" : "Classics, Folge 20: Doktor Tod",
+    "upc" : "9783785746202"
+  },
+  {
+    "albumID" : "910994433",
+    "artist" : "John Sinclair",
+    "duration" : 3541.7709999999997,
+    "releaseDate" : 437616000,
+    "title" : "Folge 96: Pandoras Botschaft",
+    "upc" : "9783785749272"
+  },
+  {
+    "albumID" : "910993163",
+    "artist" : "John Sinclair",
+    "duration" : 2973.841,
+    "releaseDate" : 440640000,
+    "title" : "Folge 97: Die Tochter des Totengräbers",
+    "upc" : "9783785749289"
+  },
+  {
+    "albumID" : "914030484",
+    "artist" : "John Sinclair",
+    "duration" : 3568.9820000000004,
+    "releaseDate" : 443059200,
+    "title" : "Classics, Folge 21: Bruderschaft des Satans",
+    "upc" : "9783785749722"
+  },
+  {
+    "albumID" : "910994230",
+    "artist" : "John Sinclair",
+    "duration" : 3306.8,
+    "releaseDate" : 445478400,
+    "title" : "Folge 98: Treffpunkt Leichenhaus",
+    "upc" : "9783838774589"
+  },
+  {
+    "albumID" : "957426097",
+    "artist" : "John Sinclair",
+    "duration" : 7522.109000000001,
+    "releaseDate" : 447897600,
+    "title" : "Folge 100: Das Ende",
+    "upc" : "9783838775432"
+  },
+  {
+    "albumID" : "949585255",
+    "artist" : "John Sinclair",
+    "duration" : 3621.5320000000006,
+    "releaseDate" : 447897600,
+    "title" : "Folge 99: Das gläserne Grauen",
+    "upc" : "9783838774558"
+  },
+  {
+    "albumID" : "977199388",
+    "artist" : "John Sinclair",
+    "duration" : 3716.2660000000005,
+    "releaseDate" : 449107200,
+    "title" : "Episode 1: Curse of the Undead",
+    "upc" : "9783838777368"
+  },
+  {
+    "albumID" : "983241687",
+    "artist" : "John Sinclair",
+    "duration" : 3404.7599999999998,
+    "releaseDate" : 453340800,
+    "title" : "Classics, Folge 22: Der See des Schreckens",
+    "upc" : "9783838775470"
+  },
+  {
+    "albumID" : "985921153",
+    "artist" : "John Sinclair",
+    "duration" : 3421.998000000001,
+    "releaseDate" : 455760000,
+    "title" : "Episode 2: The Lord of Death",
+    "upc" : "9783838777351"
+  },
+  {
+    "albumID" : "973020839",
+    "artist" : "John Sinclair",
+    "duration" : 2733.8659999999995,
+    "releaseDate" : 456364800,
+    "title" : "Folge 101: Der Hexenwürger von Blackmoore, Teil 1",
+    "upc" : "9783838775487"
+  },
+  {
+    "albumID" : "986927227",
+    "artist" : "John Sinclair",
+    "duration" : 2931.054,
+    "releaseDate" : 458697600,
+    "title" : "Folge 102: Wikkas Rache (Teil 2 von 2)",
+    "upc" : "9783838775524"
+  },
+  {
+    "albumID" : "985921337",
+    "artist" : "John Sinclair",
+    "duration" : 3441.3179999999993,
+    "releaseDate" : 459993600,
+    "title" : "Episode 3: Dr. Satanos",
+    "upc" : "9783838777344"
+  },
+  {
+    "albumID" : "986877146",
+    "artist" : "John Sinclair",
+    "duration" : 3075.841,
+    "releaseDate" : 461116800,
+    "title" : "Classics, Folge 23: In Satans Diensten",
+    "upc" : "9783838775555"
+  },
+  {
+    "albumID" : "1433958589",
+    "artist" : "John Sinclair",
+    "duration" : 3075.841,
+    "releaseDate" : 461116800,
+    "title" : "Classics, Folge 23: In Satans Diensten",
+    "upc" : "4250783683617"
+  },
+  {
+    "albumID" : "986927635",
+    "artist" : "John Sinclair",
+    "duration" : 2654.533,
+    "releaseDate" : 463536000,
+    "title" : "Folge 103: Ghoul-Parasiten",
+    "upc" : "9783838775586"
+  },
+  {
+    "albumID" : "985922905",
+    "artist" : "John Sinclair",
+    "duration" : 3189.585,
+    "releaseDate" : 464832000,
+    "title" : "Episode 4: A Feast of Blood",
+    "upc" : "9783838777375"
+  },
+  {
+    "albumID" : "986931860",
+    "artist" : "John Sinclair",
+    "duration" : 3019.2509999999997,
+    "releaseDate" : 465955200,
+    "title" : "Folge 104: Die magische Bombe",
+    "upc" : "9783838775593"
   },
   {
     "albumID" : "1053844260",
@@ -1960,60 +1096,20 @@
     "upc" : "9783838775609"
   },
   {
-    "albumID" : "1570802379",
+    "albumID" : "1053136971",
     "artist" : "John Sinclair",
-    "duration" : 3072.4149999999995,
-    "releaseDate" : 586224000,
-    "title" : "Folge 132: Der Ghoul, der meinen Tod bestellte",
-    "upc" : "4066004229744"
+    "duration" : 3697.357,
+    "releaseDate" : 469584000,
+    "title" : "Tonstudio Braun, Folge 1: Das Horror-Schloß im Spessart",
+    "upc" : "9783838780016"
   },
   {
-    "albumID" : "1475231105",
+    "albumID" : "1053137417",
     "artist" : "John Sinclair",
-    "duration" : 5559.994999999999,
-    "releaseDate" : 588816000,
-    "title" : "Sinclair, Staffel 1: Dead Zone, Folge 3: Zorn",
-    "upc" : "4251625933518"
-  },
-  {
-    "albumID" : "1096662939",
-    "artist" : "John Sinclair",
-    "duration" : 1746.4420000000005,
-    "releaseDate" : 483580800,
-    "title" : "Mein erster Fall - Bonus-Folge",
-    "upc" : "9783838781495"
-  },
-  {
-    "albumID" : "1289274647",
-    "artist" : "John Sinclair",
-    "duration" : 5806.388000000002,
-    "releaseDate" : 530668800,
-    "title" : "Oculus - Das Ende der Zeit - Sonderedition 9",
-    "upc" : "4251234340103"
-  },
-  {
-    "albumID" : "1560634330",
-    "artist" : "John Sinclair",
-    "duration" : 4507.773999999999,
-    "releaseDate" : 638409600,
-    "title" : "Sinclair, Staffel 2: Underworld, Folge 1: Kyvos",
-    "upc" : "4066004034362"
-  },
-  {
-    "albumID" : "1486801296",
-    "artist" : "John Sinclair",
-    "duration" : 5498.834000000003,
-    "releaseDate" : 594172800,
-    "title" : "Sinclair, Staffel 1: Dead Zone, Folge 4: Leviathan",
-    "upc" : "4251625969111"
-  },
-  {
-    "albumID" : "1053846275",
-    "artist" : "John Sinclair",
-    "duration" : 3724.2490000000003,
-    "releaseDate" : 471398400,
-    "title" : "Tonstudio Braun, Folge 4: Der Pfähler. Teil 1 von 3",
-    "upc" : "9783838780047"
+    "duration" : 3598.2180000000003,
+    "releaseDate" : 470188800,
+    "title" : "Tonstudio Braun, Folge 2: Der schwarze Henker",
+    "upc" : "9783838780023"
   },
   {
     "albumID" : "1053138261",
@@ -2024,100 +1120,28 @@
     "upc" : "9783838780030"
   },
   {
-    "albumID" : "1620088427",
+    "albumID" : "986900232",
     "artist" : "John Sinclair",
-    "duration" : 4894.932000000001,
-    "releaseDate" : 675302400,
-    "title" : "Folge 8: Tote Zone (Staffel 2: Underworld)",
-    "upc" : "4066004455914"
+    "duration" : 3608.734,
+    "releaseDate" : 471398400,
+    "title" : "Classics, Folge 24: Hochzeit der Vampire",
+    "upc" : "9783838775616"
   },
   {
-    "albumID" : "1068552011",
+    "albumID" : "1053846275",
     "artist" : "John Sinclair",
-    "duration" : 3385.4780000000005,
-    "releaseDate" : 475632000,
-    "title" : "Tonstudio Braun, Folge 11: Der unheimliche Bogenschütze",
-    "upc" : "9783838780115"
+    "duration" : 3724.2490000000003,
+    "releaseDate" : 471398400,
+    "title" : "Tonstudio Braun, Folge 4: Der Pfähler. Teil 1 von 3",
+    "upc" : "9783838780047"
   },
   {
-    "albumID" : "1118929670",
+    "albumID" : "985923829",
     "artist" : "John Sinclair",
-    "duration" : 9180.620999999997,
-    "releaseDate" : 487209600,
-    "title" : "Sinclair Academy, Folge 1: Belphegor - Der Fluch des Dämons",
-    "upc" : "9783838779621"
-  },
-  {
-    "albumID" : "1492075400",
-    "artist" : "John Sinclair",
-    "duration" : 4717.6449999999995,
-    "releaseDate" : 598492800,
-    "title" : "Sinclair, Staffel 1: Dead Zone, Folge 5: Schuld (Gekürzt)",
-    "upc" : "4251535784972"
-  },
-  {
-    "albumID" : "1500642922",
-    "artist" : "John Sinclair",
-    "duration" : 4200.003,
-    "releaseDate" : 604540800,
-    "title" : "Sinclair, Staffel 1: Dead Zone, Folge 6: Nemesis",
-    "upc" : "4251625998104"
-  },
-  {
-    "albumID" : "1560978348",
-    "artist" : "John Sinclair",
-    "duration" : 1466.979,
-    "releaseDate" : 637804800,
-    "title" : "Sinclair, Staffel 2: Underworld, Folge: Prolog",
-    "upc" : "4066004034799"
-  },
-  {
-    "albumID" : "1577387110",
-    "artist" : "John Sinclair",
-    "duration" : 4739.985,
-    "releaseDate" : 649296000,
-    "title" : "Sinclair, Staffel 2: Underworld, Folge 3: 180 bpm",
-    "upc" : "9783838796000"
-  },
-  {
-    "albumID" : "1582446864",
-    "artist" : "John Sinclair",
-    "duration" : 4363.947,
-    "releaseDate" : 654652800,
-    "title" : "Sinclair, Staffel 2: Underworld, Folge 4: Abbey Wood",
-    "upc" : "9783838796017"
-  },
-  {
-    "albumID" : "1613124706",
-    "artist" : "John Sinclair",
-    "duration" : 4304.5830000000005,
-    "releaseDate" : 669859200,
-    "title" : "Folge 7: Station F. (Underworld) [Staffel 2]",
-    "upc" : "9783838798509"
-  },
-  {
-    "albumID" : "1593239644",
-    "artist" : "John Sinclair",
-    "duration" : 5025.036,
-    "releaseDate" : 659577600,
-    "title" : "Sinclair, Staffel 2: Underworld, Folge 5: Magoi",
-    "upc" : "9783838796024"
-  },
-  {
-    "albumID" : "1062908368",
-    "artist" : "John Sinclair",
-    "duration" : 3371.536,
-    "releaseDate" : 473817600,
-    "title" : "Tonstudio Braun, Folge 8: Der Totenbeschwörer",
-    "upc" : "9783838780085"
-  },
-  {
-    "albumID" : "1604567878",
-    "artist" : "John Sinclair",
-    "duration" : 4370.9439999999995,
-    "releaseDate" : 665020800,
-    "title" : "Folge 6: Harmony (Staffel 2: Underworld)",
-    "upc" : "9783838796031"
+    "duration" : 3785.2539999999995,
+    "releaseDate" : 471484800,
+    "title" : "Episode 5: Dark Pharaoh",
+    "upc" : "9783838777382"
   },
   {
     "albumID" : "1063647218",
@@ -2128,172 +1152,12 @@
     "upc" : "9783838780054"
   },
   {
-    "albumID" : "1068234427",
-    "artist" : "John Sinclair",
-    "duration" : 3540.7729999999997,
-    "releaseDate" : 482889600,
-    "title" : "Tonstudio Braun, Folge 23: Der Leichenbrunnen",
-    "upc" : "9783838780238"
-  },
-  {
-    "albumID" : "1317036624",
-    "artist" : "John Sinclair",
-    "duration" : 2987.8510000000006,
-    "releaseDate" : 533692800,
-    "title" : "Tonstudio Braun, Folge 107: Herrin der Dunkelwelt",
-    "upc" : "9783838781075"
-  },
-  {
-    "albumID" : "356602701",
-    "artist" : "John Sinclair",
-    "duration" : 4623.1810000000005,
-    "releaseDate" : 48384000,
-    "title" : "John Sinclair, Der Anfang (SE 01)",
-    "upc" : "9783838760988"
-  },
-  {
-    "albumID" : "1214951613",
-    "artist" : "John Sinclair",
-    "duration" : 2800.1920000000005,
-    "releaseDate" : 519782400,
-    "title" : "Tonstudio Braun, Folge 84: Das Ungeheuer von Loch Morar. Teil 1 von 2",
-    "upc" : "4251234326527"
-  },
-  {
-    "albumID" : "1076353291",
-    "artist" : "John Sinclair",
-    "duration" : 3576.015000000001,
-    "releaseDate" : 477446400,
-    "title" : "Tonstudio Braun, Folge 14: Das Buch der grausamen Träume",
-    "upc" : "9783838780146"
-  },
-  {
-    "albumID" : "1214911032",
-    "artist" : "John Sinclair",
-    "duration" : 3271.7259999999997,
-    "releaseDate" : 526435200,
-    "title" : "Tonstudio Braun, Folge 95: Insel der Seelenlosen",
-    "upc" : "4251234326466"
-  },
-  {
-    "albumID" : "1214947748",
-    "artist" : "John Sinclair",
-    "duration" : 3239.0260000000007,
-    "releaseDate" : 517968000,
-    "title" : "Tonstudio Braun, Folge 81: Der unheimliche Mönch",
-    "upc" : "4251234326572"
-  },
-  {
-    "albumID" : "1062911842",
-    "artist" : "John Sinclair",
-    "duration" : 3429.988000000001,
-    "releaseDate" : 474422400,
-    "title" : "Tonstudio Braun, Folge 9: Der Gelbe Satan. Teil 1 von 2",
-    "upc" : "9783838780092"
-  },
-  {
-    "albumID" : "1068234879",
-    "artist" : "John Sinclair",
-    "duration" : 3374.246,
-    "releaseDate" : 483494400,
-    "title" : "Tonstudio Braun, Folge 24: Im Land des Vampirs. Teil 1 von 3",
-    "upc" : "9783838780245"
-  },
-  {
-    "albumID" : "1579836690",
-    "artist" : "John Sinclair",
-    "duration" : 4342.884999999999,
-    "releaseDate" : 643852800,
-    "title" : "Sinclair, Staffel 2: Underworld, Folge 2: Rausch",
-    "upc" : "4066004308593"
-  },
-  {
     "albumID" : "1063647211",
     "artist" : "John Sinclair",
     "duration" : 3374.559,
     "releaseDate" : 472608000,
     "title" : "Tonstudio Braun, Folge 6: Die Vampirfalle. Teil 3 von 3",
     "upc" : "9783838780061"
-  },
-  {
-    "albumID" : "1307120194",
-    "artist" : "John Sinclair",
-    "duration" : 3240.6879999999996,
-    "releaseDate" : 532483200,
-    "title" : "Tonstudio Braun, Folge 105: Flucht in die Schädelwelt",
-    "upc" : "9783838781051"
-  },
-  {
-    "albumID" : "1300329718",
-    "artist" : "John Sinclair",
-    "duration" : 2947.9460000000004,
-    "releaseDate" : 531878400,
-    "title" : "Tonstudio Braun, Folge 104: Dr. Tods Horror-Insel",
-    "upc" : "9783838781044"
-  },
-  {
-    "albumID" : "1214909618",
-    "artist" : "John Sinclair",
-    "duration" : 3549.295,
-    "releaseDate" : 525225600,
-    "title" : "Tonstudio Braun, Folge 93: Im Landhaus der Schrecken",
-    "upc" : "4251234326473"
-  },
-  {
-    "albumID" : "1214956753",
-    "artist" : "John Sinclair",
-    "duration" : 3489.1629999999996,
-    "releaseDate" : 524620800,
-    "title" : "Tonstudio Braun, Folge 92: Der siebenarmige Tod",
-    "upc" : "4251234326602"
-  },
-  {
-    "albumID" : "1214955224",
-    "artist" : "John Sinclair",
-    "duration" : 3164.0449999999996,
-    "releaseDate" : 523411200,
-    "title" : "Tonstudio Braun, Folge 90: Der Unheimliche von Dartmoor",
-    "upc" : "4251234326626"
-  },
-  {
-    "albumID" : "1300198376",
-    "artist" : "John Sinclair",
-    "duration" : 3314.109999999999,
-    "releaseDate" : 531273600,
-    "title" : "Tonstudio Braun, Folge 103: Der Todesnebel",
-    "upc" : "9783838781037"
-  },
-  {
-    "albumID" : "1222058100",
-    "artist" : "John Sinclair",
-    "duration" : 7845.245,
-    "releaseDate" : 514684800,
-    "title" : "Sinclair Academy, Folge 7: Haus der verlorenen Seelen",
-    "upc" : "9783838784670"
-  },
-  {
-    "albumID" : "1068553216",
-    "artist" : "John Sinclair",
-    "duration" : 3573.339,
-    "releaseDate" : 476236800,
-    "title" : "Tonstudio Braun, Folge 12: Augen des Grauens",
-    "upc" : "9783838780122"
-  },
-  {
-    "albumID" : "1068231380",
-    "artist" : "John Sinclair",
-    "duration" : 3654.725,
-    "releaseDate" : 479260800,
-    "title" : "Tonstudio Braun, Folge 17: Die Drohung. Teil 1 von 3",
-    "upc" : "9783838780177"
-  },
-  {
-    "albumID" : "1171083422",
-    "artist" : "John Sinclair",
-    "duration" : 3677.336,
-    "releaseDate" : 504662400,
-    "title" : "Tonstudio Braun, Folge 59: Luzifers Festung",
-    "upc" : "9783838780597"
   },
   {
     "albumID" : "1062903854",
@@ -2304,84 +1168,28 @@
     "upc" : "9783838780078"
   },
   {
-    "albumID" : "1122473038",
+    "albumID" : "1062908368",
     "artist" : "John Sinclair",
-    "duration" : 9578.813999999998,
-    "releaseDate" : 492652800,
-    "title" : "Sinclair Academy, Folge 3: Die Stadt aus dem Abgrund",
-    "upc" : "9783838779645"
+    "duration" : 3371.536,
+    "releaseDate" : 473817600,
+    "title" : "Tonstudio Braun, Folge 8: Der Totenbeschwörer",
+    "upc" : "9783838780085"
   },
   {
-    "albumID" : "1076355552",
+    "albumID" : "986945730",
     "artist" : "John Sinclair",
-    "duration" : 3418.7350000000006,
-    "releaseDate" : 478051200,
-    "title" : "Tonstudio Braun, Folge 15: Die Höllenkutsche. Teil 1 von 2",
-    "upc" : "9783838780153"
+    "duration" : 3477.309,
+    "releaseDate" : 474422400,
+    "title" : "Folge 105: Shimadas Mordaugen (Teil 1 von 3)",
+    "upc" : "9783838776897"
   },
   {
-    "albumID" : "1214955253",
+    "albumID" : "1062911842",
     "artist" : "John Sinclair",
-    "duration" : 3655.857,
-    "releaseDate" : 524016000,
-    "title" : "Tonstudio Braun, Folge 91: Der Vulkanteufel von Hawaii",
-    "upc" : "4251234326619"
-  },
-  {
-    "albumID" : "1171085098",
-    "artist" : "John Sinclair",
-    "duration" : 3619.498,
-    "releaseDate" : 508896000,
-    "title" : "Tonstudio Braun, Folge 66: Turm der weißen Vampire",
-    "upc" : "9783838780665"
-  },
-  {
-    "albumID" : "1122473037",
-    "artist" : "John Sinclair",
-    "duration" : 8546.511,
-    "releaseDate" : 495072000,
-    "title" : "Sinclair Academy, Folge 4: Sturm über Arbordale",
-    "upc" : "9783838779652"
-  },
-  {
-    "albumID" : "1069833286",
-    "artist" : "John Sinclair",
-    "duration" : 4600.420999999999,
-    "releaseDate" : 491961600,
-    "title" : "Tonstudio Braun, Folge 38: Die Nacht des Hexers",
-    "upc" : "9783838780382"
-  },
-  {
-    "albumID" : "1252972325",
-    "artist" : "John Sinclair",
-    "duration" : 8500.182999999999,
-    "releaseDate" : 522288000,
-    "title" : "Sinclair Academy, Folge 10: Das kalte Kind",
-    "upc" : "9783838784700"
-  },
-  {
-    "albumID" : "1555714163",
-    "artist" : "John Sinclair",
-    "duration" : 4117.292,
-    "releaseDate" : 635990400,
-    "title" : "Tonstudio Braun - Folge 108: Dr. Tods Rache",
-    "upc" : "4066004000077"
-  },
-  {
-    "albumID" : "1214909489",
-    "artist" : "John Sinclair",
-    "duration" : 3263.8500000000004,
-    "releaseDate" : 514944000,
-    "title" : "Tonstudio Braun, Folge 76: Der Irre mit der Teufelsgeige. Teil 1 von 2",
-    "upc" : "4251234326428"
-  },
-  {
-    "albumID" : "1122487935",
-    "artist" : "John Sinclair",
-    "duration" : 9307.234999999997,
-    "releaseDate" : 490147200,
-    "title" : "Sinclair Academy, Folge 2: Onna - Die Frau mit der Fratze",
-    "upc" : "9783838779638"
+    "duration" : 3429.988000000001,
+    "releaseDate" : 474422400,
+    "title" : "Tonstudio Braun, Folge 9: Der Gelbe Satan. Teil 1 von 2",
+    "upc" : "9783838780092"
   },
   {
     "albumID" : "1065018499",
@@ -2392,68 +1200,20 @@
     "upc" : "9783838780108"
   },
   {
-    "albumID" : "1214958516",
+    "albumID" : "1068552011",
     "artist" : "John Sinclair",
-    "duration" : 2894.0229999999997,
-    "releaseDate" : 521596800,
-    "title" : "Tonstudio Braun, Folge 87: Die Teufelssekte",
-    "upc" : "4251234326640"
+    "duration" : 3385.4780000000005,
+    "releaseDate" : 475632000,
+    "title" : "Tonstudio Braun, Folge 11: Der unheimliche Bogenschütze",
+    "upc" : "9783838780115"
   },
   {
-    "albumID" : "1312925831",
+    "albumID" : "1068553216",
     "artist" : "John Sinclair",
-    "duration" : 2863.923,
-    "releaseDate" : 533088000,
-    "title" : "Tonstudio Braun, Folge 106: Tokatas Erbe",
-    "upc" : "9783838781068"
-  },
-  {
-    "albumID" : "1069834798",
-    "artist" : "John Sinclair",
-    "duration" : 3601.657,
-    "releaseDate" : 493171200,
-    "title" : "Tonstudio Braun, Folge 40: Dr. Satanos",
-    "upc" : "9783838780405"
-  },
-  {
-    "albumID" : "1158872541",
-    "artist" : "John Sinclair",
-    "duration" : 3618.3140000000003,
-    "releaseDate" : 497404800,
-    "title" : "Tonstudio Braun, Folge 47: Disco Dracula",
-    "upc" : "9783838780474"
-  },
-  {
-    "albumID" : "1214958497",
-    "artist" : "John Sinclair",
-    "duration" : 3540.1539999999995,
-    "releaseDate" : 522806400,
-    "title" : "Tonstudio Braun, Folge 89: Das Todeskabinett",
-    "upc" : "4251234326633"
-  },
-  {
-    "albumID" : "1164983738",
-    "artist" : "John Sinclair",
-    "duration" : 3422.9449999999997,
-    "releaseDate" : 499824000,
-    "title" : "Tonstudio Braun, Folge 51: Einsatz der Todesrocker",
-    "upc" : "9783838780511"
-  },
-  {
-    "albumID" : "1214956831",
-    "artist" : "John Sinclair",
-    "duration" : 3697.9970000000003,
-    "releaseDate" : 525830400,
-    "title" : "Tonstudio Braun, Folge 94: Anruf aus dem Jenseits",
-    "upc" : "4251234326503"
-  },
-  {
-    "albumID" : "1068236040",
-    "artist" : "John Sinclair",
-    "duration" : 3823.9049999999997,
-    "releaseDate" : 485308800,
-    "title" : "Tonstudio Braun, Folge 27: Die Teufelsuhr",
-    "upc" : "9783838780276"
+    "duration" : 3573.339,
+    "releaseDate" : 476236800,
+    "title" : "Tonstudio Braun, Folge 12: Augen des Grauens",
+    "upc" : "9783838780122"
   },
   {
     "albumID" : "1077131754",
@@ -2464,372 +1224,36 @@
     "upc" : "9783838780139"
   },
   {
-    "albumID" : "1166172601",
+    "albumID" : "986946738",
     "artist" : "John Sinclair",
-    "duration" : 9279.738000000001,
-    "releaseDate" : 500515200,
-    "title" : "Sinclair Academy, Folge 5: Das Grauen von Oxford",
-    "upc" : "9783838782812"
+    "duration" : 3158.2929999999997,
+    "releaseDate" : 476928000,
+    "title" : "Folge 106: Xorrons Totenheer (Teil 2 von 3)",
+    "upc" : "9783838776903"
   },
   {
-    "albumID" : "1068232718",
+    "albumID" : "1076353291",
     "artist" : "John Sinclair",
-    "duration" : 4507.369,
-    "releaseDate" : 481680000,
-    "title" : "Tonstudio Braun, Folge 21: Hügel der Gehenkten",
-    "upc" : "9783838780214"
+    "duration" : 3576.015000000001,
+    "releaseDate" : 477446400,
+    "title" : "Tonstudio Braun, Folge 14: Das Buch der grausamen Träume",
+    "upc" : "9783838780146"
   },
   {
-    "albumID" : "1168032950",
+    "albumID" : "1076355552",
     "artist" : "John Sinclair",
-    "duration" : 9236.711000000001,
-    "releaseDate" : 500515200,
-    "title" : "Sinclair Academy, Folge 06: Cyber-Dämonen",
-    "upc" : "9783838782829"
+    "duration" : 3418.7350000000006,
+    "releaseDate" : 478051200,
+    "title" : "Tonstudio Braun, Folge 15: Die Höllenkutsche. Teil 1 von 2",
+    "upc" : "9783838780153"
   },
   {
-    "albumID" : "1214907613",
+    "albumID" : "985924685",
     "artist" : "John Sinclair",
-    "duration" : 3679.189,
-    "releaseDate" : 513734400,
-    "title" : "Tonstudio Braun, Folge 74: In Satans Diensten",
-    "upc" : "4251234326497"
-  },
-  {
-    "albumID" : "1171083019",
-    "artist" : "John Sinclair",
-    "duration" : 3666.779000000001,
-    "releaseDate" : 504057600,
-    "title" : "Tonstudio Braun, Folge 58: Geheimbund der Vampire",
-    "upc" : "9783838780580"
-  },
-  {
-    "albumID" : "1102883508",
-    "artist" : "John Sinclair",
-    "duration" : 16010.396000000002,
-    "releaseDate" : 485395200,
-    "title" : "Die Rückkehr des Schwarzen Tods",
-    "upc" : "9783838781549"
-  },
-  {
-    "albumID" : "1069834921",
-    "artist" : "John Sinclair",
-    "duration" : 3720.031,
-    "releaseDate" : 493776000,
-    "title" : "Tonstudio Braun, Folge 41: Das Leichenhaus der Lady L",
-    "upc" : "9783838780412"
-  },
-  {
-    "albumID" : "1214907652",
-    "artist" : "John Sinclair",
-    "duration" : 3503.9599999999996,
-    "releaseDate" : 513129600,
-    "title" : "Tonstudio Braun, Folge 73: Bruderschaft des Satans",
-    "upc" : "4251234326411"
-  },
-  {
-    "albumID" : "1289276105",
-    "artist" : "John Sinclair",
-    "duration" : 3529.718,
-    "releaseDate" : 528854400,
-    "title" : "Tonstudio Braun, Folge 99: Voodoo-Land. Teil 1 von 2",
-    "upc" : "9783838780993"
-  },
-  {
-    "albumID" : "1246899424",
-    "artist" : "John Sinclair",
-    "duration" : 9089.018,
-    "releaseDate" : 520300800,
-    "title" : "Sinclair Academy, Folge 9: Die Spur des Berserkers (Gekürzt)",
-    "upc" : "9783838784694"
-  },
-  {
-    "albumID" : "1171085509",
-    "artist" : "John Sinclair",
-    "duration" : 3496.6579999999994,
-    "releaseDate" : 510105600,
-    "title" : "Tonstudio Braun, Folge 68: Zombies auf dem Roten Platz",
-    "upc" : "9783838780689"
-  },
-  {
-    "albumID" : "1265807968",
-    "artist" : "John Sinclair",
-    "duration" : 3754.667999999999,
-    "releaseDate" : 522288000,
-    "title" : "Tonstudio Braun, Folge 88: Die Geier und der Wertiger",
-    "upc" : "4251234337417"
-  },
-  {
-    "albumID" : "1289745638",
-    "artist" : "John Sinclair",
-    "duration" : 8222.987,
-    "releaseDate" : 530668800,
-    "title" : "Sinclair Academy, Folge 13: Belphegors Rückkehr",
-    "upc" : "9783838786339"
-  },
-  {
-    "albumID" : "1068239203",
-    "artist" : "John Sinclair",
-    "duration" : 3031.579,
-    "releaseDate" : 490147200,
-    "title" : "Tonstudio Braun, Folge 35: Ein schaurige Warnung",
-    "upc" : "9783838780351"
-  },
-  {
-    "albumID" : "1068237886",
-    "artist" : "John Sinclair",
-    "duration" : 3057.014,
-    "releaseDate" : 488937600,
-    "title" : "Tonstudio Braun, Folge 33: Die Blutorgel",
-    "upc" : "9783838780337"
-  },
-  {
-    "albumID" : "1214949695",
-    "artist" : "John Sinclair",
-    "duration" : 3154.1890000000003,
-    "releaseDate" : 519177600,
-    "title" : "Tonstudio Braun, Folge 83: Maringo, der Höllenreiter",
-    "upc" : "4251234326541"
-  },
-  {
-    "albumID" : "1171085455",
-    "artist" : "John Sinclair",
-    "duration" : 3525.2500000000005,
-    "releaseDate" : 509500800,
-    "title" : "Tonstudio Braun, Folge 67: Tal der vergessenen Toten",
-    "upc" : "9783838780672"
-  },
-  {
-    "albumID" : "1278340585",
-    "artist" : "John Sinclair",
-    "duration" : 9425.426000000001,
-    "releaseDate" : 528336000,
-    "title" : "Sinclair Academy, Folge 12: Brandjagd (Gekürzt)",
-    "upc" : "9783838784724"
-  },
-  {
-    "albumID" : "1214954501",
-    "artist" : "John Sinclair",
-    "duration" : 2983.2059999999997,
-    "releaseDate" : 520387200,
-    "title" : "Tonstudio Braun, Folge 85: Die Zombies. Teil 2 von 2",
-    "upc" : "4251234326534"
-  },
-  {
-    "albumID" : "1265149210",
-    "artist" : "John Sinclair",
-    "duration" : 9098.676999999998,
-    "releaseDate" : 525312000,
-    "title" : "Sinclair Academy, Folge 11: Die Rache des Voodooprinzen (Gekürzt)",
-    "upc" : "9783838784717"
-  },
-  {
-    "albumID" : "1171083547",
-    "artist" : "John Sinclair",
-    "duration" : 3794.608,
-    "releaseDate" : 505267200,
-    "title" : "Tonstudio Braun, Folge 60: Alptraum in Atlantis",
-    "upc" : "9783838780603"
-  },
-  {
-    "albumID" : "1214909493",
-    "artist" : "John Sinclair",
-    "duration" : 3387.478,
-    "releaseDate" : 514339200,
-    "title" : "Tonstudio Braun, Folge 75: Doktor Tods Höllenfahrt",
-    "upc" : "4251234326480"
-  },
-  {
-    "albumID" : "1229908724",
-    "artist" : "John Sinclair",
-    "duration" : 8475.956,
-    "releaseDate" : 517449600,
-    "title" : "Sinclair Academy, Folge 8: Dämon der Schuld (Gekürzt)",
-    "upc" : "9783838784687"
-  },
-  {
-    "albumID" : "1171085973",
-    "artist" : "John Sinclair",
-    "duration" : 3516.0400000000004,
-    "releaseDate" : 512524800,
-    "title" : "Tonstudio Braun, Folge 72: Doktor Tod",
-    "upc" : "9783838780726"
-  },
-  {
-    "albumID" : "1214910245",
-    "artist" : "John Sinclair",
-    "duration" : 3156.818,
-    "releaseDate" : 527040000,
-    "title" : "Tonstudio Braun, Folge 96: Tigerfrauen greifen an!",
-    "upc" : "4251234326442"
-  },
-  {
-    "albumID" : "1214911586",
-    "artist" : "John Sinclair",
-    "duration" : 2990.3829999999994,
-    "releaseDate" : 527644800,
-    "title" : "Tonstudio Braun, Folge 97: Asmodinas Höllenschlange",
-    "upc" : "4251234326459"
-  },
-  {
-    "albumID" : "1170629804",
-    "artist" : "John Sinclair",
-    "duration" : 3549.4950000000003,
-    "releaseDate" : 501033600,
-    "title" : "Tonstudio Braun, Folge 53: Liebe, die der Teufel schenkt",
-    "upc" : "9783838780535"
-  },
-  {
-    "albumID" : "1068235882",
-    "artist" : "John Sinclair",
-    "duration" : 3079.5990000000006,
-    "releaseDate" : 485913600,
-    "title" : "Tonstudio Braun, Folge 28: Die Hexe vom Hyde Park",
-    "upc" : "9783838780283"
-  },
-  {
-    "albumID" : "1068233609",
-    "artist" : "John Sinclair",
-    "duration" : 3109.3510000000006,
-    "releaseDate" : 482284800,
-    "title" : "Tonstudio Braun, Folge 22: Der Würfel des Unheils",
-    "upc" : "9783838780221"
-  },
-  {
-    "albumID" : "1214956729",
-    "artist" : "John Sinclair",
-    "duration" : 3448.227,
-    "releaseDate" : 520992000,
-    "title" : "Tonstudio Braun, Folge 86: Sandra und ihr zweites Ich",
-    "upc" : "4251234326664"
-  },
-  {
-    "albumID" : "1069834134",
-    "artist" : "John Sinclair",
-    "duration" : 3563.819,
-    "releaseDate" : 492566400,
-    "title" : "Tonstudio Braun, Folge 39: Mörder aus dem Totenreich",
-    "upc" : "9783838780399"
-  },
-  {
-    "albumID" : "1171085415",
-    "artist" : "John Sinclair",
-    "duration" : 3353.0359999999996,
-    "releaseDate" : 510710400,
-    "title" : "Tonstudio Braun, Folge 69: Ich stieß das Tor zur Hölle auf. Teil 1 von 3",
-    "upc" : "9783838780696"
-  },
-  {
-    "albumID" : "1069836327",
-    "artist" : "John Sinclair",
-    "duration" : 3595.631,
-    "releaseDate" : 494985600,
-    "title" : "Tonstudio Braun, Folge 43: Die Töchter der Hölle",
-    "upc" : "9783838780436"
-  },
-  {
-    "albumID" : "1171084517",
-    "artist" : "John Sinclair",
-    "duration" : 3418.8390000000004,
-    "releaseDate" : 505872000,
-    "title" : "Tonstudio Braun, Folge 61: Sieben Siegel der Magie. Teil 1 von 3",
-    "upc" : "9783838780610"
-  },
-  {
-    "albumID" : "1068235042",
-    "artist" : "John Sinclair",
-    "duration" : 3297.552,
-    "releaseDate" : 484099200,
-    "title" : "Tonstudio Braun, Folge 25: Schreie in der Horror-Gruft. Teil 2 von 3",
-    "upc" : "9783838780252"
-  },
-  {
-    "albumID" : "1561129767",
-    "artist" : "John Sinclair",
-    "duration" : 3526.0030000000006,
-    "releaseDate" : 625708800,
-    "title" : "Die gruseligsten Hörspiel-Szenen",
-    "upc" : "4066004037127"
-  },
-  {
-    "albumID" : "1068237619",
-    "artist" : "John Sinclair",
-    "duration" : 3471.734,
-    "releaseDate" : 488332800,
-    "title" : "Tonstudio Braun, Folge 32: Ich jagte \"Jack the Ripper\"",
-    "upc" : "9783838780320"
-  },
-  {
-    "albumID" : "1295817039",
-    "artist" : "John Sinclair",
-    "duration" : 3205.7239999999997,
-    "releaseDate" : 530064000,
-    "title" : "Tonstudio Braun, Folge 101: Mr. Mondos Monster. Teil 1 von 2",
-    "upc" : "9783838781013"
-  },
-  {
-    "albumID" : "1214912330",
-    "artist" : "John Sinclair",
-    "duration" : 2909.3,
-    "releaseDate" : 528249600,
-    "title" : "Tonstudio Braun, Folge 98: Dr. Tods Monsterhöhle",
-    "upc" : "4251234326435"
-  },
-  {
-    "albumID" : "1171085161",
-    "artist" : "John Sinclair",
-    "duration" : 3484.107,
-    "releaseDate" : 507686400,
-    "title" : "Tonstudio Braun, Folge 64: Die grausamen Ritter. Teil 1 von 2",
-    "upc" : "9783838780641"
-  },
-  {
-    "albumID" : "1214946166",
-    "artist" : "John Sinclair",
-    "duration" : 3168.896,
-    "releaseDate" : 516153600,
-    "title" : "Tonstudio Braun, Folge 78: Das Mädchen von Atlantis. Teil 1 von 3",
-    "upc" : "4251234326596"
-  },
-  {
-    "albumID" : "1214946359",
-    "artist" : "John Sinclair",
-    "duration" : 3364.5009999999997,
-    "releaseDate" : 515548800,
-    "title" : "Tonstudio Braun, Folge 77: Lebendig begraben. Teil 2 von 2",
-    "upc" : "4251234326510"
-  },
-  {
-    "albumID" : "1214948876",
-    "artist" : "John Sinclair",
-    "duration" : 2598.809,
-    "releaseDate" : 518572800,
-    "title" : "Tonstudio Braun, Folge 82: Ein Totenopfer für Clarissa",
-    "upc" : "4251234326558"
-  },
-  {
-    "albumID" : "1068236613",
-    "artist" : "John Sinclair",
-    "duration" : 3381.905,
-    "releaseDate" : 486518400,
-    "title" : "Tonstudio Braun, Folge 29: Die Werwolf-Sippe. Teil 1 von 2",
-    "upc" : "9783838780290"
-  },
-  {
-    "albumID" : "1170606477",
-    "artist" : "John Sinclair",
-    "duration" : 3480.0540000000005,
-    "releaseDate" : 501638400,
-    "title" : "Tonstudio Braun, Folge 54: Angst über London",
-    "upc" : "9783838780542"
-  },
-  {
-    "albumID" : "1152985376",
-    "artist" : "John Sinclair",
-    "duration" : 3661.4989999999993,
-    "releaseDate" : 498614400,
-    "title" : "Tonstudio Braun, Folge 49: Der lächelnde Henker",
-    "upc" : "9783838780498"
+    "duration" : 3734.6460000000006,
+    "releaseDate" : 478137600,
+    "title" : "Episode 6: The Vampire Graveyard",
+    "upc" : "9783838777399"
   },
   {
     "albumID" : "1068229472",
@@ -2840,116 +1264,20 @@
     "upc" : "9783838780160"
   },
   {
-    "albumID" : "1068232502",
+    "albumID" : "1068231380",
     "artist" : "John Sinclair",
-    "duration" : 3280.0830000000005,
-    "releaseDate" : 481075200,
-    "title" : "Tonstudio Braun, Folge 20: Asmodinas Todesengel",
-    "upc" : "9783838780207"
+    "duration" : 3654.725,
+    "releaseDate" : 479260800,
+    "title" : "Tonstudio Braun, Folge 17: Die Drohung. Teil 1 von 3",
+    "upc" : "9783838780177"
   },
   {
-    "albumID" : "1068231980",
+    "albumID" : "1058879868",
     "artist" : "John Sinclair",
-    "duration" : 3539.927,
-    "releaseDate" : 480470400,
-    "title" : "Tonstudio Braun, Folge 19: Das letzte Duell. Teil 3 von 3",
-    "upc" : "9783838780191"
-  },
-  {
-    "albumID" : "1164965153",
-    "artist" : "John Sinclair",
-    "duration" : 4481.487000000001,
-    "releaseDate" : 215654400,
-    "title" : "Tonstudio Braun, Folge 50: Blutiger Halloween",
-    "upc" : "9783838780504"
-  },
-  {
-    "albumID" : "1068239269",
-    "artist" : "John Sinclair",
-    "duration" : 3339.598,
-    "releaseDate" : 490752000,
-    "title" : "Tonstudio Braun, Folge 36: Der Ripper kehrt zurück. Teil 1 von 2",
-    "upc" : "9783838780368"
-  },
-  {
-    "albumID" : "1068472302",
-    "artist" : "John Sinclair",
-    "duration" : 2900.0669999999996,
-    "releaseDate" : 487728000,
-    "title" : "Tonstudio Braun, Folge 31: Totenchor der Ghouls",
-    "upc" : "9783838780313"
-  },
-  {
-    "albumID" : "1069837171",
-    "artist" : "John Sinclair",
-    "duration" : 3398.4490000000005,
-    "releaseDate" : 496195200,
-    "title" : "Tonstudio Braun, Folge 45: Hochzeit der Vampire",
-    "upc" : "9783838780450"
-  },
-  {
-    "albumID" : "1171081975",
-    "artist" : "John Sinclair",
-    "duration" : 3479.3279999999995,
-    "releaseDate" : 502243200,
-    "title" : "Tonstudio Braun, Folge 55: Judys Spinnenfluch",
-    "upc" : "9783838780559"
-  },
-  {
-    "albumID" : "1214947729",
-    "artist" : "John Sinclair",
-    "duration" : 2982.0570000000002,
-    "releaseDate" : 517363200,
-    "title" : "Tonstudio Braun, Folge 80: Die Hexenmühle. Teil 3 von 3",
-    "upc" : "4251234326565"
-  },
-  {
-    "albumID" : "1068238412",
-    "artist" : "John Sinclair",
-    "duration" : 3477.923,
-    "releaseDate" : 489542400,
-    "title" : "Tonstudio Braun, Folge 34: Ein schwarzer Tag in meinem Leben",
-    "upc" : "9783838780344"
-  },
-  {
-    "albumID" : "1068235661",
-    "artist" : "John Sinclair",
-    "duration" : 3358.337,
-    "releaseDate" : 484704000,
-    "title" : "Tonstudio Braun, Folge 26: Mein Todesurteil. Teil 3 von 3",
-    "upc" : "9783838780269"
-  },
-  {
-    "albumID" : "1171082177",
-    "artist" : "John Sinclair",
-    "duration" : 3381.269,
-    "releaseDate" : 503452800,
-    "title" : "Tonstudio Braun, Folge 57: Ghouls in Manhattan",
-    "upc" : "9783838780573"
-  },
-  {
-    "albumID" : "1161756024",
-    "artist" : "John Sinclair",
-    "duration" : 3289.949,
-    "releaseDate" : 498009600,
-    "title" : "Tonstudio Braun, Folge 48: Ewige Schreie",
-    "upc" : "9783838780481"
-  },
-  {
-    "albumID" : "1069836083",
-    "artist" : "John Sinclair",
-    "duration" : 3659.2039999999997,
-    "releaseDate" : 495590400,
-    "title" : "Tonstudio Braun, Folge 44: Das Rätsel der gläsernen Särge",
-    "upc" : "9783838780443"
-  },
-  {
-    "albumID" : "1145281099",
-    "artist" : "John Sinclair",
-    "duration" : 3664.283,
-    "releaseDate" : 496800000,
-    "title" : "Tonstudio Braun, Folge 46: Die Nacht des Schwarzen Drachen",
-    "upc" : "9783838780467"
+    "duration" : 3330.1750000000006,
+    "releaseDate" : 479347200,
+    "title" : "Folge 107: Der Kampf mit den Giganten, Teil 3 von 3",
+    "upc" : "9783838778372"
   },
   {
     "albumID" : "1068231705",
@@ -2960,20 +1288,372 @@
     "upc" : "9783838780184"
   },
   {
-    "albumID" : "1171085904",
+    "albumID" : "1068231980",
     "artist" : "John Sinclair",
-    "duration" : 3351.763,
-    "releaseDate" : 511315200,
-    "title" : "Tonstudio Braun, Folge 70: Im Zentrum des Schreckens. Teil 2 von 3",
-    "upc" : "9783838780702"
+    "duration" : 3539.927,
+    "releaseDate" : 480470400,
+    "title" : "Tonstudio Braun, Folge 19: Das letzte Duell. Teil 3 von 3",
+    "upc" : "9783838780191"
   },
   {
-    "albumID" : "1214946332",
+    "albumID" : "1068232502",
     "artist" : "John Sinclair",
-    "duration" : 2955.1800000000003,
-    "releaseDate" : 516758400,
-    "title" : "Tonstudio Braun, Folge 79: Das Dämonenauge. Teil 2 von 3",
-    "upc" : "4251234326589"
+    "duration" : 3280.0830000000005,
+    "releaseDate" : 481075200,
+    "title" : "Tonstudio Braun, Folge 20: Asmodinas Todesengel",
+    "upc" : "9783838780207"
+  },
+  {
+    "albumID" : "1068232718",
+    "artist" : "John Sinclair",
+    "duration" : 4507.369,
+    "releaseDate" : 481680000,
+    "title" : "Tonstudio Braun, Folge 21: Hügel der Gehenkten",
+    "upc" : "9783838780214"
+  },
+  {
+    "albumID" : "1068233609",
+    "artist" : "John Sinclair",
+    "duration" : 3109.3510000000006,
+    "releaseDate" : 482284800,
+    "title" : "Tonstudio Braun, Folge 22: Der Würfel des Unheils",
+    "upc" : "9783838780221"
+  },
+  {
+    "albumID" : "1058883665",
+    "artist" : "John Sinclair",
+    "duration" : 3361.214,
+    "releaseDate" : 482371200,
+    "title" : "Classics, Folge 25: Dr. Tods Höllenfahrt",
+    "upc" : "9783838776910"
+  },
+  {
+    "albumID" : "1068234427",
+    "artist" : "John Sinclair",
+    "duration" : 3540.7729999999997,
+    "releaseDate" : 482889600,
+    "title" : "Tonstudio Braun, Folge 23: Der Leichenbrunnen",
+    "upc" : "9783838780238"
+  },
+  {
+    "albumID" : "1068234879",
+    "artist" : "John Sinclair",
+    "duration" : 3374.246,
+    "releaseDate" : 483494400,
+    "title" : "Tonstudio Braun, Folge 24: Im Land des Vampirs. Teil 1 von 3",
+    "upc" : "9783838780245"
+  },
+  {
+    "albumID" : "1096662939",
+    "artist" : "John Sinclair",
+    "duration" : 1746.4420000000005,
+    "releaseDate" : 483580800,
+    "title" : "Mein erster Fall - Bonus-Folge",
+    "upc" : "9783838781495"
+  },
+  {
+    "albumID" : "1068235042",
+    "artist" : "John Sinclair",
+    "duration" : 3297.552,
+    "releaseDate" : 484099200,
+    "title" : "Tonstudio Braun, Folge 25: Schreie in der Horror-Gruft. Teil 2 von 3",
+    "upc" : "9783838780252"
+  },
+  {
+    "albumID" : "1068235661",
+    "artist" : "John Sinclair",
+    "duration" : 3358.337,
+    "releaseDate" : 484704000,
+    "title" : "Tonstudio Braun, Folge 26: Mein Todesurteil. Teil 3 von 3",
+    "upc" : "9783838780269"
+  },
+  {
+    "albumID" : "1058880201",
+    "artist" : "John Sinclair",
+    "duration" : 3186.92,
+    "releaseDate" : 484790400,
+    "title" : "Folge 108: Satans Knochenuhr",
+    "upc" : "9783838778464"
+  },
+  {
+    "albumID" : "1068236040",
+    "artist" : "John Sinclair",
+    "duration" : 3823.9049999999997,
+    "releaseDate" : 485308800,
+    "title" : "Tonstudio Braun, Folge 27: Die Teufelsuhr",
+    "upc" : "9783838780276"
+  },
+  {
+    "albumID" : "1102883508",
+    "artist" : "John Sinclair",
+    "duration" : 16010.396000000002,
+    "releaseDate" : 485395200,
+    "title" : "Die Rückkehr des Schwarzen Tods",
+    "upc" : "9783838781549"
+  },
+  {
+    "albumID" : "1068235882",
+    "artist" : "John Sinclair",
+    "duration" : 3079.5990000000006,
+    "releaseDate" : 485913600,
+    "title" : "Tonstudio Braun, Folge 28: Die Hexe vom Hyde Park",
+    "upc" : "9783838780283"
+  },
+  {
+    "albumID" : "1068236613",
+    "artist" : "John Sinclair",
+    "duration" : 3381.905,
+    "releaseDate" : 486518400,
+    "title" : "Tonstudio Braun, Folge 29: Die Werwolf-Sippe. Teil 1 von 2",
+    "upc" : "9783838780290"
+  },
+  {
+    "albumID" : "1069860424",
+    "artist" : "John Sinclair",
+    "duration" : 3078.5849999999996,
+    "releaseDate" : 487123200,
+    "title" : "Tonstudio Braun, Folge 30: Lupinas Todfeind. Teil 2 von 2",
+    "upc" : "9783838780306"
+  },
+  {
+    "albumID" : "1058882914",
+    "artist" : "John Sinclair",
+    "duration" : 3216.052,
+    "releaseDate" : 487209600,
+    "title" : "Classics, Folge 26: Der Fluch aus dem Dschungel",
+    "upc" : "9783838778501"
+  },
+  {
+    "albumID" : "1118929670",
+    "artist" : "John Sinclair",
+    "duration" : 9180.620999999997,
+    "releaseDate" : 487209600,
+    "title" : "Sinclair Academy, Folge 1: Belphegor - Der Fluch des Dämons",
+    "upc" : "9783838779621"
+  },
+  {
+    "albumID" : "1068472302",
+    "artist" : "John Sinclair",
+    "duration" : 2900.0669999999996,
+    "releaseDate" : 487728000,
+    "title" : "Tonstudio Braun, Folge 31: Totenchor der Ghouls",
+    "upc" : "9783838780313"
+  },
+  {
+    "albumID" : "1068237619",
+    "artist" : "John Sinclair",
+    "duration" : 3471.734,
+    "releaseDate" : 488332800,
+    "title" : "Tonstudio Braun, Folge 32: Ich jagte \"Jack the Ripper\"",
+    "upc" : "9783838780320"
+  },
+  {
+    "albumID" : "1068237886",
+    "artist" : "John Sinclair",
+    "duration" : 3057.014,
+    "releaseDate" : 488937600,
+    "title" : "Tonstudio Braun, Folge 33: Die Blutorgel",
+    "upc" : "9783838780337"
+  },
+  {
+    "albumID" : "1068238412",
+    "artist" : "John Sinclair",
+    "duration" : 3477.923,
+    "releaseDate" : 489542400,
+    "title" : "Tonstudio Braun, Folge 34: Ein schwarzer Tag in meinem Leben",
+    "upc" : "9783838780344"
+  },
+  {
+    "albumID" : "1058879871",
+    "artist" : "John Sinclair",
+    "duration" : 3355.132,
+    "releaseDate" : 490147200,
+    "title" : "Folge 109: Sieben Dolche für den Teufel",
+    "upc" : "9783838778525"
+  },
+  {
+    "albumID" : "1122487935",
+    "artist" : "John Sinclair",
+    "duration" : 9307.234999999997,
+    "releaseDate" : 490147200,
+    "title" : "Sinclair Academy, Folge 2: Onna - Die Frau mit der Fratze",
+    "upc" : "9783838779638"
+  },
+  {
+    "albumID" : "1068239203",
+    "artist" : "John Sinclair",
+    "duration" : 3031.579,
+    "releaseDate" : 490147200,
+    "title" : "Tonstudio Braun, Folge 35: Ein schaurige Warnung",
+    "upc" : "9783838780351"
+  },
+  {
+    "albumID" : "1068239269",
+    "artist" : "John Sinclair",
+    "duration" : 3339.598,
+    "releaseDate" : 490752000,
+    "title" : "Tonstudio Braun, Folge 36: Der Ripper kehrt zurück. Teil 1 von 2",
+    "upc" : "9783838780368"
+  },
+  {
+    "albumID" : "1069832969",
+    "artist" : "John Sinclair",
+    "duration" : 2873.462,
+    "releaseDate" : 491356800,
+    "title" : "Tonstudio Braun, Folge 37: Die Hexeninsel. Teil 2 von 2",
+    "upc" : "9783838780375"
+  },
+  {
+    "albumID" : "1069833286",
+    "artist" : "John Sinclair",
+    "duration" : 4600.420999999999,
+    "releaseDate" : 491961600,
+    "title" : "Tonstudio Braun, Folge 38: Die Nacht des Hexers",
+    "upc" : "9783838780382"
+  },
+  {
+    "albumID" : "1069834134",
+    "artist" : "John Sinclair",
+    "duration" : 3563.819,
+    "releaseDate" : 492566400,
+    "title" : "Tonstudio Braun, Folge 39: Mörder aus dem Totenreich",
+    "upc" : "9783838780399"
+  },
+  {
+    "albumID" : "1058880189",
+    "artist" : "John Sinclair",
+    "duration" : 2768.0209999999997,
+    "releaseDate" : 492652800,
+    "title" : "Folge 110: Die Träne des Teufels, Teil 1 von 2",
+    "upc" : "9783838778532"
+  },
+  {
+    "albumID" : "1122473038",
+    "artist" : "John Sinclair",
+    "duration" : 9578.813999999998,
+    "releaseDate" : 492652800,
+    "title" : "Sinclair Academy, Folge 3: Die Stadt aus dem Abgrund",
+    "upc" : "9783838779645"
+  },
+  {
+    "albumID" : "1069834798",
+    "artist" : "John Sinclair",
+    "duration" : 3601.657,
+    "releaseDate" : 493171200,
+    "title" : "Tonstudio Braun, Folge 40: Dr. Satanos",
+    "upc" : "9783838780405"
+  },
+  {
+    "albumID" : "1069834921",
+    "artist" : "John Sinclair",
+    "duration" : 3720.031,
+    "releaseDate" : 493776000,
+    "title" : "Tonstudio Braun, Folge 41: Das Leichenhaus der Lady L",
+    "upc" : "9783838780412"
+  },
+  {
+    "albumID" : "1069835311",
+    "artist" : "John Sinclair",
+    "duration" : 3569.1219999999985,
+    "releaseDate" : 494380800,
+    "title" : "Tonstudio Braun, Folge 42: Sakuro, der Dämon",
+    "upc" : "9783838780429"
+  },
+  {
+    "albumID" : "1069836327",
+    "artist" : "John Sinclair",
+    "duration" : 3595.631,
+    "releaseDate" : 494985600,
+    "title" : "Tonstudio Braun, Folge 43: Die Töchter der Hölle",
+    "upc" : "9783838780436"
+  },
+  {
+    "albumID" : "1058880720",
+    "artist" : "John Sinclair",
+    "duration" : 3720.943,
+    "releaseDate" : 495072000,
+    "title" : "Folge 111: Abrechnung mit Jane Collins, Teil 2 von 2",
+    "upc" : "9783838778549"
+  },
+  {
+    "albumID" : "1122473037",
+    "artist" : "John Sinclair",
+    "duration" : 8546.511,
+    "releaseDate" : 495072000,
+    "title" : "Sinclair Academy, Folge 4: Sturm über Arbordale",
+    "upc" : "9783838779652"
+  },
+  {
+    "albumID" : "1069836083",
+    "artist" : "John Sinclair",
+    "duration" : 3659.2039999999997,
+    "releaseDate" : 495590400,
+    "title" : "Tonstudio Braun, Folge 44: Das Rätsel der gläsernen Särge",
+    "upc" : "9783838780443"
+  },
+  {
+    "albumID" : "1069837171",
+    "artist" : "John Sinclair",
+    "duration" : 3398.4490000000005,
+    "releaseDate" : 496195200,
+    "title" : "Tonstudio Braun, Folge 45: Hochzeit der Vampire",
+    "upc" : "9783838780450"
+  },
+  {
+    "albumID" : "1145281099",
+    "artist" : "John Sinclair",
+    "duration" : 3664.283,
+    "releaseDate" : 496800000,
+    "title" : "Tonstudio Braun, Folge 46: Die Nacht des Schwarzen Drachen",
+    "upc" : "9783838780467"
+  },
+  {
+    "albumID" : "1158872541",
+    "artist" : "John Sinclair",
+    "duration" : 3618.3140000000003,
+    "releaseDate" : 497404800,
+    "title" : "Tonstudio Braun, Folge 47: Disco Dracula",
+    "upc" : "9783838780474"
+  },
+  {
+    "albumID" : "1161756024",
+    "artist" : "John Sinclair",
+    "duration" : 3289.949,
+    "releaseDate" : 498009600,
+    "title" : "Tonstudio Braun, Folge 48: Ewige Schreie",
+    "upc" : "9783838780481"
+  },
+  {
+    "albumID" : "1160769728",
+    "artist" : "John Sinclair",
+    "duration" : 5445.223000000001,
+    "releaseDate" : 498096000,
+    "title" : "Sonderedition 6: Melinas Mordgespenster",
+    "upc" : "9783838778686"
+  },
+  {
+    "albumID" : "1152985376",
+    "artist" : "John Sinclair",
+    "duration" : 3661.4989999999993,
+    "releaseDate" : 498614400,
+    "title" : "Tonstudio Braun, Folge 49: Der lächelnde Henker",
+    "upc" : "9783838780498"
+  },
+  {
+    "albumID" : "1164983738",
+    "artist" : "John Sinclair",
+    "duration" : 3422.9449999999997,
+    "releaseDate" : 499824000,
+    "title" : "Tonstudio Braun, Folge 51: Einsatz der Todesrocker",
+    "upc" : "9783838780511"
+  },
+  {
+    "albumID" : "1166157776",
+    "artist" : "John Sinclair",
+    "duration" : 6978.076000000001,
+    "releaseDate" : 500256000,
+    "title" : "Folge 2000: Das Höllenkreuz",
+    "upc" : "9783838781570"
   },
   {
     "albumID" : "1170629571",
@@ -2984,6 +1664,54 @@
     "upc" : "9783838780528"
   },
   {
+    "albumID" : "1112100940",
+    "artist" : "John Sinclair",
+    "duration" : 3937.0530000000003,
+    "releaseDate" : 500515200,
+    "title" : "Classics, Folge 27: Wenn der Werwolf heult",
+    "upc" : "9783838779058"
+  },
+  {
+    "albumID" : "1166172601",
+    "artist" : "John Sinclair",
+    "duration" : 9279.738000000001,
+    "releaseDate" : 500515200,
+    "title" : "Sinclair Academy, Folge 5: Das Grauen von Oxford",
+    "upc" : "9783838782812"
+  },
+  {
+    "albumID" : "1168032950",
+    "artist" : "John Sinclair",
+    "duration" : 9236.711000000001,
+    "releaseDate" : 500515200,
+    "title" : "Sinclair Academy, Folge 06: Cyber-Dämonen",
+    "upc" : "9783838782829"
+  },
+  {
+    "albumID" : "1170629804",
+    "artist" : "John Sinclair",
+    "duration" : 3549.4950000000003,
+    "releaseDate" : 501033600,
+    "title" : "Tonstudio Braun, Folge 53: Liebe, die der Teufel schenkt",
+    "upc" : "9783838780535"
+  },
+  {
+    "albumID" : "1170606477",
+    "artist" : "John Sinclair",
+    "duration" : 3480.0540000000005,
+    "releaseDate" : 501638400,
+    "title" : "Tonstudio Braun, Folge 54: Angst über London",
+    "upc" : "9783838780542"
+  },
+  {
+    "albumID" : "1171081975",
+    "artist" : "John Sinclair",
+    "duration" : 3479.3279999999995,
+    "releaseDate" : 502243200,
+    "title" : "Tonstudio Braun, Folge 55: Judys Spinnenfluch",
+    "upc" : "9783838780559"
+  },
+  {
     "albumID" : "1171082174",
     "artist" : "John Sinclair",
     "duration" : 3694.3669999999997,
@@ -2992,12 +1720,60 @@
     "upc" : "9783838780566"
   },
   {
-    "albumID" : "1171086166",
+    "albumID" : "1112119820",
     "artist" : "John Sinclair",
-    "duration" : 3469.4580000000005,
-    "releaseDate" : 511920000,
-    "title" : "Tonstudio Braun, Folge 71: Bring mir den Kopf von Asmodina. Teil 3 von 3",
-    "upc" : "9783838780719"
+    "duration" : 4796.121,
+    "releaseDate" : 502934400,
+    "title" : "Folge 112: Tal der vergessenen Toten",
+    "upc" : "9783838779065"
+  },
+  {
+    "albumID" : "1171082177",
+    "artist" : "John Sinclair",
+    "duration" : 3381.269,
+    "releaseDate" : 503452800,
+    "title" : "Tonstudio Braun, Folge 57: Ghouls in Manhattan",
+    "upc" : "9783838780573"
+  },
+  {
+    "albumID" : "1171083019",
+    "artist" : "John Sinclair",
+    "duration" : 3666.779000000001,
+    "releaseDate" : 504057600,
+    "title" : "Tonstudio Braun, Folge 58: Geheimbund der Vampire",
+    "upc" : "9783838780580"
+  },
+  {
+    "albumID" : "1171083422",
+    "artist" : "John Sinclair",
+    "duration" : 3677.336,
+    "releaseDate" : 504662400,
+    "title" : "Tonstudio Braun, Folge 59: Luzifers Festung",
+    "upc" : "9783838780597"
+  },
+  {
+    "albumID" : "1171083547",
+    "artist" : "John Sinclair",
+    "duration" : 3794.608,
+    "releaseDate" : 505267200,
+    "title" : "Tonstudio Braun, Folge 60: Alptraum in Atlantis",
+    "upc" : "9783838780603"
+  },
+  {
+    "albumID" : "1171084517",
+    "artist" : "John Sinclair",
+    "duration" : 3418.8390000000004,
+    "releaseDate" : 505872000,
+    "title" : "Tonstudio Braun, Folge 61: Sieben Siegel der Magie. Teil 1 von 3",
+    "upc" : "9783838780610"
+  },
+  {
+    "albumID" : "1112139963",
+    "artist" : "John Sinclair",
+    "duration" : 3255.0510000000004,
+    "releaseDate" : 505958400,
+    "title" : "Classics, Folge 28: Die Geisterhöhle",
+    "upc" : "9783838779089"
   },
   {
     "albumID" : "1171084422",
@@ -3016,36 +1792,12 @@
     "upc" : "9783838780634"
   },
   {
-    "albumID" : "1299726277",
+    "albumID" : "1171085161",
     "artist" : "John Sinclair",
-    "duration" : 3338.8320000000003,
-    "releaseDate" : 530668800,
-    "title" : "Tonstudio Braun, Folge 102: Königin der Wölfe. Teil 2 von 2",
-    "upc" : "9783838781020"
-  },
-  {
-    "albumID" : "1069832969",
-    "artist" : "John Sinclair",
-    "duration" : 2873.462,
-    "releaseDate" : 491356800,
-    "title" : "Tonstudio Braun, Folge 37: Die Hexeninsel. Teil 2 von 2",
-    "upc" : "9783838780375"
-  },
-  {
-    "albumID" : "977199388",
-    "artist" : "John Sinclair",
-    "duration" : 3716.2660000000005,
-    "releaseDate" : 449107200,
-    "title" : "Episode 1: Curse of the Undead",
-    "upc" : "9783838777368"
-  },
-  {
-    "albumID" : "1069835311",
-    "artist" : "John Sinclair",
-    "duration" : 3569.1219999999985,
-    "releaseDate" : 494380800,
-    "title" : "Tonstudio Braun, Folge 42: Sakuro, der Dämon",
-    "upc" : "9783838780429"
+    "duration" : 3484.107,
+    "releaseDate" : 507686400,
+    "title" : "Tonstudio Braun, Folge 64: Die grausamen Ritter. Teil 1 von 2",
+    "upc" : "9783838780641"
   },
   {
     "albumID" : "1171085291",
@@ -3056,36 +1808,404 @@
     "upc" : "9783838780658"
   },
   {
-    "albumID" : "1433958589",
+    "albumID" : "1112187172",
     "artist" : "John Sinclair",
-    "duration" : 3075.841,
-    "releaseDate" : 461116800,
-    "title" : "Classics, Folge 23: In Satans Diensten",
-    "upc" : "4250783683617"
+    "duration" : 3114.3079999999995,
+    "releaseDate" : 508896000,
+    "title" : "Folge 113: Mandraka, der Schwarzblut-Vampir",
+    "upc" : "9783838779102"
   },
   {
-    "albumID" : "1461466948",
+    "albumID" : "1171085098",
     "artist" : "John Sinclair",
-    "duration" : 3147.6400000000003,
-    "releaseDate" : 578448000,
-    "title" : "Episode 8: The Taste of Human Flesh",
-    "upc" : "9783838779249"
+    "duration" : 3619.498,
+    "releaseDate" : 508896000,
+    "title" : "Tonstudio Braun, Folge 66: Turm der weißen Vampire",
+    "upc" : "9783838780665"
   },
   {
-    "albumID" : "985921153",
+    "albumID" : "1171085455",
     "artist" : "John Sinclair",
-    "duration" : 3421.998000000001,
-    "releaseDate" : 455760000,
-    "title" : "Episode 2: The Lord of Death",
-    "upc" : "9783838777351"
+    "duration" : 3525.2500000000005,
+    "releaseDate" : 509500800,
+    "title" : "Tonstudio Braun, Folge 67: Tal der vergessenen Toten",
+    "upc" : "9783838780672"
   },
   {
-    "albumID" : "985921337",
+    "albumID" : "1171085509",
     "artist" : "John Sinclair",
-    "duration" : 3441.3179999999993,
-    "releaseDate" : 459993600,
-    "title" : "Episode 3: Dr. Satanos",
-    "upc" : "9783838777344"
+    "duration" : 3496.6579999999994,
+    "releaseDate" : 510105600,
+    "title" : "Tonstudio Braun, Folge 68: Zombies auf dem Roten Platz",
+    "upc" : "9783838780689"
+  },
+  {
+    "albumID" : "1171085415",
+    "artist" : "John Sinclair",
+    "duration" : 3353.0359999999996,
+    "releaseDate" : 510710400,
+    "title" : "Tonstudio Braun, Folge 69: Ich stieß das Tor zur Hölle auf. Teil 1 von 3",
+    "upc" : "9783838780696"
+  },
+  {
+    "albumID" : "1193212676",
+    "artist" : "John Sinclair",
+    "duration" : 3271.8939999999993,
+    "releaseDate" : 511315200,
+    "title" : "Folge 114: Die Eismeer-Hexe. Teil 2 von 4",
+    "upc" : "9783838781808"
+  },
+  {
+    "albumID" : "1171085904",
+    "artist" : "John Sinclair",
+    "duration" : 3351.763,
+    "releaseDate" : 511315200,
+    "title" : "Tonstudio Braun, Folge 70: Im Zentrum des Schreckens. Teil 2 von 3",
+    "upc" : "9783838780702"
+  },
+  {
+    "albumID" : "1171086166",
+    "artist" : "John Sinclair",
+    "duration" : 3469.4580000000005,
+    "releaseDate" : 511920000,
+    "title" : "Tonstudio Braun, Folge 71: Bring mir den Kopf von Asmodina. Teil 3 von 3",
+    "upc" : "9783838780719"
+  },
+  {
+    "albumID" : "1171085973",
+    "artist" : "John Sinclair",
+    "duration" : 3516.0400000000004,
+    "releaseDate" : 512524800,
+    "title" : "Tonstudio Braun, Folge 72: Doktor Tod",
+    "upc" : "9783838780726"
+  },
+  {
+    "albumID" : "1214907652",
+    "artist" : "John Sinclair",
+    "duration" : 3503.9599999999996,
+    "releaseDate" : 513129600,
+    "title" : "Tonstudio Braun, Folge 73: Bruderschaft des Satans",
+    "upc" : "4251234326411"
+  },
+  {
+    "albumID" : "1214907613",
+    "artist" : "John Sinclair",
+    "duration" : 3679.189,
+    "releaseDate" : 513734400,
+    "title" : "Tonstudio Braun, Folge 74: In Satans Diensten",
+    "upc" : "4251234326497"
+  },
+  {
+    "albumID" : "1214909493",
+    "artist" : "John Sinclair",
+    "duration" : 3387.478,
+    "releaseDate" : 514339200,
+    "title" : "Tonstudio Braun, Folge 75: Doktor Tods Höllenfahrt",
+    "upc" : "4251234326480"
+  },
+  {
+    "albumID" : "1193212687",
+    "artist" : "John Sinclair",
+    "duration" : 3318.093999999999,
+    "releaseDate" : 514684800,
+    "title" : "Folge 115: Der Planet der Magier. Teil 3 von 4",
+    "upc" : "9783838783291"
+  },
+  {
+    "albumID" : "1222058100",
+    "artist" : "John Sinclair",
+    "duration" : 7845.245,
+    "releaseDate" : 514684800,
+    "title" : "Sinclair Academy, Folge 7: Haus der verlorenen Seelen",
+    "upc" : "9783838784670"
+  },
+  {
+    "albumID" : "1214909489",
+    "artist" : "John Sinclair",
+    "duration" : 3263.8500000000004,
+    "releaseDate" : 514944000,
+    "title" : "Tonstudio Braun, Folge 76: Der Irre mit der Teufelsgeige. Teil 1 von 2",
+    "upc" : "4251234326428"
+  },
+  {
+    "albumID" : "1214946359",
+    "artist" : "John Sinclair",
+    "duration" : 3364.5009999999997,
+    "releaseDate" : 515548800,
+    "title" : "Tonstudio Braun, Folge 77: Lebendig begraben. Teil 2 von 2",
+    "upc" : "4251234326510"
+  },
+  {
+    "albumID" : "1214946166",
+    "artist" : "John Sinclair",
+    "duration" : 3168.896,
+    "releaseDate" : 516153600,
+    "title" : "Tonstudio Braun, Folge 78: Das Mädchen von Atlantis. Teil 1 von 3",
+    "upc" : "4251234326596"
+  },
+  {
+    "albumID" : "1214946332",
+    "artist" : "John Sinclair",
+    "duration" : 2955.1800000000003,
+    "releaseDate" : 516758400,
+    "title" : "Tonstudio Braun, Folge 79: Das Dämonenauge. Teil 2 von 3",
+    "upc" : "4251234326589"
+  },
+  {
+    "albumID" : "1214947729",
+    "artist" : "John Sinclair",
+    "duration" : 2982.0570000000002,
+    "releaseDate" : 517363200,
+    "title" : "Tonstudio Braun, Folge 80: Die Hexenmühle. Teil 3 von 3",
+    "upc" : "4251234326565"
+  },
+  {
+    "albumID" : "1193212642",
+    "artist" : "John Sinclair",
+    "duration" : 3861.84,
+    "releaseDate" : 517449600,
+    "title" : "Folge 116: Die Totenmaske aus Atlantis. Teil 4 von 4",
+    "upc" : "9783838783307"
+  },
+  {
+    "albumID" : "1229908724",
+    "artist" : "John Sinclair",
+    "duration" : 8475.956,
+    "releaseDate" : 517449600,
+    "title" : "Sinclair Academy, Folge 8: Dämon der Schuld (Gekürzt)",
+    "upc" : "9783838784687"
+  },
+  {
+    "albumID" : "1214947748",
+    "artist" : "John Sinclair",
+    "duration" : 3239.0260000000007,
+    "releaseDate" : 517968000,
+    "title" : "Tonstudio Braun, Folge 81: Der unheimliche Mönch",
+    "upc" : "4251234326572"
+  },
+  {
+    "albumID" : "1214948876",
+    "artist" : "John Sinclair",
+    "duration" : 2598.809,
+    "releaseDate" : 518572800,
+    "title" : "Tonstudio Braun, Folge 82: Ein Totenopfer für Clarissa",
+    "upc" : "4251234326558"
+  },
+  {
+    "albumID" : "1214949695",
+    "artist" : "John Sinclair",
+    "duration" : 3154.1890000000003,
+    "releaseDate" : 519177600,
+    "title" : "Tonstudio Braun, Folge 83: Maringo, der Höllenreiter",
+    "upc" : "4251234326541"
+  },
+  {
+    "albumID" : "1214951613",
+    "artist" : "John Sinclair",
+    "duration" : 2800.1920000000005,
+    "releaseDate" : 519782400,
+    "title" : "Tonstudio Braun, Folge 84: Das Ungeheuer von Loch Morar. Teil 1 von 2",
+    "upc" : "4251234326527"
+  },
+  {
+    "albumID" : "1119170879",
+    "artist" : "John Sinclair",
+    "duration" : 3618.119,
+    "releaseDate" : 520300800,
+    "title" : "Classics, Folge 29: Der Hexenclub",
+    "upc" : "9783838779096"
+  },
+  {
+    "albumID" : "1246899424",
+    "artist" : "John Sinclair",
+    "duration" : 9089.018,
+    "releaseDate" : 520300800,
+    "title" : "Sinclair Academy, Folge 9: Die Spur des Berserkers (Gekürzt)",
+    "upc" : "9783838784694"
+  },
+  {
+    "albumID" : "1214954501",
+    "artist" : "John Sinclair",
+    "duration" : 2983.2059999999997,
+    "releaseDate" : 520387200,
+    "title" : "Tonstudio Braun, Folge 85: Die Zombies. Teil 2 von 2",
+    "upc" : "4251234326534"
+  },
+  {
+    "albumID" : "1214956729",
+    "artist" : "John Sinclair",
+    "duration" : 3448.227,
+    "releaseDate" : 520992000,
+    "title" : "Tonstudio Braun, Folge 86: Sandra und ihr zweites Ich",
+    "upc" : "4251234326664"
+  },
+  {
+    "albumID" : "1214958516",
+    "artist" : "John Sinclair",
+    "duration" : 2894.0229999999997,
+    "releaseDate" : 521596800,
+    "title" : "Tonstudio Braun, Folge 87: Die Teufelssekte",
+    "upc" : "4251234326640"
+  },
+  {
+    "albumID" : "1193213771",
+    "artist" : "John Sinclair",
+    "duration" : 4027.3620000000005,
+    "releaseDate" : 522288000,
+    "title" : "Folge 117: Zombies auf dem Roten Platz",
+    "upc" : "9783838783314"
+  },
+  {
+    "albumID" : "1252972325",
+    "artist" : "John Sinclair",
+    "duration" : 8500.182999999999,
+    "releaseDate" : 522288000,
+    "title" : "Sinclair Academy, Folge 10: Das kalte Kind",
+    "upc" : "9783838784700"
+  },
+  {
+    "albumID" : "1265807968",
+    "artist" : "John Sinclair",
+    "duration" : 3754.667999999999,
+    "releaseDate" : 522288000,
+    "title" : "Tonstudio Braun, Folge 88: Die Geier und der Wertiger",
+    "upc" : "4251234337417"
+  },
+  {
+    "albumID" : "1214958497",
+    "artist" : "John Sinclair",
+    "duration" : 3540.1539999999995,
+    "releaseDate" : 522806400,
+    "title" : "Tonstudio Braun, Folge 89: Das Todeskabinett",
+    "upc" : "4251234326633"
+  },
+  {
+    "albumID" : "1214955224",
+    "artist" : "John Sinclair",
+    "duration" : 3164.0449999999996,
+    "releaseDate" : 523411200,
+    "title" : "Tonstudio Braun, Folge 90: Der Unheimliche von Dartmoor",
+    "upc" : "4251234326626"
+  },
+  {
+    "albumID" : "1214955253",
+    "artist" : "John Sinclair",
+    "duration" : 3655.857,
+    "releaseDate" : 524016000,
+    "title" : "Tonstudio Braun, Folge 91: Der Vulkanteufel von Hawaii",
+    "upc" : "4251234326619"
+  },
+  {
+    "albumID" : "1214956753",
+    "artist" : "John Sinclair",
+    "duration" : 3489.1629999999996,
+    "releaseDate" : 524620800,
+    "title" : "Tonstudio Braun, Folge 92: Der siebenarmige Tod",
+    "upc" : "4251234326602"
+  },
+  {
+    "albumID" : "1214909618",
+    "artist" : "John Sinclair",
+    "duration" : 3549.295,
+    "releaseDate" : 525225600,
+    "title" : "Tonstudio Braun, Folge 93: Im Landhaus der Schrecken",
+    "upc" : "4251234326473"
+  },
+  {
+    "albumID" : "1193209827",
+    "artist" : "John Sinclair",
+    "duration" : 3705.3199999999997,
+    "releaseDate" : 525312000,
+    "title" : "Classics, Folge 30: Das Phantom von Soho",
+    "upc" : "9783838783437"
+  },
+  {
+    "albumID" : "1265149210",
+    "artist" : "John Sinclair",
+    "duration" : 9098.676999999998,
+    "releaseDate" : 525312000,
+    "title" : "Sinclair Academy, Folge 11: Die Rache des Voodooprinzen (Gekürzt)",
+    "upc" : "9783838784717"
+  },
+  {
+    "albumID" : "1214956831",
+    "artist" : "John Sinclair",
+    "duration" : 3697.9970000000003,
+    "releaseDate" : 525830400,
+    "title" : "Tonstudio Braun, Folge 94: Anruf aus dem Jenseits",
+    "upc" : "4251234326503"
+  },
+  {
+    "albumID" : "1214911032",
+    "artist" : "John Sinclair",
+    "duration" : 3271.7259999999997,
+    "releaseDate" : 526435200,
+    "title" : "Tonstudio Braun, Folge 95: Insel der Seelenlosen",
+    "upc" : "4251234326466"
+  },
+  {
+    "albumID" : "1214910245",
+    "artist" : "John Sinclair",
+    "duration" : 3156.818,
+    "releaseDate" : 527040000,
+    "title" : "Tonstudio Braun, Folge 96: Tigerfrauen greifen an!",
+    "upc" : "4251234326442"
+  },
+  {
+    "albumID" : "1214911586",
+    "artist" : "John Sinclair",
+    "duration" : 2990.3829999999994,
+    "releaseDate" : 527644800,
+    "title" : "Tonstudio Braun, Folge 97: Asmodinas Höllenschlange",
+    "upc" : "4251234326459"
+  },
+  {
+    "albumID" : "1214912330",
+    "artist" : "John Sinclair",
+    "duration" : 2909.3,
+    "releaseDate" : 528249600,
+    "title" : "Tonstudio Braun, Folge 98: Dr. Tods Monsterhöhle",
+    "upc" : "4251234326435"
+  },
+  {
+    "albumID" : "1236872881",
+    "artist" : "John Sinclair",
+    "duration" : 3360.2490000000003,
+    "releaseDate" : 528336000,
+    "title" : "Folge 118: Die Kreuzweg-Legende",
+    "upc" : "9783838783321"
+  },
+  {
+    "albumID" : "1255577553",
+    "artist" : "John Sinclair",
+    "duration" : 9968.790999999997,
+    "releaseDate" : 528336000,
+    "title" : "Brandmal - Sonderedition 7",
+    "upc" : "4251234334959"
+  },
+  {
+    "albumID" : "1287069371",
+    "artist" : "John Sinclair",
+    "duration" : 7510.599000000002,
+    "releaseDate" : 528336000,
+    "title" : "Oculus - Im Auge des Sturms - Sonderedition 8",
+    "upc" : "4251234340165"
+  },
+  {
+    "albumID" : "1278340585",
+    "artist" : "John Sinclair",
+    "duration" : 9425.426000000001,
+    "releaseDate" : 528336000,
+    "title" : "Sinclair Academy, Folge 12: Brandjagd (Gekürzt)",
+    "upc" : "9783838784724"
+  },
+  {
+    "albumID" : "1289276105",
+    "artist" : "John Sinclair",
+    "duration" : 3529.718,
+    "releaseDate" : 528854400,
+    "title" : "Tonstudio Braun, Folge 99: Voodoo-Land. Teil 1 von 2",
+    "upc" : "9783838780993"
   },
   {
     "albumID" : "1291976491",
@@ -3096,20 +2216,276 @@
     "upc" : "9783838781006"
   },
   {
-    "albumID" : "985923829",
+    "albumID" : "1295817039",
     "artist" : "John Sinclair",
-    "duration" : 3785.2539999999995,
-    "releaseDate" : 471484800,
-    "title" : "Episode 5: Dark Pharaoh",
-    "upc" : "9783838777382"
+    "duration" : 3205.7239999999997,
+    "releaseDate" : 530064000,
+    "title" : "Tonstudio Braun, Folge 101: Mr. Mondos Monster. Teil 1 von 2",
+    "upc" : "9783838781013"
   },
   {
-    "albumID" : "985924685",
+    "albumID" : "1236847654",
     "artist" : "John Sinclair",
-    "duration" : 3734.6460000000006,
-    "releaseDate" : 478137600,
-    "title" : "Episode 6: The Vampire Graveyard",
-    "upc" : "9783838777399"
+    "duration" : 3565.266,
+    "releaseDate" : 530668800,
+    "title" : "Classics, Folge 31: Die Drachenburg",
+    "upc" : "9783838783444"
+  },
+  {
+    "albumID" : "1289274647",
+    "artist" : "John Sinclair",
+    "duration" : 5806.388000000002,
+    "releaseDate" : 530668800,
+    "title" : "Oculus - Das Ende der Zeit - Sonderedition 9",
+    "upc" : "4251234340103"
+  },
+  {
+    "albumID" : "1289745638",
+    "artist" : "John Sinclair",
+    "duration" : 8222.987,
+    "releaseDate" : 530668800,
+    "title" : "Sinclair Academy, Folge 13: Belphegors Rückkehr",
+    "upc" : "9783838786339"
+  },
+  {
+    "albumID" : "1299726277",
+    "artist" : "John Sinclair",
+    "duration" : 3338.8320000000003,
+    "releaseDate" : 530668800,
+    "title" : "Tonstudio Braun, Folge 102: Königin der Wölfe. Teil 2 von 2",
+    "upc" : "9783838781020"
+  },
+  {
+    "albumID" : "1300198376",
+    "artist" : "John Sinclair",
+    "duration" : 3314.109999999999,
+    "releaseDate" : 531273600,
+    "title" : "Tonstudio Braun, Folge 103: Der Todesnebel",
+    "upc" : "9783838781037"
+  },
+  {
+    "albumID" : "1300329718",
+    "artist" : "John Sinclair",
+    "duration" : 2947.9460000000004,
+    "releaseDate" : 531878400,
+    "title" : "Tonstudio Braun, Folge 104: Dr. Tods Horror-Insel",
+    "upc" : "9783838781044"
+  },
+  {
+    "albumID" : "1301204523",
+    "artist" : "John Sinclair",
+    "duration" : 3240.398,
+    "releaseDate" : 531964800,
+    "title" : "Episode 7: A Long Day In Hell",
+    "upc" : "9783838779232"
+  },
+  {
+    "albumID" : "1307120194",
+    "artist" : "John Sinclair",
+    "duration" : 3240.6879999999996,
+    "releaseDate" : 532483200,
+    "title" : "Tonstudio Braun, Folge 105: Flucht in die Schädelwelt",
+    "upc" : "9783838781051"
+  },
+  {
+    "albumID" : "1312925831",
+    "artist" : "John Sinclair",
+    "duration" : 2863.923,
+    "releaseDate" : 533088000,
+    "title" : "Tonstudio Braun, Folge 106: Tokatas Erbe",
+    "upc" : "9783838781068"
+  },
+  {
+    "albumID" : "1299646891",
+    "artist" : "John Sinclair",
+    "duration" : 5603.225,
+    "releaseDate" : 533174400,
+    "title" : "Das andere Ufer der Nacht - Sonderedition 10",
+    "upc" : "4251234394175"
+  },
+  {
+    "albumID" : "1317036624",
+    "artist" : "John Sinclair",
+    "duration" : 2987.8510000000006,
+    "releaseDate" : 533692800,
+    "title" : "Tonstudio Braun, Folge 107: Herrin der Dunkelwelt",
+    "upc" : "9783838781075"
+  },
+  {
+    "albumID" : "1236841956",
+    "artist" : "John Sinclair",
+    "duration" : 3612.989,
+    "releaseDate" : 535507200,
+    "title" : "Classics, Folge 32: Das Todeskabinett",
+    "upc" : "9783838783451"
+  },
+  {
+    "albumID" : "1328304430",
+    "artist" : "John Sinclair",
+    "duration" : 3724.081,
+    "releaseDate" : 536544000,
+    "title" : "Sonderedition 3: Angst über London",
+    "upc" : "9783838788784"
+  },
+  {
+    "albumID" : "1236862571",
+    "artist" : "John Sinclair",
+    "duration" : 3893.743,
+    "releaseDate" : 538617600,
+    "title" : "Folge 119: Drei Herzen aus Eis. Teil 1 von 4",
+    "upc" : "9783838783338"
+  },
+  {
+    "albumID" : "1236873317",
+    "artist" : "John Sinclair",
+    "duration" : 3437.3340000000003,
+    "releaseDate" : 541036800,
+    "title" : "Folge 120: Die goldenen Skelette. Teil 2 von 4",
+    "upc" : "9783838783345"
+  },
+  {
+    "albumID" : "1236848232",
+    "artist" : "John Sinclair",
+    "duration" : 3273.708,
+    "releaseDate" : 543974400,
+    "title" : "Folge 121: Die Geburt des Schwarzen Tods. Teil 3 von 4",
+    "upc" : "9783838783352"
+  },
+  {
+    "albumID" : "1367885836",
+    "artist" : "John Sinclair",
+    "duration" : 3704.1580000000004,
+    "releaseDate" : 546480000,
+    "title" : "Folge 122: Inferno in der Alptraum-Schlucht. Teil 4 von 4",
+    "upc" : "9783838783369"
+  },
+  {
+    "albumID" : "1369226177",
+    "artist" : "John Sinclair",
+    "duration" : 3509.0190000000002,
+    "releaseDate" : 548899200,
+    "title" : "Classics, Folge 33: Irrfahrt ins Jenseits",
+    "upc" : "9783838783468"
+  },
+  {
+    "albumID" : "1382753983",
+    "artist" : "John Sinclair",
+    "duration" : 4552.407999999999,
+    "releaseDate" : 548899200,
+    "title" : "Tonstudio Braun - Klänge des Schreckens - Was damals im Studio geschah, Teil 1",
+    "upc" : "9783838789217"
+  },
+  {
+    "albumID" : "1393021078",
+    "artist" : "John Sinclair",
+    "duration" : 7181.510999999998,
+    "releaseDate" : 551923200,
+    "title" : "Deadwood - Stadt der Särge, Sonderedition 11",
+    "upc" : "9783838787749"
+  },
+  {
+    "albumID" : "1369227784",
+    "artist" : "John Sinclair",
+    "duration" : 3287.8519999999994,
+    "releaseDate" : 554342400,
+    "title" : "Folge 123: Alvas Feuerkuss",
+    "upc" : "9783838787596"
+  },
+  {
+    "albumID" : "1369227922",
+    "artist" : "John Sinclair",
+    "duration" : 3505.8030000000003,
+    "releaseDate" : 557366400,
+    "title" : "Folge 124: Die Rache der Horror-Reiter",
+    "upc" : "9783838787602"
+  },
+  {
+    "albumID" : "1409844360",
+    "artist" : "John Sinclair",
+    "duration" : 3484.916,
+    "releaseDate" : 559785600,
+    "title" : "Classics, Folge 34: Die Todesgondel",
+    "upc" : "9783838787657"
+  },
+  {
+    "albumID" : "1409829823",
+    "artist" : "John Sinclair",
+    "duration" : 6057.974999999999,
+    "releaseDate" : 559785600,
+    "title" : "Engel? - Sonderedition 12",
+    "upc" : "9783838788814"
+  },
+  {
+    "albumID" : "1409830569",
+    "artist" : "John Sinclair",
+    "duration" : 3111.0019999999995,
+    "releaseDate" : 562204800,
+    "title" : "Folge 125: Zombies aus dem Höllenfeuer. Teil 1 von 3",
+    "upc" : "9783838787619"
+  },
+  {
+    "albumID" : "1409831150",
+    "artist" : "John Sinclair",
+    "duration" : 3076.054,
+    "releaseDate" : 565228800,
+    "title" : "Folge 126: Die Rache der Großen Alten. Teil 2 von 3",
+    "upc" : "9783838787626"
+  },
+  {
+    "albumID" : "1444651046",
+    "artist" : "John Sinclair",
+    "duration" : 2819.1420000000003,
+    "releaseDate" : 567043200,
+    "title" : "Folge 127: Zwei Schwerter gegen die Hölle. Teil 3 von 4",
+    "upc" : "9783838787633"
+  },
+  {
+    "albumID" : "1409831056",
+    "artist" : "John Sinclair",
+    "duration" : 4331.033,
+    "releaseDate" : 570585600,
+    "title" : "Folge 128: Hemators tödliche Welt. Teil 4 von 4",
+    "upc" : "9783838787640"
+  },
+  {
+    "albumID" : "1409832147",
+    "artist" : "John Sinclair",
+    "duration" : 3270.793,
+    "releaseDate" : 573004800,
+    "title" : "Folge 129: Gruft der wimmernden Seelen",
+    "upc" : "9783838788913"
+  },
+  {
+    "albumID" : "1453987198",
+    "artist" : "John Sinclair",
+    "duration" : 3619.5330000000004,
+    "releaseDate" : 575510400,
+    "title" : "Classics, Folge 35: Der Voodoo-Mörder",
+    "upc" : "9783838787664"
+  },
+  {
+    "albumID" : "1458759447",
+    "artist" : "John Sinclair",
+    "duration" : 4985.943,
+    "releaseDate" : 578188800,
+    "title" : "Sinclair, Staffel 1: Dead Zone, Folge 1: Zeichen",
+    "upc" : "4251535784934"
+  },
+  {
+    "albumID" : "1458757823",
+    "artist" : "John Sinclair",
+    "duration" : 3391.452,
+    "releaseDate" : 578188800,
+    "title" : "Folge 130: Mirandas Monsterwelt",
+    "upc" : "9783838789712"
+  },
+  {
+    "albumID" : "1461466948",
+    "artist" : "John Sinclair",
+    "duration" : 3147.6400000000003,
+    "releaseDate" : 578448000,
+    "title" : "Episode 8: The Taste of Human Flesh",
+    "upc" : "9783838779249"
   },
   {
     "albumID" : "1461468767",
@@ -3118,14 +2494,6 @@
     "releaseDate" : 578448000,
     "title" : "Episode 9: To Kill a Beast",
     "upc" : "9783838779256"
-  },
-  {
-    "albumID" : "985922905",
-    "artist" : "John Sinclair",
-    "duration" : 3189.585,
-    "releaseDate" : 464832000,
-    "title" : "Episode 4: A Feast of Blood",
-    "upc" : "9783838777375"
   },
   {
     "albumID" : "1461467608",
@@ -3160,28 +2528,604 @@
     "upc" : "9783838779270"
   },
   {
-    "albumID" : "1301204523",
+    "albumID" : "1459632701",
     "artist" : "John Sinclair",
-    "duration" : 3240.398,
-    "releaseDate" : 531964800,
-    "title" : "Episode 7: A Long Day In Hell",
-    "upc" : "9783838779232"
+    "duration" : 3882.955,
+    "releaseDate" : 580953600,
+    "title" : "Folge 131: Zombie-Ballade",
+    "upc" : "9783838789729"
   },
   {
-    "albumID" : "1382753983",
+    "albumID" : "1580549902",
     "artist" : "John Sinclair",
-    "duration" : 4552.407999999999,
-    "releaseDate" : 548899200,
-    "title" : "Tonstudio Braun - Klänge des Schreckens - Was damals im Studio geschah, Teil 1",
-    "upc" : "9783838789217"
+    "duration" : 3858.523000000001,
+    "releaseDate" : 583372800,
+    "title" : "Classics, Folge 36: Die Rache der roten Hexe",
+    "upc" : "9783838789057"
   },
   {
-    "albumID" : "1069860424",
+    "albumID" : "1469537496",
     "artist" : "John Sinclair",
-    "duration" : 3078.5849999999996,
-    "releaseDate" : 487123200,
-    "title" : "Tonstudio Braun, Folge 30: Lupinas Todfeind. Teil 2 von 2",
-    "upc" : "9783838780306"
+    "duration" : 4327.500000000001,
+    "releaseDate" : 583372800,
+    "title" : "Sinclair, Staffel 1: Dead Zone, Folge 2: Strafe",
+    "upc" : "4251625918898"
+  },
+  {
+    "albumID" : "1570802379",
+    "artist" : "John Sinclair",
+    "duration" : 3072.4149999999995,
+    "releaseDate" : 586224000,
+    "title" : "Folge 132: Der Ghoul, der meinen Tod bestellte",
+    "upc" : "4066004229744"
+  },
+  {
+    "albumID" : "1561139523",
+    "artist" : "John Sinclair",
+    "duration" : 3394.001,
+    "releaseDate" : 588816000,
+    "title" : "Classics, Folge 37: Zirkus Luzifer",
+    "upc" : "4066004037257"
+  },
+  {
+    "albumID" : "1475231105",
+    "artist" : "John Sinclair",
+    "duration" : 5559.994999999999,
+    "releaseDate" : 588816000,
+    "title" : "Sinclair, Staffel 1: Dead Zone, Folge 3: Zorn",
+    "upc" : "4251625933518"
+  },
+  {
+    "albumID" : "1561968353",
+    "artist" : "John Sinclair",
+    "duration" : 3060.0000000000005,
+    "releaseDate" : 591494400,
+    "title" : "Folge 133: Mörderische Weihnachten",
+    "upc" : "4066004037226"
+  },
+  {
+    "albumID" : "1482413342",
+    "artist" : "John Sinclair",
+    "duration" : 5732.327,
+    "releaseDate" : 594172800,
+    "title" : "Sonderedition 13: Der Unheimliche von Dartmoor",
+    "upc" : "9783838789750"
+  },
+  {
+    "albumID" : "1486801296",
+    "artist" : "John Sinclair",
+    "duration" : 5498.834000000003,
+    "releaseDate" : 594172800,
+    "title" : "Sinclair, Staffel 1: Dead Zone, Folge 4: Leviathan",
+    "upc" : "4251625969111"
+  },
+  {
+    "albumID" : "1561138632",
+    "artist" : "John Sinclair",
+    "duration" : 3648,
+    "releaseDate" : 596505600,
+    "title" : "Folge 134: Die lebende Legende (Teil 1 von 2)",
+    "upc" : "4066004037240"
+  },
+  {
+    "albumID" : "1570802127",
+    "artist" : "John Sinclair",
+    "duration" : 3316.782,
+    "releaseDate" : 598492800,
+    "title" : "Folge 135: Ninja, Zombies und Shimada. Teil 2 von 2 (Ungekürzt)",
+    "upc" : "4066004037219"
+  },
+  {
+    "albumID" : "1492075400",
+    "artist" : "John Sinclair",
+    "duration" : 4717.6449999999995,
+    "releaseDate" : 598492800,
+    "title" : "Sinclair, Staffel 1: Dead Zone, Folge 5: Schuld (Gekürzt)",
+    "upc" : "4251535784972"
+  },
+  {
+    "albumID" : "1561139447",
+    "artist" : "John Sinclair",
+    "duration" : 3229.306,
+    "releaseDate" : 602121600,
+    "title" : "Classics, Folge 38: Die Totenkopf-Gang",
+    "upc" : "4066004037233"
+  },
+  {
+    "albumID" : "1561134968",
+    "artist" : "John Sinclair",
+    "duration" : 3017.843,
+    "releaseDate" : 604540800,
+    "title" : "Folge 136: Vampir-Express. Teil 1 von 2 (Ungekürzt)",
+    "upc" : "4066004037202"
+  },
+  {
+    "albumID" : "1500642922",
+    "artist" : "John Sinclair",
+    "duration" : 4200.003,
+    "releaseDate" : 604540800,
+    "title" : "Sinclair, Staffel 1: Dead Zone, Folge 6: Nemesis",
+    "upc" : "4251625998104"
+  },
+  {
+    "albumID" : "1561130359",
+    "artist" : "John Sinclair",
+    "duration" : 4071.7529999999997,
+    "releaseDate" : 606960000,
+    "title" : "Folge 137: Kampf um Lady X (Teil 2 von 2)",
+    "upc" : "4066004037134"
+  },
+  {
+    "albumID" : "1561129043",
+    "artist" : "John Sinclair",
+    "duration" : 3285.953,
+    "releaseDate" : 609897600,
+    "title" : "Folge 39: Die Killerpuppen (Classics)",
+    "upc" : "9783838794143"
+  },
+  {
+    "albumID" : "1561134270",
+    "artist" : "John Sinclair",
+    "duration" : 3780.6870000000004,
+    "releaseDate" : 612403200,
+    "title" : "Folge 138: Albtraum-Comic",
+    "upc" : "4066004037196"
+  },
+  {
+    "albumID" : "1561133380",
+    "artist" : "John Sinclair",
+    "duration" : 3539.999,
+    "releaseDate" : 615081600,
+    "title" : "Folge 139: Werwolf-Omen",
+    "upc" : "4066004037189"
+  },
+  {
+    "albumID" : "1595830049",
+    "artist" : "John Sinclair",
+    "duration" : 3440.772,
+    "releaseDate" : 617587200,
+    "title" : "Folge 40: Der Albtraum-Friedhof (Classics) [Ungekürzt]",
+    "upc" : "9783838794150"
+  },
+  {
+    "albumID" : "1561133198",
+    "artist" : "John Sinclair",
+    "duration" : 3652.7359999999994,
+    "releaseDate" : 620265600,
+    "title" : "Folge 140: Shimadas Höllenschloss (Teil 1 von 2)",
+    "upc" : "4066004037172"
+  },
+  {
+    "albumID" : "1561134198",
+    "artist" : "John Sinclair",
+    "duration" : 3469.998,
+    "releaseDate" : 623116800,
+    "title" : "Folge 141: Shao (Teil 2 von 2)",
+    "upc" : "4066004037165"
+  },
+  {
+    "albumID" : "1561134205",
+    "artist" : "John Sinclair",
+    "duration" : 5818.9360000000015,
+    "releaseDate" : 625708800,
+    "title" : "Folge 14: Die Blutorgel 9 Sonderedition)",
+    "upc" : "4066004037141"
+  },
+  {
+    "albumID" : "1561129767",
+    "artist" : "John Sinclair",
+    "duration" : 3526.0030000000006,
+    "releaseDate" : 625708800,
+    "title" : "Die gruseligsten Hörspiel-Szenen",
+    "upc" : "4066004037127"
+  },
+  {
+    "albumID" : "1561130320",
+    "artist" : "John Sinclair",
+    "duration" : 3256.9639999999995,
+    "releaseDate" : 628128000,
+    "title" : "Folge 41: Der schwarze Würger (Classics)",
+    "upc" : "4066004037080"
+  },
+  {
+    "albumID" : "1561133200",
+    "artist" : "John Sinclair",
+    "duration" : 3160.542,
+    "releaseDate" : 630201600,
+    "title" : "Folge 142: Das Grauen aus dem Bleisarg",
+    "upc" : "4066004037110"
+  },
+  {
+    "albumID" : "1561132606",
+    "artist" : "John Sinclair",
+    "duration" : 3417,
+    "releaseDate" : 633571200,
+    "title" : "Folge 143: Der unheimliche Shaolin",
+    "upc" : "4066004037103"
+  },
+  {
+    "albumID" : "1561127091",
+    "artist" : "John Sinclair",
+    "duration" : 3818.946,
+    "releaseDate" : 635990400,
+    "title" : "Folge 144: Im Tempel des Drachen",
+    "upc" : "4066004037097"
+  },
+  {
+    "albumID" : "1555714163",
+    "artist" : "John Sinclair",
+    "duration" : 4117.292,
+    "releaseDate" : 635990400,
+    "title" : "Tonstudio Braun - Folge 108: Dr. Tods Rache",
+    "upc" : "4066004000077"
+  },
+  {
+    "albumID" : "1560978348",
+    "artist" : "John Sinclair",
+    "duration" : 1466.979,
+    "releaseDate" : 637804800,
+    "title" : "Sinclair, Staffel 2: Underworld, Folge: Prolog",
+    "upc" : "4066004034799"
+  },
+  {
+    "albumID" : "1561145780",
+    "artist" : "John Sinclair",
+    "duration" : 3193.7079999999996,
+    "releaseDate" : 638409600,
+    "title" : "Classics, Folge 42: Das Hochhaus der Dämonen",
+    "upc" : "4066004037264"
+  },
+  {
+    "albumID" : "1560634330",
+    "artist" : "John Sinclair",
+    "duration" : 4507.773999999999,
+    "releaseDate" : 638409600,
+    "title" : "Sinclair, Staffel 2: Underworld, Folge 1: Kyvos",
+    "upc" : "4066004034362"
+  },
+  {
+    "albumID" : "1560216795",
+    "artist" : "John Sinclair",
+    "duration" : 3051.855,
+    "releaseDate" : 641433600,
+    "title" : "Folge 145: Villa Frankenstein",
+    "upc" : "9783838797069"
+  },
+  {
+    "albumID" : "1564820359",
+    "artist" : "John Sinclair",
+    "duration" : 3233.880999999999,
+    "releaseDate" : 643852800,
+    "title" : "Folge 146: Meine Henkersmahlzeit",
+    "upc" : "4066004042817"
+  },
+  {
+    "albumID" : "1579836690",
+    "artist" : "John Sinclair",
+    "duration" : 4342.884999999999,
+    "releaseDate" : 643852800,
+    "title" : "Sinclair, Staffel 2: Underworld, Folge 2: Rausch",
+    "upc" : "4066004308593"
+  },
+  {
+    "albumID" : "1574468889",
+    "artist" : "John Sinclair",
+    "duration" : 3269.979,
+    "releaseDate" : 646272000,
+    "title" : "Folge 43: Der Hexer mit der Flammenpeitsche (Classics)",
+    "upc" : "9783838797038"
+  },
+  {
+    "albumID" : "1577386889",
+    "artist" : "John Sinclair",
+    "duration" : 3196.001,
+    "releaseDate" : 649296000,
+    "title" : "Folge 147: Die Schwert-Legende",
+    "upc" : "9783838797083"
+  },
+  {
+    "albumID" : "1577387110",
+    "artist" : "John Sinclair",
+    "duration" : 4739.985,
+    "releaseDate" : 649296000,
+    "title" : "Sinclair, Staffel 2: Underworld, Folge 3: 180 bpm",
+    "upc" : "9783838796000"
+  },
+  {
+    "albumID" : "1579311149",
+    "artist" : "John Sinclair",
+    "duration" : 4092.903,
+    "releaseDate" : 651715200,
+    "title" : "Folge 148: Ninja-Rache",
+    "upc" : "9783838797090"
+  },
+  {
+    "albumID" : "1582446310",
+    "artist" : "John Sinclair",
+    "duration" : 3296.498,
+    "releaseDate" : 654652800,
+    "title" : "Classics, Folge 44: Die Spinnen-Königin",
+    "upc" : "9783838797045"
+  },
+  {
+    "albumID" : "1582446864",
+    "artist" : "John Sinclair",
+    "duration" : 4363.947,
+    "releaseDate" : 654652800,
+    "title" : "Sinclair, Staffel 2: Underworld, Folge 4: Abbey Wood",
+    "upc" : "9783838796017"
+  },
+  {
+    "albumID" : "1592684618",
+    "artist" : "John Sinclair",
+    "duration" : 5524.947000000001,
+    "releaseDate" : 657158400,
+    "title" : "Sonderedition 15: Tödliche Märchen",
+    "upc" : "9783838798417"
+  },
+  {
+    "albumID" : "1592683630",
+    "artist" : "John Sinclair",
+    "duration" : 2777.7459999999996,
+    "releaseDate" : 659577600,
+    "title" : "Folge 149: Die Rache des Kopflosen",
+    "upc" : "9783838797106"
+  },
+  {
+    "albumID" : "1593239644",
+    "artist" : "John Sinclair",
+    "duration" : 5025.036,
+    "releaseDate" : 659577600,
+    "title" : "Sinclair, Staffel 2: Underworld, Folge 5: Magoi",
+    "upc" : "9783838796024"
+  },
+  {
+    "albumID" : "1594396664",
+    "artist" : "John Sinclair",
+    "duration" : 6535.905999999998,
+    "releaseDate" : 661392000,
+    "title" : "Folge 150: Eisherz (Ungekürzt)",
+    "upc" : "9783838797113"
+  },
+  {
+    "albumID" : "1604567143",
+    "artist" : "John Sinclair",
+    "duration" : 3309.5889999999995,
+    "releaseDate" : 665020800,
+    "title" : "Classics, Folge 45: Das Todeskarussell",
+    "upc" : "9783838797052"
+  },
+  {
+    "albumID" : "1604567878",
+    "artist" : "John Sinclair",
+    "duration" : 4370.9439999999995,
+    "releaseDate" : 665020800,
+    "title" : "Folge 6: Harmony (Staffel 2: Underworld)",
+    "upc" : "9783838796031"
+  },
+  {
+    "albumID" : "1606784261",
+    "artist" : "John Sinclair",
+    "duration" : 3061.1270000000004,
+    "releaseDate" : 667440000,
+    "title" : "Folge 151: Samarans Todeswasser - Teil 1 von 2",
+    "upc" : "9783838797120"
+  },
+  {
+    "albumID" : "1613257417",
+    "artist" : "John Sinclair",
+    "duration" : 3881.087,
+    "releaseDate" : 669859200,
+    "title" : "Folge 152: Todesfalle unter Wasser - Teil 2 von 2",
+    "upc" : "4066004438917"
+  },
+  {
+    "albumID" : "1613124706",
+    "artist" : "John Sinclair",
+    "duration" : 4304.5830000000005,
+    "releaseDate" : 669859200,
+    "title" : "Folge 7: Station F. (Underworld) [Staffel 2]",
+    "upc" : "9783838798509"
+  },
+  {
+    "albumID" : "1621697656",
+    "artist" : "John Sinclair",
+    "duration" : 3322.756,
+    "releaseDate" : 672883200,
+    "title" : "Folge 46: Der Fluch der schwarzen Hand (Classics) [Ungekürzt]",
+    "upc" : "4066004459097"
+  },
+  {
+    "albumID" : "1620084934",
+    "artist" : "John Sinclair",
+    "duration" : 3595.9210000000003,
+    "releaseDate" : 675302400,
+    "title" : "Folge 153: Ihr Freund, der Ghoul",
+    "upc" : "9783754003534"
+  },
+  {
+    "albumID" : "1620088427",
+    "artist" : "John Sinclair",
+    "duration" : 4894.932000000001,
+    "releaseDate" : 675302400,
+    "title" : "Folge 8: Tote Zone (Staffel 2: Underworld)",
+    "upc" : "4066004455914"
+  },
+  {
+    "albumID" : "1631530909",
+    "artist" : "John Sinclair",
+    "duration" : 3514.403999999999,
+    "releaseDate" : 677721600,
+    "title" : "Folge 154: Ich und der Poltergeist",
+    "upc" : "4066004480008"
+  },
+  {
+    "albumID" : "1631842629",
+    "artist" : "John Sinclair",
+    "duration" : 3289.998,
+    "releaseDate" : 680745600,
+    "title" : "Folge 47: Flugvampire greifen an (Classics)",
+    "upc" : "4066004480022"
+  },
+  {
+    "albumID" : "1634384314",
+    "artist" : "John Sinclair",
+    "duration" : 3135.0000000000005,
+    "releaseDate" : 683164800,
+    "title" : "Folge 155: Die schwebenden Leichen von Prag - Teil 1 von 2",
+    "upc" : "9783754003558"
+  },
+  {
+    "albumID" : "1640726865",
+    "artist" : "John Sinclair",
+    "duration" : 3291.984,
+    "releaseDate" : 686188800,
+    "title" : "Folge 156: Höllen-Friedhof (Teil 2 von 2)",
+    "upc" : "9783754003565"
+  },
+  {
+    "albumID" : "1645373628",
+    "artist" : "John Sinclair",
+    "duration" : 3531.031000000001,
+    "releaseDate" : 688608000,
+    "title" : "Classics, Folge 48 - Im Haus des Schreckens",
+    "upc" : "9783754003480"
+  },
+  {
+    "albumID" : "1650043122",
+    "artist" : "John Sinclair",
+    "duration" : 3742.1469999999995,
+    "releaseDate" : 691027200,
+    "title" : "Folge 157: Geister-Dämmerung",
+    "upc" : "9783754003572"
+  },
+  {
+    "albumID" : "1655103006",
+    "artist" : "John Sinclair",
+    "duration" : 6615.87,
+    "releaseDate" : 692841600,
+    "title" : "Sonderedition 16: Totenkopf-TV",
+    "upc" : "9783754003206"
+  },
+  {
+    "albumID" : "1660529862",
+    "artist" : "John Sinclair",
+    "duration" : 3310.687,
+    "releaseDate" : 696470400,
+    "title" : "Folge 158: Londons Gruselkammer Nr. 1",
+    "upc" : "9783754003589"
+  },
+  {
+    "albumID" : "1670096143",
+    "artist" : "John Sinclair",
+    "duration" : 3503.08,
+    "releaseDate" : 698889600,
+    "title" : "Folge 49: Die Rache des Kreuzritters (Classics)",
+    "upc" : "9783754003497"
+  },
+  {
+    "albumID" : "1671697356",
+    "artist" : "John Sinclair",
+    "duration" : 3779.144,
+    "releaseDate" : 701913600,
+    "title" : "Folge 159: Skylla, die Menschenschlange",
+    "upc" : "9783754005590"
+  },
+  {
+    "albumID" : "1675823797",
+    "artist" : "John Sinclair",
+    "duration" : 3258.5860000000002,
+    "releaseDate" : 704332800,
+    "title" : "Folge 160: Die Unheimliche vom Schandturm",
+    "upc" : "9783754005606"
+  },
+  {
+    "albumID" : "1680860045",
+    "artist" : "John Sinclair",
+    "duration" : 6607.088999999999,
+    "releaseDate" : 706752000,
+    "title" : "Classics, Folge 50: Die Katakomben von Paris",
+    "upc" : "9783754006504"
+  },
+  {
+    "albumID" : "1685979438",
+    "artist" : "John Sinclair",
+    "duration" : 3554.6839999999997,
+    "releaseDate" : 709776000,
+    "title" : "Folge 161: Jenseits-Melodie",
+    "upc" : "9783754005613"
+  },
+  {
+    "albumID" : "1693242126",
+    "artist" : "John Sinclair",
+    "duration" : 5691.107000000001,
+    "releaseDate" : 710899200,
+    "title" : "Villa Wahnsinn (50 Jahre John Sinclair)",
+    "upc" : "9783754007501"
+  },
+  {
+    "albumID" : "1695542521",
+    "artist" : "John Sinclair",
+    "duration" : 3064.899,
+    "releaseDate" : 714614400,
+    "title" : "Folge 162: Das Vampir-Internat",
+    "upc" : "9783754005620"
+  },
+  {
+    "albumID" : "1706824983",
+    "artist" : "John Sinclair",
+    "duration" : 3464.549,
+    "releaseDate" : 717638400,
+    "title" : "Folge 163: Die Werwolf-Schlucht",
+    "upc" : "9783754008935"
+  },
+  {
+    "albumID" : "1706826007",
+    "artist" : "John Sinclair",
+    "duration" : 3052.962,
+    "releaseDate" : 720057600,
+    "title" : "Folge 164: Baals Opferdolch - Teil 1 von 2",
+    "upc" : "9783754008942"
+  },
+  {
+    "albumID" : "1712098121",
+    "artist" : "John Sinclair",
+    "duration" : 3200.9579999999996,
+    "releaseDate" : 722476800,
+    "title" : "Folge 165: Mit Blut geschrieben - Teil 2 von 2",
+    "upc" : "9783754008959"
+  },
+  {
+    "albumID" : "1714228737",
+    "artist" : "John Sinclair",
+    "duration" : 3088.853000000001,
+    "releaseDate" : 724291200,
+    "title" : "Folge 166: Der Doge, sein Henker und ich",
+    "upc" : "9783754008966"
+  },
+  {
+    "albumID" : "1721171144",
+    "artist" : "John Sinclair",
+    "duration" : 3456.9760000000006,
+    "releaseDate" : 727920000,
+    "title" : "Folge 167: Teufelsspuk und Killer-Strigen",
+    "upc" : "9783754008973"
+  },
+  {
+    "albumID" : "1731239703",
+    "artist" : "HARD ROADS",
+    "duration" : 283.97,
+    "releaseDate" : 729648000,
+    "title" : "Water When the Well Is Dry (feat. John Sinclair & Wanda Sinclair) - Single",
+    "upc" : "198009575107"
+  },
+  {
+    "albumID" : "1730690941",
+    "artist" : "John Sinclair",
+    "duration" : 3319.9990000000003,
+    "releaseDate" : 730944000,
+    "title" : "Folge 168: Der grausame Wald - Teil 1 von 2",
+    "upc" : "9783754008980"
   },
   {
     "albumID" : "1737025788",
@@ -3192,11 +3136,67 @@
     "upc" : "198009469932"
   },
   {
-    "albumID" : "1731239703",
-    "artist" : "HARD ROADS",
-    "duration" : 283.97,
-    "releaseDate" : 729648000,
-    "title" : "Water When the Well Is Dry (feat. John Sinclair & Wanda Sinclair) - Single",
-    "upc" : "198009575107"
+    "albumID" : "1729347613",
+    "artist" : "John Sinclair",
+    "duration" : 3440.0989999999997,
+    "releaseDate" : 732758400,
+    "title" : "Folge 169: Lupina gegen Mandragoro - Teil 2 von 2",
+    "upc" : "9783754012772"
+  },
+  {
+    "albumID" : "1735439696",
+    "artist" : "John Sinclair",
+    "duration" : 3251.6629999999996,
+    "releaseDate" : 735782400,
+    "title" : "Folge 170: Ein Grab aus der Vergangenheit",
+    "upc" : "9783754012789"
+  },
+  {
+    "albumID" : "1740068810",
+    "artist" : "John Sinclair",
+    "duration" : 3445.7900000000004,
+    "releaseDate" : 738806400,
+    "title" : "Folge 171: Kalis tödlicher Spiegel",
+    "upc" : "9783754012802"
+  },
+  {
+    "albumID" : "1744947018",
+    "artist" : "John Sinclair",
+    "duration" : 3690.365,
+    "releaseDate" : 741225600,
+    "title" : "Folge 172: Das Erbe der Templer",
+    "upc" : "9783754012819"
+  },
+  {
+    "albumID" : "1752443351",
+    "artist" : "John Sinclair",
+    "duration" : 3026.893,
+    "releaseDate" : 743644800,
+    "title" : "Folge 173: Im Namen der Hölle",
+    "upc" : "9783754012826"
+  },
+  {
+    "albumID" : "1757445916",
+    "artist" : "John Sinclair",
+    "duration" : 3315.794,
+    "releaseDate" : 746668800,
+    "title" : "Folge 174: Das Richtschwert der Templer - Teil 1 von 2",
+    "upc" : "9783754012833"
+  },
+  {
+    "albumID" : "1761130963",
+    "artist" : "John Sinclair",
+    "duration" : 3077.2040000000006,
+    "releaseDate" : 749088000,
+    "title" : "Folge 175: Der Grusel-Star. Teil 2 von 2",
+    "upc" : "9783754015865"
+  },
+  {
+    "albumID" : "1770031182",
+    "artist" : "John Sinclair",
+    "duration" : 4973.939999999999,
+    "releaseDate" : 751507200,
+    "title" : "Sonderedition 17: Das Horror-Restaurant (Ungekürzt)",
+    "upc" : "9783754015919"
   }
 ]
