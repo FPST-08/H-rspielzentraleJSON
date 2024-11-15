@@ -56,36 +56,12 @@
     "upc" : "4260507175564"
   },
   {
-    "albumID" : "1709996694",
-    "artist" : "Frankenstein und der Zirkel der Sieben",
-    "duration" : 3674.9989999999993,
-    "releaseDate" : 720057600,
-    "title" : "Folge 11: Gefangene der Finsternis",
-    "upc" : "4260507190123"
-  },
-  {
-    "albumID" : "1722608745",
-    "artist" : "Frankenstein und der Zirkel der Sieben",
-    "duration" : 3725.999999999999,
-    "releaseDate" : 728524800,
-    "title" : "Folge 12: Erweckung",
-    "upc" : "4260507191434"
-  },
-  {
     "albumID" : "1670191582",
     "artist" : "Frankenstein und der Zirkel der Sieben",
     "duration" : 4267,
     "releaseDate" : 698889600,
     "title" : "Folge 8: Das verbotene Grab",
     "upc" : "4260507177940"
-  },
-  {
-    "albumID" : "1751234932",
-    "artist" : "Frankenstein und der Zirkel der Sieben",
-    "duration" : 3365.0029999999997,
-    "releaseDate" : 741830400,
-    "title" : "Folge 14: Wasser und Tod",
-    "upc" : "4260507196385"
   },
   {
     "albumID" : "1686896093",
@@ -104,12 +80,36 @@
     "upc" : "4260507188144"
   },
   {
+    "albumID" : "1709996694",
+    "artist" : "Frankenstein und der Zirkel der Sieben",
+    "duration" : 3674.9989999999993,
+    "releaseDate" : 720057600,
+    "title" : "Folge 11: Gefangene der Finsternis",
+    "upc" : "4260507190123"
+  },
+  {
+    "albumID" : "1722608745",
+    "artist" : "Frankenstein und der Zirkel der Sieben",
+    "duration" : 3725.999999999999,
+    "releaseDate" : 728524800,
+    "title" : "Folge 12: Erweckung",
+    "upc" : "4260507191434"
+  },
+  {
     "albumID" : "1739095396",
     "artist" : "Frankenstein und der Zirkel der Sieben",
     "duration" : 3673.0009999999993,
     "releaseDate" : 735177600,
     "title" : "Folge 13: Necropolis",
     "upc" : "4260507194411"
+  },
+  {
+    "albumID" : "1751234932",
+    "artist" : "Frankenstein und der Zirkel der Sieben",
+    "duration" : 3365.0029999999997,
+    "releaseDate" : 741830400,
+    "title" : "Folge 14: Wasser und Tod",
+    "upc" : "4260507196385"
   },
   {
     "albumID" : "1759929202",
