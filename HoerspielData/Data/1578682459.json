@@ -8,14 +8,6 @@
     "upc" : "4260507161444"
   },
   {
-    "albumID" : "1578228480",
-    "artist" : "Moriarty",
-    "duration" : 3920.992,
-    "releaseDate" : 650505600,
-    "title" : "Folge 0: Perlen des Todes",
-    "upc" : "4260507166630"
-  },
-  {
     "albumID" : "1539151083",
     "artist" : "Moriarty",
     "duration" : 3941.9969999999994,
@@ -40,28 +32,20 @@
     "upc" : "4260507166081"
   },
   {
+    "albumID" : "1578228480",
+    "artist" : "Moriarty",
+    "duration" : 3920.992,
+    "releaseDate" : 650505600,
+    "title" : "Folge 0: Perlen des Todes",
+    "upc" : "4260507166630"
+  },
+  {
     "albumID" : "1610245074",
     "artist" : "Moriarty",
     "duration" : 3919.0029999999997,
     "releaseDate" : 669859200,
     "title" : "Folge 5: Gefährliches Erbe",
     "upc" : "4260507172808"
-  },
-  {
-    "albumID" : "1656705347",
-    "artist" : "Moriarty",
-    "duration" : 3943,
-    "releaseDate" : 697075200,
-    "title" : "Folge 8: Im Schatten des Giganten",
-    "upc" : "4260507178008"
-  },
-  {
-    "albumID" : "1725809418",
-    "artist" : "Moriarty",
-    "duration" : 4223,
-    "releaseDate" : 729734400,
-    "title" : "Folge 12: Wiedergeburt",
-    "upc" : "4260507192424"
   },
   {
     "albumID" : "1619936697",
@@ -80,12 +64,20 @@
     "upc" : "4260507175489"
   },
   {
-    "albumID" : "1753858933",
+    "albumID" : "1656705347",
     "artist" : "Moriarty",
-    "duration" : 4025.997,
-    "releaseDate" : 743644800,
-    "title" : "Folge 14: Das Schiff der Verdammten",
-    "upc" : "4260507197030"
+    "duration" : 3943,
+    "releaseDate" : 697075200,
+    "title" : "Folge 8: Im Schatten des Giganten",
+    "upc" : "4260507178008"
+  },
+  {
+    "albumID" : "1687996440",
+    "artist" : "Moriarty",
+    "duration" : 3843.0019999999995,
+    "releaseDate" : 708566400,
+    "title" : "Folge 9: Böse neue Welt",
+    "upc" : "4260507187024"
   },
   {
     "albumID" : "1701691267",
@@ -104,6 +96,14 @@
     "upc" : "4260507190307"
   },
   {
+    "albumID" : "1725809418",
+    "artist" : "Moriarty",
+    "duration" : 4223,
+    "releaseDate" : 729734400,
+    "title" : "Folge 12: Wiedergeburt",
+    "upc" : "4260507192424"
+  },
+  {
     "albumID" : "1746178614",
     "artist" : "Moriarty",
     "duration" : 4134.003000000001,
@@ -112,20 +112,12 @@
     "upc" : "4260507195692"
   },
   {
-    "albumID" : "1768728662",
+    "albumID" : "1753858933",
     "artist" : "Moriarty",
-    "duration" : 4359.0019999999995,
-    "releaseDate" : 751507200,
-    "title" : "Folge 16: Wo alles endet",
-    "upc" : "4260507199164"
-  },
-  {
-    "albumID" : "1687996440",
-    "artist" : "Moriarty",
-    "duration" : 3843.0019999999995,
-    "releaseDate" : 708566400,
-    "title" : "Folge 9: Böse neue Welt",
-    "upc" : "4260507187024"
+    "duration" : 4025.997,
+    "releaseDate" : 743644800,
+    "title" : "Folge 14: Das Schiff der Verdammten",
+    "upc" : "4260507197030"
   },
   {
     "albumID" : "1761146540",
@@ -134,5 +126,13 @@
     "releaseDate" : 748483200,
     "title" : "Folge 15: Bilder für die Ewigkeit",
     "upc" : "4260507198358"
+  },
+  {
+    "albumID" : "1768728662",
+    "artist" : "Moriarty",
+    "duration" : 4359.0019999999995,
+    "releaseDate" : 751507200,
+    "title" : "Folge 16: Wo alles endet",
+    "upc" : "4260507199164"
   }
 ]
