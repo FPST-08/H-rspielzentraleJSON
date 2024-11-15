@@ -24,6 +24,14 @@
     "upc" : "4260507149213"
   },
   {
+    "albumID" : "1458720334",
+    "artist" : "Heliosphere 2265",
+    "duration" : 4199.204000000001,
+    "releaseDate" : 578534400,
+    "title" : "Folge 4: Das Gesicht des Verrats",
+    "upc" : "4260507149220"
+  },
+  {
     "albumID" : "1458719889",
     "artist" : "Heliosphere 2265",
     "duration" : 3645.415,
@@ -32,12 +40,12 @@
     "upc" : "4260507149237"
   },
   {
-    "albumID" : "1458720334",
+    "albumID" : "1458719703",
     "artist" : "Heliosphere 2265",
-    "duration" : 4199.204000000001,
-    "releaseDate" : 578534400,
-    "title" : "Folge 4: Das Gesicht des Verrats",
-    "upc" : "4260507149220"
+    "duration" : 3111.5589999999997,
+    "releaseDate" : 579744000,
+    "title" : "Folge 6: Die Bürde des Captains",
+    "upc" : "4260507149244"
   },
   {
     "albumID" : "1458719296",
@@ -56,14 +64,6 @@
     "upc" : "4260507149268"
   },
   {
-    "albumID" : "1458719703",
-    "artist" : "Heliosphere 2265",
-    "duration" : 3111.5589999999997,
-    "releaseDate" : 579744000,
-    "title" : "Folge 6: Die Bürde des Captains",
-    "upc" : "4260507149244"
-  },
-  {
     "albumID" : "1458718930",
     "artist" : "Heliosphere 2265",
     "duration" : 4078.815,
@@ -72,20 +72,20 @@
     "upc" : "4260507149275"
   },
   {
-    "albumID" : "1461336819",
-    "artist" : "Heliosphere 2265",
-    "duration" : 3820.6599999999994,
-    "releaseDate" : 583372800,
-    "title" : "Folge 11: Vergeltung",
-    "upc" : "4260507150141"
-  },
-  {
     "albumID" : "1458719089",
     "artist" : "Heliosphere 2265",
     "duration" : 3963.9590000000007,
     "releaseDate" : 582163200,
     "title" : "Folge 10: Zwischen Himmel und Hölle",
     "upc" : "4260507149282"
+  },
+  {
+    "albumID" : "1461336819",
+    "artist" : "Heliosphere 2265",
+    "duration" : 3820.6599999999994,
+    "releaseDate" : 583372800,
+    "title" : "Folge 11: Vergeltung",
+    "upc" : "4260507150141"
   },
   {
     "albumID" : "1472538314",
@@ -136,6 +136,14 @@
     "upc" : "4260507172921"
   },
   {
+    "albumID" : "1655639086",
+    "artist" : "Heliosphere 2265",
+    "duration" : 3672.9969999999994,
+    "releaseDate" : 692236800,
+    "title" : "Folge 17: Kampf um die Zukunft",
+    "upc" : "4260507177803"
+  },
+  {
     "albumID" : "1680674602",
     "artist" : "Heliosphere 2265",
     "duration" : 3301.9990000000003,
@@ -152,28 +160,12 @@
     "upc" : "4260507187093"
   },
   {
-    "albumID" : "1655639086",
-    "artist" : "Heliosphere 2265",
-    "duration" : 3672.9969999999994,
-    "releaseDate" : 692236800,
-    "title" : "Folge 17: Kampf um die Zukunft",
-    "upc" : "4260507177803"
-  },
-  {
     "albumID" : "1706885850",
     "artist" : "Heliosphere 2265",
     "duration" : 3933.001,
     "releaseDate" : 719452800,
     "title" : "Folge 20: Im Zentrum der Dunkelheit",
     "upc" : "4260507189387"
-  },
-  {
-    "albumID" : "1753852716",
-    "artist" : "Heliosphere 2265",
-    "duration" : 4044.001,
-    "releaseDate" : 744249600,
-    "title" : "Folge 23: Das Helix-Mosaik",
-    "upc" : "4260507197054"
   },
   {
     "albumID" : "1725804629",
@@ -190,5 +182,13 @@
     "releaseDate" : 738806400,
     "title" : "Folge 22: Heimkehr",
     "upc" : "4260507195067"
+  },
+  {
+    "albumID" : "1753852716",
+    "artist" : "Heliosphere 2265",
+    "duration" : 4044.001,
+    "releaseDate" : 744249600,
+    "title" : "Folge 23: Das Helix-Mosaik",
+    "upc" : "4260507197054"
   }
 ]
