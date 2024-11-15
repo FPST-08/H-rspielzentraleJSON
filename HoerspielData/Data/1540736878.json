@@ -56,20 +56,20 @@
     "upc" : "4064066808273"
   },
   {
-    "albumID" : "1686318982",
-    "artist" : "Und auf Erden Stille",
-    "duration" : 1380.038,
-    "releaseDate" : 633571200,
-    "title" : "Und auf Erden Stille: Episode 09",
-    "upc" : "4064066808341"
-  },
-  {
     "albumID" : "1686318558",
     "artist" : "Und auf Erden Stille",
     "duration" : 1192.5419999999997,
     "releaseDate" : 633571200,
     "title" : "Und auf Erden Stille: Episode 08",
     "upc" : "4064066808327"
+  },
+  {
+    "albumID" : "1686318982",
+    "artist" : "Und auf Erden Stille",
+    "duration" : 1380.038,
+    "releaseDate" : 633571200,
+    "title" : "Und auf Erden Stille: Episode 09",
+    "upc" : "4064066808341"
   },
   {
     "albumID" : "1686318685",
