@@ -1,67 +1,11 @@
 [
   {
-    "albumID" : "1139314439",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2706.7950000000005,
-    "releaseDate" : -504921600,
-    "title" : "Folge 44: als Bäcker",
-    "upc" : "190295923983"
-  },
-  {
-    "albumID" : "1139316720",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2032.566,
-    "releaseDate" : -568080000,
-    "title" : "Folge 26: als Bademeister",
-    "upc" : "190295925772"
-  },
-  {
     "albumID" : "1139323584",
     "artist" : "Benjamin Blümchen",
     "duration" : 2718.606,
     "releaseDate" : -63114076800,
     "title" : "Folge 13: im Krankenhaus",
     "upc" : "190295926373"
-  },
-  {
-    "albumID" : "1139325781",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2036.6460000000002,
-    "releaseDate" : 252460800,
-    "title" : "Folge 23: als Koch",
-    "upc" : "190295925826"
-  },
-  {
-    "albumID" : "1139309320",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2675.892,
-    "releaseDate" : -473385600,
-    "title" : "Folge 52: Der Weihnachtstraum",
-    "upc" : "190295923211"
-  },
-  {
-    "albumID" : "1139282141",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2474.6330000000007,
-    "releaseDate" : 347068800,
-    "title" : "Folge 122: als Polizist",
-    "upc" : "190295919702"
-  },
-  {
-    "albumID" : "1440619281",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2629.0740000000005,
-    "releaseDate" : 563414400,
-    "title" : "Folge 140: Weihnachtsmarkt im Zoo",
-    "upc" : "190295522643"
-  },
-  {
-    "albumID" : "1352376032",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2590.5450000000005,
-    "releaseDate" : 542246400,
-    "title" : "Folge 138: Das neue Müllauto",
-    "upc" : "190295659516"
   },
   {
     "albumID" : "1139321129",
@@ -72,188 +16,12 @@
     "upc" : "190295926359"
   },
   {
-    "albumID" : "1139283161",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2712.8689999999992,
-    "releaseDate" : 403142400,
-    "title" : "Folge 124: im Tante-Emma-Laden",
-    "upc" : "190295920098"
-  },
-  {
-    "albumID" : "1139280178",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2252.536,
-    "releaseDate" : 360806400,
-    "title" : "Folge 120: Der Zeltausflug",
-    "upc" : "190295920074"
-  },
-  {
     "albumID" : "1139326957",
     "artist" : "Benjamin Blümchen",
     "duration" : 2368.8020000000006,
     "releaseDate" : -63114076800,
     "title" : "Folge 20: und Bibi Blocksberg",
     "upc" : "190295926052"
-  },
-  {
-    "albumID" : "1139316753",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2036.617,
-    "releaseDate" : 199324800,
-    "title" : "Folge 19: als Fußballstar",
-    "upc" : "190295926069"
-  },
-  {
-    "albumID" : "1139312128",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2621.640000000001,
-    "releaseDate" : -504921600,
-    "title" : "Folge 47: als Gärtner",
-    "upc" : "190295923945"
-  },
-  {
-    "albumID" : "1480242592",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2660.731,
-    "releaseDate" : 592444800,
-    "title" : "Folge 143: Die Halloween-Nacht",
-    "upc" : "190295343002"
-  },
-  {
-    "albumID" : "1139315074",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2190.752,
-    "releaseDate" : 252460800,
-    "title" : "Folge 31: als Feuerwehrmann",
-    "upc" : "190295925598"
-  },
-  {
-    "albumID" : "1139339828",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2510.177,
-    "releaseDate" : -757382400,
-    "title" : "Folge 1: als Wetterelefant",
-    "upc" : "190295928582"
-  },
-  {
-    "albumID" : "1491490174",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2633.8399999999997,
-    "releaseDate" : 601516800,
-    "title" : "Folge 144: Der Zuckerstückchen-Express",
-    "upc" : "190295296841"
-  },
-  {
-    "albumID" : "1139319161",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2234.6350000000007,
-    "releaseDate" : 252460800,
-    "title" : "Folge 25: auf Kreuzfahrt",
-    "upc" : "190295925765"
-  },
-  {
-    "albumID" : "1139322666",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2125.313,
-    "releaseDate" : 199324800,
-    "title" : "Folge 22: als Kinderarzt",
-    "upc" : "190295926014"
-  },
-  {
-    "albumID" : "1188821175",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2287.8389999999995,
-    "releaseDate" : -568080000,
-    "title" : "Folge 133: auf dem Flughafen",
-    "upc" : "190295854850"
-  },
-  {
-    "albumID" : "1384719771",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2583.7930000000006,
-    "releaseDate" : 548899200,
-    "title" : "Folge 139: Der Dinosaurierknochen",
-    "upc" : "190295642990"
-  },
-  {
-    "albumID" : "1452617430",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2956.1180000000004,
-    "releaseDate" : -568080000,
-    "title" : "Folge 142: Das besondere Osterei",
-    "upc" : "190295473075"
-  },
-  {
-    "albumID" : "1448692024",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2429.3669999999997,
-    "releaseDate" : 570067200,
-    "title" : "Folge 141: Nachts in der Erfinderwerkstatt",
-    "upc" : "190295502126"
-  },
-  {
-    "albumID" : "1210046426",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2616.991,
-    "releaseDate" : 510796800,
-    "title" : "Folge 135: Die Zoo-Feuerwehr",
-    "upc" : "190295833077"
-  },
-  {
-    "albumID" : "1139277543",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2221.042,
-    "releaseDate" : 371692800,
-    "title" : "Folge 121: Die Fahrrad-Wette",
-    "upc" : "190295919740"
-  },
-  {
-    "albumID" : "1139315660",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2239.0749999999994,
-    "releaseDate" : -662774400,
-    "title" : "Folge 6: und die Schule",
-    "upc" : "190295924522"
-  },
-  {
-    "albumID" : "1139315979",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2049.227,
-    "releaseDate" : -568080000,
-    "title" : "Folge 30: als Pilot",
-    "upc" : "190295925604"
-  },
-  {
-    "albumID" : "1166647154",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2414.8709999999996,
-    "releaseDate" : 499305600,
-    "title" : "Folge 132: Das Seifenkistenrennen",
-    "upc" : "190295882150"
-  },
-  {
-    "albumID" : "1139315452",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2398.7699999999995,
-    "releaseDate" : -536544000,
-    "title" : "Folge 39: kauft ein",
-    "upc" : "190295925178"
-  },
-  {
-    "albumID" : "1139319951",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 1999.8859999999997,
-    "releaseDate" : 199324800,
-    "title" : "Folge 8: auf dem Baum",
-    "upc" : "190295926755"
-  },
-  {
-    "albumID" : "1545480442",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2708.2680000000005,
-    "releaseDate" : 631756800,
-    "title" : "Folge 147: Schlittenfahrt mit Hindernissen",
-    "upc" : "190295047115"
   },
   {
     "albumID" : "1139306880",
@@ -264,148 +32,12 @@
     "upc" : "190295923235"
   },
   {
-    "albumID" : "1465950082",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2769.956,
-    "releaseDate" : 582163200,
-    "title" : "Gute-Nacht-Geschichten - Folge 29: Im Kindergarten",
-    "upc" : "190295415815"
-  },
-  {
-    "albumID" : "1561011338",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 3342.9419999999986,
-    "releaseDate" : 640828800,
-    "title" : "Folge 148: als Rettungselefant",
-    "upc" : "190296715389"
-  },
-  {
-    "albumID" : "1139321783",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2300.0969999999993,
-    "releaseDate" : 199324800,
-    "title" : "Folge 5: auf hoher See",
-    "upc" : "190295926908"
-  },
-  {
-    "albumID" : "1139304556",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2687.97,
-    "releaseDate" : 199324800,
-    "title" : "Folge 61: Otto ist krank",
-    "upc" : "190295922337"
-  },
-  {
-    "albumID" : "1531497163",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2746.465,
-    "releaseDate" : 623894400,
-    "title" : "Folge 146: als Wikinger",
-    "upc" : "190295139643"
-  },
-  {
-    "albumID" : "1656277614",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2746.428,
-    "releaseDate" : 695865600,
-    "title" : "Folge 153: Das große Gewitter",
-    "upc" : "5054197465949"
-  },
-  {
-    "albumID" : "1139325848",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2167.5179999999996,
-    "releaseDate" : -694310400,
-    "title" : "Folge 3: Kampf dem Lärm",
-    "upc" : "190295928087"
-  },
-  {
     "albumID" : "1139316719",
     "artist" : "Benjamin Blümchen",
     "duration" : 2665.279,
     "releaseDate" : -63114076800,
     "title" : "Folge 12: als Briefträger",
     "upc" : "190295926403"
-  },
-  {
-    "albumID" : "1139324907",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2394.9640000000004,
-    "releaseDate" : -757382400,
-    "title" : "Folge 2: rettet den Zoo",
-    "upc" : "190295928124"
-  },
-  {
-    "albumID" : "1139278525",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2522.116,
-    "releaseDate" : 442454400,
-    "title" : "Folge 128: und die Schnitzeljagd",
-    "upc" : "190295920630"
-  },
-  {
-    "albumID" : "1139287818",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2530.802,
-    "releaseDate" : 474508800,
-    "title" : "Folge 131: auf großer Floßfahrt",
-    "upc" : "190295920746"
-  },
-  {
-    "albumID" : "1139294473",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2488.7140000000004,
-    "releaseDate" : 199324800,
-    "title" : "Folge 70: und Bibi in Indien",
-    "upc" : "190295922689"
-  },
-  {
-    "albumID" : "1516873915",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2767.3660000000004,
-    "releaseDate" : -568080000,
-    "title" : "Folge 145: Zurück auf dem Bauernhof",
-    "upc" : "190295197889"
-  },
-  {
-    "albumID" : "1139278195",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2530.818,
-    "releaseDate" : 392256000,
-    "title" : "Folge 123: in der Spielzeugfabrik",
-    "upc" : "190295919696"
-  },
-  {
-    "albumID" : "1276230718",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2694.919,
-    "releaseDate" : 526521600,
-    "title" : "Folge 136: Spuk im Zoo",
-    "upc" : "190295747626"
-  },
-  {
-    "albumID" : "1139282587",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2419.6920000000005,
-    "releaseDate" : 347500800,
-    "title" : "Folge 119: als Busfahrer",
-    "upc" : "190295920104"
-  },
-  {
-    "albumID" : "1668412000",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2996.391,
-    "releaseDate" : 703123200,
-    "title" : "Folge 154: in Italien",
-    "upc" : "5054197534041"
-  },
-  {
-    "albumID" : "1295862622",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 3861.1800000000003,
-    "releaseDate" : 531964800,
-    "title" : "Folge 137: Ein Törööö für alle Fälle",
-    "upc" : "190295720445"
   },
   {
     "albumID" : "1139301720",
@@ -416,52 +48,12 @@
     "upc" : "190295923198"
   },
   {
-    "albumID" : "1139276803",
+    "albumID" : "1139317873",
     "artist" : "Benjamin Blümchen",
-    "duration" : 2462.3819999999996,
-    "releaseDate" : 339638400,
-    "title" : "Folge 118: auf der Baustelle",
-    "upc" : "190295920203"
-  },
-  {
-    "albumID" : "1139324906",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2285.2650000000003,
-    "releaseDate" : -599616000,
-    "title" : "Folge 21: als Weihnachtsmann",
-    "upc" : "190295926021"
-  },
-  {
-    "albumID" : "1210044516",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2434.3740000000003,
-    "releaseDate" : 510796800,
-    "title" : "Folge 134: Abschied von Stella",
-    "upc" : "190295831974"
-  },
-  {
-    "albumID" : "1139279409",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2449.23,
-    "releaseDate" : 199324800,
-    "title" : "Folge 68: als Taxifahrer",
-    "upc" : "190295919597"
-  },
-  {
-    "albumID" : "1139321781",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2144.6760000000004,
-    "releaseDate" : -568080000,
-    "title" : "Folge 27: auf dem Bauernhof",
-    "upc" : "190295925680"
-  },
-  {
-    "albumID" : "1600089834",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 4628.231000000002,
-    "releaseDate" : 199324800,
-    "title" : "Folge 150: auf Weltreise",
-    "upc" : "190296307478"
+    "duration" : 2703.773999999999,
+    "releaseDate" : -63114076800,
+    "title" : "Folge 11: auf dem Mond",
+    "upc" : "190295926434"
   },
   {
     "albumID" : "1139324517",
@@ -472,156 +64,12 @@
     "upc" : "190295926311"
   },
   {
-    "albumID" : "1631517975",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2652.4779999999996,
-    "releaseDate" : 678931200,
-    "title" : "Gute-Nacht-Geschichten - Folge 33: Im Reisefieber",
-    "upc" : "5054197222290"
-  },
-  {
-    "albumID" : "1139323683",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2394.01,
-    "releaseDate" : -568080000,
-    "title" : "Folge 28: rettet den Kindergarten",
-    "upc" : "190295925659"
-  },
-  {
-    "albumID" : "1139319157",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2349.118,
-    "releaseDate" : 199324800,
-    "title" : "Folge 7: verliebt sich",
-    "upc" : "190295926762"
-  },
-  {
-    "albumID" : "1585665620",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2704.277,
-    "releaseDate" : 655344000,
-    "title" : "Folge 149: Auf der Tankstelle",
-    "upc" : "190296456169"
-  },
-  {
-    "albumID" : "1612139400",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2706.985,
-    "releaseDate" : 671068800,
-    "title" : "Folge 151: Das Elefantenkarussell",
-    "upc" : "190296198649"
-  },
-  {
-    "albumID" : "1139331066",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2391.092,
-    "releaseDate" : 199324800,
-    "title" : "Folge 9: hat Geburtstag",
-    "upc" : "190295926496"
-  },
-  {
-    "albumID" : "1139323715",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2637.2349999999997,
-    "releaseDate" : 252460800,
-    "title" : "Folge 34: als Lokomotivführer",
-    "upc" : "190295925567"
-  },
-  {
-    "albumID" : "1139324483",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2179.8559999999998,
-    "releaseDate" : 199324800,
-    "title" : "Folge 4: in Afrika",
-    "upc" : "190295927967"
-  },
-  {
-    "albumID" : "1139322758",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2620.8639999999996,
-    "releaseDate" : -536544000,
-    "title" : "Folge 38: Der Zoo zieht um",
-    "upc" : "190295925192"
-  },
-  {
-    "albumID" : "1139289170",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2475.0750000000003,
-    "releaseDate" : 328752000,
-    "title" : "Folge 117: Die Zoo-Schwimmschule",
-    "upc" : "190295920234"
-  },
-  {
-    "albumID" : "1139321141",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2624.631,
-    "releaseDate" : 252460800,
-    "title" : "Folge 24: als Detektiv",
-    "upc" : "190295925796"
-  },
-  {
-    "albumID" : "1139280754",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2658.5049999999997,
-    "releaseDate" : 284601600,
-    "title" : "Folge 113: Der Abenteuer-Spielplatz",
-    "upc" : "190295920340"
-  },
-  {
     "albumID" : "1139305479",
     "artist" : "Benjamin Blümchen",
     "duration" : 2612.744,
     "releaseDate" : -63114076800,
     "title" : "Folge 56: als Reporter",
     "upc" : "190295923150"
-  },
-  {
-    "albumID" : "1139310398",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2244.5050000000006,
-    "releaseDate" : -473385600,
-    "title" : "Folge 49: als Müllmann",
-    "upc" : "190295923525"
-  },
-  {
-    "albumID" : "1139312129",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 3114,
-    "releaseDate" : -63114076800,
-    "title" : "Folge 57: als Bürgermeister",
-    "upc" : "190295922818"
-  },
-  {
-    "albumID" : "1139317873",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2703.773999999999,
-    "releaseDate" : -63114076800,
-    "title" : "Folge 11: auf dem Mond",
-    "upc" : "190295926434"
-  },
-  {
-    "albumID" : "1139313783",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2111.2589999999996,
-    "releaseDate" : 252460800,
-    "title" : "Folge 32: Die Verkehrsschule",
-    "upc" : "190295925581"
-  },
-  {
-    "albumID" : "1139313338",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2514.852,
-    "releaseDate" : -504921600,
-    "title" : "Folge 43: und die Autorallye",
-    "upc" : "190295924065"
-  },
-  {
-    "albumID" : "1139318143",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2253.949,
-    "releaseDate" : 199324800,
-    "title" : "Folge 10: und das Schloss",
-    "upc" : "190295926410"
   },
   {
     "albumID" : "1139320469",
@@ -632,28 +80,12 @@
     "upc" : "190295926298"
   },
   {
-    "albumID" : "1640111589",
+    "albumID" : "1139312129",
     "artist" : "Benjamin Blümchen",
-    "duration" : 2937.5259999999994,
-    "releaseDate" : 685584000,
-    "title" : "Folge 152: Schatzsuche im Zoosee",
-    "upc" : "5054197297700"
-  },
-  {
-    "albumID" : "1139305431",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2847.7419999999997,
-    "releaseDate" : 196905600,
-    "title" : "Folge 103: 5:0 für Benjamin",
-    "upc" : "190295921590"
-  },
-  {
-    "albumID" : "1139311779",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2420.18,
-    "releaseDate" : 199324800,
-    "title" : "Folge 64: als Butler",
-    "upc" : "190295922207"
+    "duration" : 3114,
+    "releaseDate" : -63114076800,
+    "title" : "Folge 57: als Bürgermeister",
+    "upc" : "190295922818"
   },
   {
     "albumID" : "1139308529",
@@ -672,148 +104,12 @@
     "upc" : "190295922139"
   },
   {
-    "albumID" : "1713768407",
+    "albumID" : "1139291022",
     "artist" : "Benjamin Blümchen",
-    "duration" : 3082.1610000000005,
-    "releaseDate" : 722476800,
-    "title" : "Folge 156: als Bergretter",
-    "upc" : "5054197887826"
-  },
-  {
-    "albumID" : "1139286301",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2618.838999999999,
-    "releaseDate" : 423705600,
-    "title" : "Folge 126: Der Zoo-Kindergarten",
-    "upc" : "190295920227"
-  },
-  {
-    "albumID" : "1139284022",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 3269.934,
-    "releaseDate" : 196905600,
-    "title" : "Folge 100: Ottos neue Freundin - Teil 1",
-    "upc" : "190295919641"
-  },
-  {
-    "albumID" : "1139288325",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2506.9919999999997,
-    "releaseDate" : 221097600,
-    "title" : "Folge 108: Ottos kleines Geheimnis",
-    "upc" : "190295921378"
-  },
-  {
-    "albumID" : "1139303608",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2642.5560000000005,
-    "releaseDate" : 199324800,
-    "title" : "Folge 62: in der Steinzeit",
-    "upc" : "190295922313"
-  },
-  {
-    "albumID" : "1139286532",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2344.2360000000003,
-    "releaseDate" : 466041600,
-    "title" : "Folge 130: und der sprechende Papagei",
-    "upc" : "190295920685"
-  },
-  {
-    "albumID" : "1333181294",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2728.381,
-    "releaseDate" : 538617600,
-    "title" : "Gute Nacht Geschichten - Folge 27: Krümel, der freche Hamster",
-    "upc" : "190295684099"
-  },
-  {
-    "albumID" : "1139281189",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2875.2709999999997,
-    "releaseDate" : -473385600,
-    "title" : "Folge 51: Der Weihnachtsabend",
-    "upc" : "190295920067"
-  },
-  {
-    "albumID" : "1139280138",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2466.298999999999,
-    "releaseDate" : 452736000,
-    "title" : "Folge 129: Der Drachenflugtag",
-    "upc" : "190295920654"
-  },
-  {
-    "albumID" : "1139318351",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2355.986999999999,
-    "releaseDate" : -568080000,
-    "title" : "Folge 29: auf dem Rummel",
-    "upc" : "190295925635"
-  },
-  {
-    "albumID" : "1139294923",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2431.17,
-    "releaseDate" : 242265600,
-    "title" : "Folge 109: als Baggerfahrer",
-    "upc" : "190295920906"
-  },
-  {
-    "albumID" : "1139287734",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2473.4219999999996,
-    "releaseDate" : 316051200,
-    "title" : "Folge 116: und die Spaßmaschine",
-    "upc" : "190295920241"
-  },
-  {
-    "albumID" : "1139298464",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2845.2509999999993,
-    "releaseDate" : 213840000,
-    "title" : "Folge 107: in Schottland",
-    "upc" : "190295921422"
-  },
-  {
-    "albumID" : "1139314146",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2122.2129999999997,
-    "releaseDate" : -568080000,
-    "title" : "Folge 33: Das Osterfest",
-    "upc" : "190295925574"
-  },
-  {
-    "albumID" : "1139318036",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 3077.9289999999996,
-    "releaseDate" : -504921600,
-    "title" : "Folge 41: als Pirat",
-    "upc" : "190295924829"
-  },
-  {
-    "albumID" : "1139310509",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2824.04,
-    "releaseDate" : -473385600,
-    "title" : "Folge 50: als Sheriff",
-    "upc" : "190295923464"
-  },
-  {
-    "albumID" : "1139320777",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2752.7909999999997,
-    "releaseDate" : 252460800,
-    "title" : "Folge 35: hat Zahnweh",
-    "upc" : "190295925512"
-  },
-  {
-    "albumID" : "1139316756",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 3134.004,
-    "releaseDate" : -504921600,
-    "title" : "Folge 40: zieht aus",
-    "upc" : "190295924997"
+    "duration" : 2395.651,
+    "releaseDate" : -63114076800,
+    "title" : "Folge 85: als Tierarzt",
+    "upc" : "190295921576"
   },
   {
     "albumID" : "1139302540",
@@ -822,86 +118,6 @@
     "releaseDate" : -63114076800,
     "title" : "Folge 58: Die Wünschelrute",
     "upc" : "190295922757"
-  },
-  {
-    "albumID" : "1139310062",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2632.8179999999993,
-    "releaseDate" : -63114076800,
-    "title" : "Folge 81: Das Geheimnis der Tempelkatze",
-    "upc" : "190295922085"
-  },
-  {
-    "albumID" : "1139273918",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2540.961,
-    "releaseDate" : 199324800,
-    "title" : "Folge 73: und der Weihnachtsmann",
-    "upc" : "190295919290"
-  },
-  {
-    "albumID" : "1139307785",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2747.018,
-    "releaseDate" : 199324800,
-    "title" : "Folge 63: Der Computer",
-    "upc" : "190295922238"
-  },
-  {
-    "albumID" : "1139306805",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2706.1630000000005,
-    "releaseDate" : 207187200,
-    "title" : "Folge 106: Das Spaghetti-Eis-Fest",
-    "upc" : "190295921491"
-  },
-  {
-    "albumID" : "1038159013",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 3889.1690000000003,
-    "releaseDate" : 202953600,
-    "title" : "Benjamin Blümchen Gute-Nacht-Geschichten - Folge 6: 24 Weihnachts-Geschichten",
-    "upc" : "825646198108"
-  },
-  {
-    "albumID" : "1139284815",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2649.4719999999998,
-    "releaseDate" : 411004800,
-    "title" : "Folge 125: und die Zirkusponys",
-    "upc" : "190295920111"
-  },
-  {
-    "albumID" : "1139291079",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2738.3489999999997,
-    "releaseDate" : 434592000,
-    "title" : "Folge 127: in der Musikschule",
-    "upc" : "190295920265"
-  },
-  {
-    "albumID" : "1139298480",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2507.423,
-    "releaseDate" : -63114076800,
-    "title" : "Folge 60: Der Doppelgänger",
-    "upc" : "190295922658"
-  },
-  {
-    "albumID" : "1139304559",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2665.016000000001,
-    "releaseDate" : 196905600,
-    "title" : "Folge 104: Die Zoo-Olympiade",
-    "upc" : "190295921569"
-  },
-  {
-    "albumID" : "1293269857",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2867.772,
-    "releaseDate" : 529545600,
-    "title" : "Gute Nacht Geschichten - Folge 26: Im Schneckentempo",
-    "upc" : "190295723620"
   },
   {
     "albumID" : "1139326576",
@@ -920,44 +136,12 @@
     "upc" : "190295922733"
   },
   {
-    "albumID" : "1581446133",
+    "albumID" : "1139298480",
     "artist" : "Benjamin Blümchen",
-    "duration" : 2721.9439999999995,
-    "releaseDate" : 652924800,
-    "title" : "Gute-Nacht-Geschichten - Folge 32: Der Herbst ist da",
-    "upc" : "190296490552"
-  },
-  {
-    "albumID" : "1139291022",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2395.651,
+    "duration" : 2507.423,
     "releaseDate" : -63114076800,
-    "title" : "Folge 85: als Tierarzt",
-    "upc" : "190295921576"
-  },
-  {
-    "albumID" : "1139278523",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2147.157,
-    "releaseDate" : 199324800,
-    "title" : "Folge 66: als Ballonfahrer",
-    "upc" : "190295919726"
-  },
-  {
-    "albumID" : "1139319156",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2504.5849999999996,
-    "releaseDate" : -504921600,
-    "title" : "Folge 42: als Ritter",
-    "upc" : "190295924690"
-  },
-  {
-    "albumID" : "1139296027",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2571.3280000000004,
-    "releaseDate" : 253152000,
-    "title" : "Folge 111: Sei nicht traurig, Benjamin!",
-    "upc" : "190295920753"
+    "title" : "Folge 60: Der Doppelgänger",
+    "upc" : "190295922658"
   },
   {
     "albumID" : "1139322761",
@@ -968,108 +152,12 @@
     "upc" : "190295926366"
   },
   {
-    "albumID" : "1139285870",
+    "albumID" : "1139310062",
     "artist" : "Benjamin Blümchen",
-    "duration" : 2462.7239999999997,
-    "releaseDate" : 264038400,
-    "title" : "Folge 112: Die Elefantenkönigin",
-    "upc" : "190295920715"
-  },
-  {
-    "albumID" : "1139295167",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2508.2400000000002,
-    "releaseDate" : 199324800,
-    "title" : "Folge 69: als Zoodirektor",
-    "upc" : "190295922672"
-  },
-  {
-    "albumID" : "1552276514",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 3375.4399999999996,
-    "releaseDate" : 636595200,
-    "title" : "Find‘s raus mit Benjamin: Feuerwehr",
-    "upc" : "190295003791"
-  },
-  {
-    "albumID" : "1139297270",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2415.7900000000004,
-    "releaseDate" : 199324800,
-    "title" : "Folge 75: Der geheimnisvolle Brief",
-    "upc" : "190295922665"
-  },
-  {
-    "albumID" : "1439332340",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2988.11,
-    "releaseDate" : 562204800,
-    "title" : "Gute Nacht Geschichten - Folge 28: Der Winterschlaf-Teddy",
-    "upc" : "190295536084"
-  },
-  {
-    "albumID" : "1139279385",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2124.533,
-    "releaseDate" : 319680000,
-    "title" : "Folge 114: und der Delfin",
-    "upc" : "190295920319"
-  },
-  {
-    "albumID" : "1139321890",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2600.5090000000005,
-    "releaseDate" : -536544000,
-    "title" : "Folge 36: wird verhext",
-    "upc" : "190295925215"
-  },
-  {
-    "albumID" : "1139290136",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2261.3499999999995,
-    "releaseDate" : 308188800,
-    "title" : "Folge 115: Die kleinen Kätzchen",
-    "upc" : "190295920272"
-  },
-  {
-    "albumID" : "1139284423",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2501.8730000000005,
-    "releaseDate" : -220924800,
-    "title" : "Folge 77: und die Eisprinzessin",
-    "upc" : "190295919351"
-  },
-  {
-    "albumID" : "1482644345",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2971.8429999999994,
-    "releaseDate" : 593654400,
-    "title" : "Folge 30: Viele kleine Schäfchenwolken / Die riesengroße Regenwolke / Die wirbelnde Schneeflocke / Das Wolkenkuckucksheim / Die schwarze Gewitterwolke / Eine dichte Nebelwolke / Rosarote Abendwolken / Ein wolkenloser Nachthimmel",
-    "upc" : "190295330774"
-  },
-  {
-    "albumID" : "1139308993",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2653.4619999999995,
-    "releaseDate" : 199324800,
-    "title" : "Folge 65: Wo ist Otto?",
-    "upc" : "190295922153"
-  },
-  {
-    "albumID" : "1748580449",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2755.3700000000003,
-    "releaseDate" : 740016000,
-    "title" : "Folge 158: Der Fußball-Pokal",
-    "upc" : "4033694555583"
-  },
-  {
-    "albumID" : "1536986439",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 3074.746,
-    "releaseDate" : 626313600,
-    "title" : "Gute-Nacht-Geschichten - Folge 31: Alle meine Tierkinder",
-    "upc" : "190295093341"
+    "duration" : 2632.8179999999993,
+    "releaseDate" : -63114076800,
+    "title" : "Folge 81: Das Geheimnis der Tempelkatze",
+    "upc" : "190295922085"
   },
   {
     "albumID" : "1139289171",
@@ -1088,84 +176,12 @@
     "upc" : "190295921521"
   },
   {
-    "albumID" : "1548517341",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2798.191,
-    "releaseDate" : 632966400,
-    "title" : "Benjamin Minis - Folge 3: Das erste Fahrrad",
-    "upc" : "190295029487"
-  },
-  {
     "albumID" : "1139291076",
     "artist" : "Benjamin Blümchen",
     "duration" : 2301.9770000000003,
     "releaseDate" : -63114076800,
     "title" : "Folge 88: als Cowboy",
     "upc" : "190295921439"
-  },
-  {
-    "albumID" : "1069063539",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2802.429,
-    "releaseDate" : 305769600,
-    "title" : "Benjamin Blümchen Gute-Nacht-Geschichten - Folge 13: Die Traumfeekönigin Karolila",
-    "upc" : "825646113033"
-  },
-  {
-    "albumID" : "1139297268",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2800.3219999999997,
-    "releaseDate" : -473385600,
-    "title" : "Folge 48: kriegt ein Geschenk",
-    "upc" : "190295923938"
-  },
-  {
-    "albumID" : "1753081387",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2710.3609999999994,
-    "releaseDate" : 744249600,
-    "title" : "Folge 159: als Robin Hood",
-    "upc" : "4033694555590"
-  },
-  {
-    "albumID" : "1139297299",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2670.497,
-    "releaseDate" : 248918400,
-    "title" : "Folge 110: Hilfe für das Pandababy",
-    "upc" : "190295920838"
-  },
-  {
-    "albumID" : "1139285408",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2695.5539999999996,
-    "releaseDate" : -63114076800,
-    "title" : "als Apotheker (Sonderedition)",
-    "upc" : "190295919665"
-  },
-  {
-    "albumID" : "1458376002",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2910.7490000000007,
-    "releaseDate" : 352944000,
-    "title" : "Gute-Nacht-Geschichten - Folge 15: Die Märchennacht im Zoo",
-    "upc" : "190295443047"
-  },
-  {
-    "albumID" : "1139292579",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2272.5180000000005,
-    "releaseDate" : -63114076800,
-    "title" : "Folge 87: Das Laternenfest",
-    "upc" : "190295921484"
-  },
-  {
-    "albumID" : "1730703572",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2767.7349999999997,
-    "releaseDate" : 732758400,
-    "title" : "Folge 157: als Sänger",
-    "upc" : "5054197985799"
   },
   {
     "albumID" : "1139312891",
@@ -1176,14 +192,6 @@
     "upc" : "190295922092"
   },
   {
-    "albumID" : "1458123123",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 3003.3819999999996,
-    "releaseDate" : 405561600,
-    "title" : "Gute-Nacht-Geschichten - Folge 18: Die Pyjama-Party",
-    "upc" : "190295442477"
-  },
-  {
     "albumID" : "1139275124",
     "artist" : "Benjamin Blümchen",
     "duration" : 2503.392,
@@ -1192,12 +200,12 @@
     "upc" : "190295919610"
   },
   {
-    "albumID" : "1139298440",
+    "albumID" : "1139285408",
     "artist" : "Benjamin Blümchen",
-    "duration" : 2421.258,
-    "releaseDate" : 63072000,
-    "title" : "Folge 97: Die Gespensterkinder",
-    "upc" : "190295921705"
+    "duration" : 2695.5539999999996,
+    "releaseDate" : -63114076800,
+    "title" : "als Apotheker (Sonderedition)",
+    "upc" : "190295919665"
   },
   {
     "albumID" : "1139300868",
@@ -1208,76 +216,12 @@
     "upc" : "190295921477"
   },
   {
-    "albumID" : "1525766721",
+    "albumID" : "1139292579",
     "artist" : "Benjamin Blümchen",
-    "duration" : 2585.426,
-    "releaseDate" : 620870400,
-    "title" : "Benjamin Minis - Folge 1: Hallo, Lea!",
-    "upc" : "190295172138"
-  },
-  {
-    "albumID" : "1701599534",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 3288.072,
-    "releaseDate" : 716428800,
-    "title" : "Folge 155: und der Roboter",
-    "upc" : "5054197774331"
-  },
-  {
-    "albumID" : "1139310504",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2485.7450000000003,
-    "releaseDate" : -504921600,
-    "title" : "Folge 46: hilft den Tieren",
-    "upc" : "190295923952"
-  },
-  {
-    "albumID" : "1527469485",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2562.632,
-    "releaseDate" : 620870400,
-    "title" : "Benjamin Minis - Folge 2: Keine Angst im Dunkeln",
-    "upc" : "190295172091"
-  },
-  {
-    "albumID" : "1760125142",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2780.088,
-    "releaseDate" : 747878400,
-    "title" : "Folge 160: als Höhlenforscher",
-    "upc" : "4033694555606"
-  },
-  {
-    "albumID" : "1458349480",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2821.629,
-    "releaseDate" : 500515200,
-    "title" : "Gute-Nacht-Geschichten - Folge 24: Der Traumwichtel",
-    "upc" : "190295443245"
-  },
-  {
-    "albumID" : "1139308521",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2292.422,
-    "releaseDate" : 196905600,
-    "title" : "Folge 78: und der kleine Hund",
-    "upc" : "190295922214"
-  },
-  {
-    "albumID" : "1139273172",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2683.9049999999993,
-    "releaseDate" : 199324800,
-    "title" : "Folge 72: und Bino",
-    "upc" : "190295919276"
-  },
-  {
-    "albumID" : "1139277268",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2512.3079999999995,
+    "duration" : 2272.5180000000005,
     "releaseDate" : -63114076800,
-    "title" : "Folge 95: Die Wunderblume",
-    "upc" : "190295919634"
+    "title" : "Folge 87: Das Laternenfest",
+    "upc" : "190295921484"
   },
   {
     "albumID" : "1139294922",
@@ -1288,108 +232,12 @@
     "upc" : "190295921699"
   },
   {
-    "albumID" : "1139310787",
+    "albumID" : "1139277268",
     "artist" : "Benjamin Blümchen",
-    "duration" : 2569.518000000001,
-    "releaseDate" : -157852800,
-    "title" : "Folge 83: als Gespenst",
-    "upc" : "190295921637"
-  },
-  {
-    "albumID" : "1139275186",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2408.6139999999996,
+    "duration" : 2512.3079999999995,
     "releaseDate" : -63114076800,
-    "title" : "Folge 96: Der Bananendieb",
-    "upc" : "190295919337"
-  },
-  {
-    "albumID" : "1139290957",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2591.226,
-    "releaseDate" : -63114076800,
-    "title" : "Folge 89: Der rote Luftballon",
-    "upc" : "190295921446"
-  },
-  {
-    "albumID" : "1139290185",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2681.113,
-    "releaseDate" : -63114076800,
-    "title" : "Folge 82: Der weiße Elefant",
-    "upc" : "190295922023"
-  },
-  {
-    "albumID" : "1500615880",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 3039.5629999999996,
-    "releaseDate" : 606355200,
-    "title" : "Find's raus mit Benjamin: Baustelle",
-    "upc" : "190295257293"
-  },
-  {
-    "albumID" : "1139319947",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2393.9539999999997,
-    "releaseDate" : -536544000,
-    "title" : "Folge 37: Der Gorilla ist weg",
-    "upc" : "190295925208"
-  },
-  {
-    "albumID" : "1139307236",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2330.7039999999997,
-    "releaseDate" : 196905600,
-    "title" : "Folge 102: Das Pinguin-Ei",
-    "upc" : "190295921620"
-  },
-  {
-    "albumID" : "1139314098",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2175.6229999999996,
-    "releaseDate" : -504921600,
-    "title" : "Folge 45: als Zirkusclown",
-    "upc" : "190295923969"
-  },
-  {
-    "albumID" : "1139287748",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2622.111,
-    "releaseDate" : -63114076800,
-    "title" : "Folge 93: Das Walbaby",
-    "upc" : "190295922061"
-  },
-  {
-    "albumID" : "1139303547",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2523.441999999999,
-    "releaseDate" : 196905600,
-    "title" : "Folge 105: Das fleißige Faultier",
-    "upc" : "190295921514"
-  },
-  {
-    "albumID" : "1069147252",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2375.8540000000003,
-    "releaseDate" : 388022400,
-    "title" : "Englisch lernen mit Benjamin Blümchen",
-    "upc" : "825646295746"
-  },
-  {
-    "albumID" : "1139302678",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2806.580999999999,
-    "releaseDate" : 196905600,
-    "title" : "Folge 101: Ottos neue Freundin - Teil 2",
-    "upc" : "190295921644"
-  },
-  {
-    "albumID" : "1458351833",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2995.651999999999,
-    "releaseDate" : 210470400,
-    "title" : "Gute-Nacht-Geschichten - Folge 9: Fußballspaß im Zoo",
-    "upc" : "190295446697"
+    "title" : "Folge 95: Die Wunderblume",
+    "upc" : "190295919634"
   },
   {
     "albumID" : "1139301014",
@@ -1400,52 +248,36 @@
     "upc" : "190295923143"
   },
   {
-    "albumID" : "1069064094",
+    "albumID" : "1139290957",
     "artist" : "Benjamin Blümchen",
-    "duration" : 7704.652,
-    "releaseDate" : 425520000,
-    "title" : "Gute Besserung (Benjamin Blümchen als Tierarzt & Otto ist krank & Benjamin Blümchen im Krankenhaus)",
-    "upc" : "825646243471"
-  },
-  {
-    "albumID" : "1692770508",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2761.807,
-    "releaseDate" : 710380800,
-    "title" : "Gute-Nacht-Geschichten - Folge 34: Hilfe, ich kann nicht schlafen!",
-    "upc" : "5054197719844"
-  },
-  {
-    "albumID" : "1524693160",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2965.0080000000007,
-    "releaseDate" : 618451200,
-    "title" : "Find's raus mit Benjamin: Wald",
-    "upc" : "190295174606"
-  },
-  {
-    "albumID" : "1458351055",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2891.301999999999,
-    "releaseDate" : 463017600,
-    "title" : "Gute-Nacht-Geschichten - Folge 21: Das fliegende Bett",
-    "upc" : "190295443764"
-  },
-  {
-    "albumID" : "1139301535",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2467.6449999999995,
+    "duration" : 2591.226,
     "releaseDate" : -63114076800,
-    "title" : "Folge 84: Der kleine Ausreißer",
-    "upc" : "190295921606"
+    "title" : "Folge 89: Der rote Luftballon",
+    "upc" : "190295921446"
   },
   {
-    "albumID" : "1652301632",
+    "albumID" : "1139275186",
     "artist" : "Benjamin Blümchen",
-    "duration" : 8262.514000000001,
-    "releaseDate" : 689817600,
-    "title" : "Adventskalender: Das große Weihnachtssingen",
-    "upc" : "5054197427046"
+    "duration" : 2408.6139999999996,
+    "releaseDate" : -63114076800,
+    "title" : "Folge 96: Der Bananendieb",
+    "upc" : "190295919337"
+  },
+  {
+    "albumID" : "1139290185",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2681.113,
+    "releaseDate" : -63114076800,
+    "title" : "Folge 82: Der weiße Elefant",
+    "upc" : "190295922023"
+  },
+  {
+    "albumID" : "1139287748",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2622.111,
+    "releaseDate" : -63114076800,
+    "title" : "Folge 93: Das Walbaby",
+    "upc" : "190295922061"
   },
   {
     "albumID" : "1139297190",
@@ -1456,108 +288,20 @@
     "upc" : "190295921712"
   },
   {
+    "albumID" : "1139301535",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2467.6449999999995,
+    "releaseDate" : -63114076800,
+    "title" : "Folge 84: Der kleine Ausreißer",
+    "upc" : "190295921606"
+  },
+  {
     "albumID" : "1139296757",
     "artist" : "Benjamin Blümchen",
     "duration" : 2623.302,
     "releaseDate" : -63114076800,
     "title" : "Folge 79: Die Zirkuslöwen",
     "upc" : "190295922160"
-  },
-  {
-    "albumID" : "1619310248",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 3649.6560000000004,
-    "releaseDate" : 674697600,
-    "title" : "Find‘s raus mit Benjamin: Weltraum",
-    "upc" : "5054197150906"
-  },
-  {
-    "albumID" : "1608387565",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2857.09,
-    "releaseDate" : 668044800,
-    "title" : "Benjamin Minis - Folge 4: Geburtstag im Zoo",
-    "upc" : "190296247514"
-  },
-  {
-    "albumID" : "1458122474",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2801.344,
-    "releaseDate" : 336614400,
-    "title" : "Gute Nacht Geschichten - Folge 14: Im Traumland",
-    "upc" : "190295443474"
-  },
-  {
-    "albumID" : "1458751755",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2843.6879999999996,
-    "releaseDate" : 210470400,
-    "title" : "Gute-Nacht-Geschichten - Folge 7: A,B,C-Geschichten / 1,2,3-Geschichten",
-    "upc" : "190295446703"
-  },
-  {
-    "albumID" : "1458376501",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2751.621,
-    "releaseDate" : 368668800,
-    "title" : "Gute-Nacht-Geschichten - Folge 16: Meine liebsten Kuscheltiere",
-    "upc" : "190295442927"
-  },
-  {
-    "albumID" : "1719798401",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2860.7900000000004,
-    "releaseDate" : 727315200,
-    "title" : "Benjamin Minis - Folge 5: Endlich Schnee!",
-    "upc" : "5054197920905"
-  },
-  {
-    "albumID" : "1458122758",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 3042.0929999999994,
-    "releaseDate" : 210470400,
-    "title" : "Gute Nacht Geschichten - Folge 10: Das Schoko-Fest beim Tortenkönig",
-    "upc" : "190295444730"
-  },
-  {
-    "albumID" : "1707036276",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 3522.2539999999995,
-    "releaseDate" : 718243200,
-    "title" : "Find‘s raus mit Benjamin: Flughafen",
-    "upc" : "5054197809781"
-  },
-  {
-    "albumID" : "1069209647",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 4843.651999999999,
-    "releaseDate" : 425520000,
-    "title" : "Handwerker Box (Benjamin Blümchen als Baggerfahrer & Benjamin Blümchen auf der Baustelle)",
-    "upc" : "825646243310"
-  },
-  {
-    "albumID" : "1473615663",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2862.3979999999997,
-    "releaseDate" : 586396800,
-    "title" : "Find's raus mit Benjamin: Wetter",
-    "upc" : "190295378325"
-  },
-  {
-    "albumID" : "1458355969",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2922.7299999999996,
-    "releaseDate" : 273715200,
-    "title" : "Gute-Nacht-Geschichten - Folge 12: Frühling, Sommer, Herbst und Winter",
-    "upc" : "190295443542"
-  },
-  {
-    "albumID" : "1473618222",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2846.610000000001,
-    "releaseDate" : 586396800,
-    "title" : "Find's raus mit Benjamin: Straßenverkehr",
-    "upc" : "190295378417"
   },
   {
     "albumID" : "1069138151",
@@ -1568,228 +312,12 @@
     "upc" : "825646201877"
   },
   {
-    "albumID" : "1458350988",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2836.9860000000003,
-    "releaseDate" : 437011200,
-    "title" : "Gute-Nacht-Geschichten - Folge 20: Das schnarchende Krokodil",
-    "upc" : "190295443863"
-  },
-  {
-    "albumID" : "1607837220",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 1201.194,
-    "releaseDate" : 667440000,
-    "title" : "Klangreise Abendrunde im Zoo (ASMR)",
-    "upc" : "190296250545"
-  },
-  {
-    "albumID" : "1458350733",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2938.0789999999997,
-    "releaseDate" : 431568000,
-    "title" : "Gute-Nacht-Geschichten - Folge 19: Tiere der Nacht",
-    "upc" : "190295442415"
-  },
-  {
-    "albumID" : "1458355650",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2686.6130000000003,
-    "releaseDate" : 495072000,
-    "title" : "Gute-Nacht-Geschichten - Folge 23: Kleine Helden",
-    "upc" : "190295443344"
-  },
-  {
-    "albumID" : "1675326765",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 1157.355,
-    "releaseDate" : 700099200,
-    "title" : "Klangreise abends am Zoosee (ASMR)",
-    "upc" : "5054197525797"
-  },
-  {
     "albumID" : "1038152861",
     "artist" : "Benjamin Blümchen",
     "duration" : 2440.6940000000004,
     "releaseDate" : -63114076800,
     "title" : "Benjamin Blümchen Liederzoo: Guten Abend, gute Nacht",
     "upc" : "825646437719"
-  },
-  {
-    "albumID" : "1686577013",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 3300.6440000000002,
-    "releaseDate" : 706147200,
-    "title" : "Find‘s raus mit Benjamin: Müll",
-    "upc" : "5054197676468"
-  },
-  {
-    "albumID" : "1038208432",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2210.106,
-    "releaseDate" : -63114076800,
-    "title" : "Benjamin Blümchen Liederzoo: Fußballfieber",
-    "upc" : "825646243136"
-  },
-  {
-    "albumID" : "1069164486",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 4775.705,
-    "releaseDate" : 432777600,
-    "title" : "Urlaubsspaß mit Benjamin Blümchen (inkl. dem Lied \"Benjamin, der Bademeister\")",
-    "upc" : "825646221585"
-  },
-  {
-    "albumID" : "1069060825",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2199.501,
-    "releaseDate" : -63114076800,
-    "title" : "Weihnachten im Zoo (Sonderfolge - Lieder und Geschichten zur Weihnachtszeit)",
-    "upc" : "825646198139"
-  },
-  {
-    "albumID" : "1772761022",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2578.571000000001,
-    "releaseDate" : 752716800,
-    "title" : "Gute-Nacht-Geschichten - Folge 35:  Der mutige Löwe",
-    "upc" : "4033694550458"
-  },
-  {
-    "albumID" : "1589450921",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 3343.664999999999,
-    "releaseDate" : 657763200,
-    "title" : "Find‘s raus mit Benjamin: Jahreszeiten",
-    "upc" : "190296410260"
-  },
-  {
-    "albumID" : "1069140873",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 4696.662,
-    "releaseDate" : 429753600,
-    "title" : "Natur Bundle (Benjamin Blümchen auf dem Bauernhof & Benjamin Blümchen als Förster)",
-    "upc" : "825646243457"
-  },
-  {
-    "albumID" : "1651540450",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 3338.8559999999998,
-    "releaseDate" : 690422400,
-    "title" : "Find‘s raus mit Benjamin: Dinosaurier",
-    "upc" : "5054197405532"
-  },
-  {
-    "albumID" : "1458351842",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2102.674,
-    "releaseDate" : 210470400,
-    "title" : "Gute-Nacht-Geschichten - Folge 5: Kuscheln mit dem Osterhasen",
-    "upc" : "190295447519"
-  },
-  {
-    "albumID" : "1287160158",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2783.967,
-    "releaseDate" : 189302400,
-    "title" : "Gute Nacht Geschichten - Folge 8: Die kleine freche Sternschnuppe",
-    "upc" : "190295731502"
-  },
-  {
-    "albumID" : "1287159375",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2873.8770000000004,
-    "releaseDate" : 378691200,
-    "title" : "Gute Nacht Geschichten - Folge 17: Mondgeschichten",
-    "upc" : "190295730864"
-  },
-  {
-    "albumID" : "1458352781",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2387.283,
-    "releaseDate" : 210470400,
-    "title" : "Gute-Nacht-Geschichten - Folge 1: Wo ist Winnie Waschbär?",
-    "upc" : "190295668549"
-  },
-  {
-    "albumID" : "1458126368",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2914.776,
-    "releaseDate" : 203040000,
-    "title" : "Gute Nacht Geschichten - Folge 25: Der verschwundene Stern",
-    "upc" : "190295443184"
-  },
-  {
-    "albumID" : "1458353358",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2391.7360000000003,
-    "releaseDate" : 210470400,
-    "title" : "Gute-Nacht-Geschichten - Folge 4: Benjamin und die Glühwürmchen",
-    "upc" : "190295447618"
-  },
-  {
-    "albumID" : "1458353140",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2389.3130000000006,
-    "releaseDate" : 210470400,
-    "title" : "Gute-Nacht-Geschichten - Folge 2: Die Rauschemuschel",
-    "upc" : "190295448066"
-  },
-  {
-    "albumID" : "1458351777",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2880.8369999999995,
-    "releaseDate" : 468460800,
-    "title" : "Gute-Nacht-Geschichten - Folge 22: Gute Nacht im Zoo",
-    "upc" : "190295443689"
-  },
-  {
-    "albumID" : "1453736603",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 7303.108,
-    "releaseDate" : 573696000,
-    "title" : "Folge 4, 92, 107: Unterwegs mit Benjamin",
-    "upc" : "190295460815"
-  },
-  {
-    "albumID" : "1757991520",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2993.7110000000002,
-    "releaseDate" : 746064000,
-    "title" : "Benjamin Minis - Folge 6: Eine verrückte Zahnputzgeschichte",
-    "upc" : "4033694543061"
-  },
-  {
-    "albumID" : "1742941728",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 3153.4320000000002,
-    "releaseDate" : 737596800,
-    "title" : "Find's raus mit Benjamin: Bauernhof",
-    "upc" : "4033694542118"
-  },
-  {
-    "albumID" : "1654078228",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 1020.781,
-    "releaseDate" : 691027200,
-    "title" : "Klangreise in Benjamins Haus (ASMR)",
-    "upc" : "5054197400940"
-  },
-  {
-    "albumID" : "1458352461",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2394.2290000000003,
-    "releaseDate" : 210470400,
-    "title" : "Gute-Nacht-Geschichten - Folge 3: Wüstenfüchse fliegen nicht",
-    "upc" : "190295447984"
-  },
-  {
-    "albumID" : "1287160617",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2782.2230000000004,
-    "releaseDate" : 220838400,
-    "title" : "Gute Nacht Geschichten - Folge 11: Badespaß im Zoo",
-    "upc" : "190295731441"
   },
   {
     "albumID" : "1069095652",
@@ -1800,6 +328,14 @@
     "upc" : "825646198085"
   },
   {
+    "albumID" : "1069060825",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2199.501,
+    "releaseDate" : -63114076800,
+    "title" : "Weihnachten im Zoo (Sonderfolge - Lieder und Geschichten zur Weihnachtszeit)",
+    "upc" : "825646198139"
+  },
+  {
     "albumID" : "1069054838",
     "artist" : "Benjamin Blümchen",
     "duration" : 2324.0409999999997,
@@ -1808,20 +344,12 @@
     "upc" : "825646107735"
   },
   {
-    "albumID" : "1287204519",
+    "albumID" : "1038208432",
     "artist" : "Benjamin Blümchen",
-    "duration" : 2985.2669999999994,
-    "releaseDate" : 283996800,
-    "title" : "Gute Nacht Geschichten - Folge 13: Die Traumfee-Königin Karolila",
-    "upc" : "190295731236"
-  },
-  {
-    "albumID" : "1306345520",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 4799.721,
+    "duration" : 2210.106,
     "releaseDate" : -63114076800,
-    "title" : "Feier mit Törööö (Sonderedition)",
-    "upc" : "190295710927"
+    "title" : "Benjamin Blümchen Liederzoo: Fußballfieber",
+    "upc" : "825646243136"
   },
   {
     "albumID" : "1038178630",
@@ -1832,20 +360,12 @@
     "upc" : "825646198092"
   },
   {
-    "albumID" : "1038125745",
+    "albumID" : "1306345520",
     "artist" : "Benjamin Blümchen",
-    "duration" : 6359.296,
-    "releaseDate" : 417657600,
-    "title" : "Osterbundle",
-    "upc" : "825646296606"
-  },
-  {
-    "albumID" : "1766395764",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 3436.7939999999994,
-    "releaseDate" : 749692800,
-    "title" : "Find's raus mit Benjamin - Folge 12: Meer",
-    "upc" : "4033694542125"
+    "duration" : 4799.721,
+    "releaseDate" : -63114076800,
+    "title" : "Feier mit Törööö (Sonderedition)",
+    "upc" : "190295710927"
   },
   {
     "albumID" : "1069156880",
@@ -1856,12 +376,12 @@
     "upc" : "825646243228"
   },
   {
-    "albumID" : "1693883643",
+    "albumID" : "1038224754",
     "artist" : "Benjamin Blümchen",
-    "duration" : 1053.444,
-    "releaseDate" : 712800000,
-    "title" : "Klangreise durch Burg Eintracht (ASMR)",
-    "upc" : "5054197730832"
+    "duration" : 2436.041,
+    "releaseDate" : -63114076800,
+    "title" : "Benjamin Blümchen Liederzoo: 1x1 und ABC",
+    "upc" : "825646437689"
   },
   {
     "albumID" : "1069147314",
@@ -1872,36 +392,12 @@
     "upc" : "825646395026"
   },
   {
-    "albumID" : "1038384483",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2301.3049999999994,
-    "releaseDate" : -63114076800,
-    "title" : "Benjamin Blümchen Liederzoo: Winterlieder",
-    "upc" : "825646198078"
-  },
-  {
     "albumID" : "1069148038",
     "artist" : "Benjamin Blümchen",
     "duration" : 2301.0020000000004,
     "releaseDate" : -63114076800,
     "title" : "Benjamin Blümchen Liederzoo: My Name is Benjamin",
     "upc" : "825646107698"
-  },
-  {
-    "albumID" : "1038224754",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2436.041,
-    "releaseDate" : -63114076800,
-    "title" : "Benjamin Blümchen Liederzoo: 1x1 und ABC",
-    "upc" : "825646437689"
-  },
-  {
-    "albumID" : "550924506",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 3072.5859999999993,
-    "releaseDate" : 366854400,
-    "title" : "Törööö im Zoo - Soundtrack zur Live-Show",
-    "upc" : "825646558995"
   },
   {
     "albumID" : "550922630",
@@ -1912,52 +408,12 @@
     "upc" : "825646558957"
   },
   {
-    "albumID" : "1730719217",
+    "albumID" : "1038090746",
     "artist" : "Benjamin Blümchen",
-    "duration" : 115.44,
-    "releaseDate" : 730339200,
-    "title" : "Ich bin so froh bei uns im Zoo! - Single",
-    "upc" : "5054197991486"
-  },
-  {
-    "albumID" : "1775713009",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 226.639,
-    "releaseDate" : 753926400,
-    "title" : "Folge 161: zurück zur Leuchtturminsel",
-    "upc" : "4033694555613"
-  },
-  {
-    "albumID" : "1659079965",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2193.583,
-    "releaseDate" : -307843200,
-    "title" : "Folge 67: Meine schönsten Lieder",
-    "upc" : "190296506239"
-  },
-  {
-    "albumID" : "1069067188",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2348.92,
+    "duration" : 2260.001,
     "releaseDate" : -63114076800,
-    "title" : "Folge 71 - Benjamin Blümchen: Alle meine Freunde",
-    "upc" : "825646393503"
-  },
-  {
-    "albumID" : "1038194589",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2266.001,
-    "releaseDate" : -63114076800,
-    "title" : "Benjamin Blümchen Liederzoo: Friede, Freude, Eierkuchen",
-    "upc" : "825646437696"
-  },
-  {
-    "albumID" : "1069068873",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2191.7210000000005,
-    "releaseDate" : -63114076800,
-    "title" : "Benjamin Blümchen Liederzoo: Laterne, Sonne, Mond und Sterne",
-    "upc" : "825646107766"
+    "title" : "Benjamin Blümchen Liederzoo: Bunte Ostereier",
+    "upc" : "825646295685"
   },
   {
     "albumID" : "1038116658",
@@ -1968,12 +424,28 @@
     "upc" : "825646295647"
   },
   {
-    "albumID" : "1069056512",
+    "albumID" : "1069065911",
     "artist" : "Benjamin Blümchen",
-    "duration" : 2240.9990000000003,
+    "duration" : 2303.506,
     "releaseDate" : -63114076800,
-    "title" : "Benjamin Blümchen Liederzoo: Lieder zum Gesundwerden",
-    "upc" : "825646107742"
+    "title" : "Benjamin Blümchen Liederzoo: Alle meine Abenteuer",
+    "upc" : "825646107858"
+  },
+  {
+    "albumID" : "1038384483",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2301.3049999999994,
+    "releaseDate" : -63114076800,
+    "title" : "Benjamin Blümchen Liederzoo: Winterlieder",
+    "upc" : "825646198078"
+  },
+  {
+    "albumID" : "1069067188",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2348.92,
+    "releaseDate" : -63114076800,
+    "title" : "Folge 71 - Benjamin Blümchen: Alle meine Freunde",
+    "upc" : "825646393503"
   },
   {
     "albumID" : "1069078017",
@@ -1984,20 +456,20 @@
     "upc" : "825646107872"
   },
   {
-    "albumID" : "1038090746",
+    "albumID" : "1069068873",
     "artist" : "Benjamin Blümchen",
-    "duration" : 2260.001,
+    "duration" : 2191.7210000000005,
     "releaseDate" : -63114076800,
-    "title" : "Benjamin Blümchen Liederzoo: Bunte Ostereier",
-    "upc" : "825646295685"
+    "title" : "Benjamin Blümchen Liederzoo: Laterne, Sonne, Mond und Sterne",
+    "upc" : "825646107766"
   },
   {
-    "albumID" : "1069065911",
+    "albumID" : "1038233817",
     "artist" : "Benjamin Blümchen",
-    "duration" : 2303.506,
+    "duration" : 2235.492,
     "releaseDate" : -63114076800,
-    "title" : "Benjamin Blümchen Liederzoo: Alle meine Abenteuer",
-    "upc" : "825646107858"
+    "title" : "Benjamin Blümchen Liederzoo: Lustige Ferienlieder",
+    "upc" : "825646243181"
   },
   {
     "albumID" : "1038104043",
@@ -2016,20 +488,20 @@
     "upc" : "825646107797"
   },
   {
-    "albumID" : "1038232073",
+    "albumID" : "1069056512",
     "artist" : "Benjamin Blümchen",
-    "duration" : 2160.2400000000002,
+    "duration" : 2240.9990000000003,
     "releaseDate" : -63114076800,
-    "title" : "Benjamin Blümchen Liederzoo: Heut' feiern wir",
-    "upc" : "825646243150"
+    "title" : "Benjamin Blümchen Liederzoo: Lieder zum Gesundwerden",
+    "upc" : "825646107742"
   },
   {
-    "albumID" : "1773414399",
+    "albumID" : "1038194589",
     "artist" : "Benjamin Blümchen",
-    "duration" : 968.6229999999999,
-    "releaseDate" : 751507200,
-    "title" : "Benjamin Blümchen singt Weihnachtslieder - EP",
-    "upc" : "4001504258191"
+    "duration" : 2266.001,
+    "releaseDate" : -63114076800,
+    "title" : "Benjamin Blümchen Liederzoo: Friede, Freude, Eierkuchen",
+    "upc" : "825646437696"
   },
   {
     "albumID" : "1069076784",
@@ -2040,28 +512,12 @@
     "upc" : "825646107841"
   },
   {
-    "albumID" : "1659907928",
+    "albumID" : "1038232073",
     "artist" : "Benjamin Blümchen",
-    "duration" : 2194.702,
-    "releaseDate" : -119491200,
-    "title" : "Benjamin Blümchen Liederzoo: Geburtstagsparty",
-    "upc" : "190296506208"
-  },
-  {
-    "albumID" : "1038233817",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2235.492,
+    "duration" : 2160.2400000000002,
     "releaseDate" : -63114076800,
-    "title" : "Benjamin Blümchen Liederzoo: Lustige Ferienlieder",
-    "upc" : "825646243181"
-  },
-  {
-    "albumID" : "1038145715",
-    "artist" : "Benjamin Blümchen",
-    "duration" : 2379.667,
-    "releaseDate" : -63114076800,
-    "title" : "Benjamin Blümchen Liederzoo: Alle meine Tiere",
-    "upc" : "825646295708"
+    "title" : "Benjamin Blümchen Liederzoo: Heut' feiern wir",
+    "upc" : "825646243150"
   },
   {
     "albumID" : "1069234728",
@@ -2072,12 +528,12 @@
     "upc" : "825646107773"
   },
   {
-    "albumID" : "1757728108",
+    "albumID" : "1038145715",
     "artist" : "Benjamin Blümchen",
-    "duration" : 2083.378,
-    "releaseDate" : 744854400,
-    "title" : "Find's raus mit Benjamin: Das Liederalbum",
-    "upc" : "4033694258187"
+    "duration" : 2379.667,
+    "releaseDate" : -63114076800,
+    "title" : "Benjamin Blümchen Liederzoo: Alle meine Tiere",
+    "upc" : "825646295708"
   },
   {
     "albumID" : "1069054569",
@@ -2088,12 +544,268 @@
     "upc" : "825646107889"
   },
   {
-    "albumID" : "1658887362",
+    "albumID" : "1139339828",
     "artist" : "Benjamin Blümchen",
-    "duration" : 2549.861,
-    "releaseDate" : -9072000,
-    "title" : "Benjamin Blümchen Liederzoo: Schokolade, Zuckerstückchen ...",
-    "upc" : "190296506147"
+    "duration" : 2510.177,
+    "releaseDate" : -757382400,
+    "title" : "Folge 1: als Wetterelefant",
+    "upc" : "190295928582"
+  },
+  {
+    "albumID" : "1139324907",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2394.9640000000004,
+    "releaseDate" : -757382400,
+    "title" : "Folge 2: rettet den Zoo",
+    "upc" : "190295928124"
+  },
+  {
+    "albumID" : "1139325848",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2167.5179999999996,
+    "releaseDate" : -694310400,
+    "title" : "Folge 3: Kampf dem Lärm",
+    "upc" : "190295928087"
+  },
+  {
+    "albumID" : "1139315660",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2239.0749999999994,
+    "releaseDate" : -662774400,
+    "title" : "Folge 6: und die Schule",
+    "upc" : "190295924522"
+  },
+  {
+    "albumID" : "1139324906",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2285.2650000000003,
+    "releaseDate" : -599616000,
+    "title" : "Folge 21: als Weihnachtsmann",
+    "upc" : "190295926021"
+  },
+  {
+    "albumID" : "1139316720",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2032.566,
+    "releaseDate" : -568080000,
+    "title" : "Folge 26: als Bademeister",
+    "upc" : "190295925772"
+  },
+  {
+    "albumID" : "1188821175",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2287.8389999999995,
+    "releaseDate" : -568080000,
+    "title" : "Folge 133: auf dem Flughafen",
+    "upc" : "190295854850"
+  },
+  {
+    "albumID" : "1452617430",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2956.1180000000004,
+    "releaseDate" : -568080000,
+    "title" : "Folge 142: Das besondere Osterei",
+    "upc" : "190295473075"
+  },
+  {
+    "albumID" : "1139315979",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2049.227,
+    "releaseDate" : -568080000,
+    "title" : "Folge 30: als Pilot",
+    "upc" : "190295925604"
+  },
+  {
+    "albumID" : "1516873915",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2767.3660000000004,
+    "releaseDate" : -568080000,
+    "title" : "Folge 145: Zurück auf dem Bauernhof",
+    "upc" : "190295197889"
+  },
+  {
+    "albumID" : "1139321781",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2144.6760000000004,
+    "releaseDate" : -568080000,
+    "title" : "Folge 27: auf dem Bauernhof",
+    "upc" : "190295925680"
+  },
+  {
+    "albumID" : "1139323683",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2394.01,
+    "releaseDate" : -568080000,
+    "title" : "Folge 28: rettet den Kindergarten",
+    "upc" : "190295925659"
+  },
+  {
+    "albumID" : "1139318351",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2355.986999999999,
+    "releaseDate" : -568080000,
+    "title" : "Folge 29: auf dem Rummel",
+    "upc" : "190295925635"
+  },
+  {
+    "albumID" : "1139314146",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2122.2129999999997,
+    "releaseDate" : -568080000,
+    "title" : "Folge 33: Das Osterfest",
+    "upc" : "190295925574"
+  },
+  {
+    "albumID" : "1139315452",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2398.7699999999995,
+    "releaseDate" : -536544000,
+    "title" : "Folge 39: kauft ein",
+    "upc" : "190295925178"
+  },
+  {
+    "albumID" : "1139322758",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2620.8639999999996,
+    "releaseDate" : -536544000,
+    "title" : "Folge 38: Der Zoo zieht um",
+    "upc" : "190295925192"
+  },
+  {
+    "albumID" : "1139321890",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2600.5090000000005,
+    "releaseDate" : -536544000,
+    "title" : "Folge 36: wird verhext",
+    "upc" : "190295925215"
+  },
+  {
+    "albumID" : "1139319947",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2393.9539999999997,
+    "releaseDate" : -536544000,
+    "title" : "Folge 37: Der Gorilla ist weg",
+    "upc" : "190295925208"
+  },
+  {
+    "albumID" : "1139314439",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2706.7950000000005,
+    "releaseDate" : -504921600,
+    "title" : "Folge 44: als Bäcker",
+    "upc" : "190295923983"
+  },
+  {
+    "albumID" : "1139312128",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2621.640000000001,
+    "releaseDate" : -504921600,
+    "title" : "Folge 47: als Gärtner",
+    "upc" : "190295923945"
+  },
+  {
+    "albumID" : "1139313338",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2514.852,
+    "releaseDate" : -504921600,
+    "title" : "Folge 43: und die Autorallye",
+    "upc" : "190295924065"
+  },
+  {
+    "albumID" : "1139318036",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 3077.9289999999996,
+    "releaseDate" : -504921600,
+    "title" : "Folge 41: als Pirat",
+    "upc" : "190295924829"
+  },
+  {
+    "albumID" : "1139316756",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 3134.004,
+    "releaseDate" : -504921600,
+    "title" : "Folge 40: zieht aus",
+    "upc" : "190295924997"
+  },
+  {
+    "albumID" : "1139319156",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2504.5849999999996,
+    "releaseDate" : -504921600,
+    "title" : "Folge 42: als Ritter",
+    "upc" : "190295924690"
+  },
+  {
+    "albumID" : "1139310504",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2485.7450000000003,
+    "releaseDate" : -504921600,
+    "title" : "Folge 46: hilft den Tieren",
+    "upc" : "190295923952"
+  },
+  {
+    "albumID" : "1139314098",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2175.6229999999996,
+    "releaseDate" : -504921600,
+    "title" : "Folge 45: als Zirkusclown",
+    "upc" : "190295923969"
+  },
+  {
+    "albumID" : "1139309320",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2675.892,
+    "releaseDate" : -473385600,
+    "title" : "Folge 52: Der Weihnachtstraum",
+    "upc" : "190295923211"
+  },
+  {
+    "albumID" : "1139310398",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2244.5050000000006,
+    "releaseDate" : -473385600,
+    "title" : "Folge 49: als Müllmann",
+    "upc" : "190295923525"
+  },
+  {
+    "albumID" : "1139281189",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2875.2709999999997,
+    "releaseDate" : -473385600,
+    "title" : "Folge 51: Der Weihnachtsabend",
+    "upc" : "190295920067"
+  },
+  {
+    "albumID" : "1139310509",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2824.04,
+    "releaseDate" : -473385600,
+    "title" : "Folge 50: als Sheriff",
+    "upc" : "190295923464"
+  },
+  {
+    "albumID" : "1139297268",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2800.3219999999997,
+    "releaseDate" : -473385600,
+    "title" : "Folge 48: kriegt ein Geschenk",
+    "upc" : "190295923938"
+  },
+  {
+    "albumID" : "1659079965",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2193.583,
+    "releaseDate" : -307843200,
+    "title" : "Folge 67: Meine schönsten Lieder",
+    "upc" : "190296506239"
+  },
+  {
+    "albumID" : "1139284423",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2501.8730000000005,
+    "releaseDate" : -220924800,
+    "title" : "Folge 77: und die Eisprinzessin",
+    "upc" : "190295919351"
   },
   {
     "albumID" : "1658875916",
@@ -2104,11 +816,1299 @@
     "upc" : "190296511141"
   },
   {
+    "albumID" : "1139310787",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2569.518000000001,
+    "releaseDate" : -157852800,
+    "title" : "Folge 83: als Gespenst",
+    "upc" : "190295921637"
+  },
+  {
+    "albumID" : "1659907928",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2194.702,
+    "releaseDate" : -119491200,
+    "title" : "Benjamin Blümchen Liederzoo: Geburtstagsparty",
+    "upc" : "190296506208"
+  },
+  {
+    "albumID" : "1658887362",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2549.861,
+    "releaseDate" : -9072000,
+    "title" : "Benjamin Blümchen Liederzoo: Schokolade, Zuckerstückchen ...",
+    "upc" : "190296506147"
+  },
+  {
     "albumID" : "1659079132",
     "artist" : "Benjamin Blümchen",
     "duration" : 2320.4019999999996,
     "releaseDate" : 55641600,
     "title" : "Benjamin Blümchen Liederzoo: Meine schönsten Filmlieder",
     "upc" : "190296506154"
+  },
+  {
+    "albumID" : "1139298440",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2421.258,
+    "releaseDate" : 63072000,
+    "title" : "Folge 97: Die Gespensterkinder",
+    "upc" : "190295921705"
+  },
+  {
+    "albumID" : "1287160158",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2783.967,
+    "releaseDate" : 189302400,
+    "title" : "Gute Nacht Geschichten - Folge 8: Die kleine freche Sternschnuppe",
+    "upc" : "190295731502"
+  },
+  {
+    "albumID" : "1139305431",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2847.7419999999997,
+    "releaseDate" : 196905600,
+    "title" : "Folge 103: 5:0 für Benjamin",
+    "upc" : "190295921590"
+  },
+  {
+    "albumID" : "1139284022",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 3269.934,
+    "releaseDate" : 196905600,
+    "title" : "Folge 100: Ottos neue Freundin - Teil 1",
+    "upc" : "190295919641"
+  },
+  {
+    "albumID" : "1139304559",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2665.016000000001,
+    "releaseDate" : 196905600,
+    "title" : "Folge 104: Die Zoo-Olympiade",
+    "upc" : "190295921569"
+  },
+  {
+    "albumID" : "1139302678",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2806.580999999999,
+    "releaseDate" : 196905600,
+    "title" : "Folge 101: Ottos neue Freundin - Teil 2",
+    "upc" : "190295921644"
+  },
+  {
+    "albumID" : "1139303547",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2523.441999999999,
+    "releaseDate" : 196905600,
+    "title" : "Folge 105: Das fleißige Faultier",
+    "upc" : "190295921514"
+  },
+  {
+    "albumID" : "1139307236",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2330.7039999999997,
+    "releaseDate" : 196905600,
+    "title" : "Folge 102: Das Pinguin-Ei",
+    "upc" : "190295921620"
+  },
+  {
+    "albumID" : "1139308521",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2292.422,
+    "releaseDate" : 196905600,
+    "title" : "Folge 78: und der kleine Hund",
+    "upc" : "190295922214"
+  },
+  {
+    "albumID" : "1139316753",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2036.617,
+    "releaseDate" : 199324800,
+    "title" : "Folge 19: als Fußballstar",
+    "upc" : "190295926069"
+  },
+  {
+    "albumID" : "1139322666",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2125.313,
+    "releaseDate" : 199324800,
+    "title" : "Folge 22: als Kinderarzt",
+    "upc" : "190295926014"
+  },
+  {
+    "albumID" : "1139319951",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 1999.8859999999997,
+    "releaseDate" : 199324800,
+    "title" : "Folge 8: auf dem Baum",
+    "upc" : "190295926755"
+  },
+  {
+    "albumID" : "1139321783",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2300.0969999999993,
+    "releaseDate" : 199324800,
+    "title" : "Folge 5: auf hoher See",
+    "upc" : "190295926908"
+  },
+  {
+    "albumID" : "1139304556",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2687.97,
+    "releaseDate" : 199324800,
+    "title" : "Folge 61: Otto ist krank",
+    "upc" : "190295922337"
+  },
+  {
+    "albumID" : "1600089834",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 4628.231000000002,
+    "releaseDate" : 199324800,
+    "title" : "Folge 150: auf Weltreise",
+    "upc" : "190296307478"
+  },
+  {
+    "albumID" : "1139294473",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2488.7140000000004,
+    "releaseDate" : 199324800,
+    "title" : "Folge 70: und Bibi in Indien",
+    "upc" : "190295922689"
+  },
+  {
+    "albumID" : "1139279409",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2449.23,
+    "releaseDate" : 199324800,
+    "title" : "Folge 68: als Taxifahrer",
+    "upc" : "190295919597"
+  },
+  {
+    "albumID" : "1139319157",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2349.118,
+    "releaseDate" : 199324800,
+    "title" : "Folge 7: verliebt sich",
+    "upc" : "190295926762"
+  },
+  {
+    "albumID" : "1139324483",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2179.8559999999998,
+    "releaseDate" : 199324800,
+    "title" : "Folge 4: in Afrika",
+    "upc" : "190295927967"
+  },
+  {
+    "albumID" : "1139318143",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2253.949,
+    "releaseDate" : 199324800,
+    "title" : "Folge 10: und das Schloss",
+    "upc" : "190295926410"
+  },
+  {
+    "albumID" : "1139331066",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2391.092,
+    "releaseDate" : 199324800,
+    "title" : "Folge 9: hat Geburtstag",
+    "upc" : "190295926496"
+  },
+  {
+    "albumID" : "1139303608",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2642.5560000000005,
+    "releaseDate" : 199324800,
+    "title" : "Folge 62: in der Steinzeit",
+    "upc" : "190295922313"
+  },
+  {
+    "albumID" : "1139273918",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2540.961,
+    "releaseDate" : 199324800,
+    "title" : "Folge 73: und der Weihnachtsmann",
+    "upc" : "190295919290"
+  },
+  {
+    "albumID" : "1139307785",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2747.018,
+    "releaseDate" : 199324800,
+    "title" : "Folge 63: Der Computer",
+    "upc" : "190295922238"
+  },
+  {
+    "albumID" : "1139311779",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2420.18,
+    "releaseDate" : 199324800,
+    "title" : "Folge 64: als Butler",
+    "upc" : "190295922207"
+  },
+  {
+    "albumID" : "1139278523",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2147.157,
+    "releaseDate" : 199324800,
+    "title" : "Folge 66: als Ballonfahrer",
+    "upc" : "190295919726"
+  },
+  {
+    "albumID" : "1139295167",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2508.2400000000002,
+    "releaseDate" : 199324800,
+    "title" : "Folge 69: als Zoodirektor",
+    "upc" : "190295922672"
+  },
+  {
+    "albumID" : "1139297270",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2415.7900000000004,
+    "releaseDate" : 199324800,
+    "title" : "Folge 75: Der geheimnisvolle Brief",
+    "upc" : "190295922665"
+  },
+  {
+    "albumID" : "1139308993",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2653.4619999999995,
+    "releaseDate" : 199324800,
+    "title" : "Folge 65: Wo ist Otto?",
+    "upc" : "190295922153"
+  },
+  {
+    "albumID" : "1139273172",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2683.9049999999993,
+    "releaseDate" : 199324800,
+    "title" : "Folge 72: und Bino",
+    "upc" : "190295919276"
+  },
+  {
+    "albumID" : "1038159013",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 3889.1690000000003,
+    "releaseDate" : 202953600,
+    "title" : "Benjamin Blümchen Gute-Nacht-Geschichten - Folge 6: 24 Weihnachts-Geschichten",
+    "upc" : "825646198108"
+  },
+  {
+    "albumID" : "1458126368",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2914.776,
+    "releaseDate" : 203040000,
+    "title" : "Gute Nacht Geschichten - Folge 25: Der verschwundene Stern",
+    "upc" : "190295443184"
+  },
+  {
+    "albumID" : "1139306805",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2706.1630000000005,
+    "releaseDate" : 207187200,
+    "title" : "Folge 106: Das Spaghetti-Eis-Fest",
+    "upc" : "190295921491"
+  },
+  {
+    "albumID" : "1458351833",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2995.651999999999,
+    "releaseDate" : 210470400,
+    "title" : "Gute-Nacht-Geschichten - Folge 9: Fußballspaß im Zoo",
+    "upc" : "190295446697"
+  },
+  {
+    "albumID" : "1458751755",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2843.6879999999996,
+    "releaseDate" : 210470400,
+    "title" : "Gute-Nacht-Geschichten - Folge 7: A,B,C-Geschichten / 1,2,3-Geschichten",
+    "upc" : "190295446703"
+  },
+  {
+    "albumID" : "1458122758",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 3042.0929999999994,
+    "releaseDate" : 210470400,
+    "title" : "Gute Nacht Geschichten - Folge 10: Das Schoko-Fest beim Tortenkönig",
+    "upc" : "190295444730"
+  },
+  {
+    "albumID" : "1458353358",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2391.7360000000003,
+    "releaseDate" : 210470400,
+    "title" : "Gute-Nacht-Geschichten - Folge 4: Benjamin und die Glühwürmchen",
+    "upc" : "190295447618"
+  },
+  {
+    "albumID" : "1458353140",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2389.3130000000006,
+    "releaseDate" : 210470400,
+    "title" : "Gute-Nacht-Geschichten - Folge 2: Die Rauschemuschel",
+    "upc" : "190295448066"
+  },
+  {
+    "albumID" : "1458352781",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2387.283,
+    "releaseDate" : 210470400,
+    "title" : "Gute-Nacht-Geschichten - Folge 1: Wo ist Winnie Waschbär?",
+    "upc" : "190295668549"
+  },
+  {
+    "albumID" : "1458351842",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2102.674,
+    "releaseDate" : 210470400,
+    "title" : "Gute-Nacht-Geschichten - Folge 5: Kuscheln mit dem Osterhasen",
+    "upc" : "190295447519"
+  },
+  {
+    "albumID" : "1458352461",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2394.2290000000003,
+    "releaseDate" : 210470400,
+    "title" : "Gute-Nacht-Geschichten - Folge 3: Wüstenfüchse fliegen nicht",
+    "upc" : "190295447984"
+  },
+  {
+    "albumID" : "1139298464",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2845.2509999999993,
+    "releaseDate" : 213840000,
+    "title" : "Folge 107: in Schottland",
+    "upc" : "190295921422"
+  },
+  {
+    "albumID" : "1287160617",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2782.2230000000004,
+    "releaseDate" : 220838400,
+    "title" : "Gute Nacht Geschichten - Folge 11: Badespaß im Zoo",
+    "upc" : "190295731441"
+  },
+  {
+    "albumID" : "1139288325",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2506.9919999999997,
+    "releaseDate" : 221097600,
+    "title" : "Folge 108: Ottos kleines Geheimnis",
+    "upc" : "190295921378"
+  },
+  {
+    "albumID" : "1139294923",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2431.17,
+    "releaseDate" : 242265600,
+    "title" : "Folge 109: als Baggerfahrer",
+    "upc" : "190295920906"
+  },
+  {
+    "albumID" : "1139297299",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2670.497,
+    "releaseDate" : 248918400,
+    "title" : "Folge 110: Hilfe für das Pandababy",
+    "upc" : "190295920838"
+  },
+  {
+    "albumID" : "1139325781",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2036.6460000000002,
+    "releaseDate" : 252460800,
+    "title" : "Folge 23: als Koch",
+    "upc" : "190295925826"
+  },
+  {
+    "albumID" : "1139319161",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2234.6350000000007,
+    "releaseDate" : 252460800,
+    "title" : "Folge 25: auf Kreuzfahrt",
+    "upc" : "190295925765"
+  },
+  {
+    "albumID" : "1139315074",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2190.752,
+    "releaseDate" : 252460800,
+    "title" : "Folge 31: als Feuerwehrmann",
+    "upc" : "190295925598"
+  },
+  {
+    "albumID" : "1139323715",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2637.2349999999997,
+    "releaseDate" : 252460800,
+    "title" : "Folge 34: als Lokomotivführer",
+    "upc" : "190295925567"
+  },
+  {
+    "albumID" : "1139321141",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2624.631,
+    "releaseDate" : 252460800,
+    "title" : "Folge 24: als Detektiv",
+    "upc" : "190295925796"
+  },
+  {
+    "albumID" : "1139313783",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2111.2589999999996,
+    "releaseDate" : 252460800,
+    "title" : "Folge 32: Die Verkehrsschule",
+    "upc" : "190295925581"
+  },
+  {
+    "albumID" : "1139320777",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2752.7909999999997,
+    "releaseDate" : 252460800,
+    "title" : "Folge 35: hat Zahnweh",
+    "upc" : "190295925512"
+  },
+  {
+    "albumID" : "1139296027",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2571.3280000000004,
+    "releaseDate" : 253152000,
+    "title" : "Folge 111: Sei nicht traurig, Benjamin!",
+    "upc" : "190295920753"
+  },
+  {
+    "albumID" : "1139285870",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2462.7239999999997,
+    "releaseDate" : 264038400,
+    "title" : "Folge 112: Die Elefantenkönigin",
+    "upc" : "190295920715"
+  },
+  {
+    "albumID" : "1458355969",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2922.7299999999996,
+    "releaseDate" : 273715200,
+    "title" : "Gute-Nacht-Geschichten - Folge 12: Frühling, Sommer, Herbst und Winter",
+    "upc" : "190295443542"
+  },
+  {
+    "albumID" : "1287204519",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2985.2669999999994,
+    "releaseDate" : 283996800,
+    "title" : "Gute Nacht Geschichten - Folge 13: Die Traumfee-Königin Karolila",
+    "upc" : "190295731236"
+  },
+  {
+    "albumID" : "1139280754",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2658.5049999999997,
+    "releaseDate" : 284601600,
+    "title" : "Folge 113: Der Abenteuer-Spielplatz",
+    "upc" : "190295920340"
+  },
+  {
+    "albumID" : "1069063539",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2802.429,
+    "releaseDate" : 305769600,
+    "title" : "Benjamin Blümchen Gute-Nacht-Geschichten - Folge 13: Die Traumfeekönigin Karolila",
+    "upc" : "825646113033"
+  },
+  {
+    "albumID" : "1139290136",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2261.3499999999995,
+    "releaseDate" : 308188800,
+    "title" : "Folge 115: Die kleinen Kätzchen",
+    "upc" : "190295920272"
+  },
+  {
+    "albumID" : "1139287734",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2473.4219999999996,
+    "releaseDate" : 316051200,
+    "title" : "Folge 116: und die Spaßmaschine",
+    "upc" : "190295920241"
+  },
+  {
+    "albumID" : "1139279385",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2124.533,
+    "releaseDate" : 319680000,
+    "title" : "Folge 114: und der Delfin",
+    "upc" : "190295920319"
+  },
+  {
+    "albumID" : "1139289170",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2475.0750000000003,
+    "releaseDate" : 328752000,
+    "title" : "Folge 117: Die Zoo-Schwimmschule",
+    "upc" : "190295920234"
+  },
+  {
+    "albumID" : "1458122474",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2801.344,
+    "releaseDate" : 336614400,
+    "title" : "Gute Nacht Geschichten - Folge 14: Im Traumland",
+    "upc" : "190295443474"
+  },
+  {
+    "albumID" : "1139276803",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2462.3819999999996,
+    "releaseDate" : 339638400,
+    "title" : "Folge 118: auf der Baustelle",
+    "upc" : "190295920203"
+  },
+  {
+    "albumID" : "1139282141",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2474.6330000000007,
+    "releaseDate" : 347068800,
+    "title" : "Folge 122: als Polizist",
+    "upc" : "190295919702"
+  },
+  {
+    "albumID" : "1139282587",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2419.6920000000005,
+    "releaseDate" : 347500800,
+    "title" : "Folge 119: als Busfahrer",
+    "upc" : "190295920104"
+  },
+  {
+    "albumID" : "1458376002",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2910.7490000000007,
+    "releaseDate" : 352944000,
+    "title" : "Gute-Nacht-Geschichten - Folge 15: Die Märchennacht im Zoo",
+    "upc" : "190295443047"
+  },
+  {
+    "albumID" : "1139280178",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2252.536,
+    "releaseDate" : 360806400,
+    "title" : "Folge 120: Der Zeltausflug",
+    "upc" : "190295920074"
+  },
+  {
+    "albumID" : "550924506",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 3072.5859999999993,
+    "releaseDate" : 366854400,
+    "title" : "Törööö im Zoo - Soundtrack zur Live-Show",
+    "upc" : "825646558995"
+  },
+  {
+    "albumID" : "1458376501",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2751.621,
+    "releaseDate" : 368668800,
+    "title" : "Gute-Nacht-Geschichten - Folge 16: Meine liebsten Kuscheltiere",
+    "upc" : "190295442927"
+  },
+  {
+    "albumID" : "1139277543",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2221.042,
+    "releaseDate" : 371692800,
+    "title" : "Folge 121: Die Fahrrad-Wette",
+    "upc" : "190295919740"
+  },
+  {
+    "albumID" : "1287159375",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2873.8770000000004,
+    "releaseDate" : 378691200,
+    "title" : "Gute Nacht Geschichten - Folge 17: Mondgeschichten",
+    "upc" : "190295730864"
+  },
+  {
+    "albumID" : "1069147252",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2375.8540000000003,
+    "releaseDate" : 388022400,
+    "title" : "Englisch lernen mit Benjamin Blümchen",
+    "upc" : "825646295746"
+  },
+  {
+    "albumID" : "1139278195",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2530.818,
+    "releaseDate" : 392256000,
+    "title" : "Folge 123: in der Spielzeugfabrik",
+    "upc" : "190295919696"
+  },
+  {
+    "albumID" : "1139283161",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2712.8689999999992,
+    "releaseDate" : 403142400,
+    "title" : "Folge 124: im Tante-Emma-Laden",
+    "upc" : "190295920098"
+  },
+  {
+    "albumID" : "1458123123",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 3003.3819999999996,
+    "releaseDate" : 405561600,
+    "title" : "Gute-Nacht-Geschichten - Folge 18: Die Pyjama-Party",
+    "upc" : "190295442477"
+  },
+  {
+    "albumID" : "1139284815",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2649.4719999999998,
+    "releaseDate" : 411004800,
+    "title" : "Folge 125: und die Zirkusponys",
+    "upc" : "190295920111"
+  },
+  {
+    "albumID" : "1038125745",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 6359.296,
+    "releaseDate" : 417657600,
+    "title" : "Osterbundle",
+    "upc" : "825646296606"
+  },
+  {
+    "albumID" : "1139286301",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2618.838999999999,
+    "releaseDate" : 423705600,
+    "title" : "Folge 126: Der Zoo-Kindergarten",
+    "upc" : "190295920227"
+  },
+  {
+    "albumID" : "1069209647",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 4843.651999999999,
+    "releaseDate" : 425520000,
+    "title" : "Handwerker Box (Benjamin Blümchen als Baggerfahrer & Benjamin Blümchen auf der Baustelle)",
+    "upc" : "825646243310"
+  },
+  {
+    "albumID" : "1069064094",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 7704.652,
+    "releaseDate" : 425520000,
+    "title" : "Gute Besserung (Benjamin Blümchen als Tierarzt & Otto ist krank & Benjamin Blümchen im Krankenhaus)",
+    "upc" : "825646243471"
+  },
+  {
+    "albumID" : "1069140873",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 4696.662,
+    "releaseDate" : 429753600,
+    "title" : "Natur Bundle (Benjamin Blümchen auf dem Bauernhof & Benjamin Blümchen als Förster)",
+    "upc" : "825646243457"
+  },
+  {
+    "albumID" : "1458350733",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2938.0789999999997,
+    "releaseDate" : 431568000,
+    "title" : "Gute-Nacht-Geschichten - Folge 19: Tiere der Nacht",
+    "upc" : "190295442415"
+  },
+  {
+    "albumID" : "1069164486",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 4775.705,
+    "releaseDate" : 432777600,
+    "title" : "Urlaubsspaß mit Benjamin Blümchen (inkl. dem Lied \"Benjamin, der Bademeister\")",
+    "upc" : "825646221585"
+  },
+  {
+    "albumID" : "1139291079",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2738.3489999999997,
+    "releaseDate" : 434592000,
+    "title" : "Folge 127: in der Musikschule",
+    "upc" : "190295920265"
+  },
+  {
+    "albumID" : "1458350988",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2836.9860000000003,
+    "releaseDate" : 437011200,
+    "title" : "Gute-Nacht-Geschichten - Folge 20: Das schnarchende Krokodil",
+    "upc" : "190295443863"
+  },
+  {
+    "albumID" : "1139278525",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2522.116,
+    "releaseDate" : 442454400,
+    "title" : "Folge 128: und die Schnitzeljagd",
+    "upc" : "190295920630"
+  },
+  {
+    "albumID" : "1139280138",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2466.298999999999,
+    "releaseDate" : 452736000,
+    "title" : "Folge 129: Der Drachenflugtag",
+    "upc" : "190295920654"
+  },
+  {
+    "albumID" : "1458351055",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2891.301999999999,
+    "releaseDate" : 463017600,
+    "title" : "Gute-Nacht-Geschichten - Folge 21: Das fliegende Bett",
+    "upc" : "190295443764"
+  },
+  {
+    "albumID" : "1139286532",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2344.2360000000003,
+    "releaseDate" : 466041600,
+    "title" : "Folge 130: und der sprechende Papagei",
+    "upc" : "190295920685"
+  },
+  {
+    "albumID" : "1458351777",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2880.8369999999995,
+    "releaseDate" : 468460800,
+    "title" : "Gute-Nacht-Geschichten - Folge 22: Gute Nacht im Zoo",
+    "upc" : "190295443689"
+  },
+  {
+    "albumID" : "1139287818",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2530.802,
+    "releaseDate" : 474508800,
+    "title" : "Folge 131: auf großer Floßfahrt",
+    "upc" : "190295920746"
+  },
+  {
+    "albumID" : "1458355650",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2686.6130000000003,
+    "releaseDate" : 495072000,
+    "title" : "Gute-Nacht-Geschichten - Folge 23: Kleine Helden",
+    "upc" : "190295443344"
+  },
+  {
+    "albumID" : "1166647154",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2414.8709999999996,
+    "releaseDate" : 499305600,
+    "title" : "Folge 132: Das Seifenkistenrennen",
+    "upc" : "190295882150"
+  },
+  {
+    "albumID" : "1458349480",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2821.629,
+    "releaseDate" : 500515200,
+    "title" : "Gute-Nacht-Geschichten - Folge 24: Der Traumwichtel",
+    "upc" : "190295443245"
+  },
+  {
+    "albumID" : "1210046426",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2616.991,
+    "releaseDate" : 510796800,
+    "title" : "Folge 135: Die Zoo-Feuerwehr",
+    "upc" : "190295833077"
+  },
+  {
+    "albumID" : "1210044516",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2434.3740000000003,
+    "releaseDate" : 510796800,
+    "title" : "Folge 134: Abschied von Stella",
+    "upc" : "190295831974"
+  },
+  {
+    "albumID" : "1276230718",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2694.919,
+    "releaseDate" : 526521600,
+    "title" : "Folge 136: Spuk im Zoo",
+    "upc" : "190295747626"
+  },
+  {
+    "albumID" : "1293269857",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2867.772,
+    "releaseDate" : 529545600,
+    "title" : "Gute Nacht Geschichten - Folge 26: Im Schneckentempo",
+    "upc" : "190295723620"
+  },
+  {
+    "albumID" : "1295862622",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 3861.1800000000003,
+    "releaseDate" : 531964800,
+    "title" : "Folge 137: Ein Törööö für alle Fälle",
+    "upc" : "190295720445"
+  },
+  {
+    "albumID" : "1333181294",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2728.381,
+    "releaseDate" : 538617600,
+    "title" : "Gute Nacht Geschichten - Folge 27: Krümel, der freche Hamster",
+    "upc" : "190295684099"
+  },
+  {
+    "albumID" : "1352376032",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2590.5450000000005,
+    "releaseDate" : 542246400,
+    "title" : "Folge 138: Das neue Müllauto",
+    "upc" : "190295659516"
+  },
+  {
+    "albumID" : "1384719771",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2583.7930000000006,
+    "releaseDate" : 548899200,
+    "title" : "Folge 139: Der Dinosaurierknochen",
+    "upc" : "190295642990"
+  },
+  {
+    "albumID" : "1439332340",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2988.11,
+    "releaseDate" : 562204800,
+    "title" : "Gute Nacht Geschichten - Folge 28: Der Winterschlaf-Teddy",
+    "upc" : "190295536084"
+  },
+  {
+    "albumID" : "1440619281",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2629.0740000000005,
+    "releaseDate" : 563414400,
+    "title" : "Folge 140: Weihnachtsmarkt im Zoo",
+    "upc" : "190295522643"
+  },
+  {
+    "albumID" : "1448692024",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2429.3669999999997,
+    "releaseDate" : 570067200,
+    "title" : "Folge 141: Nachts in der Erfinderwerkstatt",
+    "upc" : "190295502126"
+  },
+  {
+    "albumID" : "1453736603",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 7303.108,
+    "releaseDate" : 573696000,
+    "title" : "Folge 4, 92, 107: Unterwegs mit Benjamin",
+    "upc" : "190295460815"
+  },
+  {
+    "albumID" : "1465950082",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2769.956,
+    "releaseDate" : 582163200,
+    "title" : "Gute-Nacht-Geschichten - Folge 29: Im Kindergarten",
+    "upc" : "190295415815"
+  },
+  {
+    "albumID" : "1473615663",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2862.3979999999997,
+    "releaseDate" : 586396800,
+    "title" : "Find's raus mit Benjamin: Wetter",
+    "upc" : "190295378325"
+  },
+  {
+    "albumID" : "1473618222",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2846.610000000001,
+    "releaseDate" : 586396800,
+    "title" : "Find's raus mit Benjamin: Straßenverkehr",
+    "upc" : "190295378417"
+  },
+  {
+    "albumID" : "1480242592",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2660.731,
+    "releaseDate" : 592444800,
+    "title" : "Folge 143: Die Halloween-Nacht",
+    "upc" : "190295343002"
+  },
+  {
+    "albumID" : "1482644345",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2971.8429999999994,
+    "releaseDate" : 593654400,
+    "title" : "Folge 30: Viele kleine Schäfchenwolken / Die riesengroße Regenwolke / Die wirbelnde Schneeflocke / Das Wolkenkuckucksheim / Die schwarze Gewitterwolke / Eine dichte Nebelwolke / Rosarote Abendwolken / Ein wolkenloser Nachthimmel",
+    "upc" : "190295330774"
+  },
+  {
+    "albumID" : "1491490174",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2633.8399999999997,
+    "releaseDate" : 601516800,
+    "title" : "Folge 144: Der Zuckerstückchen-Express",
+    "upc" : "190295296841"
+  },
+  {
+    "albumID" : "1500615880",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 3039.5629999999996,
+    "releaseDate" : 606355200,
+    "title" : "Find's raus mit Benjamin: Baustelle",
+    "upc" : "190295257293"
+  },
+  {
+    "albumID" : "1524693160",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2965.0080000000007,
+    "releaseDate" : 618451200,
+    "title" : "Find's raus mit Benjamin: Wald",
+    "upc" : "190295174606"
+  },
+  {
+    "albumID" : "1527469485",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2562.632,
+    "releaseDate" : 620870400,
+    "title" : "Benjamin Minis - Folge 2: Keine Angst im Dunkeln",
+    "upc" : "190295172091"
+  },
+  {
+    "albumID" : "1525766721",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2585.426,
+    "releaseDate" : 620870400,
+    "title" : "Benjamin Minis - Folge 1: Hallo, Lea!",
+    "upc" : "190295172138"
+  },
+  {
+    "albumID" : "1531497163",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2746.465,
+    "releaseDate" : 623894400,
+    "title" : "Folge 146: als Wikinger",
+    "upc" : "190295139643"
+  },
+  {
+    "albumID" : "1536986439",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 3074.746,
+    "releaseDate" : 626313600,
+    "title" : "Gute-Nacht-Geschichten - Folge 31: Alle meine Tierkinder",
+    "upc" : "190295093341"
+  },
+  {
+    "albumID" : "1545480442",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2708.2680000000005,
+    "releaseDate" : 631756800,
+    "title" : "Folge 147: Schlittenfahrt mit Hindernissen",
+    "upc" : "190295047115"
+  },
+  {
+    "albumID" : "1548517341",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2798.191,
+    "releaseDate" : 632966400,
+    "title" : "Benjamin Minis - Folge 3: Das erste Fahrrad",
+    "upc" : "190295029487"
+  },
+  {
+    "albumID" : "1552276514",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 3375.4399999999996,
+    "releaseDate" : 636595200,
+    "title" : "Find‘s raus mit Benjamin: Feuerwehr",
+    "upc" : "190295003791"
+  },
+  {
+    "albumID" : "1561011338",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 3342.9419999999986,
+    "releaseDate" : 640828800,
+    "title" : "Folge 148: als Rettungselefant",
+    "upc" : "190296715389"
+  },
+  {
+    "albumID" : "1581446133",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2721.9439999999995,
+    "releaseDate" : 652924800,
+    "title" : "Gute-Nacht-Geschichten - Folge 32: Der Herbst ist da",
+    "upc" : "190296490552"
+  },
+  {
+    "albumID" : "1585665620",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2704.277,
+    "releaseDate" : 655344000,
+    "title" : "Folge 149: Auf der Tankstelle",
+    "upc" : "190296456169"
+  },
+  {
+    "albumID" : "1589450921",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 3343.664999999999,
+    "releaseDate" : 657763200,
+    "title" : "Find‘s raus mit Benjamin: Jahreszeiten",
+    "upc" : "190296410260"
+  },
+  {
+    "albumID" : "1607837220",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 1201.194,
+    "releaseDate" : 667440000,
+    "title" : "Klangreise Abendrunde im Zoo (ASMR)",
+    "upc" : "190296250545"
+  },
+  {
+    "albumID" : "1608387565",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2857.09,
+    "releaseDate" : 668044800,
+    "title" : "Benjamin Minis - Folge 4: Geburtstag im Zoo",
+    "upc" : "190296247514"
+  },
+  {
+    "albumID" : "1612139400",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2706.985,
+    "releaseDate" : 671068800,
+    "title" : "Folge 151: Das Elefantenkarussell",
+    "upc" : "190296198649"
+  },
+  {
+    "albumID" : "1619310248",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 3649.6560000000004,
+    "releaseDate" : 674697600,
+    "title" : "Find‘s raus mit Benjamin: Weltraum",
+    "upc" : "5054197150906"
+  },
+  {
+    "albumID" : "1631517975",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2652.4779999999996,
+    "releaseDate" : 678931200,
+    "title" : "Gute-Nacht-Geschichten - Folge 33: Im Reisefieber",
+    "upc" : "5054197222290"
+  },
+  {
+    "albumID" : "1640111589",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2937.5259999999994,
+    "releaseDate" : 685584000,
+    "title" : "Folge 152: Schatzsuche im Zoosee",
+    "upc" : "5054197297700"
+  },
+  {
+    "albumID" : "1652301632",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 8262.514000000001,
+    "releaseDate" : 689817600,
+    "title" : "Adventskalender: Das große Weihnachtssingen",
+    "upc" : "5054197427046"
+  },
+  {
+    "albumID" : "1651540450",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 3338.8559999999998,
+    "releaseDate" : 690422400,
+    "title" : "Find‘s raus mit Benjamin: Dinosaurier",
+    "upc" : "5054197405532"
+  },
+  {
+    "albumID" : "1654078228",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 1020.781,
+    "releaseDate" : 691027200,
+    "title" : "Klangreise in Benjamins Haus (ASMR)",
+    "upc" : "5054197400940"
+  },
+  {
+    "albumID" : "1656277614",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2746.428,
+    "releaseDate" : 695865600,
+    "title" : "Folge 153: Das große Gewitter",
+    "upc" : "5054197465949"
+  },
+  {
+    "albumID" : "1675326765",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 1157.355,
+    "releaseDate" : 700099200,
+    "title" : "Klangreise abends am Zoosee (ASMR)",
+    "upc" : "5054197525797"
+  },
+  {
+    "albumID" : "1668412000",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2996.391,
+    "releaseDate" : 703123200,
+    "title" : "Folge 154: in Italien",
+    "upc" : "5054197534041"
+  },
+  {
+    "albumID" : "1686577013",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 3300.6440000000002,
+    "releaseDate" : 706147200,
+    "title" : "Find‘s raus mit Benjamin: Müll",
+    "upc" : "5054197676468"
+  },
+  {
+    "albumID" : "1692770508",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2761.807,
+    "releaseDate" : 710380800,
+    "title" : "Gute-Nacht-Geschichten - Folge 34: Hilfe, ich kann nicht schlafen!",
+    "upc" : "5054197719844"
+  },
+  {
+    "albumID" : "1693883643",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 1053.444,
+    "releaseDate" : 712800000,
+    "title" : "Klangreise durch Burg Eintracht (ASMR)",
+    "upc" : "5054197730832"
+  },
+  {
+    "albumID" : "1701599534",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 3288.072,
+    "releaseDate" : 716428800,
+    "title" : "Folge 155: und der Roboter",
+    "upc" : "5054197774331"
+  },
+  {
+    "albumID" : "1707036276",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 3522.2539999999995,
+    "releaseDate" : 718243200,
+    "title" : "Find‘s raus mit Benjamin: Flughafen",
+    "upc" : "5054197809781"
+  },
+  {
+    "albumID" : "1713768407",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 3082.1610000000005,
+    "releaseDate" : 722476800,
+    "title" : "Folge 156: als Bergretter",
+    "upc" : "5054197887826"
+  },
+  {
+    "albumID" : "1719798401",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2860.7900000000004,
+    "releaseDate" : 727315200,
+    "title" : "Benjamin Minis - Folge 5: Endlich Schnee!",
+    "upc" : "5054197920905"
+  },
+  {
+    "albumID" : "1730719217",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 115.44,
+    "releaseDate" : 730339200,
+    "title" : "Ich bin so froh bei uns im Zoo! - Single",
+    "upc" : "5054197991486"
+  },
+  {
+    "albumID" : "1730703572",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2767.7349999999997,
+    "releaseDate" : 732758400,
+    "title" : "Folge 157: als Sänger",
+    "upc" : "5054197985799"
+  },
+  {
+    "albumID" : "1742941728",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 3153.4320000000002,
+    "releaseDate" : 737596800,
+    "title" : "Find's raus mit Benjamin: Bauernhof",
+    "upc" : "4033694542118"
+  },
+  {
+    "albumID" : "1748580449",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2755.3700000000003,
+    "releaseDate" : 740016000,
+    "title" : "Folge 158: Der Fußball-Pokal",
+    "upc" : "4033694555583"
+  },
+  {
+    "albumID" : "1753081387",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2710.3609999999994,
+    "releaseDate" : 744249600,
+    "title" : "Folge 159: als Robin Hood",
+    "upc" : "4033694555590"
+  },
+  {
+    "albumID" : "1757728108",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2083.378,
+    "releaseDate" : 744854400,
+    "title" : "Find's raus mit Benjamin: Das Liederalbum",
+    "upc" : "4033694258187"
+  },
+  {
+    "albumID" : "1757991520",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2993.7110000000002,
+    "releaseDate" : 746064000,
+    "title" : "Benjamin Minis - Folge 6: Eine verrückte Zahnputzgeschichte",
+    "upc" : "4033694543061"
+  },
+  {
+    "albumID" : "1760125142",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2780.088,
+    "releaseDate" : 747878400,
+    "title" : "Folge 160: als Höhlenforscher",
+    "upc" : "4033694555606"
+  },
+  {
+    "albumID" : "1766395764",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 3436.7939999999994,
+    "releaseDate" : 749692800,
+    "title" : "Find's raus mit Benjamin - Folge 12: Meer",
+    "upc" : "4033694542125"
+  },
+  {
+    "albumID" : "1773414399",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 968.6229999999999,
+    "releaseDate" : 751507200,
+    "title" : "Benjamin Blümchen singt Weihnachtslieder - EP",
+    "upc" : "4001504258191"
+  },
+  {
+    "albumID" : "1772761022",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 2578.571000000001,
+    "releaseDate" : 752716800,
+    "title" : "Gute-Nacht-Geschichten - Folge 35:  Der mutige Löwe",
+    "upc" : "4033694550458"
+  },
+  {
+    "albumID" : "1775713009",
+    "artist" : "Benjamin Blümchen",
+    "duration" : 226.639,
+    "releaseDate" : 753926400,
+    "title" : "Folge 161: zurück zur Leuchtturminsel",
+    "upc" : "4033694555613"
   }
 ]
