@@ -32,14 +32,6 @@
     "upc" : "4260434322147"
   },
   {
-    "albumID" : "1685300103",
-    "artist" : "Neue Welten",
-    "duration" : 3494.6210000000005,
-    "releaseDate" : 680140800,
-    "title" : "Folge 6: Portal des Todes",
-    "upc" : "4260434322215"
-  },
-  {
     "albumID" : "1685300459",
     "artist" : "Neue Welten",
     "duration" : 4049.3530000000014,
@@ -48,12 +40,12 @@
     "upc" : "4260434322154"
   },
   {
-    "albumID" : "1682933959",
+    "albumID" : "1685300103",
     "artist" : "Neue Welten",
-    "duration" : 3570.8559999999993,
-    "releaseDate" : 704937600,
-    "title" : "Folge 9 - Richard Roosa",
-    "upc" : "4260434322376"
+    "duration" : 3494.6210000000005,
+    "releaseDate" : 680140800,
+    "title" : "Folge 6: Portal des Todes",
+    "upc" : "4260434322215"
   },
   {
     "albumID" : "1685365137",
@@ -70,6 +62,14 @@
     "releaseDate" : 700704000,
     "title" : "Folge 8 - Verloren in der Vergangenheit",
     "upc" : "4260434322369"
+  },
+  {
+    "albumID" : "1682933959",
+    "artist" : "Neue Welten",
+    "duration" : 3570.8559999999993,
+    "releaseDate" : 704937600,
+    "title" : "Folge 9 - Richard Roosa",
+    "upc" : "4260434322376"
   },
   {
     "albumID" : "1700539379",
