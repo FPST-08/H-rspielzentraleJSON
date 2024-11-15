@@ -8,236 +8,12 @@
     "upc" : "4260507143662"
   },
   {
-    "albumID" : "1499998145",
-    "artist" : "Pater Brown",
-    "duration" : 4269,
-    "releaseDate" : 606355200,
-    "title" : "Folge 61: Die gebrochene Kerze",
-    "upc" : "4260507157096"
-  },
-  {
-    "albumID" : "1594061448",
-    "artist" : "Pater Brown",
-    "duration" : 3917.996,
-    "releaseDate" : 661392000,
-    "title" : "Folge 66: Ein Mörder zum Dinner (Ungekürzt)",
-    "upc" : "4260507170729"
-  },
-  {
-    "albumID" : "1608857943",
-    "artist" : "Pater Brown",
-    "duration" : 4046.001999999999,
-    "releaseDate" : 668044800,
-    "title" : "Folge 68: Schottische Abgründe",
-    "upc" : "4260507172396"
-  },
-  {
-    "albumID" : "1414359107",
-    "artist" : "Pater Brown",
-    "duration" : 4203.002,
-    "releaseDate" : 555552000,
-    "title" : "Folge 56: Der Flug der Schwalben",
-    "upc" : "4260507142887"
-  },
-  {
-    "albumID" : "1475777001",
-    "artist" : "Pater Brown",
-    "duration" : 4378.000000000001,
-    "releaseDate" : 588816000,
-    "title" : "Folge 58: Die Dame in Grün",
-    "upc" : "4260507152701"
-  },
-  {
-    "albumID" : "1333019987",
-    "artist" : "Pater Brown",
-    "duration" : 3871.453,
-    "releaseDate" : 541641600,
-    "title" : "Folge 54: Der schlafende Schutzpatron",
-    "upc" : "4260507138088"
-  },
-  {
-    "albumID" : "1707969678",
-    "artist" : "Pater Brown",
-    "duration" : 3641.999,
-    "releaseDate" : 721872000,
-    "title" : "Folge 80: Der Tote im Fluss",
-    "upc" : "4260507189967"
-  },
-  {
-    "albumID" : "1397903313",
-    "artist" : "Pater Brown",
-    "duration" : 4163.772,
-    "releaseDate" : 553132800,
-    "title" : "Folge 55: Tödliche Apfelernte",
-    "upc" : "4260507141385"
-  },
-  {
-    "albumID" : "1489214199",
-    "artist" : "Pater Brown",
-    "duration" : 3972.002,
-    "releaseDate" : 601516800,
-    "title" : "Folge 60: Der Feuerteufel von Newton",
-    "upc" : "4260507155450"
-  },
-  {
-    "albumID" : "1614735171",
-    "artist" : "Pater Brown",
-    "duration" : 4056.999000000001,
-    "releaseDate" : 673488000,
-    "title" : "Folge 70: Verräterisches Odeur",
-    "upc" : "4260507173157"
-  },
-  {
-    "albumID" : "1484088721",
-    "artist" : "Pater Brown",
-    "duration" : 4194.0019999999995,
-    "releaseDate" : 595468800,
-    "title" : "Folge 59: Der Judasbaum",
-    "upc" : "4260507154880"
-  },
-  {
-    "albumID" : "1652371969",
-    "artist" : "Pater Brown",
-    "duration" : 3593.0019999999995,
-    "releaseDate" : 691632000,
-    "title" : "Folge 72: Aus heiterem Himmel",
-    "upc" : "4260507177445"
-  },
-  {
-    "albumID" : "1674531248",
-    "artist" : "Pater Brown",
-    "duration" : 4295.001,
-    "releaseDate" : 701308800,
-    "title" : "Folge 75: Das Gespenst von Ravenstone",
-    "upc" : "4260507180629"
-  },
-  {
-    "albumID" : "1594061952",
-    "artist" : "Pater Brown",
-    "duration" : 4224.000999999999,
-    "releaseDate" : 665020800,
-    "title" : "Folge 67: Alte Freunde (Ungekürzt)",
-    "upc" : "4260507170743"
-  },
-  {
-    "albumID" : "1654602788",
-    "artist" : "Pater Brown",
-    "duration" : 3992.999000000001,
-    "releaseDate" : 693446400,
-    "title" : "Folge 73: Mord mit Handicap",
-    "upc" : "4260507177568"
-  },
-  {
-    "albumID" : "1559499503",
-    "artist" : "Pater Brown",
-    "duration" : 4048.0029999999997,
-    "releaseDate" : 639619200,
-    "title" : "Folge 65: Böse Überraschungen",
-    "upc" : "4260507164490"
-  },
-  {
-    "albumID" : "1288258903",
-    "artist" : "Pater Brown",
-    "duration" : 4294.481000000001,
-    "releaseDate" : 529545600,
-    "title" : "Folge 53: Der Unschuldsbeweis",
-    "upc" : "4260507136565"
-  },
-  {
-    "albumID" : "1697900970",
-    "artist" : "Pater Brown",
-    "duration" : 3520.0009999999993,
-    "releaseDate" : 714614400,
-    "title" : "Folge 78: Das Verhängnis des Wohltäters",
-    "upc" : "4260507188168"
-  },
-  {
-    "albumID" : "1542241676",
-    "artist" : "Pater Brown",
-    "duration" : 4598.998000000001,
-    "releaseDate" : 632966400,
-    "title" : "Folge 64: Der Tod lässt bitten",
-    "upc" : "4260507162298"
-  },
-  {
-    "albumID" : "1685981192",
-    "artist" : "Pater Brown",
-    "duration" : 3773.0029999999992,
-    "releaseDate" : 707356800,
-    "title" : "Folge 76: Der schönste Tag im Leben",
-    "upc" : "4260507184986"
-  },
-  {
-    "albumID" : "1670977748",
-    "artist" : "Pater Brown",
-    "duration" : 4014.9980000000005,
-    "releaseDate" : 700099200,
-    "title" : "Folge 74: Unsichtbare Opfer",
-    "upc" : "4260507180360"
-  },
-  {
     "albumID" : "1439329186",
     "artist" : "Pater Brown",
     "duration" : 3318.86,
     "releaseDate" : 421286400,
     "title" : "Folge 4: Die drei Todeswerkzeuge",
     "upc" : "4260507143693"
-  },
-  {
-    "albumID" : "1237595332",
-    "artist" : "Pater Brown",
-    "duration" : 3349,
-    "releaseDate" : 520473600,
-    "title" : "Folge 41: Aus dem Ei gepellt",
-    "upc" : "4260507134899"
-  },
-  {
-    "albumID" : "1514169745",
-    "artist" : "Pater Brown",
-    "duration" : 4256.000999999999,
-    "releaseDate" : 613008000,
-    "title" : "Folge 62: Grube, Dame, As und Tod",
-    "upc" : "4260507159311"
-  },
-  {
-    "albumID" : "1209738766",
-    "artist" : "Pater Brown",
-    "duration" : 4794.813999999999,
-    "releaseDate" : 515030400,
-    "title" : "Folge 52: Das Rätsel der schwarzen Nonne",
-    "upc" : "4260507132864"
-  },
-  {
-    "albumID" : "1608858430",
-    "artist" : "Pater Brown",
-    "duration" : 3677,
-    "releaseDate" : 671068800,
-    "title" : "Folge 69: Drei Mörder, eine Leiche",
-    "upc" : "4260507172419"
-  },
-  {
-    "albumID" : "1237583732",
-    "artist" : "Pater Brown",
-    "duration" : 3639,
-    "releaseDate" : 519264000,
-    "title" : "Folge 36: Diamanten-Express",
-    "upc" : "4260507134844"
-  },
-  {
-    "albumID" : "1742523430",
-    "artist" : "Pater Brown",
-    "duration" : 4016.9990000000003,
-    "releaseDate" : 740016000,
-    "title" : "Folge 82: Blutige Rosen",
-    "upc" : "4260507195128"
-  },
-  {
-    "albumID" : "1237603751",
-    "artist" : "Pater Brown",
-    "duration" : 3645,
-    "releaseDate" : 521683200,
-    "title" : "Folge 47: Astro Creep - Tödliche Zeichen",
-    "upc" : "4260507134950"
   },
   {
     "albumID" : "1438753394",
@@ -248,28 +24,12 @@
     "upc" : "4260507143686"
   },
   {
-    "albumID" : "1705731895",
-    "artist" : "Pater Brown",
-    "duration" : 3928.001000000001,
-    "releaseDate" : 717638400,
-    "title" : "Folge 79: Tod in der Manege",
-    "upc" : "4260507188809"
-  },
-  {
     "albumID" : "1438753376",
     "artist" : "Pater Brown",
     "duration" : 3369.315,
     "releaseDate" : 421286400,
     "title" : "Folge 8: Die falsche Form",
     "upc" : "4260507143730"
-  },
-  {
-    "albumID" : "1237599565",
-    "artist" : "Pater Brown",
-    "duration" : 3766,
-    "releaseDate" : 521683200,
-    "title" : "Folge 46: Signum Regis",
-    "upc" : "4260507134943"
   },
   {
     "albumID" : "1438752905",
@@ -280,76 +40,12 @@
     "upc" : "4260507143679"
   },
   {
-    "albumID" : "1442521085",
-    "artist" : "Pater Brown",
-    "duration" : 3820.003,
-    "releaseDate" : 565228800,
-    "title" : "Folge 57: Stille Wasser",
-    "upc" : "4260507143334"
-  },
-  {
-    "albumID" : "1743804763",
-    "artist" : "Pater Brown",
-    "duration" : 3666.0040000000004,
-    "releaseDate" : 742435200,
-    "title" : "Folge 83: Ein Trauerspiel",
-    "upc" : "4260507195470"
-  },
-  {
     "albumID" : "1439329173",
     "artist" : "Pater Brown",
     "duration" : 3772.2389999999996,
     "releaseDate" : 421286400,
     "title" : "Folge 5: Das Auge des Apoll",
     "upc" : "4260507143709"
-  },
-  {
-    "albumID" : "1123065877",
-    "artist" : "Pater Brown",
-    "duration" : 4234.441000000001,
-    "releaseDate" : 502934400,
-    "title" : "Folge 51: Die Todesschlinge",
-    "upc" : "4260147778484"
-  },
-  {
-    "albumID" : "1237595645",
-    "artist" : "Pater Brown",
-    "duration" : 3407,
-    "releaseDate" : 520473600,
-    "title" : "Folge 42: Der tote Herzensbrecher",
-    "upc" : "4260507134905"
-  },
-  {
-    "albumID" : "1237288894",
-    "artist" : "Pater Brown",
-    "duration" : 2658,
-    "releaseDate" : 518659200,
-    "title" : "Folge 31: Die Blutstein-Legende",
-    "upc" : "4260507134790"
-  },
-  {
-    "albumID" : "1439331578",
-    "artist" : "Pater Brown",
-    "duration" : 3527.7079999999996,
-    "releaseDate" : 421286400,
-    "title" : "Folge 19: Ein Pfeil vom Himmel",
-    "upc" : "4260507143846"
-  },
-  {
-    "albumID" : "1237583456",
-    "artist" : "Pater Brown",
-    "duration" : 2940,
-    "releaseDate" : 519868800,
-    "title" : "Folge 37: Nur im Gefängnis sicher",
-    "upc" : "4260507134851"
-  },
-  {
-    "albumID" : "1123065669",
-    "artist" : "Pater Brown",
-    "duration" : 3295.973,
-    "releaseDate" : 496886400,
-    "title" : "Folge 50: Der Engel ohne Flügel",
-    "upc" : "4260147778477"
   },
   {
     "albumID" : "1439330704",
@@ -360,20 +56,12 @@
     "upc" : "4260507143815"
   },
   {
-    "albumID" : "1237568360",
+    "albumID" : "1439331578",
     "artist" : "Pater Brown",
-    "duration" : 3276,
-    "releaseDate" : 519264000,
-    "title" : "Folge 35: Rätsel um Milena",
-    "upc" : "4260507134837"
-  },
-  {
-    "albumID" : "1237292310",
-    "artist" : "Pater Brown",
-    "duration" : 2501,
-    "releaseDate" : 518659200,
-    "title" : "Folge 33: Der Kuss des Todes",
-    "upc" : "4260507134813"
+    "duration" : 3527.7079999999996,
+    "releaseDate" : 421286400,
+    "title" : "Folge 19: Ein Pfeil vom Himmel",
+    "upc" : "4260507143846"
   },
   {
     "albumID" : "1439329960",
@@ -384,54 +72,6 @@
     "upc" : "4260507143723"
   },
   {
-    "albumID" : "1237590306",
-    "artist" : "Pater Brown",
-    "duration" : 2523,
-    "releaseDate" : 520473600,
-    "title" : "Folge 40: Der Künstler und sein Modell",
-    "upc" : "4260507134882"
-  },
-  {
-    "albumID" : "1237590307",
-    "artist" : "Pater Brown",
-    "duration" : 2824,
-    "releaseDate" : 519868800,
-    "title" : "Folge 38: Wo der Pater starb",
-    "upc" : "4260507134868"
-  },
-  {
-    "albumID" : "1715332730",
-    "artist" : "Pater Brown",
-    "duration" : 3966.000000000001,
-    "releaseDate" : 727920000,
-    "title" : "Folge 81: Der schlechte Ratgeber",
-    "upc" : "4260507190888"
-  },
-  {
-    "albumID" : "1438754382",
-    "artist" : "Pater Brown",
-    "duration" : 3295.4880000000003,
-    "releaseDate" : 421286400,
-    "title" : "Folge 10: Das Duell des Dr. Hirsch",
-    "upc" : "4260507143754"
-  },
-  {
-    "albumID" : "1690148149",
-    "artist" : "Pater Brown",
-    "duration" : 3742.9979999999996,
-    "releaseDate" : 709776000,
-    "title" : "Folge 77: Im großen Stil",
-    "upc" : "4260507187154"
-  },
-  {
-    "albumID" : "1515734687",
-    "artist" : "Pater Brown",
-    "duration" : 3835.0000000000005,
-    "releaseDate" : 616636800,
-    "title" : "Folge 63: Die Legende vom Hohlweg",
-    "upc" : "4260507159328"
-  },
-  {
     "albumID" : "1439332205",
     "artist" : "Pater Brown",
     "duration" : 2691.3920000000003,
@@ -440,12 +80,12 @@
     "upc" : "4260507143853"
   },
   {
-    "albumID" : "1237603600",
+    "albumID" : "1438754382",
     "artist" : "Pater Brown",
-    "duration" : 2879,
-    "releaseDate" : 521683200,
-    "title" : "Folge 48: Die Krone von Ampur",
-    "upc" : "4260507134967"
+    "duration" : 3295.4880000000003,
+    "releaseDate" : 421286400,
+    "title" : "Folge 10: Das Duell des Dr. Hirsch",
+    "upc" : "4260507143754"
   },
   {
     "albumID" : "1438754592",
@@ -464,62 +104,6 @@
     "upc" : "4260507143808"
   },
   {
-    "albumID" : "1123065273",
-    "artist" : "Pater Brown",
-    "duration" : 3045.759,
-    "releaseDate" : 488419200,
-    "title" : "Folge 49: Die Henkersmahlzeit",
-    "upc" : "4260147778460"
-  },
-  {
-    "albumID" : "1237288795",
-    "artist" : "Pater Brown",
-    "duration" : 3449,
-    "releaseDate" : 518659200,
-    "title" : "Folge 32: Der Spieler und das Mädchen",
-    "upc" : "4260507134806"
-  },
-  {
-    "albumID" : "1438757487",
-    "artist" : "Pater Brown",
-    "duration" : 3052.204000000001,
-    "releaseDate" : 467251200,
-    "title" : "Folge 22: Die purpurfarbene Perücke",
-    "upc" : "4260507143877"
-  },
-  {
-    "albumID" : "1439341583",
-    "artist" : "Pater Brown",
-    "duration" : 3207.6850000000004,
-    "releaseDate" : 467856000,
-    "title" : "Folge 29: Pater Brown macht Urlaub",
-    "upc" : "4260507143945"
-  },
-  {
-    "albumID" : "1628254717",
-    "artist" : "Pater Brown",
-    "duration" : 3660.001,
-    "releaseDate" : 678931200,
-    "title" : "Folge 71: Schuld und Vorurteil",
-    "upc" : "4260507175182"
-  },
-  {
-    "albumID" : "1237595678",
-    "artist" : "Pater Brown",
-    "duration" : 2393,
-    "releaseDate" : 521078400,
-    "title" : "Folge 43: Der weisse Skorpion, Pt. 1",
-    "upc" : "4260507134912"
-  },
-  {
-    "albumID" : "1438755972",
-    "artist" : "Pater Brown",
-    "duration" : 3394.855000000001,
-    "releaseDate" : 421286400,
-    "title" : "Folge 13: Der Geist von Gideon Wise",
-    "upc" : "4260507143785"
-  },
-  {
     "albumID" : "1439331635",
     "artist" : "Pater Brown",
     "duration" : 3517.890000000001,
@@ -528,12 +112,20 @@
     "upc" : "4260507143839"
   },
   {
-    "albumID" : "1439342011",
+    "albumID" : "1439328998",
     "artist" : "Pater Brown",
-    "duration" : 3298.7170000000006,
-    "releaseDate" : 467856000,
-    "title" : "Folge 30: Raue See",
-    "upc" : "4260507143952"
+    "duration" : 3340.1579999999994,
+    "releaseDate" : 421286400,
+    "title" : "Folge 6: Die Sünden des Prinzen Saradin",
+    "upc" : "4260507143716"
+  },
+  {
+    "albumID" : "1438756088",
+    "artist" : "Pater Brown",
+    "duration" : 3229.1420000000003,
+    "releaseDate" : 421286400,
+    "title" : "Folge 12: Die Ehre des Israel Gow",
+    "upc" : "4260507143778"
   },
   {
     "albumID" : "1438756693",
@@ -544,12 +136,36 @@
     "upc" : "4260507143792"
   },
   {
-    "albumID" : "1439328998",
+    "albumID" : "1438755972",
     "artist" : "Pater Brown",
-    "duration" : 3340.1579999999994,
+    "duration" : 3394.855000000001,
     "releaseDate" : 421286400,
-    "title" : "Folge 6: Die Sünden des Prinzen Saradin",
-    "upc" : "4260507143716"
+    "title" : "Folge 13: Der Geist von Gideon Wise",
+    "upc" : "4260507143785"
+  },
+  {
+    "albumID" : "1439331215",
+    "artist" : "Pater Brown",
+    "duration" : 2979.750000000001,
+    "releaseDate" : 421286400,
+    "title" : "Folge 17: Der Fluch der Pendragons",
+    "upc" : "4260507143822"
+  },
+  {
+    "albumID" : "1438754787",
+    "artist" : "Pater Brown",
+    "duration" : 3029.1610000000005,
+    "releaseDate" : 421286400,
+    "title" : "Folge 11: Der Kopf des Caesar",
+    "upc" : "4260507143761"
+  },
+  {
+    "albumID" : "1438757487",
+    "artist" : "Pater Brown",
+    "duration" : 3052.204000000001,
+    "releaseDate" : 467251200,
+    "title" : "Folge 22: Die purpurfarbene Perücke",
+    "upc" : "4260507143877"
   },
   {
     "albumID" : "1438757763",
@@ -568,76 +184,12 @@
     "upc" : "4260507143860"
   },
   {
-    "albumID" : "1438758287",
-    "artist" : "Pater Brown",
-    "duration" : 2981.1220000000008,
-    "releaseDate" : 467856000,
-    "title" : "Folge 28: Die Leiche im Straßengraben",
-    "upc" : "4260507143938"
-  },
-  {
-    "albumID" : "1438756088",
-    "artist" : "Pater Brown",
-    "duration" : 3229.1420000000003,
-    "releaseDate" : 421286400,
-    "title" : "Folge 12: Die Ehre des Israel Gow",
-    "upc" : "4260507143778"
-  },
-  {
-    "albumID" : "1237568180",
-    "artist" : "Pater Brown",
-    "duration" : 2846,
-    "releaseDate" : 519264000,
-    "title" : "Folge 34: Das Schloss der lebenden Schatten",
-    "upc" : "4260507134820"
-  },
-  {
-    "albumID" : "1439331215",
-    "artist" : "Pater Brown",
-    "duration" : 2979.750000000001,
-    "releaseDate" : 421286400,
-    "title" : "Folge 17: Der Fluch der Pendragons",
-    "upc" : "4260507143822"
-  },
-  {
-    "albumID" : "1439340930",
-    "artist" : "Pater Brown",
-    "duration" : 3061.575999999999,
-    "releaseDate" : 467856000,
-    "title" : "Folge 27: Penelope",
-    "upc" : "4260507143921"
-  },
-  {
-    "albumID" : "1237598350",
-    "artist" : "Pater Brown",
-    "duration" : 2820,
-    "releaseDate" : 521078400,
-    "title" : "Folge 45: Im Auge des Jaguars",
-    "upc" : "4260507134936"
-  },
-  {
-    "albumID" : "1438754787",
-    "artist" : "Pater Brown",
-    "duration" : 3029.1610000000005,
-    "releaseDate" : 421286400,
-    "title" : "Folge 11: Der Kopf des Caesar",
-    "upc" : "4260507143761"
-  },
-  {
     "albumID" : "1439332996",
     "artist" : "Pater Brown",
     "duration" : 2856.034,
     "releaseDate" : 467251200,
     "title" : "Folge 24: Pater Browns Auferstehung",
     "upc" : "4260507143891"
-  },
-  {
-    "albumID" : "1237598638",
-    "artist" : "Pater Brown",
-    "duration" : 2717,
-    "releaseDate" : 521078400,
-    "title" : "Folge 44: Der weisse Skorpion, Pt. 2",
-    "upc" : "4260507134929"
   },
   {
     "albumID" : "1439334527",
@@ -648,12 +200,140 @@
     "upc" : "4260507143907"
   },
   {
+    "albumID" : "1439341583",
+    "artist" : "Pater Brown",
+    "duration" : 3207.6850000000004,
+    "releaseDate" : 467856000,
+    "title" : "Folge 29: Pater Brown macht Urlaub",
+    "upc" : "4260507143945"
+  },
+  {
+    "albumID" : "1439342011",
+    "artist" : "Pater Brown",
+    "duration" : 3298.7170000000006,
+    "releaseDate" : 467856000,
+    "title" : "Folge 30: Raue See",
+    "upc" : "4260507143952"
+  },
+  {
+    "albumID" : "1438758287",
+    "artist" : "Pater Brown",
+    "duration" : 2981.1220000000008,
+    "releaseDate" : 467856000,
+    "title" : "Folge 28: Die Leiche im Straßengraben",
+    "upc" : "4260507143938"
+  },
+  {
+    "albumID" : "1439340930",
+    "artist" : "Pater Brown",
+    "duration" : 3061.575999999999,
+    "releaseDate" : 467856000,
+    "title" : "Folge 27: Penelope",
+    "upc" : "4260507143921"
+  },
+  {
     "albumID" : "1439336594",
     "artist" : "Pater Brown",
     "duration" : 3471.057999999999,
     "releaseDate" : 467856000,
     "title" : "Folge 26: Todbringende Eucharistie",
     "upc" : "4260507143914"
+  },
+  {
+    "albumID" : "1123065273",
+    "artist" : "Pater Brown",
+    "duration" : 3045.759,
+    "releaseDate" : 488419200,
+    "title" : "Folge 49: Die Henkersmahlzeit",
+    "upc" : "4260147778460"
+  },
+  {
+    "albumID" : "1123065669",
+    "artist" : "Pater Brown",
+    "duration" : 3295.973,
+    "releaseDate" : 496886400,
+    "title" : "Folge 50: Der Engel ohne Flügel",
+    "upc" : "4260147778477"
+  },
+  {
+    "albumID" : "1123065877",
+    "artist" : "Pater Brown",
+    "duration" : 4234.441000000001,
+    "releaseDate" : 502934400,
+    "title" : "Folge 51: Die Todesschlinge",
+    "upc" : "4260147778484"
+  },
+  {
+    "albumID" : "1209738766",
+    "artist" : "Pater Brown",
+    "duration" : 4794.813999999999,
+    "releaseDate" : 515030400,
+    "title" : "Folge 52: Das Rätsel der schwarzen Nonne",
+    "upc" : "4260507132864"
+  },
+  {
+    "albumID" : "1237288894",
+    "artist" : "Pater Brown",
+    "duration" : 2658,
+    "releaseDate" : 518659200,
+    "title" : "Folge 31: Die Blutstein-Legende",
+    "upc" : "4260507134790"
+  },
+  {
+    "albumID" : "1237292310",
+    "artist" : "Pater Brown",
+    "duration" : 2501,
+    "releaseDate" : 518659200,
+    "title" : "Folge 33: Der Kuss des Todes",
+    "upc" : "4260507134813"
+  },
+  {
+    "albumID" : "1237288795",
+    "artist" : "Pater Brown",
+    "duration" : 3449,
+    "releaseDate" : 518659200,
+    "title" : "Folge 32: Der Spieler und das Mädchen",
+    "upc" : "4260507134806"
+  },
+  {
+    "albumID" : "1237583732",
+    "artist" : "Pater Brown",
+    "duration" : 3639,
+    "releaseDate" : 519264000,
+    "title" : "Folge 36: Diamanten-Express",
+    "upc" : "4260507134844"
+  },
+  {
+    "albumID" : "1237568360",
+    "artist" : "Pater Brown",
+    "duration" : 3276,
+    "releaseDate" : 519264000,
+    "title" : "Folge 35: Rätsel um Milena",
+    "upc" : "4260507134837"
+  },
+  {
+    "albumID" : "1237568180",
+    "artist" : "Pater Brown",
+    "duration" : 2846,
+    "releaseDate" : 519264000,
+    "title" : "Folge 34: Das Schloss der lebenden Schatten",
+    "upc" : "4260507134820"
+  },
+  {
+    "albumID" : "1237583456",
+    "artist" : "Pater Brown",
+    "duration" : 2940,
+    "releaseDate" : 519868800,
+    "title" : "Folge 37: Nur im Gefängnis sicher",
+    "upc" : "4260507134851"
+  },
+  {
+    "albumID" : "1237590307",
+    "artist" : "Pater Brown",
+    "duration" : 2824,
+    "releaseDate" : 519868800,
+    "title" : "Folge 38: Wo der Pater starb",
+    "upc" : "4260507134868"
   },
   {
     "albumID" : "1237590767",
@@ -664,12 +344,164 @@
     "upc" : "4260507134875"
   },
   {
-    "albumID" : "1523282410",
+    "albumID" : "1237595332",
     "artist" : "Pater Brown",
-    "duration" : 13645.614,
-    "releaseDate" : 618451200,
-    "title" : "Edition 2: Vier Spannende Kriminalhörspiele",
-    "upc" : "4260507160515"
+    "duration" : 3349,
+    "releaseDate" : 520473600,
+    "title" : "Folge 41: Aus dem Ei gepellt",
+    "upc" : "4260507134899"
+  },
+  {
+    "albumID" : "1237595645",
+    "artist" : "Pater Brown",
+    "duration" : 3407,
+    "releaseDate" : 520473600,
+    "title" : "Folge 42: Der tote Herzensbrecher",
+    "upc" : "4260507134905"
+  },
+  {
+    "albumID" : "1237590306",
+    "artist" : "Pater Brown",
+    "duration" : 2523,
+    "releaseDate" : 520473600,
+    "title" : "Folge 40: Der Künstler und sein Modell",
+    "upc" : "4260507134882"
+  },
+  {
+    "albumID" : "1237595678",
+    "artist" : "Pater Brown",
+    "duration" : 2393,
+    "releaseDate" : 521078400,
+    "title" : "Folge 43: Der weisse Skorpion, Pt. 1",
+    "upc" : "4260507134912"
+  },
+  {
+    "albumID" : "1237598350",
+    "artist" : "Pater Brown",
+    "duration" : 2820,
+    "releaseDate" : 521078400,
+    "title" : "Folge 45: Im Auge des Jaguars",
+    "upc" : "4260507134936"
+  },
+  {
+    "albumID" : "1237598638",
+    "artist" : "Pater Brown",
+    "duration" : 2717,
+    "releaseDate" : 521078400,
+    "title" : "Folge 44: Der weisse Skorpion, Pt. 2",
+    "upc" : "4260507134929"
+  },
+  {
+    "albumID" : "1237599565",
+    "artist" : "Pater Brown",
+    "duration" : 3766,
+    "releaseDate" : 521683200,
+    "title" : "Folge 46: Signum Regis",
+    "upc" : "4260507134943"
+  },
+  {
+    "albumID" : "1237603751",
+    "artist" : "Pater Brown",
+    "duration" : 3645,
+    "releaseDate" : 521683200,
+    "title" : "Folge 47: Astro Creep - Tödliche Zeichen",
+    "upc" : "4260507134950"
+  },
+  {
+    "albumID" : "1237603600",
+    "artist" : "Pater Brown",
+    "duration" : 2879,
+    "releaseDate" : 521683200,
+    "title" : "Folge 48: Die Krone von Ampur",
+    "upc" : "4260507134967"
+  },
+  {
+    "albumID" : "1288258903",
+    "artist" : "Pater Brown",
+    "duration" : 4294.481000000001,
+    "releaseDate" : 529545600,
+    "title" : "Folge 53: Der Unschuldsbeweis",
+    "upc" : "4260507136565"
+  },
+  {
+    "albumID" : "1333019987",
+    "artist" : "Pater Brown",
+    "duration" : 3871.453,
+    "releaseDate" : 541641600,
+    "title" : "Folge 54: Der schlafende Schutzpatron",
+    "upc" : "4260507138088"
+  },
+  {
+    "albumID" : "1397903313",
+    "artist" : "Pater Brown",
+    "duration" : 4163.772,
+    "releaseDate" : 553132800,
+    "title" : "Folge 55: Tödliche Apfelernte",
+    "upc" : "4260507141385"
+  },
+  {
+    "albumID" : "1414359107",
+    "artist" : "Pater Brown",
+    "duration" : 4203.002,
+    "releaseDate" : 555552000,
+    "title" : "Folge 56: Der Flug der Schwalben",
+    "upc" : "4260507142887"
+  },
+  {
+    "albumID" : "1442521085",
+    "artist" : "Pater Brown",
+    "duration" : 3820.003,
+    "releaseDate" : 565228800,
+    "title" : "Folge 57: Stille Wasser",
+    "upc" : "4260507143334"
+  },
+  {
+    "albumID" : "1475777001",
+    "artist" : "Pater Brown",
+    "duration" : 4378.000000000001,
+    "releaseDate" : 588816000,
+    "title" : "Folge 58: Die Dame in Grün",
+    "upc" : "4260507152701"
+  },
+  {
+    "albumID" : "1484088721",
+    "artist" : "Pater Brown",
+    "duration" : 4194.0019999999995,
+    "releaseDate" : 595468800,
+    "title" : "Folge 59: Der Judasbaum",
+    "upc" : "4260507154880"
+  },
+  {
+    "albumID" : "1489214199",
+    "artist" : "Pater Brown",
+    "duration" : 3972.002,
+    "releaseDate" : 601516800,
+    "title" : "Folge 60: Der Feuerteufel von Newton",
+    "upc" : "4260507155450"
+  },
+  {
+    "albumID" : "1499998145",
+    "artist" : "Pater Brown",
+    "duration" : 4269,
+    "releaseDate" : 606355200,
+    "title" : "Folge 61: Die gebrochene Kerze",
+    "upc" : "4260507157096"
+  },
+  {
+    "albumID" : "1514169745",
+    "artist" : "Pater Brown",
+    "duration" : 4256.000999999999,
+    "releaseDate" : 613008000,
+    "title" : "Folge 62: Grube, Dame, As und Tod",
+    "upc" : "4260507159311"
+  },
+  {
+    "albumID" : "1515734687",
+    "artist" : "Pater Brown",
+    "duration" : 3835.0000000000005,
+    "releaseDate" : 616636800,
+    "title" : "Folge 63: Die Legende vom Hohlweg",
+    "upc" : "4260507159328"
   },
   {
     "albumID" : "1523287114",
@@ -678,6 +510,14 @@
     "releaseDate" : 617241600,
     "title" : "Edition 1: Vier Spannende Kriminalhörspiele",
     "upc" : "4260507160508"
+  },
+  {
+    "albumID" : "1523282410",
+    "artist" : "Pater Brown",
+    "duration" : 13645.614,
+    "releaseDate" : 618451200,
+    "title" : "Edition 2: Vier Spannende Kriminalhörspiele",
+    "upc" : "4260507160515"
   },
   {
     "albumID" : "1523478014",
@@ -696,6 +536,14 @@
     "upc" : "4260507160539"
   },
   {
+    "albumID" : "1523468294",
+    "artist" : "Pater Brown",
+    "duration" : 12664.618999999993,
+    "releaseDate" : 622166400,
+    "title" : "Edition 5: Vier Spannende Kriminalhörspiele",
+    "upc" : "4260507160546"
+  },
+  {
     "albumID" : "1523469987",
     "artist" : "Pater Brown",
     "duration" : 12648.642999999991,
@@ -712,11 +560,163 @@
     "upc" : "4260507160560"
   },
   {
-    "albumID" : "1523468294",
+    "albumID" : "1542241676",
     "artist" : "Pater Brown",
-    "duration" : 12664.618999999993,
-    "releaseDate" : 622166400,
-    "title" : "Edition 5: Vier Spannende Kriminalhörspiele",
-    "upc" : "4260507160546"
+    "duration" : 4598.998000000001,
+    "releaseDate" : 632966400,
+    "title" : "Folge 64: Der Tod lässt bitten",
+    "upc" : "4260507162298"
+  },
+  {
+    "albumID" : "1559499503",
+    "artist" : "Pater Brown",
+    "duration" : 4048.0029999999997,
+    "releaseDate" : 639619200,
+    "title" : "Folge 65: Böse Überraschungen",
+    "upc" : "4260507164490"
+  },
+  {
+    "albumID" : "1594061448",
+    "artist" : "Pater Brown",
+    "duration" : 3917.996,
+    "releaseDate" : 661392000,
+    "title" : "Folge 66: Ein Mörder zum Dinner (Ungekürzt)",
+    "upc" : "4260507170729"
+  },
+  {
+    "albumID" : "1594061952",
+    "artist" : "Pater Brown",
+    "duration" : 4224.000999999999,
+    "releaseDate" : 665020800,
+    "title" : "Folge 67: Alte Freunde (Ungekürzt)",
+    "upc" : "4260507170743"
+  },
+  {
+    "albumID" : "1608857943",
+    "artist" : "Pater Brown",
+    "duration" : 4046.001999999999,
+    "releaseDate" : 668044800,
+    "title" : "Folge 68: Schottische Abgründe",
+    "upc" : "4260507172396"
+  },
+  {
+    "albumID" : "1608858430",
+    "artist" : "Pater Brown",
+    "duration" : 3677,
+    "releaseDate" : 671068800,
+    "title" : "Folge 69: Drei Mörder, eine Leiche",
+    "upc" : "4260507172419"
+  },
+  {
+    "albumID" : "1614735171",
+    "artist" : "Pater Brown",
+    "duration" : 4056.999000000001,
+    "releaseDate" : 673488000,
+    "title" : "Folge 70: Verräterisches Odeur",
+    "upc" : "4260507173157"
+  },
+  {
+    "albumID" : "1628254717",
+    "artist" : "Pater Brown",
+    "duration" : 3660.001,
+    "releaseDate" : 678931200,
+    "title" : "Folge 71: Schuld und Vorurteil",
+    "upc" : "4260507175182"
+  },
+  {
+    "albumID" : "1652371969",
+    "artist" : "Pater Brown",
+    "duration" : 3593.0019999999995,
+    "releaseDate" : 691632000,
+    "title" : "Folge 72: Aus heiterem Himmel",
+    "upc" : "4260507177445"
+  },
+  {
+    "albumID" : "1654602788",
+    "artist" : "Pater Brown",
+    "duration" : 3992.999000000001,
+    "releaseDate" : 693446400,
+    "title" : "Folge 73: Mord mit Handicap",
+    "upc" : "4260507177568"
+  },
+  {
+    "albumID" : "1670977748",
+    "artist" : "Pater Brown",
+    "duration" : 4014.9980000000005,
+    "releaseDate" : 700099200,
+    "title" : "Folge 74: Unsichtbare Opfer",
+    "upc" : "4260507180360"
+  },
+  {
+    "albumID" : "1674531248",
+    "artist" : "Pater Brown",
+    "duration" : 4295.001,
+    "releaseDate" : 701308800,
+    "title" : "Folge 75: Das Gespenst von Ravenstone",
+    "upc" : "4260507180629"
+  },
+  {
+    "albumID" : "1685981192",
+    "artist" : "Pater Brown",
+    "duration" : 3773.0029999999992,
+    "releaseDate" : 707356800,
+    "title" : "Folge 76: Der schönste Tag im Leben",
+    "upc" : "4260507184986"
+  },
+  {
+    "albumID" : "1690148149",
+    "artist" : "Pater Brown",
+    "duration" : 3742.9979999999996,
+    "releaseDate" : 709776000,
+    "title" : "Folge 77: Im großen Stil",
+    "upc" : "4260507187154"
+  },
+  {
+    "albumID" : "1697900970",
+    "artist" : "Pater Brown",
+    "duration" : 3520.0009999999993,
+    "releaseDate" : 714614400,
+    "title" : "Folge 78: Das Verhängnis des Wohltäters",
+    "upc" : "4260507188168"
+  },
+  {
+    "albumID" : "1705731895",
+    "artist" : "Pater Brown",
+    "duration" : 3928.001000000001,
+    "releaseDate" : 717638400,
+    "title" : "Folge 79: Tod in der Manege",
+    "upc" : "4260507188809"
+  },
+  {
+    "albumID" : "1707969678",
+    "artist" : "Pater Brown",
+    "duration" : 3641.999,
+    "releaseDate" : 721872000,
+    "title" : "Folge 80: Der Tote im Fluss",
+    "upc" : "4260507189967"
+  },
+  {
+    "albumID" : "1715332730",
+    "artist" : "Pater Brown",
+    "duration" : 3966.000000000001,
+    "releaseDate" : 727920000,
+    "title" : "Folge 81: Der schlechte Ratgeber",
+    "upc" : "4260507190888"
+  },
+  {
+    "albumID" : "1742523430",
+    "artist" : "Pater Brown",
+    "duration" : 4016.9990000000003,
+    "releaseDate" : 740016000,
+    "title" : "Folge 82: Blutige Rosen",
+    "upc" : "4260507195128"
+  },
+  {
+    "albumID" : "1743804763",
+    "artist" : "Pater Brown",
+    "duration" : 3666.0040000000004,
+    "releaseDate" : 742435200,
+    "title" : "Folge 83: Ein Trauerspiel",
+    "upc" : "4260507195470"
   }
 ]
