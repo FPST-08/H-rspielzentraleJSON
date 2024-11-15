@@ -16,12 +16,12 @@
     "upc" : "4260147775339"
   },
   {
-    "albumID" : "1155039685",
+    "albumID" : "1025867552",
     "artist" : "Danger",
-    "duration" : 3757,
-    "releaseDate" : 498096000,
-    "title" : "Part 10: Labyrinth",
-    "upc" : "4260147779542"
+    "duration" : 4734.6669999999995,
+    "releaseDate" : 462412800,
+    "title" : "Part 3: Begegnung im Eis",
+    "upc" : "4260147775346"
   },
   {
     "albumID" : "1025872599",
@@ -32,20 +32,12 @@
     "upc" : "4260147775353"
   },
   {
-    "albumID" : "1025867552",
+    "albumID" : "1025861728",
     "artist" : "Danger",
-    "duration" : 4734.6669999999995,
+    "duration" : 3546.374,
     "releaseDate" : 462412800,
-    "title" : "Part 3: Begegnung im Eis",
-    "upc" : "4260147775346"
-  },
-  {
-    "albumID" : "1177660811",
-    "artist" : "Danger",
-    "duration" : 3032,
-    "releaseDate" : 513216000,
-    "title" : "Part 12: Die Fracht",
-    "upc" : "4260507130518"
+    "title" : "Part 9: Sternengezücht",
+    "upc" : "4260147775407"
   },
   {
     "albumID" : "1025858179",
@@ -64,52 +56,12 @@
     "upc" : "4260147775384"
   },
   {
-    "albumID" : "1399642911",
-    "artist" : "Danger",
-    "duration" : 3177,
-    "releaseDate" : 561600000,
-    "title" : "Part 18: Die Landung",
-    "upc" : "4260507138156"
-  },
-  {
     "albumID" : "1025862537",
     "artist" : "Danger",
     "duration" : 3683.1720000000005,
     "releaseDate" : 462412800,
     "title" : "Part 8: Eiskalt",
     "upc" : "4260147775391"
-  },
-  {
-    "albumID" : "1336326744",
-    "artist" : "Danger",
-    "duration" : 3009,
-    "releaseDate" : 545270400,
-    "title" : "Part 16: Mutiert",
-    "upc" : "4260507138125"
-  },
-  {
-    "albumID" : "1263946816",
-    "artist" : "Danger",
-    "duration" : 3305,
-    "releaseDate" : 526521600,
-    "title" : "Part 13: Unter dem Laken",
-    "upc" : "4260507135582"
-  },
-  {
-    "albumID" : "1025861728",
-    "artist" : "Danger",
-    "duration" : 3546.374,
-    "releaseDate" : 462412800,
-    "title" : "Part 9: Sternengezücht",
-    "upc" : "4260147775407"
-  },
-  {
-    "albumID" : "1296217793",
-    "artist" : "Danger",
-    "duration" : 3554,
-    "releaseDate" : 537408000,
-    "title" : "Part 15: Minotaurus",
-    "upc" : "4260507135605"
   },
   {
     "albumID" : "1025869378",
@@ -120,12 +72,52 @@
     "upc" : "4260147775377"
   },
   {
+    "albumID" : "1155039685",
+    "artist" : "Danger",
+    "duration" : 3757,
+    "releaseDate" : 498096000,
+    "title" : "Part 10: Labyrinth",
+    "upc" : "4260147779542"
+  },
+  {
     "albumID" : "1177661192",
     "artist" : "Danger",
     "duration" : 4795,
     "releaseDate" : 505353600,
     "title" : "Part 11: Bestimmung",
     "upc" : "4260507130655"
+  },
+  {
+    "albumID" : "1177660811",
+    "artist" : "Danger",
+    "duration" : 3032,
+    "releaseDate" : 513216000,
+    "title" : "Part 12: Die Fracht",
+    "upc" : "4260507130518"
+  },
+  {
+    "albumID" : "1263946816",
+    "artist" : "Danger",
+    "duration" : 3305,
+    "releaseDate" : 526521600,
+    "title" : "Part 13: Unter dem Laken",
+    "upc" : "4260507135582"
+  },
+  {
+    "albumID" : "1296217793",
+    "artist" : "Danger",
+    "duration" : 3554,
+    "releaseDate" : 537408000,
+    "title" : "Part 15: Minotaurus",
+    "upc" : "4260507135605"
+  },
+  {
+    "albumID" : "1336326744",
+    "artist" : "Danger",
+    "duration" : 3009,
+    "releaseDate" : 545270400,
+    "title" : "Part 16: Mutiert",
+    "upc" : "4260507138125"
   },
   {
     "albumID" : "1381378349",
@@ -136,20 +128,12 @@
     "upc" : "4260507138132"
   },
   {
-    "albumID" : "1551305332",
+    "albumID" : "1399642911",
     "artist" : "Danger",
-    "duration" : 2910.999000000001,
-    "releaseDate" : 635385600,
-    "title" : "Part 20: Der Schlund",
-    "upc" : "4260507162731"
-  },
-  {
-    "albumID" : "1557354289",
-    "artist" : "Danger",
-    "duration" : 3065.6400000000003,
-    "releaseDate" : 646876800,
-    "title" : "Part 22: Die Stille",
-    "upc" : "4260507163455"
+    "duration" : 3177,
+    "releaseDate" : 561600000,
+    "title" : "Part 18: Die Landung",
+    "upc" : "4260507138156"
   },
   {
     "albumID" : "1506312187",
@@ -160,6 +144,14 @@
     "upc" : "4260507158994"
   },
   {
+    "albumID" : "1551305332",
+    "artist" : "Danger",
+    "duration" : 2910.999000000001,
+    "releaseDate" : 635385600,
+    "title" : "Part 20: Der Schlund",
+    "upc" : "4260507162731"
+  },
+  {
     "albumID" : "1554822820",
     "artist" : "Danger",
     "duration" : 3590.0009999999997,
@@ -168,12 +160,12 @@
     "upc" : "4260507162748"
   },
   {
-    "albumID" : "1690180705",
+    "albumID" : "1557354289",
     "artist" : "Danger",
-    "duration" : 3421.0009999999993,
-    "releaseDate" : 712195200,
-    "title" : "Part 24: Abismo",
-    "upc" : "4260507187239"
+    "duration" : 3065.6400000000003,
+    "releaseDate" : 646876800,
+    "title" : "Part 22: Die Stille",
+    "upc" : "4260507163455"
   },
   {
     "albumID" : "1687316859",
@@ -182,6 +174,14 @@
     "releaseDate" : 706752000,
     "title" : "Part 23: Böses, das vernichtet",
     "upc" : "4260507184160"
+  },
+  {
+    "albumID" : "1690180705",
+    "artist" : "Danger",
+    "duration" : 3421.0009999999993,
+    "releaseDate" : 712195200,
+    "title" : "Part 24: Abismo",
+    "upc" : "4260507187239"
   },
   {
     "albumID" : "1739060052",
@@ -200,6 +200,14 @@
     "upc" : "4260507195081"
   },
   {
+    "albumID" : "1743748223",
+    "artist" : "Danger",
+    "duration" : 3338.9990000000003,
+    "releaseDate" : 746668800,
+    "title" : "Part 27: Der Biss",
+    "upc" : "4260507195418"
+  },
+  {
     "albumID" : "1748524487",
     "artist" : "Danger",
     "duration" : 2476.9999999999995,
@@ -208,11 +216,11 @@
     "upc" : "4260507195920"
   },
   {
-    "albumID" : "1743748223",
+    "albumID" : "1779078507",
     "artist" : "Danger",
-    "duration" : 3338.9990000000003,
-    "releaseDate" : 746668800,
-    "title" : "Part 27: Der Biss",
-    "upc" : "4260507195418"
+    "duration" : 181.984,
+    "releaseDate" : 756345600,
+    "title" : "Part 29: Toxisch",
+    "upc" : "4260507200396"
   }
 ]
