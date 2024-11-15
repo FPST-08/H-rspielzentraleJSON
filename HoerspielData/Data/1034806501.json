@@ -32,14 +32,6 @@
     "upc" : "4260147775834"
   },
   {
-    "albumID" : "1604390588",
-    "artist" : "Planet Eden",
-    "duration" : 2540.998000000001,
-    "releaseDate" : 665625600,
-    "title" : "Teil 7: Planet Eden",
-    "upc" : "4260507171160"
-  },
-  {
     "albumID" : "1034807125",
     "artist" : "Planet Eden",
     "duration" : 3324.0280000000002,
@@ -54,6 +46,14 @@
     "releaseDate" : 466041600,
     "title" : "Planet Eden, Teil 5",
     "upc" : "4260147775841"
+  },
+  {
+    "albumID" : "1604390588",
+    "artist" : "Planet Eden",
+    "duration" : 2540.998000000001,
+    "releaseDate" : 665625600,
+    "title" : "Teil 7: Planet Eden",
+    "upc" : "4260507171160"
   },
   {
     "albumID" : "1604424068",
@@ -72,14 +72,6 @@
     "upc" : "4260507175120"
   },
   {
-    "albumID" : "1682888147",
-    "artist" : "Planet Eden",
-    "duration" : 2833.9990000000007,
-    "releaseDate" : 704937600,
-    "title" : "Teil 11: Planet Eden",
-    "upc" : "4260507182906"
-  },
-  {
     "albumID" : "1648276354",
     "artist" : "Planet Eden",
     "duration" : 2679.002,
@@ -88,12 +80,12 @@
     "upc" : "4260507177056"
   },
   {
-    "albumID" : "1710010385",
+    "albumID" : "1682888147",
     "artist" : "Planet Eden",
-    "duration" : 3274.9970000000003,
-    "releaseDate" : 720662400,
-    "title" : "Teil 13: Planet Eden",
-    "upc" : "4260507190185"
+    "duration" : 2833.9990000000007,
+    "releaseDate" : 704937600,
+    "title" : "Teil 11: Planet Eden",
+    "upc" : "4260507182906"
   },
   {
     "albumID" : "1701691578",
@@ -102,6 +94,14 @@
     "releaseDate" : 715219200,
     "title" : "Teil 12: Planet Eden",
     "upc" : "4260507188304"
+  },
+  {
+    "albumID" : "1710010385",
+    "artist" : "Planet Eden",
+    "duration" : 3274.9970000000003,
+    "releaseDate" : 720662400,
+    "title" : "Teil 13: Planet Eden",
+    "upc" : "4260507190185"
   },
   {
     "albumID" : "1733208210",
