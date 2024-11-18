@@ -38,5 +38,85 @@
     "releaseDate" : 390441600,
     "title" : "Die Reise um die Erde in 80 Tagen",
     "upc" : "4057664499233"
+  },
+  {
+    "albumID" : "1721172189",
+    "artist" : "Jules Verne",
+    "duration" : 3532.6270000000004,
+    "releaseDate" : 729129600,
+    "title" : "Jules Verne, Die neuen Abenteuer des Phileas Fogg, Folge 39: Die Afrika-Verschwörung",
+    "upc" : "4260507191397"
+  },
+  {
+    "albumID" : "1682881203",
+    "artist" : "Jules Verne",
+    "duration" : 4063.427,
+    "releaseDate" : 704937600,
+    "title" : "Die neuen Abenteuer des Phileas Fogg, Folge 36: Der letzte Tag auf Erden",
+    "upc" : "4260507182821"
+  },
+  {
+    "albumID" : "1725869879",
+    "artist" : "Jules Verne",
+    "duration" : 3504.2240000000006,
+    "releaseDate" : 733968000,
+    "title" : "Die neuen Abenteuer des Phileas Fogg, Folge 40: Im Land der tausend Gefahren",
+    "upc" : "4260507192530"
+  },
+  {
+    "albumID" : "1709964080",
+    "artist" : "Jules Verne",
+    "duration" : 3472.0800000000004,
+    "releaseDate" : 720057600,
+    "title" : "Folge 38: Von Feinden umgeben (Die neuen Abenteuer des Phileas Fogg)",
+    "upc" : "4260507190086"
+  },
+  {
+    "albumID" : "1697868814",
+    "artist" : "Jules Verne",
+    "duration" : 3692.5979999999986,
+    "releaseDate" : 714614400,
+    "title" : "Die neuen Abenteuer des Phileas Fogg, Folge 37: Die Stunde Null",
+    "upc" : "4260507188205"
+  },
+  {
+    "albumID" : "1740080869",
+    "artist" : "Jules Verne",
+    "duration" : 3613.1320000000005,
+    "releaseDate" : 739411200,
+    "title" : "Die neuen Abenteuer des Phileas Fogg, Folge 41: Aufbruch",
+    "upc" : "4260507194787"
+  },
+  {
+    "albumID" : "1680675390",
+    "artist" : "Jules Verne",
+    "duration" : 3692.5350000000008,
+    "releaseDate" : 703641600,
+    "title" : "Die neuen Abenteuer des Phileas Fogg, Folge 35: Roburs Rache",
+    "upc" : "4260507182012"
+  },
+  {
+    "albumID" : "1768716409",
+    "artist" : "Jules Verne",
+    "duration" : 3590.865,
+    "releaseDate" : 750902400,
+    "title" : "Die neuen Abenteuer des Phileas Fogg, Folge 42: Gefährliche Suche",
+    "upc" : "4260507199140"
+  },
+  {
+    "albumID" : "1557311940",
+    "artist" : "Jules Verne & Peter Folken",
+    "duration" : 3708.7650000000003,
+    "releaseDate" : 646272000,
+    "title" : "Mathias Sandorf (Hörspiel)",
+    "upc" : "4260507164001"
+  },
+  {
+    "albumID" : "1776665735",
+    "artist" : "Jules Verne",
+    "duration" : 185.813,
+    "releaseDate" : 755136000,
+    "title" : "Die neuen Abenteuer des Phileas Fogg, Folge 43: Afrika in Gefahr",
+    "upc" : "4260507200310"
   }
 ]
