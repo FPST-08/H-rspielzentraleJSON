@@ -60,6 +60,12 @@
     "url" : "https://raw.githubusercontent.com/FPST-08/H-rspielzentraleJSON/refs/heads/main/HoerspielData/Data/1397878902.json"
   },
   {
+    "artworkURL" : "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b4/c6/69/b4c6696d-f956-77f1-f04c-9e642c375f70/4260507172822_3000.jpg/1024x1024ac.jpg",
+    "id" : "1397886561",
+    "name" : "Macabros - Classics",
+    "url" : "https://raw.githubusercontent.com/FPST-08/H-rspielzentraleJSON/refs/heads/main/HoerspielData/Data/1397886561.json"
+  },
+  {
     "artworkURL" : "https://is1-ssl.mzstatic.com/image/thumb/Features124/v4/5a/81/13/5a811315-06d8-6af6-0f1f-bec885ff3823/pr_source.png/1024x1024bb.jpg",
     "id" : "1400668275",
     "name" : "TKKG Junior",
@@ -138,6 +144,12 @@
     "url" : "https://raw.githubusercontent.com/FPST-08/H-rspielzentraleJSON/refs/heads/main/HoerspielData/Data/1640502543.json"
   },
   {
+    "artworkURL" : "https://is1-ssl.mzstatic.com/image/thumb/Features124/v4/30/90/56/3090569a-54fc-eb89-e29f-493f04ddd994/pr_source.png/1024x1024bb.jpg",
+    "id" : "175056246",
+    "name" : "Macabros",
+    "url" : "https://raw.githubusercontent.com/FPST-08/H-rspielzentraleJSON/refs/heads/main/HoerspielData/Data/175056246.json"
+  },
+  {
     "artworkURL" : "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages116/v4/79/17/04/7917047d-a242-f263-8d2f-3ca62cd919cd/029cfd05-64d9-48f0-9aaf-75937e1551a8_ami-identity-ea3b3f6825f7a9b7c8542151a001c881-2023-09-08T06-30-49.489Z_cropped.png/1024x1024bb.jpg",
     "id" : "191548811",
     "name" : "TKKG",
@@ -148,6 +160,12 @@
     "id" : "201306317",
     "name" : "Die drei ???",
     "url" : "https://raw.githubusercontent.com/FPST-08/H-rspielzentraleJSON/refs/heads/main/HoerspielData/Data/201306317.json"
+  },
+  {
+    "artworkURL" : "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/c2/26/69/c2266981-28ff-cd5f-5cc1-fc37d02bd098/pr_source.png/1024x1024bb.jpg",
+    "id" : "201348770",
+    "name" : "Larry Brent",
+    "url" : "https://raw.githubusercontent.com/FPST-08/H-rspielzentraleJSON/refs/heads/main/HoerspielData/Data/201348770.json"
   },
   {
     "artworkURL" : "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/41/a1/8e/41a18e2c-76d6-7cc8-9c91-b62404fec710/cover.jpg/1024x1024ac.jpg",
@@ -186,10 +204,28 @@
     "url" : "https://raw.githubusercontent.com/FPST-08/H-rspielzentraleJSON/refs/heads/main/HoerspielData/Data/267092844.json"
   },
   {
+    "artworkURL" : "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/4c/90/29/4c9029f6-cd14-1201-d1d0-36e14bfbd21e/pr_source.png/1024x1024bb.jpg",
+    "id" : "270313904",
+    "name" : "Gruselserie",
+    "url" : "https://raw.githubusercontent.com/FPST-08/H-rspielzentraleJSON/refs/heads/main/HoerspielData/Data/270313904.json"
+  },
+  {
     "artworkURL" : "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a1/3d/4a/a13d4ae0-a700-884d-a083-137512eeb27c/4260507199461_3000.jpg/1024x1024ac.jpg",
     "id" : "291456784",
     "name" : "Tony Ballard",
     "url" : "https://raw.githubusercontent.com/FPST-08/H-rspielzentraleJSON/refs/heads/main/HoerspielData/Data/291456784.json"
+  },
+  {
+    "artworkURL" : "https://is1-ssl.mzstatic.com/image/thumb/Features112/v4/50/d1/40/50d14094-46aa-845f-c410-32637362d92b/mzl.yxqjysgj.jpg/1024x1024bb.jpg",
+    "id" : "293364446",
+    "name" : "Gruselkabinett",
+    "url" : "https://raw.githubusercontent.com/FPST-08/H-rspielzentraleJSON/refs/heads/main/HoerspielData/Data/293364446.json"
+  },
+  {
+    "artworkURL" : "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/38/93/b1/3893b1c4-18b3-f52d-7086-8bfda0f3cb74/4260507152091_3000.jpg/1024x1024ac.jpg",
+    "id" : "294596568",
+    "name" : "Dreamland Grusel",
+    "url" : "https://raw.githubusercontent.com/FPST-08/H-rspielzentraleJSON/refs/heads/main/HoerspielData/Data/294596568.json"
   },
   {
     "artworkURL" : "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages116/v4/cc/fe/ef/ccfeeff6-f7bb-4b47-52ef-bf5c384a6c01/cf9ac1bf-ae95-45ef-8072-3d2b9aacbc47_ami-identity-d85bc19b1eca24f3e76f5543ee507483-2023-11-08T11-18-58.017Z_cropped.png/1024x1024bb.jpg",
@@ -262,6 +298,12 @@
     "id" : "4597171",
     "name" : "John Sinclair",
     "url" : "https://raw.githubusercontent.com/FPST-08/H-rspielzentraleJSON/refs/heads/main/HoerspielData/Data/4597171.json"
+  },
+  {
+    "artworkURL" : "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/13/b0/a5/13b0a51e-5497-cc94-716d-1af8935f92cc/4260507157522_3000.jpg/1024x1024ac.jpg",
+    "id" : "548847081",
+    "name" : "Geister-Schocker",
+    "url" : "https://raw.githubusercontent.com/FPST-08/H-rspielzentraleJSON/refs/heads/main/HoerspielData/Data/548847081.json"
   },
   {
     "artworkURL" : "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/3a/c1/dc/3ac1dc48-46c9-7616-8de7-b2de5ec1e2eb/mzl.rnluiogq.jpg/1024x1024bb.jpg",
