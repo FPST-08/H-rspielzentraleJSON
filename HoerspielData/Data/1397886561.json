@@ -8,38 +8,6 @@
     "upc" : "4260507155504"
   },
   {
-    "albumID" : "1533635009",
-    "artist" : "Macabros - Classics",
-    "duration" : 4972.467,
-    "releaseDate" : 629337600,
-    "title" : "Folge 16: Geisterheere aus dem Jenseits",
-    "upc" : "4260507161635"
-  },
-  {
-    "albumID" : "1626452829",
-    "artist" : "Macabros - Classics",
-    "duration" : 2745.0000000000005,
-    "releaseDate" : 694656000,
-    "title" : "Folge 21: Besuch aus der Zukunft",
-    "upc" : "4260507174406"
-  },
-  {
-    "albumID" : "1610056268",
-    "artist" : "Macabros - Classics",
-    "duration" : 3922.9990000000007,
-    "releaseDate" : 682560000,
-    "title" : "Folge 20: Gestrandet auf der Hölleninsel",
-    "upc" : "4260507172822"
-  },
-  {
-    "albumID" : "1490161468",
-    "artist" : "Macabros - Classics",
-    "duration" : 4196.185,
-    "releaseDate" : 603331200,
-    "title" : "Folge 11: Im Leichenlabyrinth",
-    "upc" : "4260507155696"
-  },
-  {
     "albumID" : "1489585613",
     "artist" : "Macabros - Classics",
     "duration" : 7923.517999999996,
@@ -48,28 +16,20 @@
     "upc" : "4260507155511"
   },
   {
-    "albumID" : "1586797090",
+    "albumID" : "1489585767",
     "artist" : "Macabros - Classics",
-    "duration" : 4838.001000000001,
-    "releaseDate" : 665625600,
-    "title" : "Folge 19: Im Schlund der Höllenschlange",
-    "upc" : "4260507170194"
+    "duration" : 7066.142999999997,
+    "releaseDate" : 522892800,
+    "title" : "Folge 3: Attacke der Untoten",
+    "upc" : "4260507155528"
   },
   {
-    "albumID" : "1490160084",
+    "albumID" : "1489585792",
     "artist" : "Macabros - Classics",
-    "duration" : 3492.176999999999,
-    "releaseDate" : 600912000,
-    "title" : "Folge 10: Duell mit den Höllengeistern",
-    "upc" : "4260507155689"
-  },
-  {
-    "albumID" : "1490162818",
-    "artist" : "Macabros - Classics",
-    "duration" : 4676.107999999999,
-    "releaseDate" : 608169600,
-    "title" : "Folge 13: Mandragora, Herrin der Angst",
-    "upc" : "4260507155719"
+    "duration" : 6750.740999999998,
+    "releaseDate" : 551923200,
+    "title" : "Folge 4: Konga, der Menschenfrosch",
+    "upc" : "4260507155535"
   },
   {
     "albumID" : "1489593749",
@@ -80,20 +40,20 @@
     "upc" : "4260507155542"
   },
   {
+    "albumID" : "1489594296",
+    "artist" : "Macabros - Classics",
+    "duration" : 3619.9359999999997,
+    "releaseDate" : 554342400,
+    "title" : "Folge 6: Der Horror-Trip",
+    "upc" : "4260507155559"
+  },
+  {
     "albumID" : "1489592907",
     "artist" : "Macabros - Classics",
     "duration" : 3133.7470000000003,
     "releaseDate" : 555552000,
     "title" : "Folge 7: Totenacker der Dämonen",
     "upc" : "4260507155566"
-  },
-  {
-    "albumID" : "1490161850",
-    "artist" : "Macabros - Classics",
-    "duration" : 4618.052999999999,
-    "releaseDate" : 605750400,
-    "title" : "Folge 12: Molochos' Totenkarussell",
-    "upc" : "4260507155702"
   },
   {
     "albumID" : "1489586428",
@@ -112,20 +72,60 @@
     "upc" : "4260507155580"
   },
   {
-    "albumID" : "1489594296",
+    "albumID" : "1490160084",
     "artist" : "Macabros - Classics",
-    "duration" : 3619.9359999999997,
-    "releaseDate" : 554342400,
-    "title" : "Folge 6: Der Horror-Trip",
-    "upc" : "4260507155559"
+    "duration" : 3492.176999999999,
+    "releaseDate" : 600912000,
+    "title" : "Folge 10: Duell mit den Höllengeistern",
+    "upc" : "4260507155689"
   },
   {
-    "albumID" : "1489585767",
+    "albumID" : "1490161468",
     "artist" : "Macabros - Classics",
-    "duration" : 7066.142999999997,
-    "releaseDate" : 522892800,
-    "title" : "Folge 3: Attacke der Untoten",
-    "upc" : "4260507155528"
+    "duration" : 4196.185,
+    "releaseDate" : 603331200,
+    "title" : "Folge 11: Im Leichenlabyrinth",
+    "upc" : "4260507155696"
+  },
+  {
+    "albumID" : "1490161850",
+    "artist" : "Macabros - Classics",
+    "duration" : 4618.052999999999,
+    "releaseDate" : 605750400,
+    "title" : "Folge 12: Molochos' Totenkarussell",
+    "upc" : "4260507155702"
+  },
+  {
+    "albumID" : "1490162818",
+    "artist" : "Macabros - Classics",
+    "duration" : 4676.107999999999,
+    "releaseDate" : 608169600,
+    "title" : "Folge 13: Mandragora, Herrin der Angst",
+    "upc" : "4260507155719"
+  },
+  {
+    "albumID" : "1533644488",
+    "artist" : "Macabros - Classics",
+    "duration" : 4220.082,
+    "releaseDate" : 626918400,
+    "title" : "Folge 14: Knochensaat",
+    "upc" : "4260507161611"
+  },
+  {
+    "albumID" : "1533648902",
+    "artist" : "Macabros - Classics",
+    "duration" : 3882.042999999999,
+    "releaseDate" : 628128000,
+    "title" : "Folge 15: Phantoma, Tochter der Finsternis",
+    "upc" : "4260507161628"
+  },
+  {
+    "albumID" : "1533635009",
+    "artist" : "Macabros - Classics",
+    "duration" : 4972.467,
+    "releaseDate" : 629337600,
+    "title" : "Folge 16: Geisterheere aus dem Jenseits",
+    "upc" : "4260507161635"
   },
   {
     "albumID" : "1567985412",
@@ -144,36 +144,36 @@
     "upc" : "4260507169013"
   },
   {
-    "albumID" : "1533648902",
+    "albumID" : "1586797090",
     "artist" : "Macabros - Classics",
-    "duration" : 3882.042999999999,
-    "releaseDate" : 628128000,
-    "title" : "Folge 15: Phantoma, Tochter der Finsternis",
-    "upc" : "4260507161628"
+    "duration" : 4838.001000000001,
+    "releaseDate" : 665625600,
+    "title" : "Folge 19: Im Schlund der Höllenschlange",
+    "upc" : "4260507170194"
   },
   {
-    "albumID" : "1489585792",
+    "albumID" : "1610056268",
     "artist" : "Macabros - Classics",
-    "duration" : 6750.740999999998,
-    "releaseDate" : 551923200,
-    "title" : "Folge 4: Konga, der Menschenfrosch",
-    "upc" : "4260507155535"
+    "duration" : 3922.9990000000007,
+    "releaseDate" : 682560000,
+    "title" : "Folge 20: Gestrandet auf der Hölleninsel",
+    "upc" : "4260507172822"
   },
   {
-    "albumID" : "1533644488",
+    "albumID" : "1626452829",
     "artist" : "Macabros - Classics",
-    "duration" : 4220.082,
-    "releaseDate" : 626918400,
-    "title" : "Folge 14: Knochensaat",
-    "upc" : "4260507161611"
+    "duration" : 2745.0000000000005,
+    "releaseDate" : 694656000,
+    "title" : "Folge 21: Besuch aus der Zukunft",
+    "upc" : "4260507174406"
   },
   {
-    "albumID" : "1693249753",
+    "albumID" : "1654606351",
     "artist" : "Macabros - Classics",
-    "duration" : 3875.999,
-    "releaseDate" : 710985600,
-    "title" : "Folge 25: Marionetten des Schreckens",
-    "upc" : "4260507187291"
+    "duration" : 4484.998999999999,
+    "releaseDate" : 706752000,
+    "title" : "Folge 22: Abraxas - Fluch des Magiers",
+    "upc" : "4260507177605"
   },
   {
     "albumID" : "1670096771",
@@ -192,12 +192,12 @@
     "upc" : "4260507182807"
   },
   {
-    "albumID" : "1654606351",
+    "albumID" : "1693249753",
     "artist" : "Macabros - Classics",
-    "duration" : 4484.998999999999,
-    "releaseDate" : 706752000,
-    "title" : "Folge 22: Abraxas - Fluch des Magiers",
-    "upc" : "4260507177605"
+    "duration" : 3875.999,
+    "releaseDate" : 710985600,
+    "title" : "Folge 25: Marionetten des Schreckens",
+    "upc" : "4260507187291"
   },
   {
     "albumID" : "1767820618",
