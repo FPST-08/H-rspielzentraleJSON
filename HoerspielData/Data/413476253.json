@@ -40,6 +40,14 @@
     "upc" : "4260507167330"
   },
   {
+    "albumID" : "1576667416",
+    "artist" : "Heff Der Chef",
+    "duration" : 3221.4680000000003,
+    "releaseDate" : 649296000,
+    "title" : "Folge 3: Der Ausbilder",
+    "upc" : "4260507167293"
+  },
+  {
     "albumID" : "1576668653",
     "artist" : "Heff Der Chef",
     "duration" : 4524.515000000001,
@@ -54,14 +62,6 @@
     "releaseDate" : 649296000,
     "title" : "Folge 10: Das Firmenfahrzeug",
     "upc" : "4260507167439"
-  },
-  {
-    "albumID" : "1576667416",
-    "artist" : "Heff Der Chef",
-    "duration" : 3221.4680000000003,
-    "releaseDate" : 649296000,
-    "title" : "Folge 3: Der Ausbilder",
-    "upc" : "4260507167293"
   },
   {
     "albumID" : "1576668982",
@@ -80,12 +80,20 @@
     "upc" : "4260507167378"
   },
   {
-    "albumID" : "1576661207",
+    "albumID" : "1576669424",
     "artist" : "Heff Der Chef",
-    "duration" : 3059.959,
+    "duration" : 1749.9960000000005,
     "releaseDate" : 649296000,
-    "title" : "Folge 13: Der Abnehmwahn",
-    "upc" : "4260507167491"
+    "title" : "Folge 9: Die Putzfrau",
+    "upc" : "4260507167415"
+  },
+  {
+    "albumID" : "1576662268",
+    "artist" : "Heff Der Chef",
+    "duration" : 1866.1350000000002,
+    "releaseDate" : 649296000,
+    "title" : "Folge 16: World Wide Weg",
+    "upc" : "4260507167552"
   },
   {
     "albumID" : "1576663347",
@@ -104,20 +112,20 @@
     "upc" : "4260507167538"
   },
   {
-    "albumID" : "1576662268",
+    "albumID" : "1576661207",
     "artist" : "Heff Der Chef",
-    "duration" : 1866.1350000000002,
+    "duration" : 3059.959,
     "releaseDate" : 649296000,
-    "title" : "Folge 16: World Wide Weg",
-    "upc" : "4260507167552"
+    "title" : "Folge 13: Der Abnehmwahn",
+    "upc" : "4260507167491"
   },
   {
-    "albumID" : "1576669424",
+    "albumID" : "1576662536",
     "artist" : "Heff Der Chef",
-    "duration" : 1749.9960000000005,
+    "duration" : 1821.103,
     "releaseDate" : 649296000,
-    "title" : "Folge 9: Die Putzfrau",
-    "upc" : "4260507167415"
+    "title" : "Folge 17: Die Burg 1",
+    "upc" : "4260507167576"
   },
   {
     "albumID" : "1576663854",
@@ -134,14 +142,6 @@
     "releaseDate" : 649296000,
     "title" : "Folge 11: Der Stromausfall",
     "upc" : "4260507167453"
-  },
-  {
-    "albumID" : "1576662536",
-    "artist" : "Heff Der Chef",
-    "duration" : 1821.103,
-    "releaseDate" : 649296000,
-    "title" : "Folge 17: Die Burg 1",
-    "upc" : "4260507167576"
   },
   {
     "albumID" : "1576663862",
