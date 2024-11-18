@@ -160,20 +160,20 @@
     "upc" : "4260507142009"
   },
   {
-    "albumID" : "1414512431",
-    "artist" : "Offenbarung 23",
-    "duration" : 3791.0000000000005,
-    "releaseDate" : 336009600,
-    "title" : "Folge 1: Wer erschoss Tupac?",
-    "upc" : "4260507141637"
-  },
-  {
     "albumID" : "1414518821",
     "artist" : "Offenbarung 23",
     "duration" : 3920,
     "releaseDate" : 336009600,
     "title" : "Folge 3: Die Titanic darf nie ankommen!",
     "upc" : "4260507141651"
+  },
+  {
+    "albumID" : "1414512431",
+    "artist" : "Offenbarung 23",
+    "duration" : 3791.0000000000005,
+    "releaseDate" : 336009600,
+    "title" : "Folge 1: Wer erschoss Tupac?",
+    "upc" : "4260507141637"
   },
   {
     "albumID" : "1414515719",
@@ -520,20 +520,20 @@
     "upc" : "4260507142283"
   },
   {
-    "albumID" : "1414575525",
-    "artist" : "Offenbarung 23",
-    "duration" : 5000.998999999999,
-    "releaseDate" : 484790400,
-    "title" : "Folge 65: Reichtum",
-    "upc" : "4260507142306"
-  },
-  {
     "albumID" : "1414572431",
     "artist" : "Offenbarung 23",
     "duration" : 4506.005999999999,
     "releaseDate" : 484790400,
     "title" : "Folge 64: Der schwarze Tod",
     "upc" : "4260507142290"
+  },
+  {
+    "albumID" : "1414575525",
+    "artist" : "Offenbarung 23",
+    "duration" : 5000.998999999999,
+    "releaseDate" : 484790400,
+    "title" : "Folge 65: Reichtum",
+    "upc" : "4260507142306"
   },
   {
     "albumID" : "1411394426",
