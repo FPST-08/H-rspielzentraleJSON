@@ -32,12 +32,12 @@
     "upc" : "4260507147608"
   },
   {
-    "albumID" : "1451509272",
+    "albumID" : "1451509904",
     "artist" : "Sherlock Holmes Chronicles",
-    "duration" : 8962.004999999997,
+    "duration" : 9516.394000000006,
     "releaseDate" : 448502400,
-    "title" : "Folge 9: Das Freimaurer-Komplott",
-    "upc" : "4260507147615"
+    "title" : "Folge 11: Der Fluch der Titanic",
+    "upc" : "4260507147639"
   },
   {
     "albumID" : "1451508470",
@@ -48,12 +48,12 @@
     "upc" : "4260507147592"
   },
   {
-    "albumID" : "1451509904",
+    "albumID" : "1451509272",
     "artist" : "Sherlock Holmes Chronicles",
-    "duration" : 9516.394000000006,
+    "duration" : 8962.004999999997,
     "releaseDate" : 448502400,
-    "title" : "Folge 11: Der Fluch der Titanic",
-    "upc" : "4260507147639"
+    "title" : "Folge 9: Das Freimaurer-Komplott",
+    "upc" : "4260507147615"
   },
   {
     "albumID" : "1451508851",
