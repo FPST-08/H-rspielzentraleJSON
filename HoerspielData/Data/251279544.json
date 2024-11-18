@@ -64,6 +64,14 @@
     "upc" : "9783838761176"
   },
   {
+    "albumID" : "309311997",
+    "artist" : "Jason Dark & John Sinclair",
+    "duration" : 2729.3740000000003,
+    "releaseDate" : 36374400,
+    "title" : "John Sinclair, Folge 16: Die Horror-Cops (Teil 1 von 3)",
+    "upc" : "9783838761190"
+  },
+  {
     "albumID" : "309162788",
     "artist" : "Jason Dark & John Sinclair",
     "duration" : 2952.946,
@@ -78,14 +86,6 @@
     "releaseDate" : 36374400,
     "title" : "John Sinclair, Folge 13: Gefangen in der Mikrowelt (Teil 2 von 2)",
     "upc" : "9783838761169"
-  },
-  {
-    "albumID" : "309311997",
-    "artist" : "Jason Dark & John Sinclair",
-    "duration" : 2729.3740000000003,
-    "releaseDate" : 36374400,
-    "title" : "John Sinclair, Folge 16: Die Horror-Cops (Teil 1 von 3)",
-    "upc" : "9783838761190"
   },
   {
     "albumID" : "309151058",
@@ -224,20 +224,20 @@
     "upc" : "9783838761510"
   },
   {
-    "albumID" : "309182475",
-    "artist" : "Jason Dark & John Sinclair",
-    "duration" : 2803.9469999999997,
-    "releaseDate" : 156038400,
-    "title" : "John Sinclair, Folge 33: Die Eisvampire",
-    "upc" : "9783838761367"
-  },
-  {
     "albumID" : "309206799",
     "artist" : "Jason Dark & John Sinclair",
     "duration" : 2857.5850000000005,
     "releaseDate" : 156038400,
     "title" : "John Sinclair, Folge 34: Mr. Mondos Monster (Teil 1 von 2)",
     "upc" : "9783838761374"
+  },
+  {
+    "albumID" : "309182475",
+    "artist" : "Jason Dark & John Sinclair",
+    "duration" : 2803.9469999999997,
+    "releaseDate" : 156038400,
+    "title" : "John Sinclair, Folge 33: Die Eisvampire",
+    "upc" : "9783838761367"
   },
   {
     "albumID" : "309190980",
@@ -272,20 +272,20 @@
     "upc" : "9783838761411"
   },
   {
-    "albumID" : "309174968",
-    "artist" : "Jason Dark & John Sinclair",
-    "duration" : 2931.9849999999997,
-    "releaseDate" : 208742400,
-    "title" : "John Sinclair, Folge 39: Schreie in der Horror-Gruft (Teil 2 von 3)",
-    "upc" : "9783838761428"
-  },
-  {
     "albumID" : "309156072",
     "artist" : "Jason Dark & John Sinclair",
     "duration" : 3233.8940000000002,
     "releaseDate" : 208742400,
     "title" : "John Sinclair, Folge 40: Mein Todesurteil (Teil 3 von 3)",
     "upc" : "9783838761435"
+  },
+  {
+    "albumID" : "309174968",
+    "artist" : "Jason Dark & John Sinclair",
+    "duration" : 2931.9849999999997,
+    "releaseDate" : 208742400,
+    "title" : "John Sinclair, Folge 39: Schreie in der Horror-Gruft (Teil 2 von 3)",
+    "upc" : "9783838761428"
   },
   {
     "albumID" : "309170640",
