@@ -40,14 +40,6 @@
     "upc" : "886446263205"
   },
   {
-    "albumID" : "1213397961",
-    "artist" : "Gruselserie",
-    "duration" : 2264.1340000000005,
-    "releaseDate" : -52617600,
-    "title" : "Folge 1: Frankensteins Sohn im Monster-Labor",
-    "upc" : "886446262949"
-  },
-  {
     "albumID" : "1213401347",
     "artist" : "Gruselserie",
     "duration" : 2502.7209999999995,
@@ -88,22 +80,6 @@
     "upc" : "886446263076"
   },
   {
-    "albumID" : "1450265406",
-    "artist" : "Gruselserie",
-    "duration" : 3191.490999999999,
-    "releaseDate" : 573091200,
-    "title" : "Folge 1: Polterabend - Nacht des Entsetzens",
-    "upc" : "886447300985"
-  },
-  {
-    "albumID" : "815685891",
-    "artist" : "Gruselserie",
-    "duration" : 3350.933,
-    "releaseDate" : 415843200,
-    "title" : "Folge 01: Schrecken ohne Gesicht",
-    "upc" : "9783943732337"
-  },
-  {
     "albumID" : "1213459941",
     "artist" : "Gruselserie",
     "duration" : 2619.1219999999994,
@@ -120,28 +96,12 @@
     "upc" : "886446263519"
   },
   {
-    "albumID" : "1470206605",
-    "artist" : "Gruselserie",
-    "duration" : 3374.426000000001,
-    "releaseDate" : 587606400,
-    "title" : "004/Projekt X - Invasion der Aliens",
-    "upc" : "886447542217"
-  },
-  {
     "albumID" : "1213418718",
     "artist" : "Gruselserie",
     "duration" : 2127.756,
     "releaseDate" : -63114076800,
     "title" : "Folge 9: Im Bann der Monsterspinne",
     "upc" : "886446263168"
-  },
-  {
-    "albumID" : "815768795",
-    "artist" : "Gruselserie",
-    "duration" : 2874.6000000000004,
-    "releaseDate" : 415843200,
-    "title" : "Folge 02: Die Plantage",
-    "upc" : "9780201379624"
   },
   {
     "albumID" : "1213461068",
@@ -152,60 +112,12 @@
     "upc" : "886446263601"
   },
   {
-    "albumID" : "1450264967",
-    "artist" : "Gruselserie",
-    "duration" : 3543.7479999999996,
-    "releaseDate" : 573177600,
-    "title" : "Folge 2: Yeti - Kreatur aus dem Himalaya",
-    "upc" : "886447300992"
-  },
-  {
     "albumID" : "1213451429",
     "artist" : "Gruselserie",
     "duration" : 2587.0440000000003,
     "releaseDate" : -63114076800,
     "title" : "Folge 14: Die tödliche Begegnung mit dem Werwolf",
     "upc" : "886446263410"
-  },
-  {
-    "albumID" : "1474808204",
-    "artist" : "Gruselserie",
-    "duration" : 3597.3040000000005,
-    "releaseDate" : 593049600,
-    "title" : "Folge 5: Dracula - Tod im All",
-    "upc" : "886447542330"
-  },
-  {
-    "albumID" : "1456262422",
-    "artist" : "Gruselserie",
-    "duration" : 3594.292000000001,
-    "releaseDate" : 578534400,
-    "title" : "Folge 3: Moskitos - Anflug der Killer-Insekten",
-    "upc" : "886447301012"
-  },
-  {
-    "albumID" : "1524662020",
-    "artist" : "Gruselserie",
-    "duration" : 3378.468,
-    "releaseDate" : 621475200,
-    "title" : "Folge 6: SOS - Wasserleichen an Bord",
-    "upc" : "886448286257"
-  },
-  {
-    "albumID" : "1706316862",
-    "artist" : "Gruselserie",
-    "duration" : 3464.0909999999994,
-    "releaseDate" : 718243200,
-    "title" : "Folge 11: Gothic Land (Treibjagd im Vergnügungspark)",
-    "upc" : "196871130608"
-  },
-  {
-    "albumID" : "1539428592",
-    "artist" : "Gruselserie",
-    "duration" : 3630.64,
-    "releaseDate" : 632966400,
-    "title" : "Folge 7: Mondära - Im Todesgriff der Würgepflanze",
-    "upc" : "886448779667"
   },
   {
     "albumID" : "1213426333",
@@ -224,6 +136,86 @@
     "upc" : "886446263366"
   },
   {
+    "albumID" : "1213397961",
+    "artist" : "Gruselserie",
+    "duration" : 2264.1340000000005,
+    "releaseDate" : -52617600,
+    "title" : "Folge 1: Frankensteins Sohn im Monster-Labor",
+    "upc" : "886446262949"
+  },
+  {
+    "albumID" : "815685891",
+    "artist" : "Gruselserie",
+    "duration" : 3350.933,
+    "releaseDate" : 415843200,
+    "title" : "Folge 01: Schrecken ohne Gesicht",
+    "upc" : "9783943732337"
+  },
+  {
+    "albumID" : "815768795",
+    "artist" : "Gruselserie",
+    "duration" : 2874.6000000000004,
+    "releaseDate" : 415843200,
+    "title" : "Folge 02: Die Plantage",
+    "upc" : "9780201379624"
+  },
+  {
+    "albumID" : "1450265406",
+    "artist" : "Gruselserie",
+    "duration" : 3191.490999999999,
+    "releaseDate" : 573091200,
+    "title" : "Folge 1: Polterabend - Nacht des Entsetzens",
+    "upc" : "886447300985"
+  },
+  {
+    "albumID" : "1450264967",
+    "artist" : "Gruselserie",
+    "duration" : 3543.7479999999996,
+    "releaseDate" : 573177600,
+    "title" : "Folge 2: Yeti - Kreatur aus dem Himalaya",
+    "upc" : "886447300992"
+  },
+  {
+    "albumID" : "1456262422",
+    "artist" : "Gruselserie",
+    "duration" : 3594.292000000001,
+    "releaseDate" : 578534400,
+    "title" : "Folge 3: Moskitos - Anflug der Killer-Insekten",
+    "upc" : "886447301012"
+  },
+  {
+    "albumID" : "1470206605",
+    "artist" : "Gruselserie",
+    "duration" : 3374.426000000001,
+    "releaseDate" : 587606400,
+    "title" : "004/Projekt X - Invasion der Aliens",
+    "upc" : "886447542217"
+  },
+  {
+    "albumID" : "1474808204",
+    "artist" : "Gruselserie",
+    "duration" : 3597.3040000000005,
+    "releaseDate" : 593049600,
+    "title" : "Folge 5: Dracula - Tod im All",
+    "upc" : "886447542330"
+  },
+  {
+    "albumID" : "1524662020",
+    "artist" : "Gruselserie",
+    "duration" : 3378.468,
+    "releaseDate" : 621475200,
+    "title" : "Folge 6: SOS - Wasserleichen an Bord",
+    "upc" : "886448286257"
+  },
+  {
+    "albumID" : "1539428592",
+    "artist" : "Gruselserie",
+    "duration" : 3630.64,
+    "releaseDate" : 632966400,
+    "title" : "Folge 7: Mondära - Im Todesgriff der Würgepflanze",
+    "upc" : "886448779667"
+  },
+  {
     "albumID" : "1573587308",
     "artist" : "Gruselserie",
     "duration" : 3647.562,
@@ -232,12 +224,12 @@
     "upc" : "886449071135"
   },
   {
-    "albumID" : "1742547215",
+    "albumID" : "1683815107",
     "artist" : "Gruselserie",
-    "duration" : 3654.9600000000005,
-    "releaseDate" : 737596800,
-    "title" : "Folge 12: Der Unsichtbare - Injektion des Bösen",
-    "upc" : "196871902250"
+    "duration" : 3484.772000000001,
+    "releaseDate" : 672883200,
+    "title" : "Folge 9: Ouija - Terror im Geisterhaus",
+    "upc" : "196871076661"
   },
   {
     "albumID" : "1683814226",
@@ -248,11 +240,19 @@
     "upc" : "196871076760"
   },
   {
-    "albumID" : "1683815107",
+    "albumID" : "1706316862",
     "artist" : "Gruselserie",
-    "duration" : 3484.772000000001,
-    "releaseDate" : 672883200,
-    "title" : "Folge 9: Ouija - Terror im Geisterhaus",
-    "upc" : "196871076661"
+    "duration" : 3464.0909999999994,
+    "releaseDate" : 718243200,
+    "title" : "Folge 11: Gothic Land (Treibjagd im Vergnügungspark)",
+    "upc" : "196871130608"
+  },
+  {
+    "albumID" : "1742547215",
+    "artist" : "Gruselserie",
+    "duration" : 3654.9600000000005,
+    "releaseDate" : 737596800,
+    "title" : "Folge 12: Der Unsichtbare - Injektion des Bösen",
+    "upc" : "196871902250"
   }
 ]
