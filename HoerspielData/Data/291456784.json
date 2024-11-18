@@ -152,22 +152,6 @@
     "upc" : "4260507152435"
   },
   {
-    "albumID" : "1473311766",
-    "artist" : "Tony Ballard",
-    "duration" : 4424.814,
-    "releaseDate" : 585792000,
-    "title" : "Folge 14: Das Schiff der schwarzen Piraten",
-    "upc" : "4260507152411"
-  },
-  {
-    "albumID" : "1473317064",
-    "artist" : "Tony Ballard",
-    "duration" : 3651.175,
-    "releaseDate" : 585792000,
-    "title" : "Folge 18: Horrorhölle Tansania",
-    "upc" : "4260507152459"
-  },
-  {
     "albumID" : "1473318223",
     "artist" : "Tony Ballard",
     "duration" : 4572.432000000001,
@@ -182,6 +166,22 @@
     "releaseDate" : 585792000,
     "title" : "Folge 17: Ich jagte das rote Skelett",
     "upc" : "4260507152442"
+  },
+  {
+    "albumID" : "1473311766",
+    "artist" : "Tony Ballard",
+    "duration" : 4424.814,
+    "releaseDate" : 585792000,
+    "title" : "Folge 14: Das Schiff der schwarzen Piraten",
+    "upc" : "4260507152411"
+  },
+  {
+    "albumID" : "1473317064",
+    "artist" : "Tony Ballard",
+    "duration" : 3651.175,
+    "releaseDate" : 585792000,
+    "title" : "Folge 18: Horrorhölle Tansania",
+    "upc" : "4260507152459"
   },
   {
     "albumID" : "1473320965",
@@ -216,28 +216,12 @@
     "upc" : "4260507152527"
   },
   {
-    "albumID" : "1473323686",
+    "albumID" : "1473323352",
     "artist" : "Tony Ballard",
-    "duration" : 4734.6939999999995,
+    "duration" : 3820.4660000000003,
     "releaseDate" : 585792000,
-    "title" : "Folge 30: Monster aus der Retorte",
-    "upc" : "4260507152572"
-  },
-  {
-    "albumID" : "1473320977",
-    "artist" : "Tony Ballard",
-    "duration" : 4721.201,
-    "releaseDate" : 585792000,
-    "title" : "Folge 24: In den Klauen der Knochenmänner",
-    "upc" : "4260507152510"
-  },
-  {
-    "albumID" : "1473320246",
-    "artist" : "Tony Ballard",
-    "duration" : 4483.348,
-    "releaseDate" : 585792000,
-    "title" : "Folge 22: Die Schrecken des Mortimer K.",
-    "upc" : "4260507152497"
+    "title" : "Folge 29: Der Kampf um den Ring",
+    "upc" : "4260507152565"
   },
   {
     "albumID" : "1473326325",
@@ -248,20 +232,28 @@
     "upc" : "4260507152589"
   },
   {
-    "albumID" : "1473323352",
+    "albumID" : "1473323686",
     "artist" : "Tony Ballard",
-    "duration" : 3820.4660000000003,
+    "duration" : 4734.6939999999995,
     "releaseDate" : 585792000,
-    "title" : "Folge 29: Der Kampf um den Ring",
-    "upc" : "4260507152565"
+    "title" : "Folge 30: Monster aus der Retorte",
+    "upc" : "4260507152572"
   },
   {
-    "albumID" : "1473322250",
+    "albumID" : "1473320246",
     "artist" : "Tony Ballard",
-    "duration" : 4410.152,
+    "duration" : 4483.348,
     "releaseDate" : 585792000,
-    "title" : "Folge 26: Die Hexe und ihr Henker",
-    "upc" : "4260507152534"
+    "title" : "Folge 22: Die Schrecken des Mortimer K.",
+    "upc" : "4260507152497"
+  },
+  {
+    "albumID" : "1473320977",
+    "artist" : "Tony Ballard",
+    "duration" : 4721.201,
+    "releaseDate" : 585792000,
+    "title" : "Folge 24: In den Klauen der Knochenmänner",
+    "upc" : "4260507152510"
   },
   {
     "albumID" : "1473323054",
@@ -270,6 +262,14 @@
     "releaseDate" : 585792000,
     "title" : "Folge 28: Der Teufel führt Regie",
     "upc" : "4260507152558"
+  },
+  {
+    "albumID" : "1473322250",
+    "artist" : "Tony Ballard",
+    "duration" : 4410.152,
+    "releaseDate" : 585792000,
+    "title" : "Folge 26: Die Hexe und ihr Henker",
+    "upc" : "4260507152534"
   },
   {
     "albumID" : "1473348814",
