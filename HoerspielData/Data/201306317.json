@@ -1314,7 +1314,7 @@
   {
     "albumID" : "1149010695",
     "artist" : "Die drei ???",
-    "duration" : 4253.856,
+    "duration" : 106.147,
     "releaseDate" : 358992000,
     "title" : "Folge 154: Botschaft aus der Unterwelt",
     "upc" : "886445756517"
@@ -2064,20 +2064,20 @@
     "upc" : "886447878439"
   },
   {
-    "albumID" : "1535920186",
-    "artist" : "Die drei ???",
-    "duration" : 6885.507,
-    "releaseDate" : 627523200,
-    "title" : "und das Grab der Maya",
-    "upc" : "886448741367"
-  },
-  {
     "albumID" : "1535924407",
     "artist" : "Die drei ???",
     "duration" : 7113.002999999999,
     "releaseDate" : 627523200,
     "title" : "und das Grab der Maya (Kopfhörer-Hörspiel)",
     "upc" : "886448741374"
+  },
+  {
+    "albumID" : "1535920186",
+    "artist" : "Die drei ???",
+    "duration" : 6885.507,
+    "releaseDate" : 627523200,
+    "title" : "und das Grab der Maya",
+    "upc" : "886448741367"
   },
   {
     "albumID" : "1529406670",
@@ -2314,7 +2314,7 @@
   {
     "albumID" : "1777986506",
     "artist" : "Die drei ???",
-    "duration" : 46.643,
+    "duration" : 46.64,
     "releaseDate" : 758764800,
     "title" : "Folge 231: und der Dreiäugige Schakal",
     "upc" : "196872231458"
