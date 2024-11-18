@@ -64,20 +64,20 @@
     "upc" : "886445239904"
   },
   {
-    "albumID" : "1029945921",
-    "artist" : "Teufelskicker",
-    "duration" : 3285.5879999999993,
-    "releaseDate" : 184809600,
-    "title" : "Folge 8: Doppelter Einsatz für Moritz!",
-    "upc" : "886445239911"
-  },
-  {
     "albumID" : "1029957270",
     "artist" : "Teufelskicker",
     "duration" : 4205.522000000001,
     "releaseDate" : 184809600,
     "title" : "Folge 46: Eigentor für Moritz!",
     "upc" : "886445284003"
+  },
+  {
+    "albumID" : "1029945921",
+    "artist" : "Teufelskicker",
+    "duration" : 3285.5879999999993,
+    "releaseDate" : 184809600,
+    "title" : "Folge 8: Doppelter Einsatz für Moritz!",
+    "upc" : "886445239911"
   },
   {
     "albumID" : "1029945689",
