@@ -32,20 +32,20 @@
     "upc" : "4260147775353"
   },
   {
-    "albumID" : "1025861728",
-    "artist" : "Danger",
-    "duration" : 3546.374,
-    "releaseDate" : 462412800,
-    "title" : "Part 9: Sternengezücht",
-    "upc" : "4260147775407"
-  },
-  {
     "albumID" : "1025858179",
     "artist" : "Danger",
     "duration" : 3772.7080000000005,
     "releaseDate" : 462412800,
     "title" : "Part 5: Entweiht",
     "upc" : "4260147775360"
+  },
+  {
+    "albumID" : "1025861728",
+    "artist" : "Danger",
+    "duration" : 3546.374,
+    "releaseDate" : 462412800,
+    "title" : "Part 9: Sternengezücht",
+    "upc" : "4260147775407"
   },
   {
     "albumID" : "1025856181",
