@@ -392,20 +392,20 @@
     "upc" : "886445362879"
   },
   {
-    "albumID" : "1295014226",
-    "artist" : "Die drei !!!",
-    "duration" : 8222.534000000003,
-    "releaseDate" : 499910400,
-    "title" : "Adventskalender - Das Weihnachtsrätsel",
-    "upc" : "886446331553"
-  },
-  {
     "albumID" : "1295114870",
     "artist" : "Die drei !!!",
     "duration" : 7779.283,
     "releaseDate" : 499910400,
     "title" : "Adventskalender - Weihnachtsmann gesucht",
     "upc" : "886446154114"
+  },
+  {
+    "albumID" : "1295014226",
+    "artist" : "Die drei !!!",
+    "duration" : 8222.534000000003,
+    "releaseDate" : 499910400,
+    "title" : "Adventskalender - Das Weihnachtsrätsel",
+    "upc" : "886446331553"
   },
   {
     "albumID" : "1149031659",
