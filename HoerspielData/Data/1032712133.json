@@ -8,20 +8,20 @@
     "upc" : "4260147775759"
   },
   {
-    "albumID" : "1032712128",
-    "artist" : "NYPDead - Medical Report",
-    "duration" : 3306.9059999999995,
-    "releaseDate" : 465436800,
-    "title" : "Folge 3: Spuren nach dem Tod",
-    "upc" : "4260147775773"
-  },
-  {
     "albumID" : "1032716870",
     "artist" : "NYPDead - Medical Report",
     "duration" : 4425.481,
     "releaseDate" : 465436800,
     "title" : "Folge 2: Auf den ersten Blick",
     "upc" : "4260147775766"
+  },
+  {
+    "albumID" : "1032712128",
+    "artist" : "NYPDead - Medical Report",
+    "duration" : 3306.9059999999995,
+    "releaseDate" : 465436800,
+    "title" : "Folge 3: Spuren nach dem Tod",
+    "upc" : "4260147775773"
   },
   {
     "albumID" : "1032716314",
