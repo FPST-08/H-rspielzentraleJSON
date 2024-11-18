@@ -1,5 +1,13 @@
 [
   {
+    "albumID" : "1529843145",
+    "artist" : "Jules Verne & Jürgen Thormann",
+    "duration" : 3572.466,
+    "releaseDate" : 126230400,
+    "title" : "In 80 Tagen um die Welt (neu erzählt)",
+    "upc" : "4064066685560"
+  },
+  {
     "albumID" : "1529843175",
     "artist" : "Jules Verne & Friedhelm Ptok",
     "duration" : 4549.907,
@@ -8,20 +16,12 @@
     "upc" : "4064066685553"
   },
   {
-    "albumID" : "1647362334",
-    "artist" : "Jules Verne",
-    "duration" : 4535.867,
-    "releaseDate" : 686275200,
-    "title" : "20.000 Meilen unter dem Meer - neu erzählt",
-    "upc" : "4066339236028"
-  },
-  {
-    "albumID" : "1529843145",
-    "artist" : "Jules Verne & Jürgen Thormann",
-    "duration" : 3572.466,
-    "releaseDate" : 126230400,
-    "title" : "In 80 Tagen um die Welt (neu erzählt)",
-    "upc" : "4064066685560"
+    "albumID" : "1448268905",
+    "artist" : "Jules Verne, Kurt Lieck & Wilhelm Kürten",
+    "duration" : 4663.277999999999,
+    "releaseDate" : 390441600,
+    "title" : "Die Reise um die Erde in 80 Tagen",
+    "upc" : "4057664499233"
   },
   {
     "albumID" : "1544711662",
@@ -32,11 +32,11 @@
     "upc" : "4064066826611"
   },
   {
-    "albumID" : "1448268905",
-    "artist" : "Jules Verne, Kurt Lieck & Wilhelm Kürten",
-    "duration" : 4663.277999999999,
-    "releaseDate" : 390441600,
-    "title" : "Die Reise um die Erde in 80 Tagen",
-    "upc" : "4057664499233"
+    "albumID" : "1647362334",
+    "artist" : "Jules Verne",
+    "duration" : 4535.867,
+    "releaseDate" : 686275200,
+    "title" : "20.000 Meilen unter dem Meer - neu erzählt",
+    "upc" : "4066339236028"
   }
 ]
