@@ -8,14 +8,6 @@
     "upc" : "4260507144997"
   },
   {
-    "albumID" : "1443574009",
-    "artist" : "Die größten Fälle von Scotland Yard",
-    "duration" : 3901.6129999999985,
-    "releaseDate" : 458784000,
-    "title" : "Folge 3: Treibgut",
-    "upc" : "4260507145017"
-  },
-  {
     "albumID" : "1443572542",
     "artist" : "Die größten Fälle von Scotland Yard",
     "duration" : 4639.0160000000005,
@@ -24,12 +16,12 @@
     "upc" : "4260507145000"
   },
   {
-    "albumID" : "1443574598",
+    "albumID" : "1443574009",
     "artist" : "Die größten Fälle von Scotland Yard",
-    "duration" : 4542.499,
+    "duration" : 3901.6129999999985,
     "releaseDate" : 458784000,
-    "title" : "Folge 5: Sein letzter Fall",
-    "upc" : "4260507145031"
+    "title" : "Folge 3: Treibgut",
+    "upc" : "4260507145017"
   },
   {
     "albumID" : "1443575282",
@@ -38,6 +30,14 @@
     "releaseDate" : 458784000,
     "title" : "Folge 4: Ungeboren",
     "upc" : "4260507145024"
+  },
+  {
+    "albumID" : "1443574598",
+    "artist" : "Die größten Fälle von Scotland Yard",
+    "duration" : 4542.499,
+    "releaseDate" : 458784000,
+    "title" : "Folge 5: Sein letzter Fall",
+    "upc" : "4260507145031"
   },
   {
     "albumID" : "1443578862",
