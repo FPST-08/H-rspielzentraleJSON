@@ -1,93 +1,5 @@
 [
   {
-    "albumID" : "1468519031",
-    "artist" : "Dreamland Grusel",
-    "duration" : 3975.6659999999997,
-    "releaseDate" : 583372800,
-    "title" : "Folge 39: Geisternebel",
-    "upc" : "4260507152091"
-  },
-  {
-    "albumID" : "1483066565",
-    "artist" : "Dreamland Grusel",
-    "duration" : 2845.451,
-    "releaseDate" : 597283200,
-    "title" : "Folge 41: Die Weltraummonster",
-    "upc" : "4260507154750"
-  },
-  {
-    "albumID" : "1508619668",
-    "artist" : "Dreamland Grusel",
-    "duration" : 3554.0009999999997,
-    "releaseDate" : 610588800,
-    "title" : "Folge 43: Die weiße Frau",
-    "upc" : "4260507157942"
-  },
-  {
-    "albumID" : "1533637267",
-    "artist" : "Dreamland Grusel",
-    "duration" : 2978.091,
-    "releaseDate" : 625104000,
-    "title" : "Folge 46: Es begann an Halloween...",
-    "upc" : "4260507161550"
-  },
-  {
-    "albumID" : "1497368927",
-    "artist" : "Dreamland Grusel",
-    "duration" : 4243.677000000001,
-    "releaseDate" : 605145600,
-    "title" : "Folge 42: Das Geheimnis der Betty H.",
-    "upc" : "4260507156631"
-  },
-  {
-    "albumID" : "1567857567",
-    "artist" : "Dreamland Grusel",
-    "duration" : 4439.683,
-    "releaseDate" : 646272000,
-    "title" : "Folge 48: Schattenlose Zeiten",
-    "upc" : "4260507166104"
-  },
-  {
-    "albumID" : "1446684786",
-    "artist" : "Dreamland Grusel",
-    "duration" : 4179.333,
-    "releaseDate" : 570067200,
-    "title" : "Folge 37: Die dämonische Statue",
-    "upc" : "4260507145857"
-  },
-  {
-    "albumID" : "1580338473",
-    "artist" : "Dreamland Grusel",
-    "duration" : 2394.7599999999993,
-    "releaseDate" : 652320000,
-    "title" : "Folge 49: Höhle des Schreckens",
-    "upc" : "4260507169976"
-  },
-  {
-    "albumID" : "1458121152",
-    "artist" : "Dreamland Grusel",
-    "duration" : 2980.346,
-    "releaseDate" : 577929600,
-    "title" : "Folge 38: Der letzte Tropfen",
-    "upc" : "4260507149329"
-  },
-  {
-    "albumID" : "1458780882",
-    "artist" : "Dreamland Grusel",
-    "duration" : 4169.374,
-    "releaseDate" : 530755200,
-    "title" : "Folge 32: Hotel der Toten",
-    "upc" : "4260507149688"
-  },
-  {
-    "albumID" : "1522851912",
-    "artist" : "Dreamland Grusel",
-    "duration" : 3895.497,
-    "releaseDate" : 617846400,
-    "title" : "Folge 44: Interferenzen, Teil 1",
-    "upc" : "4260507160195"
-  },
-  {
     "albumID" : "1458762416",
     "artist" : "Dreamland Grusel",
     "duration" : 4482.461000000001,
@@ -96,84 +8,12 @@
     "upc" : "4260507149367"
   },
   {
-    "albumID" : "1586777064",
-    "artist" : "Dreamland Grusel",
-    "duration" : 4775.783999999999,
-    "releaseDate" : 655948800,
-    "title" : "Folge 50: Meister der Angst",
-    "upc" : "4260507170231"
-  },
-  {
-    "albumID" : "1634562993",
-    "artist" : "Dreamland Grusel",
-    "duration" : 3964.4790000000003,
-    "releaseDate" : 681350400,
-    "title" : "Folge 53: Das Grauen von Blackmoore",
-    "upc" : "4260507175441"
-  },
-  {
     "albumID" : "1458762910",
     "artist" : "Dreamland Grusel",
     "duration" : 4278.713000000001,
     "releaseDate" : 336009600,
     "title" : "Folge 2: Jagd auf den Werwolf",
     "upc" : "4260507149381"
-  },
-  {
-    "albumID" : "1458782817",
-    "artist" : "Dreamland Grusel",
-    "duration" : 4441.799,
-    "releaseDate" : 534384000,
-    "title" : "Folge 33: Der Fluch von Morosko",
-    "upc" : "4260507149695"
-  },
-  {
-    "albumID" : "1554466424",
-    "artist" : "Dreamland Grusel",
-    "duration" : 4110.5030000000015,
-    "releaseDate" : 635990400,
-    "title" : "Folge 47: Die Angst beginnt um Viertel nach acht",
-    "upc" : "4260507162915"
-  },
-  {
-    "albumID" : "1481065583",
-    "artist" : "Dreamland Grusel",
-    "duration" : 7272.659000000002,
-    "releaseDate" : 591840000,
-    "title" : "Folge 40: Mutter",
-    "upc" : "4260507153845"
-  },
-  {
-    "albumID" : "1610145468",
-    "artist" : "Dreamland Grusel",
-    "duration" : 3003.1339999999996,
-    "releaseDate" : 669254400,
-    "title" : "Folge 51: Die Caves und der Klang des Todes",
-    "upc" : "4260507172600"
-  },
-  {
-    "albumID" : "1458769521",
-    "artist" : "Dreamland Grusel",
-    "duration" : 3466.6040000000007,
-    "releaseDate" : 368668800,
-    "title" : "Folge 12: Kap der blutigen Nächte",
-    "upc" : "4260507149497"
-  },
-  {
-    "albumID" : "1458783656",
-    "artist" : "Dreamland Grusel",
-    "duration" : 3763.884000000001,
-    "releaseDate" : 560390400,
-    "title" : "Folge 36: Galgendorf",
-    "upc" : "4260507149725"
-  },
-  {
-    "albumID" : "1458779647",
-    "artist" : "Dreamland Grusel",
-    "duration" : 3834.6810000000005,
-    "releaseDate" : 525312000,
-    "title" : "Folge 30: Zeit der Angst",
-    "upc" : "4260507149664"
   },
   {
     "albumID" : "1458763362",
@@ -192,28 +32,12 @@
     "upc" : "4260507149459"
   },
   {
-    "albumID" : "1458772190",
-    "artist" : "Dreamland Grusel",
-    "duration" : 4784.708,
-    "releaseDate" : 427334400,
-    "title" : "Folge 17: Killer aus der Tiefe",
-    "upc" : "4260507149534"
-  },
-  {
     "albumID" : "1458764972",
     "artist" : "Dreamland Grusel",
     "duration" : 4448.437,
     "releaseDate" : 336009600,
     "title" : "Folge 5: Wolfsnächte",
     "upc" : "4260507149411"
-  },
-  {
-    "albumID" : "1458777376",
-    "artist" : "Dreamland Grusel",
-    "duration" : 4977.079000000001,
-    "releaseDate" : 488419200,
-    "title" : "Folge 25: In den Fängen des Todes",
-    "upc" : "4260507149619"
   },
   {
     "albumID" : "1458769069",
@@ -224,12 +48,60 @@
     "upc" : "4260507149480"
   },
   {
-    "albumID" : "1458773838",
+    "albumID" : "1458768558",
     "artist" : "Dreamland Grusel",
-    "duration" : 4779.270999999999,
-    "releaseDate" : 446688000,
-    "title" : "Folge 19: Draculas Todesinsel",
-    "upc" : "4260507149558"
+    "duration" : 2687.1,
+    "releaseDate" : 336009600,
+    "title" : "Folge 8: Mörderische Weihnachten",
+    "upc" : "4260507149442"
+  },
+  {
+    "albumID" : "1458766714",
+    "artist" : "Dreamland Grusel",
+    "duration" : 4463.867000000001,
+    "releaseDate" : 336009600,
+    "title" : "Folge 6: Der Zombie-Macher von Haiti",
+    "upc" : "4260507149428"
+  },
+  {
+    "albumID" : "1458764806",
+    "artist" : "Dreamland Grusel",
+    "duration" : 4665.897999999999,
+    "releaseDate" : 336009600,
+    "title" : "Folge 4: Der Freak von Soho",
+    "upc" : "4260507149404"
+  },
+  {
+    "albumID" : "1458768491",
+    "artist" : "Dreamland Grusel",
+    "duration" : 3654.669,
+    "releaseDate" : 336009600,
+    "title" : "Folge 7: Die Vampir-Oma und ihre Kleinen",
+    "upc" : "4260507149435"
+  },
+  {
+    "albumID" : "1465318745",
+    "artist" : "Dreamland Grusel",
+    "duration" : 3311.5340000000006,
+    "releaseDate" : 336009600,
+    "title" : "Folge 10: Mit den Insekten kam das Grauen",
+    "upc" : "4260507149466"
+  },
+  {
+    "albumID" : "1465319565",
+    "artist" : "Dreamland Grusel",
+    "duration" : 4368.2970000000005,
+    "releaseDate" : 336009600,
+    "title" : "Folge 10: Blutgericht der Insekten",
+    "upc" : "4260507149473"
+  },
+  {
+    "albumID" : "1458769521",
+    "artist" : "Dreamland Grusel",
+    "duration" : 3466.6040000000007,
+    "releaseDate" : 368668800,
+    "title" : "Folge 12: Kap der blutigen Nächte",
+    "upc" : "4260507149497"
   },
   {
     "albumID" : "1458769865",
@@ -248,28 +120,12 @@
     "upc" : "4260507149503"
   },
   {
-    "albumID" : "1649156578",
-    "artist" : "Dreamland Grusel",
-    "duration" : 4099.986,
-    "releaseDate" : 689212800,
-    "title" : "Folge 54: Die Rückkehr der Todesratte",
-    "upc" : "4260507177193"
-  },
-  {
-    "albumID" : "1458776002",
-    "artist" : "Dreamland Grusel",
-    "duration" : 4111.797999999999,
-    "releaseDate" : 469670400,
-    "title" : "Folge 23: Haus der bösen Träume",
-    "upc" : "4260507149596"
-  },
-  {
-    "albumID" : "1670067443",
-    "artist" : "Dreamland Grusel",
-    "duration" : 2692.1319999999996,
-    "releaseDate" : 699494400,
-    "title" : "Folge 55: Der Tag der Bestie",
-    "upc" : "4260507180261"
+    "albumID" : "733795280",
+    "artist" : "Dreamland Grusel & Christian Rode",
+    "duration" : 4045.266000000001,
+    "releaseDate" : 406166400,
+    "title" : "Folge 15: Symphonie der Angst",
+    "upc" : "4260147772512"
   },
   {
     "albumID" : "1458770754",
@@ -280,92 +136,12 @@
     "upc" : "4260507149527"
   },
   {
-    "albumID" : "1458782308",
+    "albumID" : "1458772190",
     "artist" : "Dreamland Grusel",
-    "duration" : 3537.8340000000003,
-    "releaseDate" : 543456000,
-    "title" : "Folge 34: Schattenkinder",
-    "upc" : "4260507149701"
-  },
-  {
-    "albumID" : "1458777994",
-    "artist" : "Dreamland Grusel",
-    "duration" : 4129.748000000001,
-    "releaseDate" : 499305600,
-    "title" : "Folge 26: Die Nächte des Werwolfs",
-    "upc" : "4260507149626"
-  },
-  {
-    "albumID" : "1458778970",
-    "artist" : "Dreamland Grusel",
-    "duration" : 4400.573,
-    "releaseDate" : 510796800,
-    "title" : "Folge 28: Der Atem des Rippers",
-    "upc" : "4260507149640"
-  },
-  {
-    "albumID" : "1706881470",
-    "artist" : "Dreamland Grusel",
-    "duration" : 4651.465000000001,
-    "releaseDate" : 721267200,
-    "title" : "Folge 60: Insel der lebenden Toten",
-    "upc" : "4260507189349"
-  },
-  {
-    "albumID" : "1458777876",
-    "artist" : "Dreamland Grusel",
-    "duration" : 4219.687999999999,
-    "releaseDate" : 507168000,
-    "title" : "Folge 27: Frankensteins Vermächtnis",
-    "upc" : "4260507149633"
-  },
-  {
-    "albumID" : "1458768558",
-    "artist" : "Dreamland Grusel",
-    "duration" : 2687.1,
-    "releaseDate" : 336009600,
-    "title" : "Folge 8: Mörderische Weihnachten",
-    "upc" : "4260507149442"
-  },
-  {
-    "albumID" : "1686890053",
-    "artist" : "Dreamland Grusel",
-    "duration" : 3891.346,
-    "releaseDate" : 710380800,
-    "title" : "Folge 57: Glorias Schloss",
-    "upc" : "4260507184245"
-  },
-  {
-    "albumID" : "1458774646",
-    "artist" : "Dreamland Grusel",
-    "duration" : 3658.5280000000007,
-    "releaseDate" : 466041600,
-    "title" : "Folge 22: Im Bann der Teufelskrähe",
-    "upc" : "4260507149589"
-  },
-  {
-    "albumID" : "1712145050",
-    "artist" : "Dreamland Grusel",
-    "duration" : 3659.1720000000005,
-    "releaseDate" : 735782400,
-    "title" : "Folge 63: Das Testament des Edward Nicholsen",
-    "upc" : "4260507190420"
-  },
-  {
-    "albumID" : "1764974291",
-    "artist" : "Dreamland Grusel",
-    "duration" : 3710.9990000000007,
-    "releaseDate" : 748483200,
-    "title" : "Folge 71: Der Fluch der Bransburys",
-    "upc" : "4260507198464"
-  },
-  {
-    "albumID" : "1675465466",
-    "artist" : "Dreamland Grusel",
-    "duration" : 3248.2520000000004,
-    "releaseDate" : 704937600,
-    "title" : "Folge 56: Liebe, Tod und Zombies",
-    "upc" : "4260507180780"
+    "duration" : 4784.708,
+    "releaseDate" : 427334400,
+    "title" : "Folge 17: Killer aus der Tiefe",
+    "upc" : "4260507149534"
   },
   {
     "albumID" : "1458773590",
@@ -376,180 +152,12 @@
     "upc" : "4260507149541"
   },
   {
-    "albumID" : "1458766714",
+    "albumID" : "1458773838",
     "artist" : "Dreamland Grusel",
-    "duration" : 4463.867000000001,
-    "releaseDate" : 336009600,
-    "title" : "Folge 6: Der Zombie-Macher von Haiti",
-    "upc" : "4260507149428"
-  },
-  {
-    "albumID" : "1458779814",
-    "artist" : "Dreamland Grusel",
-    "duration" : 4160.2390000000005,
-    "releaseDate" : 528336000,
-    "title" : "Folge 31: Die Rache der Natur",
-    "upc" : "4260507149671"
-  },
-  {
-    "albumID" : "1458774617",
-    "artist" : "Dreamland Grusel",
-    "duration" : 4789.535,
-    "releaseDate" : 456364800,
-    "title" : "Folge 20: Ein höllisches Vermächtnis",
-    "upc" : "4260507149565"
-  },
-  {
-    "albumID" : "1754971256",
-    "artist" : "Dreamland Grusel",
-    "duration" : 3230.001,
-    "releaseDate" : 744854400,
-    "title" : "Folge 70: Blutige Silvesternacht",
-    "upc" : "4260507197276"
-  },
-  {
-    "albumID" : "1458764806",
-    "artist" : "Dreamland Grusel",
-    "duration" : 4665.897999999999,
-    "releaseDate" : 336009600,
-    "title" : "Folge 4: Der Freak von Soho",
-    "upc" : "4260507149404"
-  },
-  {
-    "albumID" : "1527330081",
-    "artist" : "Dreamland Grusel",
-    "duration" : 2759.4459999999995,
-    "releaseDate" : 621475200,
-    "title" : "Folge 45: Interferenzen 2",
-    "upc" : "4260507161130"
-  },
-  {
-    "albumID" : "1458768491",
-    "artist" : "Dreamland Grusel",
-    "duration" : 3654.669,
-    "releaseDate" : 336009600,
-    "title" : "Folge 7: Die Vampir-Oma und ihre Kleinen",
-    "upc" : "4260507149435"
-  },
-  {
-    "albumID" : "1739093903",
-    "artist" : "Dreamland Grusel",
-    "duration" : 3511.5889999999995,
-    "releaseDate" : 740620800,
-    "title" : "Folge 66: Das Auge des Horus",
-    "upc" : "4260507194213"
-  },
-  {
-    "albumID" : "1458777014",
-    "artist" : "Dreamland Grusel",
-    "duration" : 3715.7999999999997,
-    "releaseDate" : 476323200,
-    "title" : "Folge 24: Die Rache der Todespuppe",
-    "upc" : "4260507149602"
-  },
-  {
-    "albumID" : "1695551796",
-    "artist" : "Dreamland Grusel",
-    "duration" : 4160.266,
-    "releaseDate" : 714009600,
-    "title" : "Folge 58: Wild Wild West Zombies",
-    "upc" : "4260507187987"
-  },
-  {
-    "albumID" : "1712142468",
-    "artist" : "Dreamland Grusel",
-    "duration" : 3935.56,
-    "releaseDate" : 730944000,
-    "title" : "Folge 62: Draculas Bluthochzeit",
-    "upc" : "4260507190406"
-  },
-  {
-    "albumID" : "1465318745",
-    "artist" : "Dreamland Grusel",
-    "duration" : 3311.5340000000006,
-    "releaseDate" : 336009600,
-    "title" : "Folge 10: Mit den Insekten kam das Grauen",
-    "upc" : "4260507149466"
-  },
-  {
-    "albumID" : "1739095368",
-    "artist" : "Dreamland Grusel",
-    "duration" : 4732.003000000001,
-    "releaseDate" : 739411200,
-    "title" : "Folge 65: Blutzoll in den Alpen",
-    "upc" : "4260507194190"
-  },
-  {
-    "albumID" : "1630933266",
-    "artist" : "Dreamland Grusel",
-    "duration" : 3930.6670000000004,
-    "releaseDate" : 678931200,
-    "title" : "Folge 52: Die Caves und ein tödlicher Feind",
-    "upc" : "4260507175205"
-  },
-  {
-    "albumID" : "1458783468",
-    "artist" : "Dreamland Grusel",
-    "duration" : 3293.6420000000007,
-    "releaseDate" : 551923200,
-    "title" : "Folge 35: Im Sog der Finsternis",
-    "upc" : "4260507149718"
-  },
-  {
-    "albumID" : "1740936819",
-    "artist" : "Dreamland Grusel",
-    "duration" : 3746.0000000000005,
-    "releaseDate" : 738201600,
-    "title" : "Folge 64: Der Kopfjäger",
-    "upc" : "4260507191496"
-  },
-  {
-    "albumID" : "1743760060",
-    "artist" : "Dreamland Grusel",
-    "duration" : 3404.06,
-    "releaseDate" : 741830400,
-    "title" : "Folge 67: Monster im Keller",
-    "upc" : "4260507195432"
-  },
-  {
-    "albumID" : "1458779598",
-    "artist" : "Dreamland Grusel",
-    "duration" : 3315.7090000000003,
-    "releaseDate" : 515030400,
-    "title" : "Folge 29: Im Schatten des Rippers",
-    "upc" : "4260507149657"
-  },
-  {
-    "albumID" : "1712142399",
-    "artist" : "Dreamland Grusel",
-    "duration" : 4793.367999999999,
-    "releaseDate" : 726105600,
-    "title" : "Folge 61: Düstere Verwünschungen",
-    "upc" : "4260507190383"
-  },
-  {
-    "albumID" : "1465319565",
-    "artist" : "Dreamland Grusel",
-    "duration" : 4368.2970000000005,
-    "releaseDate" : 336009600,
-    "title" : "Folge 10: Blutgericht der Insekten",
-    "upc" : "4260507149473"
-  },
-  {
-    "albumID" : "1752443534",
-    "artist" : "Dreamland Grusel",
-    "duration" : 3471.0000000000005,
-    "releaseDate" : 743644800,
-    "title" : "Folge 69: Mindfuck",
-    "upc" : "4260507196422"
-  },
-  {
-    "albumID" : "1705696015",
-    "artist" : "Dreamland Grusel",
-    "duration" : 4490.717,
-    "releaseDate" : 717638400,
-    "title" : "Folge 59: Verführung des Bösen",
-    "upc" : "4260507188403"
+    "duration" : 4779.270999999999,
+    "releaseDate" : 446688000,
+    "title" : "Folge 19: Draculas Todesinsel",
+    "upc" : "4260507149558"
   },
   {
     "albumID" : "1458762469",
@@ -560,6 +168,14 @@
     "upc" : "4260507149374"
   },
   {
+    "albumID" : "1458774617",
+    "artist" : "Dreamland Grusel",
+    "duration" : 4789.535,
+    "releaseDate" : 456364800,
+    "title" : "Folge 20: Ein höllisches Vermächtnis",
+    "upc" : "4260507149565"
+  },
+  {
     "albumID" : "1458775245",
     "artist" : "Dreamland Grusel",
     "duration" : 4612.068,
@@ -568,12 +184,372 @@
     "upc" : "4260507149572"
   },
   {
-    "albumID" : "733795280",
-    "artist" : "Dreamland Grusel & Christian Rode",
-    "duration" : 4045.266000000001,
-    "releaseDate" : 406166400,
-    "title" : "Folge 15: Symphonie der Angst",
-    "upc" : "4260147772512"
+    "albumID" : "1458774646",
+    "artist" : "Dreamland Grusel",
+    "duration" : 3658.5280000000007,
+    "releaseDate" : 466041600,
+    "title" : "Folge 22: Im Bann der Teufelskrähe",
+    "upc" : "4260507149589"
+  },
+  {
+    "albumID" : "1458776002",
+    "artist" : "Dreamland Grusel",
+    "duration" : 4111.797999999999,
+    "releaseDate" : 469670400,
+    "title" : "Folge 23: Haus der bösen Träume",
+    "upc" : "4260507149596"
+  },
+  {
+    "albumID" : "1458777014",
+    "artist" : "Dreamland Grusel",
+    "duration" : 3715.7999999999997,
+    "releaseDate" : 476323200,
+    "title" : "Folge 24: Die Rache der Todespuppe",
+    "upc" : "4260507149602"
+  },
+  {
+    "albumID" : "1458777376",
+    "artist" : "Dreamland Grusel",
+    "duration" : 4977.079000000001,
+    "releaseDate" : 488419200,
+    "title" : "Folge 25: In den Fängen des Todes",
+    "upc" : "4260507149619"
+  },
+  {
+    "albumID" : "1458777994",
+    "artist" : "Dreamland Grusel",
+    "duration" : 4129.748000000001,
+    "releaseDate" : 499305600,
+    "title" : "Folge 26: Die Nächte des Werwolfs",
+    "upc" : "4260507149626"
+  },
+  {
+    "albumID" : "1458777876",
+    "artist" : "Dreamland Grusel",
+    "duration" : 4219.687999999999,
+    "releaseDate" : 507168000,
+    "title" : "Folge 27: Frankensteins Vermächtnis",
+    "upc" : "4260507149633"
+  },
+  {
+    "albumID" : "1458778970",
+    "artist" : "Dreamland Grusel",
+    "duration" : 4400.573,
+    "releaseDate" : 510796800,
+    "title" : "Folge 28: Der Atem des Rippers",
+    "upc" : "4260507149640"
+  },
+  {
+    "albumID" : "1458779598",
+    "artist" : "Dreamland Grusel",
+    "duration" : 3315.7090000000003,
+    "releaseDate" : 515030400,
+    "title" : "Folge 29: Im Schatten des Rippers",
+    "upc" : "4260507149657"
+  },
+  {
+    "albumID" : "1458779647",
+    "artist" : "Dreamland Grusel",
+    "duration" : 3834.6810000000005,
+    "releaseDate" : 525312000,
+    "title" : "Folge 30: Zeit der Angst",
+    "upc" : "4260507149664"
+  },
+  {
+    "albumID" : "1458779814",
+    "artist" : "Dreamland Grusel",
+    "duration" : 4160.2390000000005,
+    "releaseDate" : 528336000,
+    "title" : "Folge 31: Die Rache der Natur",
+    "upc" : "4260507149671"
+  },
+  {
+    "albumID" : "1458780882",
+    "artist" : "Dreamland Grusel",
+    "duration" : 4169.374,
+    "releaseDate" : 530755200,
+    "title" : "Folge 32: Hotel der Toten",
+    "upc" : "4260507149688"
+  },
+  {
+    "albumID" : "1458782817",
+    "artist" : "Dreamland Grusel",
+    "duration" : 4441.799,
+    "releaseDate" : 534384000,
+    "title" : "Folge 33: Der Fluch von Morosko",
+    "upc" : "4260507149695"
+  },
+  {
+    "albumID" : "1458782308",
+    "artist" : "Dreamland Grusel",
+    "duration" : 3537.8340000000003,
+    "releaseDate" : 543456000,
+    "title" : "Folge 34: Schattenkinder",
+    "upc" : "4260507149701"
+  },
+  {
+    "albumID" : "1458783468",
+    "artist" : "Dreamland Grusel",
+    "duration" : 3293.6420000000007,
+    "releaseDate" : 551923200,
+    "title" : "Folge 35: Im Sog der Finsternis",
+    "upc" : "4260507149718"
+  },
+  {
+    "albumID" : "1458783656",
+    "artist" : "Dreamland Grusel",
+    "duration" : 3763.884000000001,
+    "releaseDate" : 560390400,
+    "title" : "Folge 36: Galgendorf",
+    "upc" : "4260507149725"
+  },
+  {
+    "albumID" : "1446684786",
+    "artist" : "Dreamland Grusel",
+    "duration" : 4179.333,
+    "releaseDate" : 570067200,
+    "title" : "Folge 37: Die dämonische Statue",
+    "upc" : "4260507145857"
+  },
+  {
+    "albumID" : "1458121152",
+    "artist" : "Dreamland Grusel",
+    "duration" : 2980.346,
+    "releaseDate" : 577929600,
+    "title" : "Folge 38: Der letzte Tropfen",
+    "upc" : "4260507149329"
+  },
+  {
+    "albumID" : "1468519031",
+    "artist" : "Dreamland Grusel",
+    "duration" : 3975.6659999999997,
+    "releaseDate" : 583372800,
+    "title" : "Folge 39: Geisternebel",
+    "upc" : "4260507152091"
+  },
+  {
+    "albumID" : "1481065583",
+    "artist" : "Dreamland Grusel",
+    "duration" : 7272.659000000002,
+    "releaseDate" : 591840000,
+    "title" : "Folge 40: Mutter",
+    "upc" : "4260507153845"
+  },
+  {
+    "albumID" : "1483066565",
+    "artist" : "Dreamland Grusel",
+    "duration" : 2845.451,
+    "releaseDate" : 597283200,
+    "title" : "Folge 41: Die Weltraummonster",
+    "upc" : "4260507154750"
+  },
+  {
+    "albumID" : "1497368927",
+    "artist" : "Dreamland Grusel",
+    "duration" : 4243.677000000001,
+    "releaseDate" : 605145600,
+    "title" : "Folge 42: Das Geheimnis der Betty H.",
+    "upc" : "4260507156631"
+  },
+  {
+    "albumID" : "1508619668",
+    "artist" : "Dreamland Grusel",
+    "duration" : 3554.0009999999997,
+    "releaseDate" : 610588800,
+    "title" : "Folge 43: Die weiße Frau",
+    "upc" : "4260507157942"
+  },
+  {
+    "albumID" : "1522851912",
+    "artist" : "Dreamland Grusel",
+    "duration" : 3895.497,
+    "releaseDate" : 617846400,
+    "title" : "Folge 44: Interferenzen, Teil 1",
+    "upc" : "4260507160195"
+  },
+  {
+    "albumID" : "1527330081",
+    "artist" : "Dreamland Grusel",
+    "duration" : 2759.4459999999995,
+    "releaseDate" : 621475200,
+    "title" : "Folge 45: Interferenzen 2",
+    "upc" : "4260507161130"
+  },
+  {
+    "albumID" : "1533637267",
+    "artist" : "Dreamland Grusel",
+    "duration" : 2978.091,
+    "releaseDate" : 625104000,
+    "title" : "Folge 46: Es begann an Halloween...",
+    "upc" : "4260507161550"
+  },
+  {
+    "albumID" : "1554466424",
+    "artist" : "Dreamland Grusel",
+    "duration" : 4110.5030000000015,
+    "releaseDate" : 635990400,
+    "title" : "Folge 47: Die Angst beginnt um Viertel nach acht",
+    "upc" : "4260507162915"
+  },
+  {
+    "albumID" : "1567857567",
+    "artist" : "Dreamland Grusel",
+    "duration" : 4439.683,
+    "releaseDate" : 646272000,
+    "title" : "Folge 48: Schattenlose Zeiten",
+    "upc" : "4260507166104"
+  },
+  {
+    "albumID" : "1580338473",
+    "artist" : "Dreamland Grusel",
+    "duration" : 2394.7599999999993,
+    "releaseDate" : 652320000,
+    "title" : "Folge 49: Höhle des Schreckens",
+    "upc" : "4260507169976"
+  },
+  {
+    "albumID" : "1586777064",
+    "artist" : "Dreamland Grusel",
+    "duration" : 4775.783999999999,
+    "releaseDate" : 655948800,
+    "title" : "Folge 50: Meister der Angst",
+    "upc" : "4260507170231"
+  },
+  {
+    "albumID" : "1610145468",
+    "artist" : "Dreamland Grusel",
+    "duration" : 3003.1339999999996,
+    "releaseDate" : 669254400,
+    "title" : "Folge 51: Die Caves und der Klang des Todes",
+    "upc" : "4260507172600"
+  },
+  {
+    "albumID" : "1630933266",
+    "artist" : "Dreamland Grusel",
+    "duration" : 3930.6670000000004,
+    "releaseDate" : 678931200,
+    "title" : "Folge 52: Die Caves und ein tödlicher Feind",
+    "upc" : "4260507175205"
+  },
+  {
+    "albumID" : "1634562993",
+    "artist" : "Dreamland Grusel",
+    "duration" : 3964.4790000000003,
+    "releaseDate" : 681350400,
+    "title" : "Folge 53: Das Grauen von Blackmoore",
+    "upc" : "4260507175441"
+  },
+  {
+    "albumID" : "1649156578",
+    "artist" : "Dreamland Grusel",
+    "duration" : 4099.986,
+    "releaseDate" : 689212800,
+    "title" : "Folge 54: Die Rückkehr der Todesratte",
+    "upc" : "4260507177193"
+  },
+  {
+    "albumID" : "1670067443",
+    "artist" : "Dreamland Grusel",
+    "duration" : 2692.1319999999996,
+    "releaseDate" : 699494400,
+    "title" : "Folge 55: Der Tag der Bestie",
+    "upc" : "4260507180261"
+  },
+  {
+    "albumID" : "1675465466",
+    "artist" : "Dreamland Grusel",
+    "duration" : 3248.2520000000004,
+    "releaseDate" : 704937600,
+    "title" : "Folge 56: Liebe, Tod und Zombies",
+    "upc" : "4260507180780"
+  },
+  {
+    "albumID" : "1686890053",
+    "artist" : "Dreamland Grusel",
+    "duration" : 3891.346,
+    "releaseDate" : 710380800,
+    "title" : "Folge 57: Glorias Schloss",
+    "upc" : "4260507184245"
+  },
+  {
+    "albumID" : "1695551796",
+    "artist" : "Dreamland Grusel",
+    "duration" : 4160.266,
+    "releaseDate" : 714009600,
+    "title" : "Folge 58: Wild Wild West Zombies",
+    "upc" : "4260507187987"
+  },
+  {
+    "albumID" : "1705696015",
+    "artist" : "Dreamland Grusel",
+    "duration" : 4490.717,
+    "releaseDate" : 717638400,
+    "title" : "Folge 59: Verführung des Bösen",
+    "upc" : "4260507188403"
+  },
+  {
+    "albumID" : "1706881470",
+    "artist" : "Dreamland Grusel",
+    "duration" : 4651.465000000001,
+    "releaseDate" : 721267200,
+    "title" : "Folge 60: Insel der lebenden Toten",
+    "upc" : "4260507189349"
+  },
+  {
+    "albumID" : "1712142399",
+    "artist" : "Dreamland Grusel",
+    "duration" : 4793.367999999999,
+    "releaseDate" : 726105600,
+    "title" : "Folge 61: Düstere Verwünschungen",
+    "upc" : "4260507190383"
+  },
+  {
+    "albumID" : "1712142468",
+    "artist" : "Dreamland Grusel",
+    "duration" : 3935.56,
+    "releaseDate" : 730944000,
+    "title" : "Folge 62: Draculas Bluthochzeit",
+    "upc" : "4260507190406"
+  },
+  {
+    "albumID" : "1712145050",
+    "artist" : "Dreamland Grusel",
+    "duration" : 3659.1720000000005,
+    "releaseDate" : 735782400,
+    "title" : "Folge 63: Das Testament des Edward Nicholsen",
+    "upc" : "4260507190420"
+  },
+  {
+    "albumID" : "1740936819",
+    "artist" : "Dreamland Grusel",
+    "duration" : 3746.0000000000005,
+    "releaseDate" : 738201600,
+    "title" : "Folge 64: Der Kopfjäger",
+    "upc" : "4260507191496"
+  },
+  {
+    "albumID" : "1739095368",
+    "artist" : "Dreamland Grusel",
+    "duration" : 4732.003000000001,
+    "releaseDate" : 739411200,
+    "title" : "Folge 65: Blutzoll in den Alpen",
+    "upc" : "4260507194190"
+  },
+  {
+    "albumID" : "1739093903",
+    "artist" : "Dreamland Grusel",
+    "duration" : 3511.5889999999995,
+    "releaseDate" : 740620800,
+    "title" : "Folge 66: Das Auge des Horus",
+    "upc" : "4260507194213"
+  },
+  {
+    "albumID" : "1743760060",
+    "artist" : "Dreamland Grusel",
+    "duration" : 3404.06,
+    "releaseDate" : 741830400,
+    "title" : "Folge 67: Monster im Keller",
+    "upc" : "4260507195432"
   },
   {
     "albumID" : "1752443412",
@@ -584,12 +560,28 @@
     "upc" : "4260507196408"
   },
   {
-    "albumID" : "1775152089",
+    "albumID" : "1752443534",
     "artist" : "Dreamland Grusel",
-    "duration" : 180.909,
-    "releaseDate" : 756950400,
-    "title" : "Folge 73: Die Moortoten rufen",
-    "upc" : "4260507199904"
+    "duration" : 3471.0000000000005,
+    "releaseDate" : 743644800,
+    "title" : "Folge 69: Mindfuck",
+    "upc" : "4260507196422"
+  },
+  {
+    "albumID" : "1754971256",
+    "artist" : "Dreamland Grusel",
+    "duration" : 3230.001,
+    "releaseDate" : 744854400,
+    "title" : "Folge 70: Blutige Silvesternacht",
+    "upc" : "4260507197276"
+  },
+  {
+    "albumID" : "1764974291",
+    "artist" : "Dreamland Grusel",
+    "duration" : 3710.9990000000007,
+    "releaseDate" : 748483200,
+    "title" : "Folge 71: Der Fluch der Bransburys",
+    "upc" : "4260507198464"
   },
   {
     "albumID" : "1775149623",
@@ -598,5 +590,13 @@
     "releaseDate" : 754531200,
     "title" : "Folge 72: Das allsehende Auge",
     "upc" : "4260507199881"
+  },
+  {
+    "albumID" : "1775152089",
+    "artist" : "Dreamland Grusel",
+    "duration" : 180.909,
+    "releaseDate" : 756950400,
+    "title" : "Folge 73: Die Moortoten rufen",
+    "upc" : "4260507199904"
   }
 ]
