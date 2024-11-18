@@ -112,22 +112,6 @@
     "upc" : "886449060955"
   },
   {
-    "albumID" : "1563006992",
-    "artist" : "VIDAN",
-    "duration" : 3250.387,
-    "releaseDate" : 642556800,
-    "title" : "Staffel 2: Schrei nach Stille, Folge 8: Falsche Menschen",
-    "upc" : "886449060993"
-  },
-  {
-    "albumID" : "1563005042",
-    "artist" : "VIDAN",
-    "duration" : 3159.788,
-    "releaseDate" : 642556800,
-    "title" : "Staffel 2: Schrei nach Stille, Folge 7: Lügen",
-    "upc" : "886449060979"
-  },
-  {
     "albumID" : "1563002758",
     "artist" : "VIDAN",
     "duration" : 2872.4519999999998,
@@ -144,12 +128,28 @@
     "upc" : "886449060948"
   },
   {
+    "albumID" : "1563005042",
+    "artist" : "VIDAN",
+    "duration" : 3159.788,
+    "releaseDate" : 642556800,
+    "title" : "Staffel 2: Schrei nach Stille, Folge 7: Lügen",
+    "upc" : "886449060979"
+  },
+  {
     "albumID" : "1563010908",
     "artist" : "VIDAN",
     "duration" : 3053.104,
     "releaseDate" : 642556800,
     "title" : "Staffel 2: Schrei nach Stille, Folge 9: Unerträglich",
     "upc" : "886449061006"
+  },
+  {
+    "albumID" : "1563006992",
+    "artist" : "VIDAN",
+    "duration" : 3250.387,
+    "releaseDate" : 642556800,
+    "title" : "Staffel 2: Schrei nach Stille, Folge 8: Falsche Menschen",
+    "upc" : "886449060993"
   },
   {
     "albumID" : "1563013631",
@@ -176,6 +176,14 @@
     "upc" : "196871108362"
   },
   {
+    "albumID" : "1700898667",
+    "artist" : "VIDAN",
+    "duration" : 3164.545,
+    "releaseDate" : 717638400,
+    "title" : "Staffel 3: Schrei nach Vernichtung, Folge 2: Mutation",
+    "upc" : "196871108386"
+  },
+  {
     "albumID" : "1700901895",
     "artist" : "VIDAN",
     "duration" : 3346.718999999999,
@@ -200,12 +208,12 @@
     "upc" : "196871108492"
   },
   {
-    "albumID" : "1700898667",
+    "albumID" : "1700905912",
     "artist" : "VIDAN",
-    "duration" : 3164.545,
+    "duration" : 3528.1079999999997,
     "releaseDate" : 717638400,
-    "title" : "Staffel 3: Schrei nach Vernichtung, Folge 2: Mutation",
-    "upc" : "196871108386"
+    "title" : "Staffel 3: Schrei nach Vernichtung, Folge 5: Flehende Seelen",
+    "upc" : "196871108461"
   },
   {
     "albumID" : "1700925166",
@@ -216,12 +224,12 @@
     "upc" : "196871108522"
   },
   {
-    "albumID" : "1700905912",
+    "albumID" : "1700907151",
     "artist" : "VIDAN",
-    "duration" : 3528.1079999999997,
+    "duration" : 4473.268000000001,
     "releaseDate" : 717638400,
-    "title" : "Staffel 3: Schrei nach Vernichtung, Folge 5: Flehende Seelen",
-    "upc" : "196871108461"
+    "title" : "Staffel 3: Schrei nach Vernichtung, Folge 10: Überleben?",
+    "upc" : "196871108652"
   },
   {
     "albumID" : "1700906341",
@@ -230,14 +238,6 @@
     "releaseDate" : 717638400,
     "title" : "Folge 8: Die Gesandte (Staffel 3: Schrei nach Vernichtung)",
     "upc" : "196871108560"
-  },
-  {
-    "albumID" : "1700907151",
-    "artist" : "VIDAN",
-    "duration" : 4473.268000000001,
-    "releaseDate" : 717638400,
-    "title" : "Staffel 3: Schrei nach Vernichtung, Folge 10: Überleben?",
-    "upc" : "196871108652"
   },
   {
     "albumID" : "1700906725",
