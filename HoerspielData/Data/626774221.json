@@ -88,12 +88,12 @@
     "upc" : "4260507151605"
   },
   {
-    "albumID" : "1467900580",
+    "albumID" : "1467913988",
     "artist" : "Professor van Dusen",
-    "duration" : 3627.5719999999997,
+    "duration" : 3713.4809999999984,
     "releaseDate" : 482371200,
-    "title" : "Folge 3: Mord bei Gaslicht",
-    "upc" : "4260507151629"
+    "title" : "Folge 8: Wettbewerb der Detektive",
+    "upc" : "4260507151674"
   },
   {
     "albumID" : "1467909013",
@@ -102,6 +102,14 @@
     "releaseDate" : 482371200,
     "title" : "Folge 4: Der Mann, der seinen Kopf verlor",
     "upc" : "4260507151636"
+  },
+  {
+    "albumID" : "1467900580",
+    "artist" : "Professor van Dusen",
+    "duration" : 3627.5719999999997,
+    "releaseDate" : 482371200,
+    "title" : "Folge 3: Mord bei Gaslicht",
+    "upc" : "4260507151629"
   },
   {
     "albumID" : "1467910729",
@@ -126,14 +134,6 @@
     "releaseDate" : 482371200,
     "title" : "Folge 7: Whisky in den Wolken",
     "upc" : "4260507151667"
-  },
-  {
-    "albumID" : "1467913988",
-    "artist" : "Professor van Dusen",
-    "duration" : 3713.4809999999984,
-    "releaseDate" : 482371200,
-    "title" : "Folge 8: Wettbewerb der Detektive",
-    "upc" : "4260507151674"
   },
   {
     "albumID" : "1467971228",
@@ -512,20 +512,20 @@
     "upc" : "4260507176899"
   },
   {
-    "albumID" : "1647818963",
-    "artist" : "Professor van Dusen",
-    "duration" : 4022.0000000000005,
-    "releaseDate" : 692236800,
-    "title" : "Folge 34: Professor van Dusen hilft Scotland Yard",
-    "upc" : "4260507176912"
-  },
-  {
     "albumID" : "1654926288",
     "artist" : "Professor van Dusen",
     "duration" : 4635.441000000001,
     "releaseDate" : 692236800,
     "title" : "Die neuen Fälle, Fall 32: Professor van Dusen auf dem Abstellgleis",
     "upc" : "4260507177643"
+  },
+  {
+    "albumID" : "1647818963",
+    "artist" : "Professor van Dusen",
+    "duration" : 4022.0000000000005,
+    "releaseDate" : 692236800,
+    "title" : "Folge 34: Professor van Dusen hilft Scotland Yard",
+    "upc" : "4260507176912"
   },
   {
     "albumID" : "1647819268",
