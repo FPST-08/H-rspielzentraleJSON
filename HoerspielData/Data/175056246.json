@@ -8,6 +8,22 @@
     "upc" : "886445565959"
   },
   {
+    "albumID" : "1129266948",
+    "artist" : "Macabros",
+    "duration" : 3285.4790000000003,
+    "releaseDate" : -544406400,
+    "title" : "02/Attacke der Untoten",
+    "upc" : "886445571462"
+  },
+  {
+    "albumID" : "1129267190",
+    "artist" : "Macabros",
+    "duration" : 3158.6139999999996,
+    "releaseDate" : -544320000,
+    "title" : "03/Konga, der Menschenfrosch",
+    "upc" : "886445571486"
+  },
+  {
     "albumID" : "1129269900",
     "artist" : "Macabros",
     "duration" : 3518.045,
@@ -32,20 +48,12 @@
     "upc" : "886445571660"
   },
   {
-    "albumID" : "1129266948",
+    "albumID" : "1129275692",
     "artist" : "Macabros",
-    "duration" : 3285.4790000000003,
-    "releaseDate" : -544406400,
-    "title" : "02/Attacke der Untoten",
-    "upc" : "886445571462"
-  },
-  {
-    "albumID" : "1129267190",
-    "artist" : "Macabros",
-    "duration" : 3158.6139999999996,
-    "releaseDate" : -544320000,
-    "title" : "03/Konga, der Menschenfrosch",
-    "upc" : "886445571486"
+    "duration" : 3411.5200000000004,
+    "releaseDate" : -523324800,
+    "title" : "07/Duell mit den Höllengeistern",
+    "upc" : "886445571707"
   },
   {
     "albumID" : "1129275827",
@@ -56,27 +64,19 @@
     "upc" : "886445571721"
   },
   {
-    "albumID" : "1129275707",
-    "artist" : "Macabros",
-    "duration" : 3564.615,
-    "releaseDate" : -523065600,
-    "title" : "10/Die Knochensaat",
-    "upc" : "886445572315"
-  },
-  {
-    "albumID" : "1129275692",
-    "artist" : "Macabros",
-    "duration" : 3411.5200000000004,
-    "releaseDate" : -523324800,
-    "title" : "07/Duell mit den Höllengeistern",
-    "upc" : "886445571707"
-  },
-  {
     "albumID" : "1129275752",
     "artist" : "Macabros",
     "duration" : 3322.718,
     "releaseDate" : -523152000,
     "title" : "09/Molochs Totenkarussell",
     "upc" : "886445572285"
+  },
+  {
+    "albumID" : "1129275707",
+    "artist" : "Macabros",
+    "duration" : 3564.615,
+    "releaseDate" : -523065600,
+    "title" : "10/Die Knochensaat",
+    "upc" : "886445572315"
   }
 ]
