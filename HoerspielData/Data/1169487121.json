@@ -48,20 +48,20 @@
     "upc" : "4260147779764"
   },
   {
-    "albumID" : "1169514235",
-    "artist" : "Die PSI-Akten",
-    "duration" : 3414.4410000000003,
-    "releaseDate" : 502934400,
-    "title" : "Folge 8: Arachnia - Mutation des Grauens",
-    "upc" : "4260147779788"
-  },
-  {
     "albumID" : "1169509756",
     "artist" : "Die PSI-Akten",
     "duration" : 2741.467,
     "releaseDate" : 502934400,
     "title" : "Folge 7: Allein in der Nacht",
     "upc" : "4260147779771"
+  },
+  {
+    "albumID" : "1169514235",
+    "artist" : "Die PSI-Akten",
+    "duration" : 3414.4410000000003,
+    "releaseDate" : 502934400,
+    "title" : "Folge 8: Arachnia - Mutation des Grauens",
+    "upc" : "4260147779788"
   },
   {
     "albumID" : "1169486925",
