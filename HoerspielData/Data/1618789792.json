@@ -88,20 +88,20 @@
     "upc" : "196872244229"
   },
   {
-    "albumID" : "1766725877",
-    "artist" : "Hurricane",
-    "duration" : 2783.8530000000005,
-    "releaseDate" : 749606400,
-    "title" : "Staffel 2, Folge 3: Das Kartell",
-    "upc" : "196872244267"
-  },
-  {
     "albumID" : "1766525827",
     "artist" : "Hurricane",
     "duration" : 3154.079,
     "releaseDate" : 749606400,
     "title" : "Staffel 2, Folge 4: Eis bricht",
     "upc" : "196872244397"
+  },
+  {
+    "albumID" : "1766725877",
+    "artist" : "Hurricane",
+    "duration" : 2783.8530000000005,
+    "releaseDate" : 749606400,
+    "title" : "Staffel 2, Folge 3: Das Kartell",
+    "upc" : "196872244267"
   },
   {
     "albumID" : "1766526185",
@@ -112,20 +112,20 @@
     "upc" : "196872244441"
   },
   {
-    "albumID" : "1766525989",
-    "artist" : "Hurricane",
-    "duration" : 2944.825,
-    "releaseDate" : 749606400,
-    "title" : "Staffel 2, Folge 6: Die Festung",
-    "upc" : "196872244526"
-  },
-  {
     "albumID" : "1766526570",
     "artist" : "Hurricane",
     "duration" : 2852.307,
     "releaseDate" : 749606400,
     "title" : "Staffel 2, Folge 7: Der Konditor",
     "upc" : "196872244595"
+  },
+  {
+    "albumID" : "1766526281",
+    "artist" : "Hurricane",
+    "duration" : 3052.84,
+    "releaseDate" : 749606400,
+    "title" : "Staffel 2, Folge 8: Absturz",
+    "upc" : "196872244649"
   },
   {
     "albumID" : "1766526216",
@@ -136,12 +136,12 @@
     "upc" : "196872244670"
   },
   {
-    "albumID" : "1766526281",
+    "albumID" : "1766525989",
     "artist" : "Hurricane",
-    "duration" : 3052.84,
+    "duration" : 2944.825,
     "releaseDate" : 749606400,
-    "title" : "Staffel 2, Folge 8: Absturz",
-    "upc" : "196872244649"
+    "title" : "Staffel 2, Folge 6: Die Festung",
+    "upc" : "196872244526"
   },
   {
     "albumID" : "1766526468",
