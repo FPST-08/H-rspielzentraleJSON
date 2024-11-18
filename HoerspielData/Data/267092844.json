@@ -48,20 +48,20 @@
     "upc" : "4260229662762"
   },
   {
-    "albumID" : "1471402166",
-    "artist" : "Die Playmos",
-    "duration" : 3357.013,
-    "releaseDate" : 236563200,
-    "title" : "Folge 6: Abenteuer auf dem Eichenhof (Das Original Playmobil Hörspiel)",
-    "upc" : "4260229662779"
-  },
-  {
     "albumID" : "1471402499",
     "artist" : "Die Playmos",
     "duration" : 3104.48,
     "releaseDate" : 236563200,
     "title" : "Folge 7: Das große Spiel (Das Original Playmobil Hörspiel)",
     "upc" : "4260229662786"
+  },
+  {
+    "albumID" : "1471402166",
+    "artist" : "Die Playmos",
+    "duration" : 3357.013,
+    "releaseDate" : 236563200,
+    "title" : "Folge 6: Abenteuer auf dem Eichenhof (Das Original Playmobil Hörspiel)",
+    "upc" : "4260229662779"
   },
   {
     "albumID" : "1471403849",
@@ -328,20 +328,20 @@
     "upc" : "4260229663332"
   },
   {
-    "albumID" : "1462645237",
-    "artist" : "Die Playmos",
-    "duration" : 3710.999,
-    "releaseDate" : 402278400,
-    "title" : "Folge 38: Das Geheimnis des Drachenfeuers (Das Original Playmobil Hörspiel)",
-    "upc" : "4260229663080"
-  },
-  {
     "albumID" : "1462645233",
     "artist" : "Die Playmos",
     "duration" : 3582.999999999999,
     "releaseDate" : 402278400,
     "title" : "Folge 37: Die Entführung der Einhörner (Das Original Playmobil Hörspiel)",
     "upc" : "4260229663073"
+  },
+  {
+    "albumID" : "1462645237",
+    "artist" : "Die Playmos",
+    "duration" : 3710.999,
+    "releaseDate" : 402278400,
+    "title" : "Folge 38: Das Geheimnis des Drachenfeuers (Das Original Playmobil Hörspiel)",
+    "upc" : "4260229663080"
   },
   {
     "albumID" : "1462645094",
@@ -424,20 +424,20 @@
     "upc" : "4260229663165"
   },
   {
-    "albumID" : "1471399367",
-    "artist" : "Die Playmos",
-    "duration" : 3192.0000000000005,
-    "releaseDate" : 464832000,
-    "title" : "Folge 48: Raketenstart ins All (Das Original Playmobil Hörspiel)",
-    "upc" : "4260229663189"
-  },
-  {
     "albumID" : "1471398240",
     "artist" : "Die Playmos",
     "duration" : 3662.9990000000003,
     "releaseDate" : 464832000,
     "title" : "Folge 47: Flucht vor den Piraten (Das Original Playmobil Hörspiel)",
     "upc" : "4260229663172"
+  },
+  {
+    "albumID" : "1471399367",
+    "artist" : "Die Playmos",
+    "duration" : 3192.0000000000005,
+    "releaseDate" : 464832000,
+    "title" : "Folge 48: Raketenstart ins All (Das Original Playmobil Hörspiel)",
+    "upc" : "4260229663189"
   },
   {
     "albumID" : "1471410580",
