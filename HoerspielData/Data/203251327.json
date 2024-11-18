@@ -50,7 +50,7 @@
   {
     "albumID" : "1612461035",
     "artist" : "Dorian Hunter",
-    "duration" : 3799.798,
+    "duration" : 0,
     "releaseDate" : 296092800,
     "title" : "10.1: Der Folterknecht - Die Nacht von Nancy (Teil 1 von 2)",
     "upc" : "9783955728908"
@@ -394,7 +394,7 @@
   {
     "albumID" : "1587875946",
     "artist" : "Dorian Hunter",
-    "duration" : 3720.8160000000007,
+    "duration" : 126.95,
     "releaseDate" : 654739200,
     "title" : "46: Mörder der Lüfte",
     "upc" : "9783955727062"
