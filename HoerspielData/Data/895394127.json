@@ -1,0 +1,666 @@
+[
+  {
+    "albumID" : "1384971927",
+    "artist" : "Mimi Rutherfurt",
+    "duration" : 3575.000000000001,
+    "releaseDate" : 547689600,
+    "title" : "Folge 2: Nacht-Express",
+    "upc" : "4260507140340"
+  },
+  {
+    "albumID" : "1764916869",
+    "artist" : "Mimi Rutherfurt",
+    "duration" : 3562.6359999999995,
+    "releaseDate" : 752716800,
+    "title" : "Folge 66: Der Bücherwurm",
+    "upc" : "4260507198808"
+  },
+  {
+    "albumID" : "1542187126",
+    "artist" : "Mimi Rutherfurt",
+    "duration" : 3478.9990000000003,
+    "releaseDate" : 632966400,
+    "title" : "Folge 50: Ein eiskalter Plan",
+    "upc" : "4260507162274"
+  },
+  {
+    "albumID" : "1450670086",
+    "artist" : "Mimi Rutherfurt",
+    "duration" : 4296.996000000001,
+    "releaseDate" : 573091200,
+    "title" : "Folge 43: Mörderische Vorahnung",
+    "upc" : "4260507147271"
+  },
+  {
+    "albumID" : "1384967414",
+    "artist" : "Mimi Rutherfurt",
+    "duration" : 2895.0009999999997,
+    "releaseDate" : 547689600,
+    "title" : "Folge 1: Alte Zeiten",
+    "upc" : "4260507140333"
+  },
+  {
+    "albumID" : "1561828133",
+    "artist" : "Mimi Rutherfurt",
+    "duration" : 3848.0020000000004,
+    "releaseDate" : 642038400,
+    "title" : "Folge 51: Die Beichte des Kuckucks",
+    "upc" : "4260507164698"
+  },
+  {
+    "albumID" : "1623125803",
+    "artist" : "Mimi Rutherfurt",
+    "duration" : 3893.003,
+    "releaseDate" : 680140800,
+    "title" : "Folge 56: Das Geheimnis von Hamblin Court",
+    "upc" : "4260507173928"
+  },
+  {
+    "albumID" : "1604599535",
+    "artist" : "Mimi Rutherfurt",
+    "duration" : 4284.000999999999,
+    "releaseDate" : 669254400,
+    "title" : "Folge 54: Bei Zustellung Mord",
+    "upc" : "4260507171047"
+  },
+  {
+    "albumID" : "1508601954",
+    "artist" : "Mimi Rutherfurt",
+    "duration" : 3537.002,
+    "releaseDate" : 611193600,
+    "title" : "Folge 47: Tödliche Maskerade",
+    "upc" : "4260507157089"
+  },
+  {
+    "albumID" : "1385038286",
+    "artist" : "Mimi Rutherfurt",
+    "duration" : 3899.9999999999995,
+    "releaseDate" : 463017600,
+    "title" : "Folge 22: Der Heilige der Insel",
+    "upc" : "4260507140548"
+  },
+  {
+    "albumID" : "1604420409",
+    "artist" : "Mimi Rutherfurt",
+    "duration" : 4364.999999999999,
+    "releaseDate" : 674092800,
+    "title" : "Folge 55: Ewiger Schlaf",
+    "upc" : "4260507171061"
+  },
+  {
+    "albumID" : "1385014721",
+    "artist" : "Mimi Rutherfurt",
+    "duration" : 3762.9990000000007,
+    "releaseDate" : 547689600,
+    "title" : "Folge 12: Der Kreis der Literaten",
+    "upc" : "4260507140449"
+  },
+  {
+    "albumID" : "1721171078",
+    "artist" : "Mimi Rutherfurt",
+    "duration" : 3482.001,
+    "releaseDate" : 728524800,
+    "title" : "Folge 60: Dunkle Vergangenheit",
+    "upc" : "4260507191373"
+  },
+  {
+    "albumID" : "1495661910",
+    "artist" : "Mimi Rutherfurt",
+    "duration" : 4655.004,
+    "releaseDate" : 605750400,
+    "title" : "Folge 46: Das Opferlamm",
+    "upc" : "4260507156617"
+  },
+  {
+    "albumID" : "1674670597",
+    "artist" : "Mimi Rutherfurt",
+    "duration" : 3373.0009999999997,
+    "releaseDate" : 701913600,
+    "title" : "Folge 58: Sport ist Mord",
+    "upc" : "4260507180643"
+  },
+  {
+    "albumID" : "1590812131",
+    "artist" : "Mimi Rutherfurt",
+    "duration" : 3627.9980000000005,
+    "releaseDate" : 655776000,
+    "title" : "Folge 52: Saat des Unheils",
+    "upc" : "4260507170569"
+  },
+  {
+    "albumID" : "1477994127",
+    "artist" : "Mimi Rutherfurt",
+    "duration" : 4452.002000000001,
+    "releaseDate" : 590630400,
+    "title" : "Folge 44: Die leuchtenden Gräber",
+    "upc" : "4260507153340"
+  },
+  {
+    "albumID" : "1384991105",
+    "artist" : "Mimi Rutherfurt",
+    "duration" : 4148.327,
+    "releaseDate" : 547689600,
+    "title" : "Folge 5: Buckingham Palace",
+    "upc" : "4260507140371"
+  },
+  {
+    "albumID" : "1695616450",
+    "artist" : "Mimi Rutherfurt",
+    "duration" : 3585.999,
+    "releaseDate" : 713404800,
+    "title" : "Folge 59: Der Besucher von Gutt's Hill",
+    "upc" : "4260507188007"
+  },
+  {
+    "albumID" : "1591874899",
+    "artist" : "Mimi Rutherfurt",
+    "duration" : 4060.001999999999,
+    "releaseDate" : 663811200,
+    "title" : "Folge 53: Gefährliche Rarität",
+    "upc" : "4260507170606"
+  },
+  {
+    "albumID" : "1643137619",
+    "artist" : "Mimi Rutherfurt",
+    "duration" : 3925.000000000001,
+    "releaseDate" : 686188800,
+    "title" : "Folge 57: Die Raben von London",
+    "upc" : "4260507176394"
+  },
+  {
+    "albumID" : "1385039347",
+    "artist" : "Mimi Rutherfurt",
+    "duration" : 3918.9989999999993,
+    "releaseDate" : 547689600,
+    "title" : "Folge 23: Das Haus in der Dämmerung",
+    "upc" : "4260507140555"
+  },
+  {
+    "albumID" : "1486679238",
+    "artist" : "Mimi Rutherfurt",
+    "duration" : 4626.998999999999,
+    "releaseDate" : 596678400,
+    "title" : "Folge 45: Der rote Kardinal",
+    "upc" : "4260507154903"
+  },
+  {
+    "albumID" : "1385000440",
+    "artist" : "Mimi Rutherfurt",
+    "duration" : 3300.999,
+    "releaseDate" : 547689600,
+    "title" : "Folge 7: Priestermord",
+    "upc" : "4260507140395"
+  },
+  {
+    "albumID" : "1515726666",
+    "artist" : "Mimi Rutherfurt",
+    "duration" : 4014.9999999999995,
+    "releaseDate" : 620265600,
+    "title" : "Folge 49: Alte Gier",
+    "upc" : "4260507159755"
+  },
+  {
+    "albumID" : "1385018335",
+    "artist" : "Mimi Rutherfurt",
+    "duration" : 3993.0029999999997,
+    "releaseDate" : 547689600,
+    "title" : "Folge 14: Sein oder Nichtsein",
+    "upc" : "4260507140463"
+  },
+  {
+    "albumID" : "1384971189",
+    "artist" : "Mimi Rutherfurt",
+    "duration" : 2737.001,
+    "releaseDate" : 427939200,
+    "title" : "Folge 3: Puppenspielerin",
+    "upc" : "4260507140357"
+  },
+  {
+    "albumID" : "1515736822",
+    "artist" : "Mimi Rutherfurt",
+    "duration" : 4193.000999999999,
+    "releaseDate" : 616032000,
+    "title" : "Folge 48: Der Fluch der Liebenden",
+    "upc" : "4260507159212"
+  },
+  {
+    "albumID" : "1385014164",
+    "artist" : "Mimi Rutherfurt",
+    "duration" : 4744.000000000001,
+    "releaseDate" : 547689600,
+    "title" : "Folge 10: Spuk im Herrenhaus",
+    "upc" : "4260507140425"
+  },
+  {
+    "albumID" : "1384996720",
+    "artist" : "Mimi Rutherfurt",
+    "duration" : 2622.001,
+    "releaseDate" : 427939200,
+    "title" : "Folge 6: Flucht im Dunkeln",
+    "upc" : "4260507140388"
+  },
+  {
+    "albumID" : "1385030908",
+    "artist" : "Mimi Rutherfurt",
+    "duration" : 4313.999,
+    "releaseDate" : 547689600,
+    "title" : "Folge 19: Der Fuchs ist tot",
+    "upc" : "4260507140517"
+  },
+  {
+    "albumID" : "1385043439",
+    "artist" : "Mimi Rutherfurt",
+    "duration" : 3863.9970000000003,
+    "releaseDate" : 547689600,
+    "title" : "Folge 24: Schwarze Blüten",
+    "upc" : "4260507140562"
+  },
+  {
+    "albumID" : "1385011110",
+    "artist" : "Mimi Rutherfurt",
+    "duration" : 4164.997,
+    "releaseDate" : 547689600,
+    "title" : "Folge 11: Treu bis in den Tod",
+    "upc" : "4260507140432"
+  },
+  {
+    "albumID" : "1384978244",
+    "artist" : "Mimi Rutherfurt",
+    "duration" : 2997.0020000000004,
+    "releaseDate" : 547689600,
+    "title" : "Folge 4: Todesliste",
+    "upc" : "4260507140364"
+  },
+  {
+    "albumID" : "1385008591",
+    "artist" : "Mimi Rutherfurt",
+    "duration" : 3280,
+    "releaseDate" : 547689600,
+    "title" : "Folge 9: Schwarze Rache",
+    "upc" : "4260507140418"
+  },
+  {
+    "albumID" : "1385014940",
+    "artist" : "Mimi Rutherfurt",
+    "duration" : 2692.0000000000005,
+    "releaseDate" : 547689600,
+    "title" : "Folge 13: Tödliches Rot",
+    "upc" : "4260507140456"
+  },
+  {
+    "albumID" : "1385024686",
+    "artist" : "Mimi Rutherfurt",
+    "duration" : 4301.002000000001,
+    "releaseDate" : 547689600,
+    "title" : "Folge 17: Die Ruhe der Toten",
+    "upc" : "4260507140494"
+  },
+  {
+    "albumID" : "1385023097",
+    "artist" : "Mimi Rutherfurt",
+    "duration" : 4116.998,
+    "releaseDate" : 547689600,
+    "title" : "Folge 15: Flammentod",
+    "upc" : "4260507140470"
+  },
+  {
+    "albumID" : "1385054162",
+    "artist" : "Mimi Rutherfurt",
+    "duration" : 3306.002000000001,
+    "releaseDate" : 464832000,
+    "title" : "Folge 33: Der letzte Versuch",
+    "upc" : "4260507140654"
+  },
+  {
+    "albumID" : "1385033177",
+    "artist" : "Mimi Rutherfurt",
+    "duration" : 3428.9989999999993,
+    "releaseDate" : 547689600,
+    "title" : "Folge 20: Nasses Grab",
+    "upc" : "4260507140524"
+  },
+  {
+    "albumID" : "1385027898",
+    "artist" : "Mimi Rutherfurt",
+    "duration" : 4543.999000000001,
+    "releaseDate" : 547689600,
+    "title" : "Folge 16: Galgenfrist",
+    "upc" : "4260507140487"
+  },
+  {
+    "albumID" : "1385027315",
+    "artist" : "Mimi Rutherfurt",
+    "duration" : 3632.0010000000007,
+    "releaseDate" : 547689600,
+    "title" : "Folge 18: Diebe in der Nacht",
+    "upc" : "4260507140500"
+  },
+  {
+    "albumID" : "1385003569",
+    "artist" : "Mimi Rutherfurt",
+    "duration" : 3021.0000000000005,
+    "releaseDate" : 427939200,
+    "title" : "Folge 8: Das indische Kind",
+    "upc" : "4260507140401"
+  },
+  {
+    "albumID" : "1748525757",
+    "artist" : "Mimi Rutherfurt",
+    "duration" : 3436.0019999999995,
+    "releaseDate" : 747878400,
+    "title" : "Folge 64: Grenzenlose Wut",
+    "upc" : "4260507195968"
+  },
+  {
+    "albumID" : "1739108062",
+    "artist" : "Mimi Rutherfurt",
+    "duration" : 3586.999,
+    "releaseDate" : 740016000,
+    "title" : "Folge 62: Ein zerbrochenes Herz",
+    "upc" : "4260507194459"
+  },
+  {
+    "albumID" : "1385061728",
+    "artist" : "Mimi Rutherfurt",
+    "duration" : 3556.999,
+    "releaseDate" : 466041600,
+    "title" : "Folge 37: Der Patient aus Nr. 5",
+    "upc" : "4260507140692"
+  },
+  {
+    "albumID" : "1385043154",
+    "artist" : "Mimi Rutherfurt",
+    "duration" : 3594.9990000000007,
+    "releaseDate" : 463622400,
+    "title" : "Folge 25: Geheimnis um Forlorn Abbey",
+    "upc" : "4260507140579"
+  },
+  {
+    "albumID" : "1385032844",
+    "artist" : "Mimi Rutherfurt",
+    "duration" : 3540.001,
+    "releaseDate" : 547689600,
+    "title" : "Folge 21: Tod eines Tyrannen",
+    "upc" : "4260507140531"
+  },
+  {
+    "albumID" : "1743791760",
+    "artist" : "Mimi Rutherfurt",
+    "duration" : 3445.9999999999995,
+    "releaseDate" : 742435200,
+    "title" : "Folge 63: Ein Trauerfall",
+    "upc" : "4260507195456"
+  },
+  {
+    "albumID" : "1385072199",
+    "artist" : "Mimi Rutherfurt",
+    "duration" : 4755.999999999999,
+    "releaseDate" : 492652800,
+    "title" : "Mimi Rutherfurt ermittelt ..., Folge 1: Der Todesengel von Salisbury",
+    "upc" : "4260507140753"
+  },
+  {
+    "albumID" : "1381366635",
+    "artist" : "Mimi Rutherfurt",
+    "duration" : 3130.9989999999993,
+    "releaseDate" : 462412800,
+    "title" : "Folge 34: Ein Dorf in Angst",
+    "upc" : "4260507140661"
+  },
+  {
+    "albumID" : "1385070064",
+    "artist" : "Mimi Rutherfurt",
+    "duration" : 4372.997,
+    "releaseDate" : 466646400,
+    "title" : "Folge 40: Auf dem Pfad der Ewigkeit",
+    "upc" : "4260507140722"
+  },
+  {
+    "albumID" : "1385049044",
+    "artist" : "Mimi Rutherfurt",
+    "duration" : 2720.0009999999997,
+    "releaseDate" : 547689600,
+    "title" : "Folge 29: Bitteres Gift",
+    "upc" : "4260507140616"
+  },
+  {
+    "albumID" : "1385057706",
+    "artist" : "Mimi Rutherfurt",
+    "duration" : 4040.0019999999995,
+    "releaseDate" : 465436800,
+    "title" : "Folge 35: Wem die Stunde schlägt",
+    "upc" : "4260507140678"
+  },
+  {
+    "albumID" : "1385060624",
+    "artist" : "Mimi Rutherfurt",
+    "duration" : 3603.9980000000005,
+    "releaseDate" : 465436800,
+    "title" : "Folge 36: Nacht der Monster",
+    "upc" : "4260507140685"
+  },
+  {
+    "albumID" : "1385074143",
+    "artist" : "Mimi Rutherfurt",
+    "duration" : 4247.003,
+    "releaseDate" : 492652800,
+    "title" : "Mimi Rutherfurt ermittelt ..., Folge 3: Skandal auf dem Luxusliner",
+    "upc" : "4260507140777"
+  },
+  {
+    "albumID" : "1385066085",
+    "artist" : "Mimi Rutherfurt",
+    "duration" : 4644.9980000000005,
+    "releaseDate" : 466041600,
+    "title" : "Folge 38: Comics für den Staatsanwalt",
+    "upc" : "4260507140708"
+  },
+  {
+    "albumID" : "1385049467",
+    "artist" : "Mimi Rutherfurt",
+    "duration" : 3181.0010000000007,
+    "releaseDate" : 464227200,
+    "title" : "Folge 30: Der tödliche Golfball",
+    "upc" : "4260507140623"
+  },
+  {
+    "albumID" : "1385052169",
+    "artist" : "Mimi Rutherfurt",
+    "duration" : 3078.0000000000005,
+    "releaseDate" : 464832000,
+    "title" : "Folge 32: Die letzten Stunden des Mr. Smith",
+    "upc" : "4260507140647"
+  },
+  {
+    "albumID" : "1385050919",
+    "artist" : "Mimi Rutherfurt",
+    "duration" : 2913.001,
+    "releaseDate" : 464832000,
+    "title" : "Folge 31: Mississippi Dampfer",
+    "upc" : "4260507140630"
+  },
+  {
+    "albumID" : "1385056788",
+    "artist" : "Mimi Rutherfurt",
+    "duration" : 2970.001,
+    "releaseDate" : 463622400,
+    "title" : "Folge 26: Vabanque - Tödliches Roulette",
+    "upc" : "4260507140586"
+  },
+  {
+    "albumID" : "1385073209",
+    "artist" : "Mimi Rutherfurt",
+    "duration" : 4782.000000000001,
+    "releaseDate" : 492652800,
+    "title" : "Folge 2: Die Vergangenheit ruht nicht (Mimi Rutherfurt ermittelt...)",
+    "upc" : "4260507140760"
+  },
+  {
+    "albumID" : "1385075266",
+    "artist" : "Mimi Rutherfurt",
+    "duration" : 4112.002,
+    "releaseDate" : 492652800,
+    "title" : "Mimi Rutherfurt ermittelt ..., Folge 4: Im Schatten der Stonehenge",
+    "upc" : "4260507140784"
+  },
+  {
+    "albumID" : "1733198120",
+    "artist" : "Mimi Rutherfurt",
+    "duration" : 3574.0000000000005,
+    "releaseDate" : 734572800,
+    "title" : "Folge 61: Der Tote im Wald",
+    "upc" : "4260507193926"
+  },
+  {
+    "albumID" : "1385070628",
+    "artist" : "Mimi Rutherfurt",
+    "duration" : 3492.999,
+    "releaseDate" : 466646400,
+    "title" : "Folge 41: Nächste Talfahrt 17:30 Uhr",
+    "upc" : "4260507140739"
+  },
+  {
+    "albumID" : "1385047943",
+    "artist" : "Mimi Rutherfurt",
+    "duration" : 3092.0009999999993,
+    "releaseDate" : 464227200,
+    "title" : "Folge 28: Blattschuss",
+    "upc" : "4260507140609"
+  },
+  {
+    "albumID" : "1385047587",
+    "artist" : "Mimi Rutherfurt",
+    "duration" : 3183.9989999999993,
+    "releaseDate" : 547689600,
+    "title" : "Folge 27: Im Angesicht des Mörders",
+    "upc" : "4260507140593"
+  },
+  {
+    "albumID" : "1385084241",
+    "artist" : "Mimi Rutherfurt",
+    "duration" : 4503.001,
+    "releaseDate" : 492652800,
+    "title" : "Mimi Rutherfurt ermittelt ..., Folge 7: Todsicher in Ascot",
+    "upc" : "4260507140814"
+  },
+  {
+    "albumID" : "1385078832",
+    "artist" : "Mimi Rutherfurt",
+    "duration" : 4387.999999999999,
+    "releaseDate" : 492652800,
+    "title" : "Mimi Rutherfurt ermittelt ..., Folge 5: Mord in der Kathedrale",
+    "upc" : "4260507140791"
+  },
+  {
+    "albumID" : "1385071263",
+    "artist" : "Mimi Rutherfurt",
+    "duration" : 3785.0009999999993,
+    "releaseDate" : 466646400,
+    "title" : "Folge 42: Dieses Hörspiel endet tödlich",
+    "upc" : "4260507140746"
+  },
+  {
+    "albumID" : "1385066355",
+    "artist" : "Mimi Rutherfurt",
+    "duration" : 4049.9979999999996,
+    "releaseDate" : 466041600,
+    "title" : "Folge 39: Das Verräter Loch",
+    "upc" : "4260507140715"
+  },
+  {
+    "albumID" : "1381368202",
+    "artist" : "Mimi Rutherfurt",
+    "duration" : 3509.9990000000003,
+    "releaseDate" : 492652800,
+    "title" : "Folge 8: Mit Glockenschlägen zum Mord (Mimi Rutherfurt ermittelt...)",
+    "upc" : "4260507140821"
+  },
+  {
+    "albumID" : "1761143102",
+    "artist" : "Mimi Rutherfurt",
+    "duration" : 3504.004,
+    "releaseDate" : 749088000,
+    "title" : "Folge 65: Der Sammler",
+    "upc" : "4260507198334"
+  },
+  {
+    "albumID" : "1385080587",
+    "artist" : "Mimi Rutherfurt",
+    "duration" : 4555.000000000002,
+    "releaseDate" : 492652800,
+    "title" : "Folge 6: Wachs oder Wirklichkeit (Mimi Rutherfurt ermittelt...)",
+    "upc" : "4260507140807"
+  },
+  {
+    "albumID" : "1527328984",
+    "artist" : "Mimi Rutherfurt",
+    "duration" : 12809.038000000002,
+    "releaseDate" : 626918400,
+    "title" : "Edition 7: Vier Spannende Kriminalhörspiele",
+    "upc" : "4260507161093"
+  },
+  {
+    "albumID" : "1527080217",
+    "artist" : "Mimi Rutherfurt",
+    "duration" : 12310.999000000007,
+    "releaseDate" : 619056000,
+    "title" : "Edition 1: Vier Spannende Kriminalhörspiele",
+    "upc" : "4260507161031"
+  },
+  {
+    "albumID" : "1527332496",
+    "artist" : "Mimi Rutherfurt",
+    "duration" : 14303.637999999999,
+    "releaseDate" : 629942400,
+    "title" : "Edition 9: Vier Spannende Kriminalhörspiele",
+    "upc" : "4260507161116"
+  },
+  {
+    "albumID" : "1527329854",
+    "artist" : "Mimi Rutherfurt",
+    "duration" : 15483.267000000005,
+    "releaseDate" : 625104000,
+    "title" : "Edition 6: Vier Spannende Kriminalhörspiele",
+    "upc" : "4260507161086"
+  },
+  {
+    "albumID" : "1527327397",
+    "artist" : "Mimi Rutherfurt",
+    "duration" : 16071.393000000007,
+    "releaseDate" : 623894400,
+    "title" : "Edition 5: Vier Spannende Kriminalhörspiele",
+    "upc" : "4260507161079"
+  },
+  {
+    "albumID" : "1527077417",
+    "artist" : "Mimi Rutherfurt",
+    "duration" : 13288.001999999999,
+    "releaseDate" : 620265600,
+    "title" : "Edition 2: Vier Spannende Kriminalhörspiele",
+    "upc" : "4260507161048"
+  },
+  {
+    "albumID" : "1527322358",
+    "artist" : "Mimi Rutherfurt",
+    "duration" : 16157.054000000006,
+    "releaseDate" : 621475200,
+    "title" : "Edition 3: Vier Spannende Kriminalhörspiele",
+    "upc" : "4260507161055"
+  },
+  {
+    "albumID" : "1527331638",
+    "artist" : "Mimi Rutherfurt",
+    "duration" : 12133.085999999996,
+    "releaseDate" : 628732800,
+    "title" : "Edition 8: Vier Spannende Kriminalhörspiele",
+    "upc" : "4260507161109"
+  },
+  {
+    "albumID" : "1527324343",
+    "artist" : "Mimi Rutherfurt",
+    "duration" : 15673.764,
+    "releaseDate" : 622684800,
+    "title" : "Edition 4: Vier Spannende Kriminalhörspiele",
+    "upc" : "4260507161062"
+  }
+]
