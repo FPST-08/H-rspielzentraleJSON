@@ -42,6 +42,12 @@
     "url" : "https://raw.githubusercontent.com/FPST-08/H-rspielzentraleJSON/refs/heads/main/HoerspielData/Data/1227494324.json"
   },
   {
+    "artworkURL" : "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c7/a3/88/c7a38800-dd4e-2fd9-c5d7-e2352560f6a6/cover.jpg/1024x1024ac.jpg",
+    "id" : "1228633477",
+    "name" : "Insel-Krimi",
+    "url" : "https://raw.githubusercontent.com/FPST-08/H-rspielzentraleJSON/refs/heads/main/HoerspielData/Data/1228633477.json"
+  },
+  {
     "artworkURL" : "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/0b/71/c1/0b71c195-a72c-01ec-91ed-39ccba83256c/cover.jpg/1024x1024ac.jpg",
     "id" : "1333781604",
     "name" : "Inspector Lestrade",
@@ -78,6 +84,18 @@
     "url" : "https://raw.githubusercontent.com/FPST-08/H-rspielzentraleJSON/refs/heads/main/HoerspielData/Data/1464160881.json"
   },
   {
+    "artworkURL" : "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ac/9f/ce/ac9fced3-f251-16c7-dd0d-89974ea109aa/4260434321782_3000.jpg/1024x1024ac.jpg",
+    "id" : "1519969938",
+    "name" : "Honigsüß und Mausetot",
+    "url" : "https://raw.githubusercontent.com/FPST-08/H-rspielzentraleJSON/refs/heads/main/HoerspielData/Data/1519969938.json"
+  },
+  {
+    "artworkURL" : "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/43/a5/60/43a56038-fbc8-a4ab-5b6f-2ffe8b674558/cover.jpg/1024x1024ac.jpg",
+    "id" : "1524042123",
+    "name" : "Küsten-Krimi",
+    "url" : "https://raw.githubusercontent.com/FPST-08/H-rspielzentraleJSON/refs/heads/main/HoerspielData/Data/1524042123.json"
+  },
+  {
     "artworkURL" : "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d3/4c/17/d34c1763-d6a6-3772-2343-8280fd05b46e/4260507198723_3000.jpg/1024x1024ac.jpg",
     "id" : "1530805738",
     "name" : "Dracula und der Zirkel der Sieben",
@@ -102,10 +120,22 @@
     "url" : "https://raw.githubusercontent.com/FPST-08/H-rspielzentraleJSON/refs/heads/main/HoerspielData/Data/1540736878.json"
   },
   {
+    "artworkURL" : "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c5/ba/45/c5ba450c-fb21-cb48-469b-38a1f9db5454/cover.jpg/1024x1024ac.jpg",
+    "id" : "1550307090",
+    "name" : "Die 3 Senioren",
+    "url" : "https://raw.githubusercontent.com/FPST-08/H-rspielzentraleJSON/refs/heads/main/HoerspielData/Data/1550307090.json"
+  },
+  {
     "artworkURL" : "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/66/63/b5/6663b573-341a-cbe9-587a-c81bff93e7df/mzl.wnbnobae.jpg/1024x1024bb.jpg",
     "id" : "1553809713",
     "name" : "Sherlock Holmes - Die neuen Fälle",
     "url" : "https://raw.githubusercontent.com/FPST-08/H-rspielzentraleJSON/refs/heads/main/HoerspielData/Data/1553809713.json"
+  },
+  {
+    "artworkURL" : "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/f2/39/66/f2396677-2e8d-3a87-1cc2-a25311293c34/mzl.iudlnkvq.jpg/1024x1024bb.jpg",
+    "id" : "1553810039",
+    "name" : "Der junge Sherlock Holmes",
+    "url" : "https://raw.githubusercontent.com/FPST-08/H-rspielzentraleJSON/refs/heads/main/HoerspielData/Data/1553810039.json"
   },
   {
     "artworkURL" : "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/43/68/f7/4368f7b2-4c67-b47f-d04b-c5f92a094abf/4260507165015_3000.jpg/1024x1024ac.jpg",
@@ -142,6 +172,18 @@
     "id" : "1640502543",
     "name" : "Die größten Fälle des BND",
     "url" : "https://raw.githubusercontent.com/FPST-08/H-rspielzentraleJSON/refs/heads/main/HoerspielData/Data/1640502543.json"
+  },
+  {
+    "artworkURL" : "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c7/80/aa/c780aacc-e80f-f8ee-f84a-2e694fabeed9/cover.jpg/1024x1024ac.jpg",
+    "id" : "1685239044",
+    "name" : "Kommissar Tacheles",
+    "url" : "https://raw.githubusercontent.com/FPST-08/H-rspielzentraleJSON/refs/heads/main/HoerspielData/Data/1685239044.json"
+  },
+  {
+    "artworkURL" : "https://is1-ssl.mzstatic.com/image/thumb/Features116/v4/99/69/ca/9969ca79-a570-7b67-9a74-6ca0c03f66ea/mzl.zccvksgl.jpg/1024x1024bb.jpg",
+    "id" : "1689109274",
+    "name" : "Sherlock Holmes Legends",
+    "url" : "https://raw.githubusercontent.com/FPST-08/H-rspielzentraleJSON/refs/heads/main/HoerspielData/Data/1689109274.json"
   },
   {
     "artworkURL" : "https://is1-ssl.mzstatic.com/image/thumb/Features124/v4/30/90/56/3090569a-54fc-eb89-e29f-493f04ddd994/pr_source.png/1024x1024bb.jpg",
@@ -264,6 +306,12 @@
     "url" : "https://raw.githubusercontent.com/FPST-08/H-rspielzentraleJSON/refs/heads/main/HoerspielData/Data/375978916.json"
   },
   {
+    "artworkURL" : "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/5e/d8/15/5ed81589-0bb2-c318-6a98-f2958e03bc85/pr_source.png/1024x1024bb.jpg",
+    "id" : "392295539",
+    "name" : "Detektiv Kolumbus & Sohn",
+    "url" : "https://raw.githubusercontent.com/FPST-08/H-rspielzentraleJSON/refs/heads/main/HoerspielData/Data/392295539.json"
+  },
+  {
     "artworkURL" : "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/cd/f2/e2/cdf2e2e7-29e5-429b-a6bb-bcf969802d6d/859771569243_cover.jpg/1024x1024ac.jpg",
     "id" : "395691370",
     "name" : "Lady Bedfort",
@@ -328,6 +376,12 @@
     "id" : "876466527",
     "name" : "Pater Brown",
     "url" : "https://raw.githubusercontent.com/FPST-08/H-rspielzentraleJSON/refs/heads/main/HoerspielData/Data/876466527.json"
+  },
+  {
+    "artworkURL" : "https://is1-ssl.mzstatic.com/image/thumb/Features124/v4/15/fa/89/15fa891c-53ec-fc8c-2329-c255bdf911f6/pr_source.png/1024x1024bb.jpg",
+    "id" : "895394127",
+    "name" : "Mimi Rutherfurt",
+    "url" : "https://raw.githubusercontent.com/FPST-08/H-rspielzentraleJSON/refs/heads/main/HoerspielData/Data/895394127.json"
   },
   {
     "artworkURL" : "https://is1-ssl.mzstatic.com/image/thumb/Features124/v4/cc/45/7e/cc457eaa-3524-4a3c-5f42-1ffadb6602bb/pr_source.png/1024x1024bb.jpg",
