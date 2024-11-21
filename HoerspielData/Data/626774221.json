@@ -40,22 +40,6 @@
     "upc" : "4260507151711"
   },
   {
-    "albumID" : "1467946609",
-    "artist" : "Professor van Dusen",
-    "duration" : 4541.775,
-    "releaseDate" : 449625600,
-    "title" : "Die neuen Fälle, Fall 1: Professor van Dusen im Spukhaus",
-    "upc" : "4260507151803"
-  },
-  {
-    "albumID" : "1467948696",
-    "artist" : "Professor van Dusen",
-    "duration" : 4785.092,
-    "releaseDate" : 458784000,
-    "title" : "Die neuen Fälle, Fall 2: Professor van Dusen reitet das trojanische Pferd",
-    "upc" : "4260507151810"
-  },
-  {
     "albumID" : "1467950840",
     "artist" : "Professor van Dusen",
     "duration" : 4405.065,
@@ -80,28 +64,12 @@
     "upc" : "4260507151841"
   },
   {
-    "albumID" : "1467899858",
-    "artist" : "Professor van Dusen",
-    "duration" : 3010.6530000000002,
-    "releaseDate" : 482371200,
-    "title" : "Folge 1: Eine Unze Radium",
-    "upc" : "4260507151605"
-  },
-  {
     "albumID" : "1467913988",
     "artist" : "Professor van Dusen",
     "duration" : 3713.4809999999984,
     "releaseDate" : 482371200,
     "title" : "Folge 8: Wettbewerb der Detektive",
     "upc" : "4260507151674"
-  },
-  {
-    "albumID" : "1467909013",
-    "artist" : "Professor van Dusen",
-    "duration" : 3777.0969999999998,
-    "releaseDate" : 482371200,
-    "title" : "Folge 4: Der Mann, der seinen Kopf verlor",
-    "upc" : "4260507151636"
   },
   {
     "albumID" : "1467900580",
@@ -112,12 +80,12 @@
     "upc" : "4260507151629"
   },
   {
-    "albumID" : "1467910729",
+    "albumID" : "1467909013",
     "artist" : "Professor van Dusen",
-    "duration" : 3583.198000000001,
+    "duration" : 3777.0969999999998,
     "releaseDate" : 482371200,
-    "title" : "Folge 6: Die Perlen der Kali",
-    "upc" : "4260507151650"
+    "title" : "Folge 4: Der Mann, der seinen Kopf verlor",
+    "upc" : "4260507151636"
   },
   {
     "albumID" : "1467910412",
@@ -126,6 +94,14 @@
     "releaseDate" : 482371200,
     "title" : "Folge 5: Stirb schön mit Shakespeare",
     "upc" : "4260507151643"
+  },
+  {
+    "albumID" : "1467910729",
+    "artist" : "Professor van Dusen",
+    "duration" : 3583.198000000001,
+    "releaseDate" : 482371200,
+    "title" : "Folge 6: Die Perlen der Kali",
+    "upc" : "4260507151650"
   },
   {
     "albumID" : "1467910727",
@@ -272,46 +248,6 @@
     "upc" : "4260507151797"
   },
   {
-    "albumID" : "1425037213",
-    "artist" : "Professor van Dusen",
-    "duration" : 4209.597999999999,
-    "releaseDate" : 558576000,
-    "title" : "Die neuen Fälle, Fall 15: Professor van Dusen in der Totenvilla",
-    "upc" : "4260507143143"
-  },
-  {
-    "albumID" : "1441302254",
-    "artist" : "Professor van Dusen",
-    "duration" : 4094.2690000000007,
-    "releaseDate" : 564624000,
-    "title" : "Die neuen Fälle, Fall 16: Professor van Dusen nimmt die Beichte ab",
-    "upc" : "4260507144003"
-  },
-  {
-    "albumID" : "1453425347",
-    "artist" : "Professor van Dusen",
-    "duration" : 3710.5359999999996,
-    "releaseDate" : 574300800,
-    "title" : "Die neuen Fälle, Fall 17: Professor van Dusen setzt die Segel",
-    "upc" : "4260507148001"
-  },
-  {
-    "albumID" : "1465894405",
-    "artist" : "Professor van Dusen",
-    "duration" : 3351.122,
-    "releaseDate" : 582163200,
-    "title" : "Die neuen Fälle, Fall 18: Professor van Dusen und der lachende Mörder",
-    "upc" : "4260507151544"
-  },
-  {
-    "albumID" : "1481067598",
-    "artist" : "Professor van Dusen",
-    "duration" : 4145.775000000001,
-    "releaseDate" : 591235200,
-    "title" : "Die neuen Fälle, Fall 19: Professor van Dusen legt einen Köder aus",
-    "upc" : "4260507153838"
-  },
-  {
     "albumID" : "1488859573",
     "artist" : "Professor van Dusen",
     "duration" : 3746.064,
@@ -320,44 +256,12 @@
     "upc" : "4260507155443"
   },
   {
-    "albumID" : "1506582102",
-    "artist" : "Professor van Dusen",
-    "duration" : 3157.483,
-    "releaseDate" : 606960000,
-    "title" : "Die neuen Fälle, Fall 21: Professor van Dusen zählt nach",
-    "upc" : "4260507157935"
-  },
-  {
-    "albumID" : "1504248622",
-    "artist" : "Professor van Dusen",
-    "duration" : 3352.5279999999993,
-    "releaseDate" : 608774400,
-    "title" : "Folge 21: Der Kopfjäger von Singapur",
-    "upc" : "4260507158222"
-  },
-  {
-    "albumID" : "1515281868",
-    "artist" : "Professor van Dusen",
-    "duration" : 3728.2789999999995,
-    "releaseDate" : 614217600,
-    "title" : "Die neuen Fälle, Fall 22: Professor van Dusen bittet zum Tanz",
-    "upc" : "4260507160126"
-  },
-  {
     "albumID" : "1506768027",
     "artist" : "Professor van Dusen",
     "duration" : 3574.8050000000007,
     "releaseDate" : 614217600,
     "title" : "Folge 22: Doktor Tschu Man Fu",
     "upc" : "4260507158239"
-  },
-  {
-    "albumID" : "1506767852",
-    "artist" : "Professor van Dusen",
-    "duration" : 3659.9999999999995,
-    "releaseDate" : 619056000,
-    "title" : "Folge 23: Robinsons Insel",
-    "upc" : "4260507158246"
   },
   {
     "albumID" : "1529885703",
@@ -376,44 +280,12 @@
     "upc" : "4260507158253"
   },
   {
-    "albumID" : "1539152879",
-    "artist" : "Professor van Dusen",
-    "duration" : 4342.086999999999,
-    "releaseDate" : 627523200,
-    "title" : "Die neuen Fälle, Fall 24: Professor van Dusen und die Regenbogenmorde",
-    "upc" : "4260507162090"
-  },
-  {
     "albumID" : "1506768897",
     "artist" : "Professor van Dusen",
     "duration" : 4127.392999999999,
     "releaseDate" : 629942400,
     "title" : "Folge 25: Professor van Dusen und der Zirkusmörder",
     "upc" : "4260507158260"
-  },
-  {
-    "albumID" : "1506770683",
-    "artist" : "Professor van Dusen",
-    "duration" : 3652.1280000000006,
-    "releaseDate" : 635385600,
-    "title" : "Folge 26: Professor van Dusen rettet die Venus von Milo",
-    "upc" : "4260507158277"
-  },
-  {
-    "albumID" : "1557295495",
-    "artist" : "Professor van Dusen",
-    "duration" : 3884.1880000000006,
-    "releaseDate" : 638409600,
-    "title" : "Die neuen Fälle, Fall 25: Professor van Dusen und der lange Weg nach Oz",
-    "upc" : "4260507164421"
-  },
-  {
-    "albumID" : "1503643060",
-    "artist" : "Professor van Dusen",
-    "duration" : 4028.1250000000005,
-    "releaseDate" : 640224000,
-    "title" : "Folge 27: Professor van Dusen und der schreckliche Schneemensch",
-    "upc" : "4260507158284"
   },
   {
     "albumID" : "1503643823",
@@ -424,60 +296,12 @@
     "upc" : "4260507158291"
   },
   {
-    "albumID" : "1571976618",
-    "artist" : "Professor van Dusen",
-    "duration" : 3874.0930000000008,
-    "releaseDate" : 646272000,
-    "title" : "Die neuen Fälle, Fall 26: Professor van Dusen bietet mehr",
-    "upc" : "4260507166463"
-  },
-  {
     "albumID" : "1503644287",
     "artist" : "Professor van Dusen",
     "duration" : 3604.74,
     "releaseDate" : 650505600,
     "title" : "Folge 29: Wo steckt Professor van Dusen?",
     "upc" : "4260507158307"
-  },
-  {
-    "albumID" : "1582449146",
-    "artist" : "Professor van Dusen",
-    "duration" : 3436.0260000000003,
-    "releaseDate" : 653529600,
-    "title" : "Die neuen Fälle, Fall 27: Professor van Dusen im schwarzen Tann",
-    "upc" : "4260507170118"
-  },
-  {
-    "albumID" : "1503644116",
-    "artist" : "Professor van Dusen",
-    "duration" : 3871.217999999999,
-    "releaseDate" : 655948800,
-    "title" : "Folge 30: Professor van Dusen und der grundlose Mord",
-    "upc" : "4260507158314"
-  },
-  {
-    "albumID" : "1594065078",
-    "artist" : "Professor van Dusen",
-    "duration" : 3940.195,
-    "releaseDate" : 658972800,
-    "title" : "Folge 28: Professor van Dusen auf den Spuren der Blutgräfin (Die neuen Fälle)",
-    "upc" : "4260507170644"
-  },
-  {
-    "albumID" : "1614288574",
-    "artist" : "Professor van Dusen",
-    "duration" : 4306.347,
-    "releaseDate" : 671673600,
-    "title" : "Fall 29: Professor van Dusen packt die Koffer (Die neuen Fälle)",
-    "upc" : "4260507173041"
-  },
-  {
-    "albumID" : "1628255309",
-    "artist" : "Professor van Dusen",
-    "duration" : 3947.054,
-    "releaseDate" : 679536000,
-    "title" : "Fall 30: Professor van Dusen auf Wolke sieben (Die neuen Fälle)",
-    "upc" : "4260507175229"
   },
   {
     "albumID" : "1643137445",
@@ -518,14 +342,6 @@
     "releaseDate" : 692236800,
     "title" : "Die neuen Fälle, Fall 32: Professor van Dusen auf dem Abstellgleis",
     "upc" : "4260507177643"
-  },
-  {
-    "albumID" : "1647818963",
-    "artist" : "Professor van Dusen",
-    "duration" : 4022.0000000000005,
-    "releaseDate" : 692236800,
-    "title" : "Folge 34: Professor van Dusen hilft Scotland Yard",
-    "upc" : "4260507176912"
   },
   {
     "albumID" : "1647819268",
@@ -576,14 +392,6 @@
     "upc" : "4260507177032"
   },
   {
-    "albumID" : "1676901529",
-    "artist" : "Professor van Dusen",
-    "duration" : 3833.0789999999997,
-    "releaseDate" : 703123200,
-    "title" : "Fall 33: Professor van Dusen ringt mit dem Löwenrudel (Die neuen Fälle)",
-    "upc" : "4260507180858"
-  },
-  {
     "albumID" : "1690152579",
     "artist" : "Professor van Dusen",
     "duration" : 4274.559,
@@ -598,14 +406,6 @@
     "releaseDate" : 718243200,
     "title" : "Fall 35: Professor van Dusen wirbelt Staub auf (Die neuen Fälle)",
     "upc" : "4260507188885"
-  },
-  {
-    "albumID" : "1718510011",
-    "artist" : "Professor van Dusen",
-    "duration" : 4139.291,
-    "releaseDate" : 724896000,
-    "title" : "Die neuen Fälle, Fall 36: Professor van Dusen räumt auf",
-    "upc" : "4260507190925"
   },
   {
     "albumID" : "1731838464",
