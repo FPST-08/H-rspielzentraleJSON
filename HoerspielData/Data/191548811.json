@@ -8,22 +8,6 @@
     "upc" : "886447519189"
   },
   {
-    "albumID" : "1195632440",
-    "artist" : "TKKG",
-    "duration" : 2732.1059999999998,
-    "releaseDate" : -133660800,
-    "title" : "Folge 100: Fieser Trick mit Nr. 100",
-    "upc" : "886446327099"
-  },
-  {
-    "albumID" : "1195637277",
-    "artist" : "TKKG",
-    "duration" : 3495.9060000000013,
-    "releaseDate" : -120355200,
-    "title" : "Folge 101: Opfer fliegen 1. Klasse",
-    "upc" : "886446327112"
-  },
-  {
     "albumID" : "1195630985",
     "artist" : "TKKG",
     "duration" : 2942.281,
@@ -134,14 +118,6 @@
     "releaseDate" : -48988800,
     "title" : "Folge 115: Der Diamant im Bauch der Kobra",
     "upc" : "886445640168"
-  },
-  {
-    "albumID" : "1216486986",
-    "artist" : "TKKG",
-    "duration" : 3256.865999999999,
-    "releaseDate" : -44150400,
-    "title" : "Folge 116: Klassenfahrt zur Hexenburg",
-    "upc" : "886446428260"
   },
   {
     "albumID" : "1087173572",
@@ -640,22 +616,6 @@
     "upc" : "886445640885"
   },
   {
-    "albumID" : "1087326591",
-    "artist" : "TKKG",
-    "duration" : 2960.4549999999995,
-    "releaseDate" : 360806400,
-    "title" : "Folge 178: Hai-Alarm im Aquapark",
-    "upc" : "886445640908"
-  },
-  {
-    "albumID" : "1087331171",
-    "artist" : "TKKG",
-    "duration" : 3631.881000000001,
-    "releaseDate" : 369273600,
-    "title" : "Folge 179: Abzocke im Online-Chat",
-    "upc" : "886445640915"
-  },
-  {
     "albumID" : "1087321042",
     "artist" : "TKKG",
     "duration" : 3800.476,
@@ -776,30 +736,6 @@
     "upc" : "886445641073"
   },
   {
-    "albumID" : "1150338992",
-    "artist" : "TKKG",
-    "duration" : 3277.342,
-    "releaseDate" : 477532800,
-    "title" : "Folge 195: Dem Sonnenkönig auf der Spur",
-    "upc" : "886446058641"
-  },
-  {
-    "albumID" : "1148959439",
-    "artist" : "TKKG",
-    "duration" : 3856.201,
-    "releaseDate" : 482371200,
-    "title" : "Folge 196: Tatort Wagenburg",
-    "upc" : "886446058658"
-  },
-  {
-    "albumID" : "1148961615",
-    "artist" : "TKKG",
-    "duration" : 3952.692,
-    "releaseDate" : 486604800,
-    "title" : "Folge 197: Bei Anpfiff Übergabe",
-    "upc" : "886446058665"
-  },
-  {
     "albumID" : "1145292244",
     "artist" : "TKKG",
     "duration" : 3528.8670000000006,
@@ -808,60 +744,12 @@
     "upc" : "886445582888"
   },
   {
-    "albumID" : "1174859884",
-    "artist" : "TKKG",
-    "duration" : 3118.8779999999997,
-    "releaseDate" : 502329600,
-    "title" : "Folge 199: Verfolgungsjagd vor Mitternacht",
-    "upc" : "886445582895"
-  },
-  {
-    "albumID" : "1208973032",
-    "artist" : "TKKG",
-    "duration" : 7463.462000000001,
-    "releaseDate" : 511401600,
-    "title" : "Folge 200: Der große Coup",
-    "upc" : "886446167053"
-  },
-  {
-    "albumID" : "1233291606",
-    "artist" : "TKKG",
-    "duration" : 4039.9069999999997,
-    "releaseDate" : 518659200,
-    "title" : "Folge 201: Vom Goldschatz besessen",
-    "upc" : "886446167060"
-  },
-  {
-    "albumID" : "1245097655",
-    "artist" : "TKKG",
-    "duration" : 4003.8529999999996,
-    "releaseDate" : 527731200,
-    "title" : "Folge 202: Ein Paradies für Diebe",
-    "upc" : "886446167077"
-  },
-  {
     "albumID" : "1298617442",
     "artist" : "TKKG",
     "duration" : 3976.0160000000005,
     "releaseDate" : 533174400,
     "title" : "Folge 203: Der Räuber mit der Weihnachtsmaske",
     "upc" : "886446167084"
-  },
-  {
-    "albumID" : "1332712464",
-    "artist" : "TKKG",
-    "duration" : 3679.296,
-    "releaseDate" : 541036800,
-    "title" : "Folge 204: Verschwörung auf hoher See",
-    "upc" : "886446809557"
-  },
-  {
-    "albumID" : "1345999553",
-    "artist" : "TKKG",
-    "duration" : 4179.6759999999995,
-    "releaseDate" : 547084800,
-    "title" : "Folge 205: Teuflische Kaffeefahrt",
-    "upc" : "886446809564"
   },
   {
     "albumID" : "1371388955",
@@ -880,38 +768,6 @@
     "upc" : "886446967141"
   },
   {
-    "albumID" : "1434672470",
-    "artist" : "TKKG",
-    "duration" : 9787.974999999999,
-    "releaseDate" : 560995200,
-    "title" : "Ein fast perfektes Weihnachtsmenü",
-    "upc" : "886446992037"
-  },
-  {
-    "albumID" : "1439195203",
-    "artist" : "TKKG",
-    "duration" : 3346.2010000000005,
-    "releaseDate" : 570067200,
-    "title" : "Folge 208: Geheimnis im Tresor",
-    "upc" : "886447234419"
-  },
-  {
-    "albumID" : "1449473902",
-    "artist" : "TKKG",
-    "duration" : 4211.840000000001,
-    "releaseDate" : 574300800,
-    "title" : "Folge 209: Drohbriefe von Unbekannt",
-    "upc" : "886447380123"
-  },
-  {
-    "albumID" : "1454389428",
-    "artist" : "TKKG",
-    "duration" : 3962.932999999999,
-    "releaseDate" : 580953600,
-    "title" : "Folge 210: Raubzug im Casino",
-    "upc" : "886447380130"
-  },
-  {
     "albumID" : "1463157148",
     "artist" : "TKKG",
     "duration" : 4732.599999999999,
@@ -926,30 +782,6 @@
     "releaseDate" : 590889600,
     "title" : "Folge 211: Geiselnahme im Villenviertel",
     "upc" : "886447989760"
-  },
-  {
-    "albumID" : "1477493477",
-    "artist" : "TKKG",
-    "duration" : 3612.8280000000013,
-    "releaseDate" : 596073600,
-    "title" : "Folge 212: Tyrannei Kommando Eins",
-    "upc" : "886447588741"
-  },
-  {
-    "albumID" : "1486568481",
-    "artist" : "TKKG",
-    "duration" : 4596.358000000001,
-    "releaseDate" : 597283200,
-    "title" : "Folge 213: Das unheimliche Dorf",
-    "upc" : "886447884843"
-  },
-  {
-    "albumID" : "1493944495",
-    "artist" : "TKKG",
-    "duration" : 4259.908000000001,
-    "releaseDate" : 605145600,
-    "title" : "Folge 214: Diamantenrausch auf der A9",
-    "upc" : "886447884850"
   },
   {
     "albumID" : "1521299226",
@@ -984,36 +816,12 @@
     "upc" : "886449128891"
   },
   {
-    "albumID" : "1542192404",
-    "artist" : "TKKG",
-    "duration" : 4574.9980000000005,
-    "releaseDate" : 634176000,
-    "title" : "Folge 217: Tödliche Klarinette",
-    "upc" : "886448206224"
-  },
-  {
     "albumID" : "1559602751",
     "artist" : "TKKG",
     "duration" : 4129.000999999999,
     "releaseDate" : 640224000,
     "title" : "Folge 218: Schutzgeld für Dämonen",
     "upc" : "886448206248"
-  },
-  {
-    "albumID" : "1560974913",
-    "artist" : "TKKG",
-    "duration" : 3733.757,
-    "releaseDate" : 645667200,
-    "title" : "Folge 219: Terror frei Haus",
-    "upc" : "886449034147"
-  },
-  {
-    "albumID" : "1580961248",
-    "artist" : "TKKG",
-    "duration" : 3882.665999999999,
-    "releaseDate" : 652320000,
-    "title" : "Folge 220: Attentat am Gämsengrat",
-    "upc" : "886449503797"
   },
   {
     "albumID" : "1590344047",
@@ -1134,13 +942,5 @@
     "releaseDate" : 745459200,
     "title" : "Folge 233: Räuberwald",
     "upc" : "196872211658"
-  },
-  {
-    "albumID" : "1764059248",
-    "artist" : "TKKG",
-    "duration" : 3436.5200000000004,
-    "releaseDate" : 753321600,
-    "title" : "Folge 234: Im Auftrag des Bösen",
-    "upc" : "196872196542"
   }
 ]
