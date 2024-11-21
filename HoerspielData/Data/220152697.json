@@ -1,11 +1,11 @@
 [
   {
-    "albumID" : "1148113618",
+    "albumID" : "1148108841",
     "artist" : "Bibi und Tina",
-    "duration" : 2431.661,
+    "duration" : 2375.8540000000003,
     "releaseDate" : -63114076800,
-    "title" : "Folge 19: Der große Bruder",
-    "upc" : "190295910754"
+    "title" : "Folge 38: Der Glücksbringer",
+    "upc" : "190295910044"
   },
   {
     "albumID" : "1148100004",
@@ -14,14 +14,6 @@
     "releaseDate" : -63114076800,
     "title" : "Folge 44: Der Verehrer",
     "upc" : "190295909826"
-  },
-  {
-    "albumID" : "1148108841",
-    "artist" : "Bibi und Tina",
-    "duration" : 2375.8540000000003,
-    "releaseDate" : -63114076800,
-    "title" : "Folge 38: Der Glücksbringer",
-    "upc" : "190295910044"
   },
   {
     "albumID" : "1149443362",
@@ -48,6 +40,14 @@
     "upc" : "190295909994"
   },
   {
+    "albumID" : "1148121614",
+    "artist" : "Bibi und Tina",
+    "duration" : 2485.341999999999,
+    "releaseDate" : -63114076800,
+    "title" : "Folge 11: Papis Pony",
+    "upc" : "190295911188"
+  },
+  {
     "albumID" : "1148111277",
     "artist" : "Bibi und Tina",
     "duration" : 2649.7259999999997,
@@ -64,28 +64,12 @@
     "upc" : "190295910549"
   },
   {
-    "albumID" : "1148121614",
-    "artist" : "Bibi und Tina",
-    "duration" : 2485.341999999999,
-    "releaseDate" : -63114076800,
-    "title" : "Folge 11: Papis Pony",
-    "upc" : "190295911188"
-  },
-  {
     "albumID" : "1148104134",
     "artist" : "Bibi und Tina",
     "duration" : 2415.75,
     "releaseDate" : -63114076800,
     "title" : "Folge 43: Konkurrenz für Alex",
     "upc" : "190295909833"
-  },
-  {
-    "albumID" : "1148093154",
-    "artist" : "Bibi und Tina",
-    "duration" : 2445.0380000000005,
-    "releaseDate" : -63114076800,
-    "title" : "Folge 50: Das Kürbisfest",
-    "upc" : "190295909703"
   },
   {
     "albumID" : "1148116040",
@@ -96,20 +80,20 @@
     "upc" : "190295910051"
   },
   {
+    "albumID" : "1148093154",
+    "artist" : "Bibi und Tina",
+    "duration" : 2445.0380000000005,
+    "releaseDate" : -63114076800,
+    "title" : "Folge 50: Das Kürbisfest",
+    "upc" : "190295909703"
+  },
+  {
     "albumID" : "1148120729",
     "artist" : "Bibi und Tina",
     "duration" : 2349.564,
     "releaseDate" : -63114076800,
     "title" : "Folge 15: Der rote Hahn",
     "upc" : "190295911119"
-  },
-  {
-    "albumID" : "1148119630",
-    "artist" : "Bibi und Tina",
-    "duration" : 2441.798,
-    "releaseDate" : -63114076800,
-    "title" : "Folge 17: Das Herbst-Turnier",
-    "upc" : "190295910792"
   },
   {
     "albumID" : "1148100804",
@@ -120,12 +104,12 @@
     "upc" : "190295909710"
   },
   {
-    "albumID" : "1149454309",
+    "albumID" : "1148119630",
     "artist" : "Bibi und Tina",
-    "duration" : 2310.063,
+    "duration" : 2441.798,
     "releaseDate" : -63114076800,
-    "title" : "Folge 72: Der geheimnisvolle Falke",
-    "upc" : "190295908171"
+    "title" : "Folge 17: Das Herbst-Turnier",
+    "upc" : "190295910792"
   },
   {
     "albumID" : "1148115275",
@@ -168,12 +152,12 @@
     "upc" : "190295911195"
   },
   {
-    "albumID" : "1148116997",
+    "albumID" : "1149454309",
     "artist" : "Bibi und Tina",
-    "duration" : 2256.2650000000003,
+    "duration" : 2310.063,
     "releaseDate" : -63114076800,
-    "title" : "Folge 8: Der Hufschmied",
-    "upc" : "190295911263"
+    "title" : "Folge 72: Der geheimnisvolle Falke",
+    "upc" : "190295908171"
   },
   {
     "albumID" : "1148096788",
@@ -184,84 +168,20 @@
     "upc" : "190295909741"
   },
   {
+    "albumID" : "1148116997",
+    "artist" : "Bibi und Tina",
+    "duration" : 2256.2650000000003,
+    "releaseDate" : -63114076800,
+    "title" : "Folge 8: Der Hufschmied",
+    "upc" : "190295911263"
+  },
+  {
     "albumID" : "1148096006",
     "artist" : "Bibi und Tina",
     "duration" : 2453.16,
     "releaseDate" : -63114076800,
     "title" : "Folge 40: Gefahr für Falkenstein",
     "upc" : "190295910006"
-  },
-  {
-    "albumID" : "1148106786",
-    "artist" : "Bibi und Tina",
-    "duration" : 2407.746,
-    "releaseDate" : -63114076800,
-    "title" : "Folge 31: Die Tierärztin",
-    "upc" : "190295910402"
-  },
-  {
-    "albumID" : "1148119964",
-    "artist" : "Bibi und Tina",
-    "duration" : 2463.1629999999996,
-    "releaseDate" : -63114076800,
-    "title" : "Folge 18: Die Lipizzaner",
-    "upc" : "190295910778"
-  },
-  {
-    "albumID" : "1148093386",
-    "artist" : "Bibi und Tina",
-    "duration" : 2252.04,
-    "releaseDate" : -63114076800,
-    "title" : "Folge 57: Das große Teamspringen",
-    "upc" : "190295909314"
-  },
-  {
-    "albumID" : "1148120347",
-    "artist" : "Bibi und Tina",
-    "duration" : 2337.2590000000005,
-    "releaseDate" : -63114076800,
-    "title" : "Folge 16: Alle lieben Knuddel",
-    "upc" : "190295910815"
-  },
-  {
-    "albumID" : "1148114221",
-    "artist" : "Bibi und Tina",
-    "duration" : 2169.3289999999997,
-    "releaseDate" : -63114076800,
-    "title" : "Folge 28: Die wilde Meute",
-    "upc" : "190295910433"
-  },
-  {
-    "albumID" : "1148119415",
-    "artist" : "Bibi und Tina",
-    "duration" : 2231.68,
-    "releaseDate" : -63114076800,
-    "title" : "Folge 9: Der fliegende Sattel",
-    "upc" : "190295911201"
-  },
-  {
-    "albumID" : "1148098481",
-    "artist" : "Bibi und Tina",
-    "duration" : 2425.5470000000005,
-    "releaseDate" : -63114076800,
-    "title" : "Folge 51: Besuch aus Spanien",
-    "upc" : "190295909390"
-  },
-  {
-    "albumID" : "1148107912",
-    "artist" : "Bibi und Tina",
-    "duration" : 2295.517,
-    "releaseDate" : -63114076800,
-    "title" : "Folge 27: Der Pferdegeburtstag",
-    "upc" : "190295910440"
-  },
-  {
-    "albumID" : "1148117985",
-    "artist" : "Bibi und Tina",
-    "duration" : 2628.7109999999993,
-    "releaseDate" : -63114076800,
-    "title" : "Folge 13: Die Wildpferde - Teil 1",
-    "upc" : "190295911164"
   },
   {
     "albumID" : "1148122350",
@@ -272,20 +192,68 @@
     "upc" : "190295911270"
   },
   {
+    "albumID" : "1148119964",
+    "artist" : "Bibi und Tina",
+    "duration" : 2463.1629999999996,
+    "releaseDate" : -63114076800,
+    "title" : "Folge 18: Die Lipizzaner",
+    "upc" : "190295910778"
+  },
+  {
+    "albumID" : "1148106786",
+    "artist" : "Bibi und Tina",
+    "duration" : 2407.746,
+    "releaseDate" : -63114076800,
+    "title" : "Folge 31: Die Tierärztin",
+    "upc" : "190295910402"
+  },
+  {
+    "albumID" : "1148120347",
+    "artist" : "Bibi und Tina",
+    "duration" : 2337.2590000000005,
+    "releaseDate" : -63114076800,
+    "title" : "Folge 16: Alle lieben Knuddel",
+    "upc" : "190295910815"
+  },
+  {
+    "albumID" : "1148119415",
+    "artist" : "Bibi und Tina",
+    "duration" : 2231.68,
+    "releaseDate" : -63114076800,
+    "title" : "Folge 9: Der fliegende Sattel",
+    "upc" : "190295911201"
+  },
+  {
+    "albumID" : "1148093386",
+    "artist" : "Bibi und Tina",
+    "duration" : 2252.04,
+    "releaseDate" : -63114076800,
+    "title" : "Folge 57: Das große Teamspringen",
+    "upc" : "190295909314"
+  },
+  {
+    "albumID" : "1148114221",
+    "artist" : "Bibi und Tina",
+    "duration" : 2169.3289999999997,
+    "releaseDate" : -63114076800,
+    "title" : "Folge 28: Die wilde Meute",
+    "upc" : "190295910433"
+  },
+  {
+    "albumID" : "1148098481",
+    "artist" : "Bibi und Tina",
+    "duration" : 2425.5470000000005,
+    "releaseDate" : -63114076800,
+    "title" : "Folge 51: Besuch aus Spanien",
+    "upc" : "190295909390"
+  },
+  {
     "albumID" : "1148101712",
     "artist" : "Bibi und Tina",
     "duration" : 2750.0689999999995,
     "releaseDate" : -63114076800,
     "title" : "Folge 47: Die Schnitzeljagd-Falle",
     "upc" : "190295909765"
-  },
-  {
-    "albumID" : "1148117685",
-    "artist" : "Bibi und Tina",
-    "duration" : 2332.9459999999995,
-    "releaseDate" : -63114076800,
-    "title" : "Folge 4: Das Zirkuspony",
-    "upc" : "190295912505"
   },
   {
     "albumID" : "1148102874",
@@ -296,12 +264,28 @@
     "upc" : "190295909963"
   },
   {
+    "albumID" : "1148117685",
+    "artist" : "Bibi und Tina",
+    "duration" : 2332.9459999999995,
+    "releaseDate" : -63114076800,
+    "title" : "Folge 4: Das Zirkuspony",
+    "upc" : "190295912505"
+  },
+  {
     "albumID" : "1148094720",
     "artist" : "Bibi und Tina",
     "duration" : 2611.7940000000003,
     "releaseDate" : -63114076800,
     "title" : "Folge 45: Der Pferdedieb",
     "upc" : "190295909819"
+  },
+  {
+    "albumID" : "1148117985",
+    "artist" : "Bibi und Tina",
+    "duration" : 2628.7109999999993,
+    "releaseDate" : -63114076800,
+    "title" : "Folge 13: Die Wildpferde - Teil 1",
+    "upc" : "190295911164"
   },
   {
     "albumID" : "1148113316",
@@ -312,12 +296,28 @@
     "upc" : "190295910426"
   },
   {
+    "albumID" : "1148107912",
+    "artist" : "Bibi und Tina",
+    "duration" : 2295.517,
+    "releaseDate" : -63114076800,
+    "title" : "Folge 27: Der Pferdegeburtstag",
+    "upc" : "190295910440"
+  },
+  {
     "albumID" : "1148116559",
     "artist" : "Bibi und Tina",
     "duration" : 2303.0820000000003,
     "releaseDate" : -63114076800,
     "title" : "Folge 30: Eine Freundin für Felix",
     "upc" : "190295910419"
+  },
+  {
+    "albumID" : "1148117307",
+    "artist" : "Bibi und Tina",
+    "duration" : 2552.3220000000006,
+    "releaseDate" : -63114076800,
+    "title" : "Folge 14: Die Wildpferde - Teil 2",
+    "upc" : "190295911126"
   },
   {
     "albumID" : "1148112347",
@@ -336,14 +336,6 @@
     "upc" : "190295910396"
   },
   {
-    "albumID" : "1148117307",
-    "artist" : "Bibi und Tina",
-    "duration" : 2552.3220000000006,
-    "releaseDate" : -63114076800,
-    "title" : "Folge 14: Die Wildpferde - Teil 2",
-    "upc" : "190295911126"
-  },
-  {
     "albumID" : "1148103391",
     "artist" : "Bibi und Tina",
     "duration" : 2233.9629999999997,
@@ -358,6 +350,14 @@
     "releaseDate" : -63114076800,
     "title" : "Folge 21: Felix reißt aus",
     "upc" : "190295910716"
+  },
+  {
+    "albumID" : "1069218111",
+    "artist" : "Bibi und Tina",
+    "duration" : 7321.141000000002,
+    "releaseDate" : -63114076800,
+    "title" : "Bibi & Tina - Pferdestarke Weihnachten!",
+    "upc" : "825646201983"
   },
   {
     "albumID" : "1038142753",
@@ -376,14 +376,6 @@
     "upc" : "825646243280"
   },
   {
-    "albumID" : "1069218111",
-    "artist" : "Bibi und Tina",
-    "duration" : 7321.141000000002,
-    "releaseDate" : -63114076800,
-    "title" : "Bibi & Tina - Pferdestarke Weihnachten!",
-    "upc" : "825646201983"
-  },
-  {
     "albumID" : "1069116156",
     "artist" : "Bibi und Tina",
     "duration" : 4128.648,
@@ -400,22 +392,6 @@
     "upc" : "825646202249"
   },
   {
-    "albumID" : "1148121905",
-    "artist" : "Bibi und Tina",
-    "duration" : 2372.643,
-    "releaseDate" : -315619200,
-    "title" : "Folge 1: Das Fohlen",
-    "upc" : "190295912567"
-  },
-  {
-    "albumID" : "1148118904",
-    "artist" : "Bibi und Tina",
-    "duration" : 2360.7749999999996,
-    "releaseDate" : -315619200,
-    "title" : "Folge 3: Papi lernt reiten",
-    "upc" : "190295912512"
-  },
-  {
     "albumID" : "1148120385",
     "artist" : "Bibi und Tina",
     "duration" : 2055.208,
@@ -430,14 +406,6 @@
     "releaseDate" : -284083200,
     "title" : "Folge 12: Der Liebesbrief",
     "upc" : "190295911171"
-  },
-  {
-    "albumID" : "1148105758",
-    "artist" : "Bibi und Tina",
-    "duration" : 2632.0640000000008,
-    "releaseDate" : -189388800,
-    "title" : "Folge 25: Das Weihnachtsfest",
-    "upc" : "190295910525"
   },
   {
     "albumID" : "1659928238",
@@ -480,20 +448,20 @@
     "upc" : "190295908119"
   },
   {
-    "albumID" : "1148097092",
-    "artist" : "Bibi und Tina",
-    "duration" : 2212.064,
-    "releaseDate" : 196905600,
-    "title" : "Folge 54: Das Amulett der Gräfin",
-    "upc" : "190295909376"
-  },
-  {
     "albumID" : "1148097886",
     "artist" : "Bibi und Tina",
     "duration" : 2327.6520000000005,
     "releaseDate" : 196905600,
     "title" : "Folge 52: Freddy in der Klemme",
     "upc" : "190295909383"
+  },
+  {
+    "albumID" : "1148097092",
+    "artist" : "Bibi und Tina",
+    "duration" : 2212.064,
+    "releaseDate" : 196905600,
+    "title" : "Folge 54: Das Amulett der Gräfin",
+    "upc" : "190295909376"
   },
   {
     "albumID" : "1148113923",
@@ -656,14 +624,6 @@
     "upc" : "190295908126"
   },
   {
-    "albumID" : "1618051408",
-    "artist" : "Peter Plate, Ulf Leo Sommer & Bibi und Tina",
-    "duration" : 4785.97,
-    "releaseDate" : 415238400,
-    "title" : "Bibi und Tina (Der Original-Soundtrack zum Kinofilm)",
-    "upc" : "5054197135583"
-  },
-  {
     "albumID" : "1038140389",
     "artist" : "Bibi und Tina",
     "duration" : 4627.214,
@@ -694,14 +654,6 @@
     "releaseDate" : 434592000,
     "title" : "Folge 78: Das Gestüt in England",
     "upc" : "190295907891"
-  },
-  {
-    "albumID" : "1038094014",
-    "artist" : "Bibi und Tina",
-    "duration" : 4601.151,
-    "releaseDate" : 440640000,
-    "title" : "Das Original-Hörspiel zum Kinofilm 2 - VOLL VERHEXT!",
-    "upc" : "825646149810"
   },
   {
     "albumID" : "1617683979",
@@ -736,84 +688,12 @@
     "upc" : "190295907853"
   },
   {
-    "albumID" : "1617618279",
-    "artist" : "Peter Plate, Ulf Leo Sommer & Bibi und Tina",
-    "duration" : 4628.276999999999,
-    "releaseDate" : 474508800,
-    "title" : "Bibi und Tina: Mädchen gegen Jungs (Der Original-Soundtrack zum Kinofilm)",
-    "upc" : "5054197137648"
-  },
-  {
-    "albumID" : "1069544807",
-    "artist" : "Bibi und Tina",
-    "duration" : 4569.015,
-    "releaseDate" : 474508800,
-    "title" : "Hörspiel zum 3. Kinofilm - Mädchen gegen Jungs",
-    "upc" : "825646484386"
-  },
-  {
-    "albumID" : "1200542252",
-    "artist" : "Bibi und Tina",
-    "duration" : 2539.777,
-    "releaseDate" : 478742400,
-    "title" : "Folge 84: Der Weihnachtsmarkt",
-    "upc" : "190295847661"
-  },
-  {
-    "albumID" : "1149451639",
-    "artist" : "Bibi und Tina",
-    "duration" : 2552.4429999999998,
-    "releaseDate" : 479347200,
-    "title" : "Folge 82: Die Reiterspiele",
-    "upc" : "190295907846"
-  },
-  {
-    "albumID" : "1171889114",
-    "artist" : "Bibi und Tina",
-    "duration" : 2573.9010000000003,
-    "releaseDate" : 489628800,
-    "title" : "Folge 83: Freddy verliebt sich",
-    "upc" : "190295875459"
-  },
-  {
-    "albumID" : "1617619664",
-    "artist" : "Peter Plate, Ulf Leo Sommer & Bibi und Tina",
-    "duration" : 4813.722,
-    "releaseDate" : 509587200,
-    "title" : "Bibi und Tina: Tohuwabohu total (Der Original-Soundtrack zum Kinofilm)",
-    "upc" : "5054197139031"
-  },
-  {
     "albumID" : "1201838457",
     "artist" : "Bibi und Tina",
     "duration" : 4139.581,
     "releaseDate" : 509587200,
     "title" : "Hörspiel 4. Kinofilm: Tohuwabohu total",
     "upc" : "190295843373"
-  },
-  {
-    "albumID" : "1253506287",
-    "artist" : "Bibi und Tina",
-    "duration" : 2629.4440000000004,
-    "releaseDate" : 521078400,
-    "title" : "Folge 86: Das Filmteam",
-    "upc" : "190295765675"
-  },
-  {
-    "albumID" : "1258218506",
-    "artist" : "Bibi und Tina",
-    "duration" : 2561.8219999999997,
-    "releaseDate" : 522288000,
-    "title" : "Folge 85: Das Geheimnis der alten Mühle",
-    "upc" : "190295762308"
-  },
-  {
-    "albumID" : "1300270584",
-    "artist" : "Bibi und Tina",
-    "duration" : 2396.067,
-    "releaseDate" : 531964800,
-    "title" : "Folge 87: Das große Unwetter",
-    "upc" : "190295764852"
   },
   {
     "albumID" : "1339688314",
@@ -832,68 +712,12 @@
     "upc" : "190295675653"
   },
   {
-    "albumID" : "1435312999",
-    "artist" : "Bibi und Tina",
-    "duration" : 2511.798,
-    "releaseDate" : 559180800,
-    "title" : "Folge 90: Der neue Reiterhof",
-    "upc" : "190295607913"
-  },
-  {
-    "albumID" : "1442308983",
-    "artist" : "Bibi und Tina",
-    "duration" : 2242.527,
-    "releaseDate" : 565228800,
-    "title" : "Folge 91: Der Freundschaftstag",
-    "upc" : "190295547615"
-  },
-  {
-    "albumID" : "1450376875",
-    "artist" : "Bibi und Tina",
-    "duration" : 2441.796,
-    "releaseDate" : 571276800,
-    "title" : "Folge 92: Mission Alex",
-    "upc" : "190295496364"
-  },
-  {
-    "albumID" : "1452617633",
-    "artist" : "Bibi und Tina",
-    "duration" : 2509.9909999999995,
-    "releaseDate" : 577929600,
-    "title" : "Folge 93: Das wilde Fohlen",
-    "upc" : "190295472832"
-  },
-  {
     "albumID" : "1474268624",
     "artist" : "Bibi und Tina",
     "duration" : 5046.621000000001,
     "releaseDate" : 587606400,
     "title" : "Zoff! (Live-Hörspiel)",
     "upc" : "190295372415"
-  },
-  {
-    "albumID" : "1476832638",
-    "artist" : "Bibi und Tina",
-    "duration" : 2618.9939999999992,
-    "releaseDate" : 590630400,
-    "title" : "Folge 94: Graf für einen Tag",
-    "upc" : "190295358211"
-  },
-  {
-    "albumID" : "1483797323",
-    "artist" : "Bibi und Tina",
-    "duration" : 2539.7700000000004,
-    "releaseDate" : 594864000,
-    "title" : "Folge 95: Vollmond über Falkenstein",
-    "upc" : "190295325428"
-  },
-  {
-    "albumID" : "1483474819",
-    "artist" : "Bibi und Tina",
-    "duration" : 2491.068,
-    "releaseDate" : 596073600,
-    "title" : "Viktoria und Sarina auf dem Martinshof",
-    "upc" : "190295329433"
   },
   {
     "albumID" : "1491490507",
@@ -966,30 +790,6 @@
     "releaseDate" : 622080000,
     "title" : "Folge 98: Ein Fall für Dr. Eichhorn",
     "upc" : "190295153052"
-  },
-  {
-    "albumID" : "1536955181",
-    "artist" : "Bibi und Tina",
-    "duration" : 2989.486,
-    "releaseDate" : 626313600,
-    "title" : "Folge 99: Die Holzdiebe",
-    "upc" : "190295102791"
-  },
-  {
-    "albumID" : "1538603381",
-    "artist" : "Bibi und Tina",
-    "duration" : 4233.536,
-    "releaseDate" : 632966400,
-    "title" : "Folge 100: Das Waisenfohlen (Extra lange Folge)",
-    "upc" : "190295082338"
-  },
-  {
-    "albumID" : "1554340498",
-    "artist" : "Bibi und Tina",
-    "duration" : 2722.9130000000005,
-    "releaseDate" : 637804800,
-    "title" : "Folge 101: Ärger mit dem Grafen",
-    "upc" : "190296761423"
   },
   {
     "albumID" : "1570693983",
