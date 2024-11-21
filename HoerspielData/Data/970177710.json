@@ -8,38 +8,6 @@
     "upc" : "4260507158086"
   },
   {
-    "albumID" : "1451507025",
-    "artist" : "Sherlock Holmes Chronicles",
-    "duration" : 9347.048999999997,
-    "releaseDate" : 448502400,
-    "title" : "Folge 1: Die Moriarty-Lüge",
-    "upc" : "4260507147561"
-  },
-  {
-    "albumID" : "1451507778",
-    "artist" : "Sherlock Holmes Chronicles",
-    "duration" : 10232.710000000003,
-    "releaseDate" : 448502400,
-    "title" : "Folge 3: Der Werwolf",
-    "upc" : "4260507147585"
-  },
-  {
-    "albumID" : "1451509091",
-    "artist" : "Sherlock Holmes Chronicles",
-    "duration" : 8007.191,
-    "releaseDate" : 448502400,
-    "title" : "Folge 5: Der rote Löwe",
-    "upc" : "4260507147608"
-  },
-  {
-    "albumID" : "1451509904",
-    "artist" : "Sherlock Holmes Chronicles",
-    "duration" : 9516.394000000006,
-    "releaseDate" : 448502400,
-    "title" : "Folge 11: Der Fluch der Titanic",
-    "upc" : "4260507147639"
-  },
-  {
     "albumID" : "1451508470",
     "artist" : "Sherlock Holmes Chronicles",
     "duration" : 9764.394,
@@ -48,12 +16,12 @@
     "upc" : "4260507147592"
   },
   {
-    "albumID" : "1451509272",
+    "albumID" : "1451509904",
     "artist" : "Sherlock Holmes Chronicles",
-    "duration" : 8962.004999999997,
+    "duration" : 9516.394000000006,
     "releaseDate" : 448502400,
-    "title" : "Folge 9: Das Freimaurer-Komplott",
-    "upc" : "4260507147615"
+    "title" : "Folge 11: Der Fluch der Titanic",
+    "upc" : "4260507147639"
   },
   {
     "albumID" : "1451508851",
@@ -288,28 +256,12 @@
     "upc" : "4260507147523"
   },
   {
-    "albumID" : "1451503109",
-    "artist" : "Sherlock Holmes Chronicles",
-    "duration" : 7614.584000000002,
-    "releaseDate" : 574300800,
-    "title" : "Folge 45: Im Auftrag der Krone",
-    "upc" : "4260507147530"
-  },
-  {
     "albumID" : "1451502109",
     "artist" : "Sherlock Holmes Chronicles",
     "duration" : 3122.1589999999997,
     "releaseDate" : 575510400,
     "title" : "Folge 46: Der Baumeister von Norwood",
     "upc" : "4260507147547"
-  },
-  {
-    "albumID" : "1455631352",
-    "artist" : "Sherlock Holmes Chronicles",
-    "duration" : 4000.1270000000004,
-    "releaseDate" : 576115200,
-    "title" : "Oster Special: Das goldene Osterei",
-    "upc" : "4260507148049"
   },
   {
     "albumID" : "1475615053",
@@ -326,22 +278,6 @@
     "releaseDate" : 589420800,
     "title" : "Folge 49: Silver Blaze",
     "upc" : "4260507153203"
-  },
-  {
-    "albumID" : "1477987815",
-    "artist" : "Sherlock Holmes Chronicles",
-    "duration" : 10437.789000000002,
-    "releaseDate" : 590630400,
-    "title" : "Folge 50: Der verbrauchte Talisman",
-    "upc" : "4260507153210"
-  },
-  {
-    "albumID" : "1479196212",
-    "artist" : "Sherlock Holmes Chronicles",
-    "duration" : 3022.492,
-    "releaseDate" : 591840000,
-    "title" : "Folge 51: 28 Stufen",
-    "upc" : "4260507153227"
   },
   {
     "albumID" : "1508626953",
@@ -440,14 +376,6 @@
     "upc" : "4260507158208"
   },
   {
-    "albumID" : "1515724007",
-    "artist" : "Sherlock Holmes Chronicles",
-    "duration" : 2968.5860000000002,
-    "releaseDate" : 623894400,
-    "title" : "Folge 58: Das Vier-Pfeifen-Problem",
-    "upc" : "4260507158215"
-  },
-  {
     "albumID" : "1535527287",
     "artist" : "Sherlock Holmes Chronicles",
     "duration" : 3153.1810000000005,
@@ -488,20 +416,20 @@
     "upc" : "4260507159922"
   },
   {
-    "albumID" : "1533647791",
-    "artist" : "Sherlock Holmes Chronicles",
-    "duration" : 3977.116,
-    "releaseDate" : 628732800,
-    "title" : "Folge 69: Der gelbe Tropfen",
-    "upc" : "4260507161659"
-  },
-  {
     "albumID" : "1535437525",
     "artist" : "Sherlock Holmes Chronicles",
     "duration" : 2460.444,
     "releaseDate" : 628732800,
     "title" : "Folge 63: Der blutrote Edelstein",
     "upc" : "4260507159939"
+  },
+  {
+    "albumID" : "1533647791",
+    "artist" : "Sherlock Holmes Chronicles",
+    "duration" : 3977.116,
+    "releaseDate" : 628732800,
+    "title" : "Folge 69: Der gelbe Tropfen",
+    "upc" : "4260507161659"
   },
   {
     "albumID" : "1535444639",
@@ -520,14 +448,6 @@
     "upc" : "4260507159953"
   },
   {
-    "albumID" : "1535447692",
-    "artist" : "Sherlock Holmes Chronicles",
-    "duration" : 4573.587999999999,
-    "releaseDate" : 632361600,
-    "title" : "Folge 66: Holmes gegen Holmes",
-    "upc" : "4260507159960"
-  },
-  {
     "albumID" : "1533646491",
     "artist" : "Sherlock Holmes Chronicles",
     "duration" : 2438.159,
@@ -544,28 +464,12 @@
     "upc" : "4260507161666"
   },
   {
-    "albumID" : "1567985507",
-    "artist" : "Sherlock Holmes Chronicles",
-    "duration" : 3482.16,
-    "releaseDate" : 645667200,
-    "title" : "Folge 71: Die Spur des Falken",
-    "upc" : "4260507165176"
-  },
-  {
     "albumID" : "1574748585",
     "artist" : "Sherlock Holmes Chronicles",
     "duration" : 2215.9979999999996,
     "releaseDate" : 646876800,
     "title" : "Folge 72: Betrifft: Vampire!",
     "upc" : "4066004314648"
-  },
-  {
-    "albumID" : "1567986518",
-    "artist" : "Sherlock Holmes Chronicles",
-    "duration" : 7563.503000000001,
-    "releaseDate" : 648086400,
-    "title" : "Folge 73: Die Kombinationsmaschine",
-    "upc" : "4260507165213"
   },
   {
     "albumID" : "1567989580",
@@ -592,14 +496,6 @@
     "upc" : "4260507165275"
   },
   {
-    "albumID" : "1567985576",
-    "artist" : "Sherlock Holmes Chronicles",
-    "duration" : 2741.495000000001,
-    "releaseDate" : 652924800,
-    "title" : "Folge 78: Das Todeskarussell",
-    "upc" : "4260507165299"
-  },
-  {
     "albumID" : "1567987400",
     "artist" : "Sherlock Holmes Chronicles",
     "duration" : 4049.1929999999998,
@@ -614,30 +510,6 @@
     "releaseDate" : 655344000,
     "title" : "Folge 80: Der grüne Dunst",
     "upc" : "4260507165336"
-  },
-  {
-    "albumID" : "1567990858",
-    "artist" : "Sherlock Holmes Chronicles",
-    "duration" : 3224.783,
-    "releaseDate" : 656553600,
-    "title" : "Folge 81: Die Pappschachtel",
-    "upc" : "4260507165350"
-  },
-  {
-    "albumID" : "1568002940",
-    "artist" : "Sherlock Holmes Chronicles",
-    "duration" : 3929.43,
-    "releaseDate" : 657763200,
-    "title" : "Sonderedition: Das Todesvirus",
-    "upc" : "4260507165435"
-  },
-  {
-    "albumID" : "1567993162",
-    "artist" : "Sherlock Holmes Chronicles",
-    "duration" : 3749.821,
-    "releaseDate" : 658368000,
-    "title" : "X-Mas Special 1: Der diebische Weihnachtsmann",
-    "upc" : "4260507165459"
   },
   {
     "albumID" : "1567992487",
@@ -688,28 +560,12 @@
     "upc" : "4260507165398"
   },
   {
-    "albumID" : "1567993296",
-    "artist" : "Sherlock Holmes Chronicles",
-    "duration" : 4031.0009999999997,
-    "releaseDate" : 665020800,
-    "title" : "Folge 83: Ein fast perfekter Mord",
-    "upc" : "4260507165930"
-  },
-  {
     "albumID" : "1567993378",
     "artist" : "Sherlock Holmes Chronicles",
     "duration" : 3106.978,
     "releaseDate" : 666230400,
     "title" : "Folge 84: Der rote Kreis",
     "upc" : "4260507166067"
-  },
-  {
-    "albumID" : "1572257073",
-    "artist" : "Sherlock Holmes Chronicles",
-    "duration" : 3290.133,
-    "releaseDate" : 667440000,
-    "title" : "Folge 85: Das schwarze Phantom",
-    "upc" : "4260507166500"
   },
   {
     "albumID" : "1578231736",
@@ -728,14 +584,6 @@
     "upc" : "4260507172457"
   },
   {
-    "albumID" : "1578229143",
-    "artist" : "Sherlock Holmes Chronicles",
-    "duration" : 3012.9999999999995,
-    "releaseDate" : 669254400,
-    "title" : "Folge 86: Das Rätsel der schwarzen Abtei",
-    "upc" : "4260507169839"
-  },
-  {
     "albumID" : "1610061819",
     "artist" : "Sherlock Holmes Chronicles",
     "duration" : 2457.003,
@@ -752,28 +600,12 @@
     "upc" : "4260507165411"
   },
   {
-    "albumID" : "1586797645",
-    "artist" : "Sherlock Holmes Chronicles",
-    "duration" : 4470.999000000001,
-    "releaseDate" : 671673600,
-    "title" : "Folge 87: Insel der Schatten",
-    "upc" : "4260507170217"
-  },
-  {
     "albumID" : "1594065355",
     "artist" : "Sherlock Holmes Chronicles",
     "duration" : 4139.999000000001,
     "releaseDate" : 674092800,
     "title" : "Folge 88: Wisteria Lodge",
     "upc" : "4260507170682"
-  },
-  {
-    "albumID" : "1605189013",
-    "artist" : "Sherlock Holmes Chronicles",
-    "duration" : 3637,
-    "releaseDate" : 676512000,
-    "title" : "Folge 89: Das Rätsel der heiligen Familie",
-    "upc" : "4260507171214"
   },
   {
     "albumID" : "1608861853",
@@ -816,36 +648,12 @@
     "upc" : "4260507175144"
   },
   {
-    "albumID" : "1636261249",
-    "artist" : "Sherlock Holmes Chronicles",
-    "duration" : 3873.002,
-    "releaseDate" : 691027200,
-    "title" : "Folge 95: Das Geheimnis der indianischen Maske",
-    "upc" : "4260507175588"
-  },
-  {
-    "albumID" : "1641117150",
-    "artist" : "Sherlock Holmes Chronicles",
-    "duration" : 2527.0020000000004,
-    "releaseDate" : 693446400,
-    "title" : "Folge 96: Mord im Tower",
-    "upc" : "4260507175816"
-  },
-  {
     "albumID" : "1641117630",
     "artist" : "Sherlock Holmes Chronicles",
     "duration" : 3718.9969999999994,
     "releaseDate" : 695865600,
     "title" : "Folge 97: Die Thor Brücke",
     "upc" : "4260507176011"
-  },
-  {
-    "albumID" : "1642877447",
-    "artist" : "Sherlock Holmes Chronicles",
-    "duration" : 3197.003,
-    "releaseDate" : 700704000,
-    "title" : "Folge 98: Der Erpresser von Edinburgh",
-    "upc" : "4260507176332"
   },
   {
     "albumID" : "1642877570",
@@ -1030,14 +838,6 @@
     "releaseDate" : 735782400,
     "title" : "Folge 116: Die drei Garridebs",
     "upc" : "4260507193902"
-  },
-  {
-    "albumID" : "1742524272",
-    "artist" : "Sherlock Holmes Chronicles",
-    "duration" : 5301.998999999999,
-    "releaseDate" : 737596800,
-    "title" : "Folge 117: Die französischen Wertpapiere",
-    "upc" : "4260507195166"
   },
   {
     "albumID" : "1747599030",
