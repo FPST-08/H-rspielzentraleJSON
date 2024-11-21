@@ -1,61 +1,5 @@
 [
   {
-    "albumID" : "1456796360",
-    "artist" : "Oscar Wilde & Mycroft Holmes",
-    "duration" : 4786.989,
-    "releaseDate" : 479347200,
-    "title" : "Sonderermittler der Krone, Folge 1: Zeitenwechsel",
-    "upc" : "4260507148988"
-  },
-  {
-    "albumID" : "1456795998",
-    "artist" : "Oscar Wilde & Mycroft Holmes",
-    "duration" : 4792.013999999999,
-    "releaseDate" : 479347200,
-    "title" : "Sonderermittler der Krone, Folge 2: Finsteres Hochland",
-    "upc" : "4260507148995"
-  },
-  {
-    "albumID" : "1456796807",
-    "artist" : "Oscar Wilde & Mycroft Holmes",
-    "duration" : 4620.8020000000015,
-    "releaseDate" : 484790400,
-    "title" : "Sonderermittler der Krone, Folge 3: Das Geheimnis des Alchemisten",
-    "upc" : "4260507149008"
-  },
-  {
-    "albumID" : "1456823268",
-    "artist" : "Oscar Wilde & Mycroft Holmes",
-    "duration" : 4577.600999999999,
-    "releaseDate" : 490233600,
-    "title" : "Sonderermittler der Krone, Folge 4: Tod der Königin",
-    "upc" : "4260507149015"
-  },
-  {
-    "albumID" : "1456798606",
-    "artist" : "Oscar Wilde & Mycroft Holmes",
-    "duration" : 4585.930999999999,
-    "releaseDate" : 495072000,
-    "title" : "Sonderermittler der Krone, Folge 5: Kalter Fels",
-    "upc" : "4260507149022"
-  },
-  {
-    "albumID" : "1456799629",
-    "artist" : "Oscar Wilde & Mycroft Holmes",
-    "duration" : 4462.397000000001,
-    "releaseDate" : 500515200,
-    "title" : "Sonderermittler der Krone, Folge 6: Hexenwald",
-    "upc" : "4260507149039"
-  },
-  {
-    "albumID" : "1456801452",
-    "artist" : "Oscar Wilde & Mycroft Holmes",
-    "duration" : 4190.360000000001,
-    "releaseDate" : 505958400,
-    "title" : "Sonderermittler der Krone, Folge 7: Ritual des Grauens",
-    "upc" : "4260507149046"
-  },
-  {
     "albumID" : "1456801816",
     "artist" : "Oscar Wilde & Mycroft Holmes",
     "duration" : 4281.268,
@@ -104,14 +48,6 @@
     "upc" : "4260507149107"
   },
   {
-    "albumID" : "1456869318",
-    "artist" : "Oscar Wilde & Mycroft Holmes",
-    "duration" : 4234.332,
-    "releaseDate" : 544060800,
-    "title" : "Sonderermittler der Krone, Folge 14: Labyrinth der Angst",
-    "upc" : "4260507149114"
-  },
-  {
     "albumID" : "1456878753",
     "artist" : "Oscar Wilde & Mycroft Holmes",
     "duration" : 3530.7429999999986,
@@ -152,126 +88,6 @@
     "upc" : "4260507149169"
   },
   {
-    "albumID" : "1454802103",
-    "artist" : "Oscar Wilde & Mycroft Holmes",
-    "duration" : 4129.956,
-    "releaseDate" : 575510400,
-    "title" : "Sonderermittler der Krone, Folge 20: Blutzoll",
-    "upc" : "4260507147950"
-  },
-  {
-    "albumID" : "1461421515",
-    "artist" : "Oscar Wilde & Mycroft Holmes",
-    "duration" : 3871.883,
-    "releaseDate" : 580953600,
-    "title" : "Folge 21: Boleskine House (Sonderermittler der Krone)",
-    "upc" : "4260507149749"
-  },
-  {
-    "albumID" : "1471340580",
-    "artist" : "Oscar Wilde & Mycroft Holmes",
-    "duration" : 4366.0650000000005,
-    "releaseDate" : 586224000,
-    "title" : "Folge 22: Die vierte Macht (Sonderermittler der Krone)",
-    "upc" : "4260507151537"
-  },
-  {
-    "albumID" : "1478648251",
-    "artist" : "Oscar Wilde & Mycroft Holmes",
-    "duration" : 4362.879,
-    "releaseDate" : 591494400,
-    "title" : "Sonderermittler der Krone, Folge 23: Das Medusa-Syndrom",
-    "upc" : "4260507153265"
-  },
-  {
-    "albumID" : "1480362943",
-    "artist" : "Oscar Wilde & Mycroft Holmes",
-    "duration" : 4157.304999999999,
-    "releaseDate" : 596505600,
-    "title" : "Folge 24: Der Knochenhändler (Sonderermittler der Krone)",
-    "upc" : "4260507153289"
-  },
-  {
-    "albumID" : "1493559093",
-    "artist" : "Oscar Wilde & Mycroft Holmes",
-    "duration" : 4383.937,
-    "releaseDate" : 602121600,
-    "title" : "Sonderermittler der Krone, Folge 25: Altes Blut",
-    "upc" : "4260507156020"
-  },
-  {
-    "albumID" : "1507179093",
-    "artist" : "Oscar Wilde & Mycroft Holmes",
-    "duration" : 3873.9890000000005,
-    "releaseDate" : 607564800,
-    "title" : "Sonderermittler der Krone, Folge 26: Dunkle Fluten",
-    "upc" : "4260507159007"
-  },
-  {
-    "albumID" : "1506291173",
-    "artist" : "Oscar Wilde & Mycroft Holmes",
-    "duration" : 4226.704000000001,
-    "releaseDate" : 612403200,
-    "title" : "Sonderermittler der Krone, Folge 27: Dreißig Silberlinge",
-    "upc" : "4260507158338"
-  },
-  {
-    "albumID" : "1515733949",
-    "artist" : "Oscar Wilde & Mycroft Holmes",
-    "duration" : 4064.004,
-    "releaseDate" : 617587200,
-    "title" : "Sonderermittler der Krone, Folge 28: Der längste Tag",
-    "upc" : "4260507159748"
-  },
-  {
-    "albumID" : "1529881895",
-    "artist" : "Oscar Wilde & Mycroft Holmes",
-    "duration" : 4137.193,
-    "releaseDate" : 622684800,
-    "title" : "Folge 29: Brennender Zorn (Sonderermittler der Krone)",
-    "upc" : "4260507161451"
-  },
-  {
-    "albumID" : "1535551663",
-    "artist" : "Oscar Wilde & Mycroft Holmes",
-    "duration" : 4344.6140000000005,
-    "releaseDate" : 628732800,
-    "title" : "Sonderermittler der Krone, Folge 30: Die Stimme des Verräters",
-    "upc" : "4260507161727"
-  },
-  {
-    "albumID" : "1547407240",
-    "artist" : "Oscar Wilde & Mycroft Holmes",
-    "duration" : 3642.8010000000004,
-    "releaseDate" : 633571200,
-    "title" : "Sonderermittler der Krone, Folge 31: Die 13 Stufen",
-    "upc" : "4260507162304"
-  },
-  {
-    "albumID" : "1559083480",
-    "artist" : "Oscar Wilde & Mycroft Holmes",
-    "duration" : 3775.9590000000003,
-    "releaseDate" : 638409600,
-    "title" : "Sonderermittler der Krone, Folge 32: Im Reich des Feindes",
-    "upc" : "4260507164513"
-  },
-  {
-    "albumID" : "1566861782",
-    "artist" : "Oscar Wilde & Mycroft Holmes",
-    "duration" : 3797.6129999999994,
-    "releaseDate" : 643852800,
-    "title" : "Sonderermittler der Krone, Folge 33: Apocalypsis",
-    "upc" : "4260507165831"
-  },
-  {
-    "albumID" : "1576678413",
-    "artist" : "Oscar Wilde & Mycroft Holmes",
-    "duration" : 3696.1220000000008,
-    "releaseDate" : 649900800,
-    "title" : "Sonderermittler der Krone, Folge 34: Asche und Rauch",
-    "upc" : "4260507169051"
-  },
-  {
     "albumID" : "1588383694",
     "artist" : "Oscar Wilde & Mycroft Holmes",
     "duration" : 3730.9989999999984,
@@ -286,14 +102,6 @@
     "releaseDate" : 659577600,
     "title" : "Folge 36: Am Ende der Zeit (Sonderermittler der Krone)",
     "upc" : "4260507170668"
-  },
-  {
-    "albumID" : "1613512976",
-    "artist" : "Oscar Wilde & Mycroft Holmes",
-    "duration" : 3897.8389999999995,
-    "releaseDate" : 670464000,
-    "title" : "Sonderermittler der Krone, Folge 37: Das Herz der See",
-    "upc" : "4260507172983"
   },
   {
     "albumID" : "1623127152",
@@ -318,14 +126,6 @@
     "releaseDate" : 686188800,
     "title" : "Folge 40: Lockruf des Untergangs (Sonderermittler der Krone)",
     "upc" : "4260507176318"
-  },
-  {
-    "albumID" : "1659996133",
-    "artist" : "Oscar Wilde & Mycroft Holmes",
-    "duration" : 3489.5759999999987,
-    "releaseDate" : 691632000,
-    "title" : "Sonderermittler der Krone, Folge 41: Auf Bewährung",
-    "upc" : "4066004526072"
   },
   {
     "albumID" : "1675479072",
