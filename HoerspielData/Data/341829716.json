@@ -1,29 +1,5 @@
 [
   {
-    "albumID" : "1414521761",
-    "artist" : "Offenbarung 23",
-    "duration" : 3937.9990000000003,
-    "releaseDate" : 126230400,
-    "title" : "Folge 4: Die Krebs-Macher",
-    "upc" : "4260507141668"
-  },
-  {
-    "albumID" : "1414533355",
-    "artist" : "Offenbarung 23",
-    "duration" : 4559.999999999999,
-    "releaseDate" : 157766400,
-    "title" : "Folge 12: Der Piratenschatz",
-    "upc" : "4260507141743"
-  },
-  {
-    "albumID" : "1414530831",
-    "artist" : "Offenbarung 23",
-    "duration" : 4387.998,
-    "releaseDate" : 157766400,
-    "title" : "Folge 9: Gier!",
-    "upc" : "4260507141712"
-  },
-  {
     "albumID" : "1414540626",
     "artist" : "Offenbarung 23",
     "duration" : 4571.001000000002,
@@ -54,14 +30,6 @@
     "releaseDate" : 189302400,
     "title" : "Folge 19: Angst!",
     "upc" : "4260507141811"
-  },
-  {
-    "albumID" : "1414553338",
-    "artist" : "Offenbarung 23",
-    "duration" : 4171.001,
-    "releaseDate" : 220838400,
-    "title" : "Folge 29: 9/11",
-    "upc" : "4260507141910"
   },
   {
     "albumID" : "1414551472",
@@ -160,76 +128,12 @@
     "upc" : "4260507142009"
   },
   {
-    "albumID" : "1414518821",
-    "artist" : "Offenbarung 23",
-    "duration" : 3920,
-    "releaseDate" : 336009600,
-    "title" : "Folge 3: Die Titanic darf nie ankommen!",
-    "upc" : "4260507141651"
-  },
-  {
-    "albumID" : "1414512431",
-    "artist" : "Offenbarung 23",
-    "duration" : 3791.0000000000005,
-    "releaseDate" : 336009600,
-    "title" : "Folge 1: Wer erschoss Tupac?",
-    "upc" : "4260507141637"
-  },
-  {
-    "albumID" : "1414515719",
-    "artist" : "Offenbarung 23",
-    "duration" : 3837.997,
-    "releaseDate" : 336009600,
-    "title" : "Folge 2: Tupacs Geheimnis",
-    "upc" : "4260507141644"
-  },
-  {
-    "albumID" : "1414527045",
-    "artist" : "Offenbarung 23",
-    "duration" : 4587.998999999998,
-    "releaseDate" : 336009600,
-    "title" : "Folge 7: Stonehenge",
-    "upc" : "4260507141699"
-  },
-  {
-    "albumID" : "1414525562",
-    "artist" : "Offenbarung 23",
-    "duration" : 3856.9990000000003,
-    "releaseDate" : 336009600,
-    "title" : "Folge 5: Das Handy-Komplott",
-    "upc" : "4260507141675"
-  },
-  {
-    "albumID" : "1414526064",
-    "artist" : "Offenbarung 23",
-    "duration" : 4498.999,
-    "releaseDate" : 336009600,
-    "title" : "Folge 6: Der Fußball-Gott",
-    "upc" : "4260507141682"
-  },
-  {
-    "albumID" : "1414528246",
-    "artist" : "Offenbarung 23",
-    "duration" : 4690.000000000001,
-    "releaseDate" : 336009600,
-    "title" : "Folge 8: Macht!",
-    "upc" : "4260507141705"
-  },
-  {
     "albumID" : "1414532316",
     "artist" : "Offenbarung 23",
     "duration" : 4598.004,
     "releaseDate" : 336009600,
     "title" : "Folge 10: Die traurige Prinzessin",
     "upc" : "4260507141729"
-  },
-  {
-    "albumID" : "1414534866",
-    "artist" : "Offenbarung 23",
-    "duration" : 4203.003000000001,
-    "releaseDate" : 339033600,
-    "title" : "Folge 14: Das Bernsteinzimmer",
-    "upc" : "4260507141767"
   },
   {
     "albumID" : "1414534004",
@@ -272,6 +176,14 @@
     "upc" : "4260507141880"
   },
   {
+    "albumID" : "1414552976",
+    "artist" : "Offenbarung 23",
+    "duration" : 3813.997999999999,
+    "releaseDate" : 339033600,
+    "title" : "Folge 30: Lazarus",
+    "upc" : "4260507141927"
+  },
+  {
     "albumID" : "1411954202",
     "artist" : "Offenbarung 23",
     "duration" : 3867.9999999999995,
@@ -286,14 +198,6 @@
     "releaseDate" : 339033600,
     "title" : "Folge 34: Gesundes Toxin",
     "upc" : "4260507141965"
-  },
-  {
-    "albumID" : "1414552976",
-    "artist" : "Offenbarung 23",
-    "duration" : 3813.997999999999,
-    "releaseDate" : 339033600,
-    "title" : "Folge 30: Lazarus",
-    "upc" : "4260507141927"
   },
   {
     "albumID" : "1411984833",
@@ -456,20 +360,20 @@
     "upc" : "4260507142276"
   },
   {
-    "albumID" : "1411329596",
-    "artist" : "Offenbarung 23",
-    "duration" : 3567.0029999999997,
-    "releaseDate" : 441763200,
-    "title" : "Folge 55: Heiliger Gral 2.0",
-    "upc" : "4260507142207"
-  },
-  {
     "albumID" : "1414567511",
     "artist" : "Offenbarung 23",
     "duration" : 3992.000000000001,
     "releaseDate" : 441763200,
     "title" : "Folge 56: Die Matrix",
     "upc" : "4260507142214"
+  },
+  {
+    "albumID" : "1411329596",
+    "artist" : "Offenbarung 23",
+    "duration" : 3567.0029999999997,
+    "releaseDate" : 441763200,
+    "title" : "Folge 55: Heiliger Gral 2.0",
+    "upc" : "4260507142207"
   },
   {
     "albumID" : "1414570890",
@@ -520,20 +424,20 @@
     "upc" : "4260507142283"
   },
   {
-    "albumID" : "1414572431",
-    "artist" : "Offenbarung 23",
-    "duration" : 4506.005999999999,
-    "releaseDate" : 484790400,
-    "title" : "Folge 64: Der schwarze Tod",
-    "upc" : "4260507142290"
-  },
-  {
     "albumID" : "1414575525",
     "artist" : "Offenbarung 23",
     "duration" : 5000.998999999999,
     "releaseDate" : 484790400,
     "title" : "Folge 65: Reichtum",
     "upc" : "4260507142306"
+  },
+  {
+    "albumID" : "1414572431",
+    "artist" : "Offenbarung 23",
+    "duration" : 4506.005999999999,
+    "releaseDate" : 484790400,
+    "title" : "Folge 64: Der schwarze Tod",
+    "upc" : "4260507142290"
   },
   {
     "albumID" : "1411394426",
@@ -632,68 +536,12 @@
     "upc" : "4260507142443"
   },
   {
-    "albumID" : "1414532326",
-    "artist" : "Offenbarung 23",
-    "duration" : 4490.003,
-    "releaseDate" : 554342400,
-    "title" : "Folge 11: Die Hindenburg",
-    "upc" : "4260507141736"
-  },
-  {
     "albumID" : "1411010897",
     "artist" : "Offenbarung 23",
     "duration" : 4739.999000000002,
     "releaseDate" : 554342400,
     "title" : "Folge 77: Zucker - weißes Gold",
     "upc" : "4260507142429"
-  },
-  {
-    "albumID" : "1386740339",
-    "artist" : "Offenbarung 23",
-    "duration" : 3252.8250000000007,
-    "releaseDate" : 562204800,
-    "title" : "Folge 80: Wissen ist Macht",
-    "upc" : "4260507140913"
-  },
-  {
-    "albumID" : "1418614227",
-    "artist" : "Offenbarung 23",
-    "duration" : 3926.295,
-    "releaseDate" : 567043200,
-    "title" : "Folge 81: Göttliches Marketing",
-    "upc" : "4260507142603"
-  },
-  {
-    "albumID" : "1450164287",
-    "artist" : "Offenbarung 23",
-    "duration" : 4553.294000000001,
-    "releaseDate" : 573004800,
-    "title" : "Folge 82: Superbanken",
-    "upc" : "4260507146953"
-  },
-  {
-    "albumID" : "1458898664",
-    "artist" : "Offenbarung 23",
-    "duration" : 4795.214000000001,
-    "releaseDate" : 578188800,
-    "title" : "Folge 83: UFO",
-    "upc" : "4260507149732"
-  },
-  {
-    "albumID" : "1465891624",
-    "artist" : "Offenbarung 23",
-    "duration" : 4356.4929999999995,
-    "releaseDate" : 583372800,
-    "title" : "Folge 84: Konsum",
-    "upc" : "4260507150806"
-  },
-  {
-    "albumID" : "1480365910",
-    "artist" : "Offenbarung 23",
-    "duration" : 3956.882000000001,
-    "releaseDate" : 594259200,
-    "title" : "Folge 85: American Dream",
-    "upc" : "4260507152671"
   },
   {
     "albumID" : "1480362141",
@@ -710,14 +558,6 @@
     "releaseDate" : 604540800,
     "title" : "Folge 87: Solidarität",
     "upc" : "4260507153814"
-  },
-  {
-    "albumID" : "1506918682",
-    "artist" : "Offenbarung 23",
-    "duration" : 4442.736999999999,
-    "releaseDate" : 608169600,
-    "title" : "Sonderfolge: Coronavirus/COVID-19",
-    "upc" : "4260507159106"
   },
   {
     "albumID" : "1517132631",
@@ -752,30 +592,6 @@
     "upc" : "4260507162069"
   },
   {
-    "albumID" : "1551322614",
-    "artist" : "Offenbarung 23",
-    "duration" : 3902.6480000000006,
-    "releaseDate" : 635990400,
-    "title" : "Folge 91: dreIundzwANziG",
-    "upc" : "4260507162786"
-  },
-  {
-    "albumID" : "1559499066",
-    "artist" : "Offenbarung 23",
-    "duration" : 3891.7349999999997,
-    "releaseDate" : 641433600,
-    "title" : "Folge 92: Starkstrom",
-    "upc" : "4260507164612"
-  },
-  {
-    "albumID" : "1571975779",
-    "artist" : "Offenbarung 23",
-    "duration" : 4297.172999999999,
-    "releaseDate" : 646272000,
-    "title" : "Folge 93: Angela",
-    "upc" : "4260507166487"
-  },
-  {
     "albumID" : "1579282135",
     "artist" : "Offenbarung 23",
     "duration" : 4503.826,
@@ -784,28 +600,12 @@
     "upc" : "4260507169952"
   },
   {
-    "albumID" : "1606713687",
-    "artist" : "Offenbarung 23",
-    "duration" : 4048.4389999999994,
-    "releaseDate" : 667440000,
-    "title" : "Folge 95: Sturmwarnung",
-    "upc" : "4260507171535"
-  },
-  {
     "albumID" : "1618293550",
     "artist" : "Offenbarung 23",
     "duration" : 3945.7200000000003,
     "releaseDate" : 672883200,
     "title" : "Folge 96: Feuersbrunst",
     "upc" : "4260507173362"
-  },
-  {
-    "albumID" : "1628254851",
-    "artist" : "Offenbarung 23",
-    "duration" : 4047.079,
-    "releaseDate" : 678326400,
-    "title" : "Folge 97: Drogen",
-    "upc" : "4260507175083"
   },
   {
     "albumID" : "1631818652",
