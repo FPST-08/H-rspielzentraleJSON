@@ -1,91 +1,539 @@
 [
   {
-    "albumID" : "1529843175",
-    "artist" : "Jules Verne & Friedhelm Ptok",
-    "duration" : 4549.907,
-    "releaseDate" : 196646400,
-    "title" : "Die Reise zum Mittelpunkt der Erde – neu erzählt",
-    "upc" : "4064066685553"
-  },
-  {
-    "albumID" : "1647362334",
+    "albumID" : "1453110085",
     "artist" : "Jules Verne",
-    "duration" : 4535.867,
-    "releaseDate" : 686275200,
-    "title" : "20.000 Meilen unter dem Meer - neu erzählt",
-    "upc" : "4066339236028"
+    "duration" : 3145.5089999999996,
+    "releaseDate" : -63114076800,
+    "title" : "20,000 Meilen unter dem Meer",
+    "upc" : "4260507146144"
   },
   {
-    "albumID" : "1529843145",
-    "artist" : "Jules Verne & Jürgen Thormann",
-    "duration" : 3572.466,
-    "releaseDate" : 126230400,
-    "title" : "In 80 Tagen um die Welt (neu erzählt)",
-    "upc" : "4064066685560"
-  },
-  {
-    "albumID" : "1544711662",
-    "artist" : "Jules Verne & Ingolf Kloss",
-    "duration" : 9452.677,
-    "releaseDate" : 462672000,
-    "title" : "Überwinterung im Eis",
-    "upc" : "4064066826611"
-  },
-  {
-    "albumID" : "1448268905",
-    "artist" : "Jules Verne, Kurt Lieck & Wilhelm Kürten",
-    "duration" : 4663.277999999999,
-    "releaseDate" : 390441600,
-    "title" : "Die Reise um die Erde in 80 Tagen",
-    "upc" : "4057664499233"
-  },
-  {
-    "albumID" : "1721172189",
+    "albumID" : "1453422945",
     "artist" : "Jules Verne",
-    "duration" : 3532.6270000000004,
-    "releaseDate" : 729129600,
-    "title" : "Jules Verne, Die neuen Abenteuer des Phileas Fogg, Folge 39: Die Afrika-Verschwörung",
-    "upc" : "4260507191397"
+    "duration" : 19600.76500000002,
+    "releaseDate" : -1035849600,
+    "title" : "Das technische Striptease eines Futuristen von gestern",
+    "upc" : "4042564191967"
   },
   {
-    "albumID" : "1682881203",
+    "albumID" : "1508624546",
     "artist" : "Jules Verne",
-    "duration" : 4063.427,
-    "releaseDate" : 704937600,
-    "title" : "Die neuen Abenteuer des Phileas Fogg, Folge 36: Der letzte Tag auf Erden",
-    "upc" : "4260507182821"
+    "duration" : 3014.185,
+    "releaseDate" : -883612800,
+    "title" : "Reise zum Mittelpunkt der Erde",
+    "upc" : "4260507157850"
   },
   {
-    "albumID" : "1725869879",
+    "albumID" : "1508620102",
     "artist" : "Jules Verne",
-    "duration" : 3504.2240000000006,
-    "releaseDate" : 733968000,
-    "title" : "Die neuen Abenteuer des Phileas Fogg, Folge 40: Im Land der tausend Gefahren",
-    "upc" : "4260507192530"
+    "duration" : 3008.0820000000003,
+    "releaseDate" : -883612800,
+    "title" : "Kurier des Zaren",
+    "upc" : "4260507157867"
   },
   {
-    "albumID" : "1709964080",
+    "albumID" : "1508608658",
     "artist" : "Jules Verne",
-    "duration" : 3472.0800000000004,
-    "releaseDate" : 720057600,
-    "title" : "Folge 38: Von Feinden umgeben (Die neuen Abenteuer des Phileas Fogg)",
-    "upc" : "4260507190086"
+    "duration" : 2920.344,
+    "releaseDate" : -820540800,
+    "title" : "Der Kurier des Zaren, Folge 1: Ein gefahrvoller Weg",
+    "upc" : "4260507157812"
   },
   {
-    "albumID" : "1697868814",
+    "albumID" : "1510339595",
     "artist" : "Jules Verne",
-    "duration" : 3692.5979999999986,
-    "releaseDate" : 714614400,
-    "title" : "Die neuen Abenteuer des Phileas Fogg, Folge 37: Die Stunde Null",
-    "upc" : "4260507188205"
+    "duration" : 3010.64,
+    "releaseDate" : -820540800,
+    "title" : "Folge 2: Der Kurier des Zaren - In der Gewalt der Tataren",
+    "upc" : "4260507157829"
   },
   {
-    "albumID" : "1740080869",
+    "albumID" : "1506296453",
     "artist" : "Jules Verne",
-    "duration" : 3613.1320000000005,
-    "releaseDate" : 739411200,
-    "title" : "Die neuen Abenteuer des Phileas Fogg, Folge 41: Aufbruch",
-    "upc" : "4260507194787"
+    "duration" : 2383.9990000000003,
+    "releaseDate" : -694310400,
+    "title" : "Reise zum Mittelpunkt der Erde",
+    "upc" : "4260507158628"
+  },
+  {
+    "albumID" : "1487170025",
+    "artist" : "Jules Verne",
+    "duration" : 13405.346000000001,
+    "releaseDate" : 158544000,
+    "title" : "Die neuen Abenteuer des Phileas Fogg: In 80 Tagen um die Welt",
+    "upc" : "4260507155375"
+  },
+  {
+    "albumID" : "1453113185",
+    "artist" : "Jules Verne",
+    "duration" : 3153.732000000001,
+    "releaseDate" : 158544000,
+    "title" : "In 80 Tagen um die Welt (Hörspiel)",
+    "upc" : "4260507146199"
+  },
+  {
+    "albumID" : "1016489540",
+    "artist" : "Jules Verne",
+    "duration" : 3153.7319999999995,
+    "releaseDate" : 158544000,
+    "title" : "Folge 3: In 80 Tagen um die Welt",
+    "upc" : "9783938597361"
+  },
+  {
+    "albumID" : "526170587",
+    "artist" : "Jules Verne",
+    "duration" : 7454.315,
+    "releaseDate" : 357264000,
+    "title" : "Jules Verne - The Short Stories",
+    "upc" : "886788905269"
+  },
+  {
+    "albumID" : "1563766899",
+    "artist" : "Jules Verne",
+    "duration" : 4698.505999999999,
+    "releaseDate" : 458179200,
+    "title" : "Folge 1: Das Karparthenschloss",
+    "upc" : "4260507165619"
+  },
+  {
+    "albumID" : "1012074966",
+    "artist" : "Jules Verne",
+    "duration" : 2282.454,
+    "releaseDate" : 458179200,
+    "title" : "Fünf Wochen im Ballon (Hörspiel)",
+    "upc" : "4260147774912"
+  },
+  {
+    "albumID" : "1016464762",
+    "artist" : "Jules Verne",
+    "duration" : 3143.4130000000005,
+    "releaseDate" : 460598400,
+    "title" : "Folge 5: 20.000 Meilen unter dem Meer",
+    "upc" : "9783938597385"
+  },
+  {
+    "albumID" : "1016487042",
+    "artist" : "Jules Verne",
+    "duration" : 4700.653,
+    "releaseDate" : 460598400,
+    "title" : "Folge 2: Die Propellerinsel",
+    "upc" : "9783938597200"
+  },
+  {
+    "albumID" : "1016812637",
+    "artist" : "Jules Verne",
+    "duration" : 3187.761,
+    "releaseDate" : 460598400,
+    "title" : "Folge 4: Die Kinder des Kapitän Grant",
+    "upc" : "9783938597378"
+  },
+  {
+    "albumID" : "1020651138",
+    "artist" : "Jules Verne",
+    "duration" : 2621.4779999999996,
+    "releaseDate" : 460598400,
+    "title" : "Folge 6: Die Irrfahrt des Schoners Sloughi",
+    "upc" : "9783938597408"
+  },
+  {
+    "albumID" : "1045019920",
+    "artist" : "Jules Verne",
+    "duration" : 3732.266,
+    "releaseDate" : 468460800,
+    "title" : "Die neuen Abenteuer des Phileas Fogg - Folge 1: Entführung auf hoher See",
+    "upc" : "4260147776503"
+  },
+  {
+    "albumID" : "1060634910",
+    "artist" : "Jules Verne",
+    "duration" : 3367.9740000000006,
+    "releaseDate" : 471484800,
+    "title" : "Die neuen Abenteuer des Phileas Fogg, Folge 2: Der Schatz von Atlantis",
+    "upc" : "4260147777081"
+  },
+  {
+    "albumID" : "1084393464",
+    "artist" : "Jules Verne",
+    "duration" : 3574.1050000000005,
+    "releaseDate" : 478137600,
+    "title" : "Die neuen Abenteuer des Phileas Fogg, Folge 3: Krieg in den Wolken",
+    "upc" : "4260147777586"
+  },
+  {
+    "albumID" : "1099778820",
+    "artist" : "Jules Verne",
+    "duration" : 3908.334,
+    "releaseDate" : 482976000,
+    "title" : "Die neuen Abenteuer des Phileas Fogg, Folge 4: Der Elefant aus Stahl",
+    "upc" : "4260147778019"
+  },
+  {
+    "albumID" : "1131199705",
+    "artist" : "Jules Verne",
+    "duration" : 4269.464,
+    "releaseDate" : 492652800,
+    "title" : "Die neuen Abenteuer des Phileas Fogg, Folge 5: Das Geheimnis der Eissphinx",
+    "upc" : "4260147778903"
+  },
+  {
+    "albumID" : "1148917044",
+    "artist" : "Jules Verne",
+    "duration" : 3994.0140000000006,
+    "releaseDate" : 497491200,
+    "title" : "Die neuen Abenteuer des Phileas Fogg, Folge 6: Der Leuchtturm am Ende der Welt",
+    "upc" : "4260147779443"
+  },
+  {
+    "albumID" : "1164986549",
+    "artist" : "Jules Verne",
+    "duration" : 4224.174,
+    "releaseDate" : 501724800,
+    "title" : "Die neuen Abenteuer des Phileas Fogg, Folge 7: Die Stadt unter der Erde",
+    "upc" : "4260147779696"
+  },
+  {
+    "albumID" : "1188351175",
+    "artist" : "Jules Verne",
+    "duration" : 3720.6400000000003,
+    "releaseDate" : 506563200,
+    "title" : "Die neuen Abenteuer des Phileas Fogg, Folge 8: Im Angesicht der Bestien",
+    "upc" : "4260507131706"
+  },
+  {
+    "albumID" : "1206636200",
+    "artist" : "Jules Verne",
+    "duration" : 3418.5519999999997,
+    "releaseDate" : 512006400,
+    "title" : "Die neuen Abenteuer des Phileas Fogg, Folge 9: Im Reich des Zaren",
+    "upc" : "4260507132772"
+  },
+  {
+    "albumID" : "1233688548",
+    "artist" : "Jules Verne",
+    "duration" : 3729,
+    "releaseDate" : 519264000,
+    "title" : "Die neuen Abenteuer des Phileas Fogg, Folge 10: Der Herrscher der Meere",
+    "upc" : "4260507134615"
+  },
+  {
+    "albumID" : "1263468115",
+    "artist" : "Jules Verne",
+    "duration" : 3690,
+    "releaseDate" : 525916800,
+    "title" : "Die neuen Abenteuer des Phileas Fogg, Folge 11: Die Jagd nach Kapitän Grant",
+    "upc" : "4260507135681"
+  },
+  {
+    "albumID" : "1300171636",
+    "artist" : "Jules Verne",
+    "duration" : 3734,
+    "releaseDate" : 531964800,
+    "title" : "Die neuen Abenteuer des Phileas Fogg, Folge 12: Entscheidung in den Karpaten",
+    "upc" : "4260507137012"
+  },
+  {
+    "albumID" : "1314532988",
+    "artist" : "Jules Verne",
+    "duration" : 3715.9210000000003,
+    "releaseDate" : 538012800,
+    "title" : "Die neuen Abenteuer des Phileas Fogg, Folge 13: Der Untergang der Welt",
+    "upc" : "4260507137227"
+  },
+  {
+    "albumID" : "1348409323",
+    "artist" : "Jules Verne",
+    "duration" : 3798.628,
+    "releaseDate" : 542851200,
+    "title" : "Die neuen Abenteuer des Phileas Fogg, Folge 14: Der Goldvulkan",
+    "upc" : "4260507139009"
+  },
+  {
+    "albumID" : "1375570168",
+    "artist" : "Jules Verne",
+    "duration" : 4309.9980000000005,
+    "releaseDate" : 548294400,
+    "title" : "Die neuen Abenteuer des Phileas Fogg, Folge 15: Die schwimmende Stadt",
+    "upc" : "4260507140173"
+  },
+  {
+    "albumID" : "1425005531",
+    "artist" : "Jules Verne",
+    "duration" : 4344.318,
+    "releaseDate" : 560995200,
+    "title" : "Die neuen Abenteuer des Phileas Fogg, Folge 16: Gefahr für die Propellerinsel",
+    "upc" : "4260507143112"
+  },
+  {
+    "albumID" : "1438230399",
+    "artist" : "Jules Verne",
+    "duration" : 3481.64,
+    "releaseDate" : 564624000,
+    "title" : "Die neuen Abenteuer des Phileas Fogg, Folge 17: Wie alles begann",
+    "upc" : "4260507143518"
+  },
+  {
+    "albumID" : "1453117619",
+    "artist" : "Jules Verne",
+    "duration" : 4698.5199999999995,
+    "releaseDate" : 566438400,
+    "title" : "Das Karparthenschloß",
+    "upc" : "4260507146151"
+  },
+  {
+    "albumID" : "1453114227",
+    "artist" : "Jules Verne",
+    "duration" : 4700.671,
+    "releaseDate" : 566438400,
+    "title" : "Die Propellerinsel",
+    "upc" : "4260507146182"
+  },
+  {
+    "albumID" : "1453111294",
+    "artist" : "Jules Verne",
+    "duration" : 3187.763999999999,
+    "releaseDate" : 566438400,
+    "title" : "Die Kinder des Kapitän Grant",
+    "upc" : "4260507146175"
+  },
+  {
+    "albumID" : "1453110624",
+    "artist" : "Jules Verne",
+    "duration" : 2614.6340000000005,
+    "releaseDate" : 566438400,
+    "title" : "Die Irrfahrt des Schoners Sloughi (Hörspiel)",
+    "upc" : "4260507146168"
+  },
+  {
+    "albumID" : "1442546469",
+    "artist" : "Jules Verne",
+    "duration" : 3319.4929999999995,
+    "releaseDate" : 570067200,
+    "title" : "Die neuen Abenteuer des Phileas Fogg, Folge 18: Hetzjagd durch Asien",
+    "upc" : "4260507144010"
+  },
+  {
+    "albumID" : "1450394040",
+    "artist" : "Jules Verne",
+    "duration" : 3270.504999999999,
+    "releaseDate" : 575510400,
+    "title" : "Die neuen Abenteuer des Phileas Fogg, Folge 19: Duell im Wilden Westen",
+    "upc" : "4260507146977"
+  },
+  {
+    "albumID" : "1456771820",
+    "artist" : "Jules Verne",
+    "duration" : 3189.7909999999997,
+    "releaseDate" : 576720000,
+    "title" : "Die Kinder des Kapitäns Grant (Hörspiel)",
+    "upc" : "4260507148445"
+  },
+  {
+    "albumID" : "1462637924",
+    "artist" : "Jules Verne",
+    "duration" : 3333.7079999999987,
+    "releaseDate" : 580953600,
+    "title" : "Die neuen Abenteuer des Phileas Fogg, Folge 20: Wettlauf mit der Zeit",
+    "upc" : "4260507150776"
+  },
+  {
+    "albumID" : "1461248610",
+    "artist" : "Jules Verne",
+    "duration" : 2713.0000000000005,
+    "releaseDate" : 587606400,
+    "title" : "Der Kurier des Zaren",
+    "upc" : "4260507149800"
+  },
+  {
+    "albumID" : "1482395118",
+    "artist" : "Jules Verne",
+    "duration" : 3594.268,
+    "releaseDate" : 593049600,
+    "title" : "Die neuen Abenteuer des Phileas Fogg, Folge 21: Die sieben Seelen des Anubis",
+    "upc" : "4260507154743"
+  },
+  {
+    "albumID" : "1489211059",
+    "artist" : "Jules Verne",
+    "duration" : 4185.823999999999,
+    "releaseDate" : 600912000,
+    "title" : "Die neuen Abenteuer des Phileas Fogg, Folge 22: Die Gasse der flüsternden Schatten",
+    "upc" : "4260507155436"
+  },
+  {
+    "albumID" : "1500912431",
+    "artist" : "Jules Verne",
+    "duration" : 4047.562,
+    "releaseDate" : 606960000,
+    "title" : "Folge 23: Verschwörung auf dem Atlantik (Die neuen Abenteuer des Phileas Fogg)",
+    "upc" : "4260507157072"
+  },
+  {
+    "albumID" : "1508628225",
+    "artist" : "Jules Verne",
+    "duration" : 2895.0249999999996,
+    "releaseDate" : 609379200,
+    "title" : "Eine Reise auf dem Kometen Gallia",
+    "upc" : "4260507157843"
+  },
+  {
+    "albumID" : "1508104109",
+    "artist" : "Jules Verne",
+    "duration" : 4025.717000000001,
+    "releaseDate" : 610588800,
+    "title" : "Die neuen Abenteuer des Phileas Fogg, Folge 24: Die geheimnisvolle Insel",
+    "upc" : "4260507159045"
+  },
+  {
+    "albumID" : "1513547515",
+    "artist" : "Jules Verne",
+    "duration" : 2244,
+    "releaseDate" : 613612800,
+    "title" : "Die geheimnisvolle Insel",
+    "upc" : "4260507158505"
+  },
+  {
+    "albumID" : "1515270975",
+    "artist" : "Jules Verne",
+    "duration" : 2950.336000000001,
+    "releaseDate" : 614217600,
+    "title" : "Kurier des Zaren",
+    "upc" : "4260507159403"
+  },
+  {
+    "albumID" : "1515738897",
+    "artist" : "Jules Verne",
+    "duration" : 2079.001,
+    "releaseDate" : 614822400,
+    "title" : "Zwei Jahre Ferien",
+    "upc" : "4260507159410"
+  },
+  {
+    "albumID" : "1523479710",
+    "artist" : "Jules Verne",
+    "duration" : 3798.05,
+    "releaseDate" : 619056000,
+    "title" : "Folge 25: Diamantenjäger (Die neuen Abenteuer des Phileas Fogg)",
+    "upc" : "4260507160621"
+  },
+  {
+    "albumID" : "1523473234",
+    "artist" : "Jules Verne",
+    "duration" : 2372.472,
+    "releaseDate" : 619660800,
+    "title" : "Fünf Wochen im Ballon",
+    "upc" : "4260507160348"
+  },
+  {
+    "albumID" : "1539152712",
+    "artist" : "Jules Verne",
+    "duration" : 4158.004999999999,
+    "releaseDate" : 627523200,
+    "title" : "Folge 26: Die Küste der Skelette (Die neuen Abenteuer des Phileas Fogg)",
+    "upc" : "4260507161888"
+  },
+  {
+    "albumID" : "1554819119",
+    "artist" : "Jules Verne",
+    "duration" : 4244.996000000002,
+    "releaseDate" : 637804800,
+    "title" : "Folge 27: Der Fluch der Harpyie (Die neuen Abenteuer des Phileas Fogg)",
+    "upc" : "4260507162939"
+  },
+  {
+    "albumID" : "1557311940",
+    "artist" : "Jules Verne & Peter Folken",
+    "duration" : 3708.7650000000003,
+    "releaseDate" : 646272000,
+    "title" : "Mathias Sandorf (Hörspiel)",
+    "upc" : "4260507164001"
+  },
+  {
+    "albumID" : "1566848629",
+    "artist" : "Jules Verne",
+    "duration" : 4052.504999999999,
+    "releaseDate" : 646876800,
+    "title" : "Folge 28: Herrscher der Lüfte (Die neuen Abenteuer des Phileas Fogg)",
+    "upc" : "4260507165954"
+  },
+  {
+    "albumID" : "1577912192",
+    "artist" : "Jules Verne",
+    "duration" : 3370.027000000001,
+    "releaseDate" : 649296000,
+    "title" : "The new adventures of Phileas Fogg, Episode 1: Kidnapping on the High Seas",
+    "upc" : "4260507166791"
+  },
+  {
+    "albumID" : "1583570479",
+    "artist" : "Jules Verne & Anke Stamm",
+    "duration" : 2059.0009999999997,
+    "releaseDate" : 653529600,
+    "title" : "Die Kinder des Kapitän Grant",
+    "upc" : "4260507169198"
+  },
+  {
+    "albumID" : "1583569962",
+    "artist" : "Jules Verne & Anke Beckert",
+    "duration" : 2425.9999999999995,
+    "releaseDate" : 654134400,
+    "title" : "Die Kinder des Kapitän Grant",
+    "upc" : "4260507169211"
+  },
+  {
+    "albumID" : "1583570932",
+    "artist" : "Jules Verne & Rolf C. Bohn",
+    "duration" : 2310,
+    "releaseDate" : 654739200,
+    "title" : "Michael Strogoff - Der Kurier des Zaren",
+    "upc" : "4260507169235"
+  },
+  {
+    "albumID" : "1589746412",
+    "artist" : "Jules Verne",
+    "duration" : 3889.866,
+    "releaseDate" : 658368000,
+    "title" : "Folge 29: Die Verschwörung (Die neuen Abenteuer des Phileas Fogg)",
+    "upc" : "4260507170422"
+  },
+  {
+    "albumID" : "1610284873",
+    "artist" : "Jules Verne",
+    "duration" : 3905.97,
+    "releaseDate" : 669859200,
+    "title" : "Folge 30: Der Schatz der Verdammten (Die neuen Abenteuer des Phileas Fogg)",
+    "upc" : "4260507172662"
+  },
+  {
+    "albumID" : "1618292174",
+    "artist" : "Jules Verne",
+    "duration" : 3567.2829999999985,
+    "releaseDate" : 672883200,
+    "title" : "Folge 31: Gefährliche Wiederkehr (Die neuen Abenteuer des Phileas Fogg)",
+    "upc" : "4260507173225"
+  },
+  {
+    "albumID" : "1625371771",
+    "artist" : "Jules Verne",
+    "duration" : 4026.534,
+    "releaseDate" : 677721600,
+    "title" : "Die neuen Abenteuer des Phileas Fogg, Folge 32: Abrechnung",
+    "upc" : "4260507174109"
+  },
+  {
+    "albumID" : "1638708559",
+    "artist" : "Jules Verne",
+    "duration" : 3886.1460000000006,
+    "releaseDate" : 683164800,
+    "title" : "Die neuen Abenteuer des Phileas Fogg, Folge 33: Von der Erde zum Mond",
+    "upc" : "4260507175670"
+  },
+  {
+    "albumID" : "1655638917",
+    "artist" : "Jules Verne",
+    "duration" : 3779.2939999999994,
+    "releaseDate" : 692841600,
+    "title" : "Folge 34: Irrfahrt ins Ungewisse (Die neuen Abenteuer des Phileas Fogg)",
+    "upc" : "4260507177827"
   },
   {
     "albumID" : "1680675390",
@@ -96,20 +544,60 @@
     "upc" : "4260507182012"
   },
   {
+    "albumID" : "1682881203",
+    "artist" : "Jules Verne",
+    "duration" : 4063.427,
+    "releaseDate" : 704937600,
+    "title" : "Die neuen Abenteuer des Phileas Fogg, Folge 36: Der letzte Tag auf Erden",
+    "upc" : "4260507182821"
+  },
+  {
+    "albumID" : "1697868814",
+    "artist" : "Jules Verne",
+    "duration" : 3692.5979999999986,
+    "releaseDate" : 714614400,
+    "title" : "Die neuen Abenteuer des Phileas Fogg, Folge 37: Die Stunde Null",
+    "upc" : "4260507188205"
+  },
+  {
+    "albumID" : "1709964080",
+    "artist" : "Jules Verne",
+    "duration" : 3472.0800000000004,
+    "releaseDate" : 720057600,
+    "title" : "Folge 38: Von Feinden umgeben (Die neuen Abenteuer des Phileas Fogg)",
+    "upc" : "4260507190086"
+  },
+  {
+    "albumID" : "1721172189",
+    "artist" : "Jules Verne",
+    "duration" : 3532.6270000000004,
+    "releaseDate" : 729129600,
+    "title" : "Jules Verne, Die neuen Abenteuer des Phileas Fogg, Folge 39: Die Afrika-Verschwörung",
+    "upc" : "4260507191397"
+  },
+  {
+    "albumID" : "1725869879",
+    "artist" : "Jules Verne",
+    "duration" : 3504.2240000000006,
+    "releaseDate" : 733968000,
+    "title" : "Die neuen Abenteuer des Phileas Fogg, Folge 40: Im Land der tausend Gefahren",
+    "upc" : "4260507192530"
+  },
+  {
+    "albumID" : "1740080869",
+    "artist" : "Jules Verne",
+    "duration" : 3613.1320000000005,
+    "releaseDate" : 739411200,
+    "title" : "Die neuen Abenteuer des Phileas Fogg, Folge 41: Aufbruch",
+    "upc" : "4260507194787"
+  },
+  {
     "albumID" : "1768716409",
     "artist" : "Jules Verne",
     "duration" : 3590.865,
     "releaseDate" : 750902400,
     "title" : "Die neuen Abenteuer des Phileas Fogg, Folge 42: Gefährliche Suche",
     "upc" : "4260507199140"
-  },
-  {
-    "albumID" : "1557311940",
-    "artist" : "Jules Verne & Peter Folken",
-    "duration" : 3708.7650000000003,
-    "releaseDate" : 646272000,
-    "title" : "Mathias Sandorf (Hörspiel)",
-    "upc" : "4260507164001"
   },
   {
     "albumID" : "1776665735",
