@@ -1,13 +1,5 @@
 [
   {
-    "albumID" : "1612261053",
-    "artist" : "Dorian Hunter",
-    "duration" : 4204.654,
-    "releaseDate" : 240710400,
-    "title" : "01: Im Zeichen des Bösen",
-    "upc" : "9783955728816"
-  },
-  {
     "albumID" : "1612463010",
     "artist" : "Dorian Hunter",
     "duration" : 4507.934,
@@ -50,7 +42,7 @@
   {
     "albumID" : "1612461035",
     "artist" : "Dorian Hunter",
-    "duration" : 0,
+    "duration" : 3799.798,
     "releaseDate" : 296092800,
     "title" : "10.1: Der Folterknecht - Die Nacht von Nancy (Teil 1 von 2)",
     "upc" : "9783955728908"
@@ -184,60 +176,12 @@
     "upc" : "9783955729066"
   },
   {
-    "albumID" : "1410151258",
-    "artist" : "Dorian Hunter",
-    "duration" : 3905.666999999999,
-    "releaseDate" : 430963200,
-    "title" : "25.1: Die Masken des Dr. Faustus - Mummenschanz",
-    "upc" : "9783962376772"
-  },
-  {
-    "albumID" : "1410153398",
-    "artist" : "Dorian Hunter",
-    "duration" : 4370.415,
-    "releaseDate" : 430963200,
-    "title" : "25.2: Die Masken des Dr. Faustus - Hassfurt",
-    "upc" : "9783962376789"
-  },
-  {
     "albumID" : "1410157740",
     "artist" : "Dorian Hunter",
     "duration" : 4188.77,
     "releaseDate" : 430963200,
     "title" : "25.3: Die Masken des Dr. Faustus - Fastnacht",
     "upc" : "9783962376796"
-  },
-  {
-    "albumID" : "1410157701",
-    "artist" : "Dorian Hunter",
-    "duration" : 4130.494,
-    "releaseDate" : 439430400,
-    "title" : "26: Die Schöne Und Die Bestie",
-    "upc" : "9783962376826"
-  },
-  {
-    "albumID" : "1410160298",
-    "artist" : "Dorian Hunter",
-    "duration" : 4205.8769999999995,
-    "releaseDate" : 447292800,
-    "title" : "27: Der tätowierte Tod",
-    "upc" : "9783962376833"
-  },
-  {
-    "albumID" : "1410162388",
-    "artist" : "Dorian Hunter",
-    "duration" : 3879.662,
-    "releaseDate" : 455155200,
-    "title" : "28: Mbret",
-    "upc" : "9783962376840"
-  },
-  {
-    "albumID" : "1412077313",
-    "artist" : "Dorian Hunter",
-    "duration" : 4178.76,
-    "releaseDate" : 470880000,
-    "title" : "29.2: Hexensabbat - Reifeprüfung (Teil 2 von 2)",
-    "upc" : "9783962376864"
   },
   {
     "albumID" : "1412073411",
@@ -248,52 +192,12 @@
     "upc" : "9783962376857"
   },
   {
-    "albumID" : "1413212830",
+    "albumID" : "1412077313",
     "artist" : "Dorian Hunter",
-    "duration" : 3481.594000000001,
-    "releaseDate" : 486604800,
-    "title" : "30: Hochzeitsnacht",
-    "upc" : "9783962376871"
-  },
-  {
-    "albumID" : "1414349619",
-    "artist" : "Dorian Hunter",
-    "duration" : 3407.5309999999995,
-    "releaseDate" : 494467200,
-    "title" : "31: Capricorn",
-    "upc" : "9783962376888"
-  },
-  {
-    "albumID" : "1415628595",
-    "artist" : "Dorian Hunter",
-    "duration" : 3716.4389999999994,
-    "releaseDate" : 502329600,
-    "title" : "32: Witchcraft",
-    "upc" : "9783962376895"
-  },
-  {
-    "albumID" : "1415631815",
-    "artist" : "Dorian Hunter",
-    "duration" : 3717.640000000001,
-    "releaseDate" : 518054400,
-    "title" : "34: Familiensache",
-    "upc" : "9783962376925"
-  },
-  {
-    "albumID" : "1414920493",
-    "artist" : "Dorian Hunter",
-    "duration" : 3628.4709999999986,
-    "releaseDate" : 518054400,
-    "title" : "33: Kirkwall Paradise",
-    "upc" : "9783962376901"
-  },
-  {
-    "albumID" : "1415630393",
-    "artist" : "Dorian Hunter",
-    "duration" : 2873.0309999999995,
-    "releaseDate" : 525916800,
-    "title" : "35.1: Niemandsland - Eingeladen (Teil 1 von 2)",
-    "upc" : "9783962376932"
+    "duration" : 4178.76,
+    "releaseDate" : 470880000,
+    "title" : "29.2: Hexensabbat - Reifeprüfung (Teil 2 von 2)",
+    "upc" : "9783962376864"
   },
   {
     "albumID" : "1415630910",
@@ -304,108 +208,12 @@
     "upc" : "9783962376949"
   },
   {
-    "albumID" : "1415631413",
-    "artist" : "Dorian Hunter",
-    "duration" : 3947.4030000000007,
-    "releaseDate" : 533779200,
-    "title" : "Folge 36: Auf der Santa Maria",
-    "upc" : "9783962376956"
-  },
-  {
-    "albumID" : "1341625071",
-    "artist" : "Dorian Hunter",
-    "duration" : 4184.150999999999,
-    "releaseDate" : 541641600,
-    "title" : "37: Am Rio Negro",
-    "upc" : "9783955726966"
-  },
-  {
-    "albumID" : "1367970109",
-    "artist" : "Dorian Hunter",
-    "duration" : 3335.0330000000004,
-    "releaseDate" : 549504000,
-    "title" : "38: Marucha",
-    "upc" : "9783955726973"
-  },
-  {
-    "albumID" : "1416611913",
-    "artist" : "Dorian Hunter",
-    "duration" : 3793.955,
-    "releaseDate" : 557971200,
-    "title" : "39: Yana Turmanyay",
-    "upc" : "9783955726980"
-  },
-  {
-    "albumID" : "1445434871",
-    "artist" : "Dorian Hunter",
-    "duration" : 4719.8049999999985,
-    "releaseDate" : 566438400,
-    "title" : "40: Das Große Tier",
-    "upc" : "9783955726997"
-  },
-  {
-    "albumID" : "1463802768",
-    "artist" : "Dorian Hunter",
-    "duration" : 2802.9799999999996,
-    "releaseDate" : 581558400,
-    "title" : "41.1 Macumba",
-    "upc" : "9783955727000"
-  },
-  {
-    "albumID" : "1463758286",
-    "artist" : "Dorian Hunter",
-    "duration" : 2537.7019999999993,
-    "releaseDate" : 581558400,
-    "title" : "41.2: Penthouse der Schweine",
-    "upc" : "9783955727017"
-  },
-  {
-    "albumID" : "1503653039",
-    "artist" : "Dorian Hunter",
-    "duration" : 4218.133,
-    "releaseDate" : 607564800,
-    "title" : "Schuld und Sühne",
-    "upc" : "9783955727024"
-  },
-  {
     "albumID" : "1552060494",
     "artist" : "Dorian Hunter",
     "duration" : 4603,
     "releaseDate" : 623289600,
     "title" : "43: Wien",
     "upc" : "9783955726911"
-  },
-  {
-    "albumID" : "1550293958",
-    "artist" : "Dorian Hunter",
-    "duration" : 4583.002999999999,
-    "releaseDate" : 634176000,
-    "title" : "44: Der Teufelseid",
-    "upc" : "9783955727048"
-  },
-  {
-    "albumID" : "1568700572",
-    "artist" : "Dorian Hunter",
-    "duration" : 4739.610000000001,
-    "releaseDate" : 644457600,
-    "title" : "45: Lykanthropus",
-    "upc" : "9783955727055"
-  },
-  {
-    "albumID" : "1587875946",
-    "artist" : "Dorian Hunter",
-    "duration" : 126.95,
-    "releaseDate" : 654739200,
-    "title" : "46: Mörder der Lüfte",
-    "upc" : "9783955727062"
-  },
-  {
-    "albumID" : "1624212537",
-    "artist" : "Dorian Hunter",
-    "duration" : 4948.6410000000005,
-    "releaseDate" : 677116800,
-    "title" : "47: Duk Duk",
-    "upc" : "9783955727086"
   },
   {
     "albumID" : "1649758242",
@@ -422,14 +230,6 @@
     "releaseDate" : 688003200,
     "title" : "48.2: Vater des Schreckens - Lebendig begraben",
     "upc" : "9783955727109"
-  },
-  {
-    "albumID" : "1675261988",
-    "artist" : "Dorian Hunter",
-    "duration" : 4473.998,
-    "releaseDate" : 699494400,
-    "title" : "49: Theriak",
-    "upc" : "9783955727116"
   },
   {
     "albumID" : "1727791657",
