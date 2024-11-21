@@ -1,139 +1,11 @@
 [
   {
-    "albumID" : "1686157855",
-    "artist" : "Inspector Lestrade",
-    "duration" : 3849.562,
-    "releaseDate" : 539222400,
-    "title" : "Ein Fall für Scotland Yard 1: Der Augenblick des Todes",
-    "upc" : "9783864733505"
-  },
-  {
-    "albumID" : "1685966417",
-    "artist" : "Inspector Lestrade",
-    "duration" : 4092.107,
-    "releaseDate" : 544665600,
-    "title" : "Ein Fall für Scotland Yard 2: Der Zorn des Anubis",
-    "upc" : "9783864733512"
-  },
-  {
-    "albumID" : "1685965949",
-    "artist" : "Inspector Lestrade",
-    "duration" : 3639.213,
-    "releaseDate" : 552528000,
-    "title" : "Ein Fall für Scotland Yard: Eine Kugel für den Liebsten",
-    "upc" : "9783864733529"
-  },
-  {
-    "albumID" : "1686158157",
-    "artist" : "Inspector Lestrade",
-    "duration" : 3805.5989999999997,
-    "releaseDate" : 562204800,
-    "title" : "Ein Fall für scotland yard: das leichengemäuer",
-    "upc" : "9783864734038"
-  },
-  {
-    "albumID" : "1686158839",
-    "artist" : "Inspector Lestrade",
-    "duration" : 3805.106,
-    "releaseDate" : 576720000,
-    "title" : "Ein Fall für Scotland Yard: Rot wie Blut",
-    "upc" : "9783864734045"
-  },
-  {
-    "albumID" : "1685966693",
-    "artist" : "Inspector Lestrade",
-    "duration" : 3794.0010000000007,
-    "releaseDate" : 585792000,
-    "title" : "Ein Fall für Scotland Yard: Vier Schläge am Mittag",
-    "upc" : "9783864734052"
-  },
-  {
-    "albumID" : "1686158448",
-    "artist" : "Inspector Lestrade",
-    "duration" : 3854.263,
-    "releaseDate" : 593654400,
-    "title" : "Ein Fall für Scotland Yard,Fall 7: Die Feuerspur",
-    "upc" : "9783864735936"
-  },
-  {
-    "albumID" : "1685966944",
-    "artist" : "Inspector Lestrade",
-    "duration" : 3305.2530000000006,
-    "releaseDate" : 608774400,
-    "title" : "Ein Fall für Scotland Yard 8: Der Geist von Old Hall",
-    "upc" : "9783864735943"
-  },
-  {
-    "albumID" : "1686157826",
-    "artist" : "Inspector Lestrade",
-    "duration" : 4011.974000000001,
-    "releaseDate" : 617241600,
-    "title" : "Ein Fall für Scotland Yard 9: Kainsmal",
-    "upc" : "9783864735950"
-  },
-  {
-    "albumID" : "1685966514",
-    "artist" : "Inspector Lestrade",
-    "duration" : 4050.0679999999998,
-    "releaseDate" : 625104000,
-    "title" : "Ein Fall für Scotland yard 10: der Atem des Drachen",
-    "upc" : "9783864735967"
-  },
-  {
-    "albumID" : "1685974418",
-    "artist" : "Inspector Lestrade",
-    "duration" : 4315.665,
-    "releaseDate" : 641433600,
-    "title" : "Ein Fall für Scotland Yard 11: Der leere Zug",
-    "upc" : "9783864737039"
-  },
-  {
-    "albumID" : "1686084153",
-    "artist" : "Inspector Lestrade",
-    "duration" : 3091.8260000000005,
-    "releaseDate" : 641433600,
-    "title" : "Die rätselhaften Fälle von Scotland Yard, Folge 1: Der tödliche Arbeitskampf",
-    "upc" : "9783864737411"
-  },
-  {
-    "albumID" : "1686093935",
-    "artist" : "Inspector Lestrade",
-    "duration" : 2837.9879999999994,
-    "releaseDate" : 643248000,
-    "title" : "Folge 2: Der neue Ripper (Die rätselhaften Fälle von Scotland Yard)",
-    "upc" : "9783864737428"
-  },
-  {
-    "albumID" : "1686291683",
-    "artist" : "Inspector Lestrade",
-    "duration" : 3142.066,
-    "releaseDate" : 645667200,
-    "title" : "Die rätselhaften fälle von scotland yard, Folge 3: der Mord der elefanten",
-    "upc" : "9783864737435"
-  },
-  {
     "albumID" : "1686291339",
     "artist" : "Inspector Lestrade",
     "duration" : 2871.8939999999993,
     "releaseDate" : 648086400,
     "title" : "Die rätselhaften Fälle von Scotland Yard, Folge 4: Der rote Ross",
     "upc" : "9783864737442"
-  },
-  {
-    "albumID" : "1686295658",
-    "artist" : "Inspector Lestrade",
-    "duration" : 2888.4539999999997,
-    "releaseDate" : 650505600,
-    "title" : "Die rätselhaften Fälle von Scotland Yard, Folge 5: Der Tote aus der Themse",
-    "upc" : "9783864737664"
-  },
-  {
-    "albumID" : "1678631401",
-    "artist" : "Inspector Lestrade",
-    "duration" : 3854.6399999999994,
-    "releaseDate" : 652924800,
-    "title" : "Folge 12: Lady Merediths Erbe (Ein Fall für Scotland Yard)",
-    "upc" : "9783864737046"
   },
   {
     "albumID" : "1686098845",
@@ -152,22 +24,6 @@
     "upc" : "9783864737688"
   },
   {
-    "albumID" : "1686100438",
-    "artist" : "Inspector Lestrade",
-    "duration" : 2881.562999999999,
-    "releaseDate" : 658368000,
-    "title" : "Die rätselhaften Fälle von Scotland Yard, Folge 8: Die ermordeten Frauen",
-    "upc" : "9783864737695"
-  },
-  {
-    "albumID" : "1685968006",
-    "artist" : "Inspector Lestrade",
-    "duration" : 3928.318,
-    "releaseDate" : 658972800,
-    "title" : "Ein Fall für Scotland Yard 13: Faksimile der Angst",
-    "upc" : "9783864737053"
-  },
-  {
     "albumID" : "1686092812",
     "artist" : "Inspector Lestrade",
     "duration" : 3192.2690000000007,
@@ -182,14 +38,6 @@
     "releaseDate" : 671673600,
     "title" : "Die rätselhaften Fälle von Scotland Yard, Folge 10: Der Unheimliche von Hackney",
     "upc" : "9783864737718"
-  },
-  {
-    "albumID" : "1685298752",
-    "artist" : "Inspector Lestrade",
-    "duration" : 4087.6409999999996,
-    "releaseDate" : 672883200,
-    "title" : "Folge 14: Die Tode des Adrian Abernathy (Ein Fall für Scotland Yard)",
-    "upc" : "9783864737534"
   },
   {
     "albumID" : "1686092467",
@@ -216,14 +64,6 @@
     "upc" : "9783864737749"
   },
   {
-    "albumID" : "1686186297",
-    "artist" : "Inspector Lestrade",
-    "duration" : 4209.371999999999,
-    "releaseDate" : 680140800,
-    "title" : "Folge 15: Der kriechende Tod von Aldwych Station (Ein Fall für Scotland Yard)",
-    "upc" : "9783864737541"
-  },
-  {
     "albumID" : "1686112273",
     "artist" : "Inspector Lestrade",
     "duration" : 3781.4980000000005,
@@ -238,14 +78,6 @@
     "releaseDate" : 686793600,
     "title" : "Die rätselhaften Fälle von Scotland Yard, Folge 15: Der Bibelmörder",
     "upc" : "9783864737763"
-  },
-  {
-    "albumID" : "1685297700",
-    "artist" : "Inspector Lestrade",
-    "duration" : 3608.5730000000003,
-    "releaseDate" : 688003200,
-    "title" : "Ein Fall für Scotland Yard 16: Der Kobold von Bath",
-    "upc" : "9783864737558"
   },
   {
     "albumID" : "1686093115",
@@ -280,14 +112,6 @@
     "upc" : "9783864738180"
   },
   {
-    "albumID" : "1681846175",
-    "artist" : "Inspector Lestrade",
-    "duration" : 4045.131,
-    "releaseDate" : 706752000,
-    "title" : "Ein Fall für Scotland Yard 17: Die blutige Braut",
-    "upc" : "9783864738128"
-  },
-  {
     "albumID" : "1691516288",
     "artist" : "Inspector Lestrade",
     "duration" : 2733.7629999999995,
@@ -304,22 +128,6 @@
     "upc" : "9783864738203"
   },
   {
-    "albumID" : "1707509374",
-    "artist" : "Inspector Lestrade",
-    "duration" : 3865.612,
-    "releaseDate" : 720057600,
-    "title" : "Folge 18: Amors tödlicher Pfeil (Ein Fall für Scotland Yard)",
-    "upc" : "9783864738432"
-  },
-  {
-    "albumID" : "1711482291",
-    "artist" : "Inspector Lestrade",
-    "duration" : 2827.1340000000005,
-    "releaseDate" : 720662400,
-    "title" : "Die rätselhaften Fälle von Scotland Yard, Folge 23: Die letzte Party des Adeligen 1. Teil",
-    "upc" : "9783864738210"
-  },
-  {
     "albumID" : "1719770084",
     "artist" : "Inspector Lestrade",
     "duration" : 3133.8879999999995,
@@ -334,14 +142,6 @@
     "releaseDate" : 731548800,
     "title" : "Die rätselhaften Fälle von Scotland Yard, Folge 25: Das blutbefleckte Taschentuch",
     "upc" : "9783864739767"
-  },
-  {
-    "albumID" : "1742550048",
-    "artist" : "Inspector Lestrade",
-    "duration" : 4073.9500000000003,
-    "releaseDate" : 738201600,
-    "title" : "Ein Fall für Scotland Yard 19: Bretter, die den Tod bedeuten",
-    "upc" : "9783864738449"
   },
   {
     "albumID" : "1746265226",
