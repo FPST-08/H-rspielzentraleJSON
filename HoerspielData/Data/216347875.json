@@ -1,45 +1,5 @@
 [
   {
-    "albumID" : "1002457082",
-    "artist" : "Fünf Freunde",
-    "duration" : 2557.332000000001,
-    "releaseDate" : -699580800,
-    "title" : "Folge 1: beim Wanderzirkus",
-    "upc" : "886445102260"
-  },
-  {
-    "albumID" : "1002560999",
-    "artist" : "Fünf Freunde",
-    "duration" : 2596.868,
-    "releaseDate" : -699494400,
-    "title" : "Folge 2: im Zeltlager",
-    "upc" : "886445130003"
-  },
-  {
-    "albumID" : "1002449163",
-    "artist" : "Fünf Freunde",
-    "duration" : 3099.4390000000003,
-    "releaseDate" : -699408000,
-    "title" : "Folge 3: und das Burgverlies",
-    "upc" : "886445130287"
-  },
-  {
-    "albumID" : "1002464334",
-    "artist" : "Fünf Freunde",
-    "duration" : 2789.8109999999997,
-    "releaseDate" : -699321600,
-    "title" : "Folge 4: als Retter in der Not",
-    "upc" : "886445130324"
-  },
-  {
-    "albumID" : "1002556878",
-    "artist" : "Fünf Freunde",
-    "duration" : 2435.666999999999,
-    "releaseDate" : -691632000,
-    "title" : "Folge 5: und der Zauberer Wu",
-    "upc" : "886445130355"
-  },
-  {
     "albumID" : "1002512476",
     "artist" : "Fünf Freunde",
     "duration" : 2526.9199999999996,
@@ -48,28 +8,12 @@
     "upc" : "886445130362"
   },
   {
-    "albumID" : "1002490124",
-    "artist" : "Fünf Freunde",
-    "duration" : 2694.0129999999995,
-    "releaseDate" : -686534400,
-    "title" : "Folge 7: verfolgen die Strandräuber",
-    "upc" : "886445130379"
-  },
-  {
     "albumID" : "1653992614",
     "artist" : "Fünf Freunde",
     "duration" : 2312.868,
     "releaseDate" : -686448000,
     "title" : "008/retten Jo",
     "upc" : "196589660190"
-  },
-  {
-    "albumID" : "1002440083",
-    "artist" : "Fünf Freunde",
-    "duration" : 2571.745000000001,
-    "releaseDate" : -662774400,
-    "title" : "Folge 9: im alten Turm",
-    "upc" : "886445130423"
   },
   {
     "albumID" : "1002557473",
@@ -214,14 +158,6 @@
     "releaseDate" : -315619200,
     "title" : "Folge 28: und die geheimnisvolle Stadt",
     "upc" : "886445132724"
-  },
-  {
-    "albumID" : "1002493545",
-    "artist" : "Fünf Freunde",
-    "duration" : 2737.3850000000007,
-    "releaseDate" : -315532800,
-    "title" : "Folge 29: und die Schwarze Maske",
-    "upc" : "886445132779"
   },
   {
     "albumID" : "1002464607",
@@ -518,14 +454,6 @@
     "releaseDate" : 164246400,
     "title" : "Folge 66: und das Seeungeheuer",
     "upc" : "886445151084"
-  },
-  {
-    "albumID" : "1002490636",
-    "artist" : "Fünf Freunde",
-    "duration" : 3075.691000000001,
-    "releaseDate" : 169689600,
-    "title" : "Folge 67: und der unheimliche Brandstifter",
-    "upc" : "886445151091"
   },
   {
     "albumID" : "1002451305",
@@ -912,14 +840,6 @@
     "upc" : "886445317480"
   },
   {
-    "albumID" : "1047761277",
-    "artist" : "Fünf Freunde",
-    "duration" : 3384.3720000000008,
-    "releaseDate" : 450316800,
-    "title" : "Folge 111: und das Geheimverlies im Schloss",
-    "upc" : "886445317497"
-  },
-  {
     "albumID" : "1047761322",
     "artist" : "Fünf Freunde",
     "duration" : 3565.6790000000005,
@@ -930,18 +850,10 @@
   {
     "albumID" : "1047762136",
     "artist" : "Fünf Freunde",
-    "duration" : 88.587,
+    "duration" : 3474.458,
     "releaseDate" : 463622400,
     "title" : "Folge 113: und das Feuer auf der Felseninsel",
     "upc" : "886445317510"
-  },
-  {
-    "albumID" : "1048622732",
-    "artist" : "Fünf Freunde",
-    "duration" : 3726.7850000000008,
-    "releaseDate" : 469670400,
-    "title" : "Folge 114: und der Skandal auf der Freilichtbühne",
-    "upc" : "886444980586"
   },
   {
     "albumID" : "1070221537",
@@ -952,44 +864,12 @@
     "upc" : "886445603002"
   },
   {
-    "albumID" : "1090908738",
-    "artist" : "Fünf Freunde",
-    "duration" : 3197.6370000000015,
-    "releaseDate" : 482371200,
-    "title" : "Folge 116: und der chinesische Pflanzenzauber",
-    "upc" : "886445603019"
-  },
-  {
     "albumID" : "1110806395",
     "artist" : "Fünf Freunde",
     "duration" : 3732.012999999999,
     "releaseDate" : 486604800,
     "title" : "Folge 117: und der Wolf in den Highlands",
     "upc" : "886445603026"
-  },
-  {
-    "albumID" : "1137115177",
-    "artist" : "Fünf Freunde",
-    "duration" : 3214.252000000001,
-    "releaseDate" : 495072000,
-    "title" : "Folge 118: und der falsche Patient",
-    "upc" : "886445603033"
-  },
-  {
-    "albumID" : "1168002592",
-    "artist" : "Fünf Freunde",
-    "duration" : 3928.4529999999995,
-    "releaseDate" : 501120000,
-    "title" : "Folge 119: und das versunkene Schiff",
-    "upc" : "886445603040"
-  },
-  {
-    "albumID" : "1186268045",
-    "artist" : "Fünf Freunde",
-    "duration" : 3747.0269999999996,
-    "releaseDate" : 508982400,
-    "title" : "Folge 120: und die doppelte Erfindung",
-    "upc" : "886446072036"
   },
   {
     "albumID" : "1214872067",
@@ -1008,28 +888,12 @@
     "upc" : "886446072050"
   },
   {
-    "albumID" : "1266015928",
-    "artist" : "Fünf Freunde",
-    "duration" : 3419.6300000000006,
-    "releaseDate" : 527731200,
-    "title" : "Folge 123: und der Zug im Dunkeln",
-    "upc" : "886446072067"
-  },
-  {
     "albumID" : "1287526566",
     "artist" : "Fünf Freunde",
     "duration" : 3320.506,
     "releaseDate" : 531964800,
     "title" : "Folge 124: auf der Suche nach Timmy",
     "upc" : "886446072074"
-  },
-  {
-    "albumID" : "1334680351",
-    "artist" : "Fünf Freunde",
-    "duration" : 3247.2799999999997,
-    "releaseDate" : 541036800,
-    "title" : "Folge 125: und die gemeine Falle",
-    "upc" : "886446194707"
   },
   {
     "albumID" : "1347817522",
@@ -1046,30 +910,6 @@
     "releaseDate" : 542851200,
     "title" : "Fünf Freunde und das Tal der Dinosaurier - Das Original-Hörspiel zum Kinofilm",
     "upc" : "886446839158"
-  },
-  {
-    "albumID" : "1351881860",
-    "artist" : "Fünf Freunde",
-    "duration" : 3301.543999999999,
-    "releaseDate" : 545875200,
-    "title" : "Folge 126: und die gefährlichen Wurzeln",
-    "upc" : "886446452944"
-  },
-  {
-    "albumID" : "1380123428",
-    "artist" : "Fünf Freunde",
-    "duration" : 3440.2139999999995,
-    "releaseDate" : 550713600,
-    "title" : "Folge 127: und die Teufelsbucht",
-    "upc" : "886446832463"
-  },
-  {
-    "albumID" : "1406274389",
-    "artist" : "Fünf Freunde",
-    "duration" : 3293.8419999999996,
-    "releaseDate" : 557971200,
-    "title" : "Folge 128: und der unsichtbare Feind",
-    "upc" : "886446954943"
   },
   {
     "albumID" : "1438531017",
@@ -1096,14 +936,6 @@
     "upc" : "886447439845"
   },
   {
-    "albumID" : "1462260896",
-    "artist" : "Fünf Freunde",
-    "duration" : 3312.839,
-    "releaseDate" : 583372800,
-    "title" : "Folge 132: und das Rätsel um den Stromausfall",
-    "upc" : "886447441978"
-  },
-  {
     "albumID" : "1476377929",
     "artist" : "Fünf Freunde",
     "duration" : 3673.7989999999995,
@@ -1120,36 +952,12 @@
     "upc" : "886447870525"
   },
   {
-    "albumID" : "1486745040",
-    "artist" : "Fünf Freunde",
-    "duration" : 3531.666,
-    "releaseDate" : 602121600,
-    "title" : "Folge 135: und die verdächtige Ölfirma",
-    "upc" : "886448053972"
-  },
-  {
     "albumID" : "1496579888",
     "artist" : "Fünf Freunde",
     "duration" : 3495.773,
     "releaseDate" : 607564800,
     "title" : "Folge 136: Fünf Freunde und der wütende Stier",
     "upc" : "886448054009"
-  },
-  {
-    "albumID" : "1513394768",
-    "artist" : "Fünf Freunde",
-    "duration" : 3635.7630000000004,
-    "releaseDate" : 613008000,
-    "title" : "Folge 137: und der Schokoladendieb von London",
-    "upc" : "886448109389"
-  },
-  {
-    "albumID" : "1527753025",
-    "artist" : "Fünf Freunde",
-    "duration" : 3709.1180000000004,
-    "releaseDate" : 620870400,
-    "title" : "Folge 138: am Ende der Welt",
-    "upc" : "886448109402"
   },
   {
     "albumID" : "1538124716",
@@ -1174,14 +982,6 @@
     "releaseDate" : 637804800,
     "title" : "141/und das rätselhafte Spukhaus",
     "upc" : "886448779728"
-  },
-  {
-    "albumID" : "1564073760",
-    "artist" : "Fünf Freunde",
-    "duration" : 3558.759,
-    "releaseDate" : 643248000,
-    "title" : "Folge 142: Fünf Freunde und der mysteriöse Dieb",
-    "upc" : "886449071142"
   },
   {
     "albumID" : "1573253958",
