@@ -1,13 +1,5 @@
 [
   {
-    "albumID" : "1471399524",
-    "artist" : "Die Playmos",
-    "duration" : 3045.4970000000003,
-    "releaseDate" : 212889600,
-    "title" : "Folge 3: Die Dinos kommen (Das Original Playmobil Hörspiel)",
-    "upc" : "4260229662748"
-  },
-  {
     "albumID" : "1521455022",
     "artist" : "Die Playmos",
     "duration" : 3234.000000000001,
@@ -32,14 +24,6 @@
     "upc" : "4260229661437"
   },
   {
-    "albumID" : "1471400627",
-    "artist" : "Die Playmos",
-    "duration" : 3077.455,
-    "releaseDate" : 226022400,
-    "title" : "Folge 4: Chaos in der Herrmannstrasse (Das Original Playmobil Hörspiel)",
-    "upc" : "4260229662755"
-  },
-  {
     "albumID" : "1471401556",
     "artist" : "Die Playmos",
     "duration" : 3216.3469999999998,
@@ -48,20 +32,20 @@
     "upc" : "4260229662762"
   },
   {
-    "albumID" : "1471402499",
-    "artist" : "Die Playmos",
-    "duration" : 3104.48,
-    "releaseDate" : 236563200,
-    "title" : "Folge 7: Das große Spiel (Das Original Playmobil Hörspiel)",
-    "upc" : "4260229662786"
-  },
-  {
     "albumID" : "1471402166",
     "artist" : "Die Playmos",
     "duration" : 3357.013,
     "releaseDate" : 236563200,
     "title" : "Folge 6: Abenteuer auf dem Eichenhof (Das Original Playmobil Hörspiel)",
     "upc" : "4260229662779"
+  },
+  {
+    "albumID" : "1471402499",
+    "artist" : "Die Playmos",
+    "duration" : 3104.48,
+    "releaseDate" : 236563200,
+    "title" : "Folge 7: Das große Spiel (Das Original Playmobil Hörspiel)",
+    "upc" : "4260229662786"
   },
   {
     "albumID" : "1471403849",
@@ -232,14 +216,6 @@
     "upc" : "4260229662960"
   },
   {
-    "albumID" : "1462643195",
-    "artist" : "Die Playmos",
-    "duration" : 3350.9969999999994,
-    "releaseDate" : 352252800,
-    "title" : "Folge 28: Den Bankräubern auf der Spur (Das Original Playmobil Hörspiel)",
-    "upc" : "4260229662991"
-  },
-  {
     "albumID" : "1462643021",
     "artist" : "Die Playmos",
     "duration" : 3619.000000000001,
@@ -264,14 +240,6 @@
     "upc" : "4260229663547"
   },
   {
-    "albumID" : "1462643906",
-    "artist" : "Die Playmos",
-    "duration" : 3255.002,
-    "releaseDate" : 370742400,
-    "title" : "Folge 31: Nächtlicher Angriff der Mega Masters (Das Original Playmobil Hörspiel)",
-    "upc" : "4260229663011"
-  },
-  {
     "albumID" : "1462644035",
     "artist" : "Die Playmos",
     "duration" : 3492.0000000000005,
@@ -286,14 +254,6 @@
     "releaseDate" : 370742400,
     "title" : "Folgen 3, 17, 30: Die große Dino-Box (Das Original Playmobil-Hörspiel)",
     "upc" : "4260229663370"
-  },
-  {
-    "albumID" : "1462644552",
-    "artist" : "Die Playmos",
-    "duration" : 3626.0000000000005,
-    "releaseDate" : 383788800,
-    "title" : "Folge 34: Der Ball im Prinzessinnen-Schloss (Das Original Playmobil Hörspiel)",
-    "upc" : "4260229663042"
   },
   {
     "albumID" : "1462644510",
@@ -344,14 +304,6 @@
     "upc" : "4260229663080"
   },
   {
-    "albumID" : "1462645094",
-    "artist" : "Die Playmos",
-    "duration" : 3269.9999999999995,
-    "releaseDate" : 415324800,
-    "title" : "Folge 39: Mit der Küstenwache auf Verbrecherjagd (Das Original Playmobil Hörspiel)",
-    "upc" : "4260229663097"
-  },
-  {
     "albumID" : "1462645528",
     "artist" : "Die Playmos",
     "duration" : 3805,
@@ -384,28 +336,12 @@
     "upc" : "4260229663356"
   },
   {
-    "albumID" : "1471412151",
-    "artist" : "Die Playmos",
-    "duration" : 3482.0010000000007,
-    "releaseDate" : 433814400,
-    "title" : "Folge 43: Wirbel um den Weihnachtsmann (Das Original Playmobil Hörspiel)",
-    "upc" : "4260229663134"
-  },
-  {
     "albumID" : "1523986029",
     "artist" : "Die Playmos",
     "duration" : 1132.517,
     "releaseDate" : 441763200,
     "title" : "Im Land der Riesen (Hörspiel)",
     "upc" : "4260229662458"
-  },
-  {
-    "albumID" : "1471413092",
-    "artist" : "Die Playmos",
-    "duration" : 3292.0000000000005,
-    "releaseDate" : 446860800,
-    "title" : "Folge 44: Spezialeinsatz im Freizeitpark (Das Original Playmobil Hörspiel)",
-    "upc" : "4260229663141"
   },
   {
     "albumID" : "1471413980",
@@ -424,14 +360,6 @@
     "upc" : "4260229663165"
   },
   {
-    "albumID" : "1471398240",
-    "artist" : "Die Playmos",
-    "duration" : 3662.9990000000003,
-    "releaseDate" : 464832000,
-    "title" : "Folge 47: Flucht vor den Piraten (Das Original Playmobil Hörspiel)",
-    "upc" : "4260229663172"
-  },
-  {
     "albumID" : "1471399367",
     "artist" : "Die Playmos",
     "duration" : 3192.0000000000005,
@@ -440,20 +368,20 @@
     "upc" : "4260229663189"
   },
   {
+    "albumID" : "1471398240",
+    "artist" : "Die Playmos",
+    "duration" : 3662.9990000000003,
+    "releaseDate" : 464832000,
+    "title" : "Folge 47: Flucht vor den Piraten (Das Original Playmobil Hörspiel)",
+    "upc" : "4260229663172"
+  },
+  {
     "albumID" : "1471410580",
     "artist" : "Die Playmos",
     "duration" : 10023.998000000001,
     "releaseDate" : 467251200,
     "title" : "Die große Polizei-Box, Folgen 28, 41 & 44: Den Bankräubern auf der Spur / Sondereinsatz Geldtransport / Spezialeinsatz im Freizeitpark (Das Original Playmobil Hörspiel)",
     "upc" : "4260229663349"
-  },
-  {
-    "albumID" : "1471397097",
-    "artist" : "Die Playmos",
-    "duration" : 3377.9990000000003,
-    "releaseDate" : 477532800,
-    "title" : "Folge 49: Sabotage auf dem Reiterhof (Das Original Playmobil Hörspiel)",
-    "upc" : "4260229663196"
   },
   {
     "albumID" : "1471397348",
@@ -494,14 +422,6 @@
     "releaseDate" : 498700800,
     "title" : "Die große Drachen-Box, Folgen 13, 38, 50: Das Licht aus dem Drachenland / Das Geheimnis des Drachenfeuers / Die heiße Spur der Drachen (Das Original Playmobil Hörspiel)",
     "upc" : "4260229663363"
-  },
-  {
-    "albumID" : "1471390328",
-    "artist" : "Die Playmos",
-    "duration" : 3268.002,
-    "releaseDate" : 507772800,
-    "title" : "Folge 54: Angriff der Eispiraten (Das Original Playmobil Hörspiel)",
-    "upc" : "4260229663240"
   },
   {
     "albumID" : "1471391702",
@@ -552,14 +472,6 @@
     "upc" : "4260229663288"
   },
   {
-    "albumID" : "1471383478",
-    "artist" : "Die Playmos",
-    "duration" : 2979.0039999999995,
-    "releaseDate" : 530150400,
-    "title" : "Folge 59: Auf Verfolgungsjagd mit den Top Agents (Das Original Playmobil Hörspiel)",
-    "upc" : "4260229663295"
-  },
-  {
     "albumID" : "1471402801",
     "artist" : "Die Playmos",
     "duration" : 10048.341999999999,
@@ -576,52 +488,12 @@
     "upc" : "4260229662243"
   },
   {
-    "albumID" : "1337817987",
-    "artist" : "Die Playmos",
-    "duration" : 3298,
-    "releaseDate" : 541036800,
-    "title" : "Folge 60: Die magische Fußballweltmeisterschaft",
-    "upc" : "4260229662304"
-  },
-  {
     "albumID" : "1475619689",
     "artist" : "Die Playmos",
     "duration" : 9779.480999999998,
     "releaseDate" : 548294400,
     "title" : "Die grosse Fussball-Box: Das grosse Spiel / Im Fussballfieber / Die magische Fussballmeisterschaft",
     "upc" : "4260229663493"
-  },
-  {
-    "albumID" : "1382203368",
-    "artist" : "Die Playmos",
-    "duration" : 3100.5,
-    "releaseDate" : 548899200,
-    "title" : "Folge 61: Aufregende Abenteuer mit den Explorers",
-    "upc" : "4260229662373"
-  },
-  {
-    "albumID" : "1435900182",
-    "artist" : "Die Playmos",
-    "duration" : 3052.9999999999995,
-    "releaseDate" : 554947200,
-    "title" : "Folge 62: Der falsche Feuerwehrmann (Das Original Playmobil Hörspiel)",
-    "upc" : "4260229662540"
-  },
-  {
-    "albumID" : "1435880987",
-    "artist" : "Die Playmos",
-    "duration" : 3141,
-    "releaseDate" : 559180800,
-    "title" : "Folge 63: Der verschwundene Kristall",
-    "upc" : "4260229662557"
-  },
-  {
-    "albumID" : "1438509162",
-    "artist" : "Die Playmos",
-    "duration" : 2883.9999999999995,
-    "releaseDate" : 562809600,
-    "title" : "Folge 64: Leben auf dem Mars",
-    "upc" : "4260229662564"
   },
   {
     "albumID" : "1471385170",
@@ -632,44 +504,12 @@
     "upc" : "4260229663394"
   },
   {
-    "albumID" : "1451716679",
-    "artist" : "Die Playmos",
-    "duration" : 3162.9999999999995,
-    "releaseDate" : 572486400,
-    "title" : "Folge 65: Die Top Agents auf hoher See",
-    "upc" : "4260229662618"
-  },
-  {
-    "albumID" : "1457810846",
-    "artist" : "Die Playmos",
-    "duration" : 3624.998999999999,
-    "releaseDate" : 576115200,
-    "title" : "Folge 66: Detektive auf dem Campingplatz (Das Original Playmobil Hörspiel)",
-    "upc" : "4260229662625"
-  },
-  {
     "albumID" : "1458466092",
     "artist" : "Die Playmos",
     "duration" : 362,
     "releaseDate" : 578707200,
     "title" : "Brief von Captain Tolle",
     "upc" : "4260229662731"
-  },
-  {
-    "albumID" : "1464514586",
-    "artist" : "Die Playmos",
-    "duration" : 3522.9960000000005,
-    "releaseDate" : 582163200,
-    "title" : "Folge 67: Viele Piraten und eine Schatzkarte",
-    "upc" : "4260229662649"
-  },
-  {
-    "albumID" : "1473456902",
-    "artist" : "Die Playmos",
-    "duration" : 3285,
-    "releaseDate" : 587001600,
-    "title" : "Folge 68: Ein Fall für das Sondereinsatzkommando (Das Original Playmobil Hörspiel)",
-    "upc" : "4260229663615"
   },
   {
     "albumID" : "1482394231",
@@ -696,14 +536,6 @@
     "upc" : "4260229664223"
   },
   {
-    "albumID" : "1508127813",
-    "artist" : "Die Playmos",
-    "duration" : 3469.002999999999,
-    "releaseDate" : 611798400,
-    "title" : "Folge 71: Das dramatische Finale (Das Original Playmobil Hörspiel)",
-    "upc" : "4260229663905"
-  },
-  {
     "albumID" : "1517172280",
     "artist" : "Die Playmos",
     "duration" : 9518.004,
@@ -728,14 +560,6 @@
     "upc" : "4260229664162"
   },
   {
-    "albumID" : "1553066906",
-    "artist" : "Die Playmos",
-    "duration" : 3299.998,
-    "releaseDate" : 635904000,
-    "title" : "Folge 74: Falsches Spiel im Polizeigefängnis (Das Original Playmobil Hörspiel)",
-    "upc" : "4260229664360"
-  },
-  {
     "albumID" : "1558800313",
     "artist" : "Die Playmos",
     "duration" : 10226.99899999999,
@@ -744,36 +568,12 @@
     "upc" : "4260229664483"
   },
   {
-    "albumID" : "1568279735",
-    "artist" : "Die Playmos",
-    "duration" : 3353.0009999999997,
-    "releaseDate" : 643248000,
-    "title" : "Folge 75: Dem Betrüger auf der Spur (Das Original Playmobil Hörspiel)",
-    "upc" : "4066004219387"
-  },
-  {
-    "albumID" : "1581088953",
-    "artist" : "Die Playmos",
-    "duration" : 3462.9969999999994,
-    "releaseDate" : 654048000,
-    "title" : "Folge 76: Auf Einsatz mit der Galaxy Police (Das Original Playmobil Hörspiel)",
-    "upc" : "4260229664636"
-  },
-  {
     "albumID" : "1590151789",
     "artist" : "Die Playmos",
     "duration" : 3385.9779999999996,
     "releaseDate" : 657763200,
     "title" : "Folge 77: Schmuggler im Hafen",
     "upc" : "4066004387864"
-  },
-  {
-    "albumID" : "1610365395",
-    "artist" : "Die Playmos",
-    "duration" : 3591.999999999999,
-    "releaseDate" : 668563200,
-    "title" : "Folge 78: Auf Mission mit dem SWAT-Team (Das Original Playmobil Hörspiel)",
-    "upc" : "4260229664827"
   },
   {
     "albumID" : "1628384681",
