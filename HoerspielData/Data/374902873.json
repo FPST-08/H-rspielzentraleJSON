@@ -1,13 +1,5 @@
 [
   {
-    "albumID" : "1029953929",
-    "artist" : "Teufelskicker",
-    "duration" : 3055.386,
-    "releaseDate" : 149731200,
-    "title" : "Folge 1: Moritz macht das Spiel",
-    "upc" : "886445167016"
-  },
-  {
     "albumID" : "1029947034",
     "artist" : "Teufelskicker",
     "duration" : 2909.3869999999997,
@@ -64,20 +56,20 @@
     "upc" : "886445239904"
   },
   {
-    "albumID" : "1029957270",
-    "artist" : "Teufelskicker",
-    "duration" : 4205.522000000001,
-    "releaseDate" : 184809600,
-    "title" : "Folge 46: Eigentor für Moritz!",
-    "upc" : "886445284003"
-  },
-  {
     "albumID" : "1029945921",
     "artist" : "Teufelskicker",
     "duration" : 3285.5879999999993,
     "releaseDate" : 184809600,
     "title" : "Folge 8: Doppelter Einsatz für Moritz!",
     "upc" : "886445239911"
+  },
+  {
+    "albumID" : "1029957270",
+    "artist" : "Teufelskicker",
+    "duration" : 4205.522000000001,
+    "releaseDate" : 184809600,
+    "title" : "Folge 46: Eigentor für Moritz!",
+    "upc" : "886445284003"
   },
   {
     "albumID" : "1029945689",
@@ -168,28 +160,12 @@
     "upc" : "886445240399"
   },
   {
-    "albumID" : "1029957382",
-    "artist" : "Teufelskicker",
-    "duration" : 4014.73,
-    "releaseDate" : 287625600,
-    "title" : "Folge 20: Doping im Spiel?",
-    "upc" : "886445240443"
-  },
-  {
     "albumID" : "1029957893",
     "artist" : "Teufelskicker",
     "duration" : 3273.5600000000004,
     "releaseDate" : 290044800,
     "title" : "Folge 21: Moritz startet durch!",
     "upc" : "886445240504"
-  },
-  {
-    "albumID" : "1029949102",
-    "artist" : "Teufelskicker",
-    "duration" : 4544.291000000002,
-    "releaseDate" : 297907200,
-    "title" : "Folge 22: Die Teufels-Kocher!",
-    "upc" : "886445240535"
   },
   {
     "albumID" : "1029946079",
@@ -264,30 +240,6 @@
     "upc" : "886445241006"
   },
   {
-    "albumID" : "1029953721",
-    "artist" : "Teufelskicker",
-    "duration" : 3758.012,
-    "releaseDate" : 339033600,
-    "title" : "Folge 32: Sammelfieber!",
-    "upc" : "886445241044"
-  },
-  {
-    "albumID" : "1029950601",
-    "artist" : "Teufelskicker",
-    "duration" : 3026.123,
-    "releaseDate" : 343872000,
-    "title" : "Folge 33: Falsche Pfiffe!",
-    "upc" : "886445241075"
-  },
-  {
-    "albumID" : "1029957023",
-    "artist" : "Teufelskicker",
-    "duration" : 4127.7080000000005,
-    "releaseDate" : 350524800,
-    "title" : "Folge 34: Freundschaft in Gefahr!",
-    "upc" : "886445241112"
-  },
-  {
     "albumID" : "1029955068",
     "artist" : "Teufelskicker",
     "duration" : 4431.851999999999,
@@ -302,14 +254,6 @@
     "releaseDate" : 358992000,
     "title" : "Folge 36: Geisterspiel!",
     "upc" : "886445241198"
-  },
-  {
-    "albumID" : "1029961977",
-    "artist" : "Teufelskicker",
-    "duration" : 4271.88,
-    "releaseDate" : 365040000,
-    "title" : "Folge 37: Der Super-Coach!",
-    "upc" : "886445241204"
   },
   {
     "albumID" : "1029951946",
@@ -344,22 +288,6 @@
     "upc" : "886445283952"
   },
   {
-    "albumID" : "1029958447",
-    "artist" : "Teufelskicker",
-    "duration" : 4013.1859999999992,
-    "releaseDate" : 385603200,
-    "title" : "Folge 42: König der Keeper!",
-    "upc" : "886445283969"
-  },
-  {
-    "albumID" : "1029955596",
-    "artist" : "Teufelskicker",
-    "duration" : 4303.509000000002,
-    "releaseDate" : 389836800,
-    "title" : "Folge 43: Die Beach-Kings",
-    "upc" : "886445283976"
-  },
-  {
     "albumID" : "1029955069",
     "artist" : "Teufelskicker",
     "duration" : 3901.0009999999993,
@@ -374,14 +302,6 @@
     "releaseDate" : 399513600,
     "title" : "Folge 45: Mission TK!",
     "upc" : "886445283990"
-  },
-  {
-    "albumID" : "1057596365",
-    "artist" : "Teufelskicker",
-    "duration" : 4412.801,
-    "releaseDate" : 406771200,
-    "title" : "Folge 47: 13:0 für die Teufelskicker!",
-    "upc" : "886445317527"
   },
   {
     "albumID" : "1057601758",
@@ -416,14 +336,6 @@
     "upc" : "886445317596"
   },
   {
-    "albumID" : "1057626178",
-    "artist" : "Teufelskicker",
-    "duration" : 4106.242,
-    "releaseDate" : 433382400,
-    "title" : "Folge 52: Hallen-Duell!",
-    "upc" : "886445317602"
-  },
-  {
     "albumID" : "1057629025",
     "artist" : "Teufelskicker",
     "duration" : 4232.626,
@@ -456,14 +368,6 @@
     "upc" : "886445317657"
   },
   {
-    "albumID" : "1057636146",
-    "artist" : "Teufelskicker",
-    "duration" : 4279.119999999999,
-    "releaseDate" : 461808000,
-    "title" : "Folge 57: Quiz-Duell!",
-    "upc" : "886445317664"
-  },
-  {
     "albumID" : "1057641279",
     "artist" : "Teufelskicker",
     "duration" : 4558.745000000001,
@@ -480,44 +384,12 @@
     "upc" : "886445550474"
   },
   {
-    "albumID" : "1068418624",
-    "artist" : "Teufelskicker",
-    "duration" : 3990.0390000000007,
-    "releaseDate" : 477532800,
-    "title" : "Folge 60: Ein heißer Ritt!",
-    "upc" : "886444278935"
-  },
-  {
     "albumID" : "1082346453",
     "artist" : "Teufelskicker",
     "duration" : 4490.986000000001,
     "releaseDate" : 482371200,
     "title" : "Folge 61: Das Abstiegsgespenst!",
     "upc" : "886445629040"
-  },
-  {
-    "albumID" : "1099781579",
-    "artist" : "Teufelskicker",
-    "duration" : 4366.069,
-    "releaseDate" : 486604800,
-    "title" : "Folge 62: Das Wunder von Bert!",
-    "upc" : "886445629064"
-  },
-  {
-    "albumID" : "1117054118",
-    "artist" : "Teufelskicker",
-    "duration" : 4584.897,
-    "releaseDate" : 495072000,
-    "title" : "Folge 63: Sauber gespielt!",
-    "upc" : "886445629071"
-  },
-  {
-    "albumID" : "1148043451",
-    "artist" : "Teufelskicker",
-    "duration" : 8320.574999999999,
-    "releaseDate" : 501120000,
-    "title" : "Folge 64: Punktspiel oder Popstar?",
-    "upc" : "886445629088"
   },
   {
     "albumID" : "1172418152",
@@ -560,22 +432,6 @@
     "upc" : "886445629149"
   },
   {
-    "albumID" : "1333519765",
-    "artist" : "Teufelskicker",
-    "duration" : 4212.236999999999,
-    "releaseDate" : 538617600,
-    "title" : "Folge 70: Duell bei Flutlicht!",
-    "upc" : "886445629156"
-  },
-  {
-    "albumID" : "1347943061",
-    "artist" : "Teufelskicker",
-    "duration" : 4595.627,
-    "releaseDate" : 542246400,
-    "title" : "Folge 71: Die Rückkehr der Beach Kings!",
-    "upc" : "886446538945"
-  },
-  {
     "albumID" : "1398250787",
     "artist" : "Teufelskicker",
     "duration" : 461.427,
@@ -590,14 +446,6 @@
     "releaseDate" : 549504000,
     "title" : "WM-Wissen: Abseits!",
     "upc" : "886447154984"
-  },
-  {
-    "albumID" : "1391074728",
-    "artist" : "Teufelskicker",
-    "duration" : 4902.3330000000005,
-    "releaseDate" : 550108800,
-    "title" : "Folge 72: Freundschaftsspiel!",
-    "upc" : "886447142264"
   },
   {
     "albumID" : "1398237320",
@@ -680,14 +528,6 @@
     "upc" : "886446538976"
   },
   {
-    "albumID" : "1445660934",
-    "artist" : "Teufelskicker",
-    "duration" : 4489.9310000000005,
-    "releaseDate" : 570067200,
-    "title" : "Folge 75: Kampf der Maskottchen!",
-    "upc" : "886446538983"
-  },
-  {
     "albumID" : "1454519040",
     "artist" : "Teufelskicker",
     "duration" : 4630.091000000001,
@@ -720,30 +560,6 @@
     "upc" : "886446539027"
   },
   {
-    "albumID" : "1487651539",
-    "artist" : "Teufelskicker",
-    "duration" : 4706.225,
-    "releaseDate" : 597283200,
-    "title" : "Folge 80: Der Kommerzclub!",
-    "upc" : "886446539034"
-  },
-  {
-    "albumID" : "1492295259",
-    "artist" : "Teufelskicker",
-    "duration" : 4561.600000000001,
-    "releaseDate" : 601516800,
-    "title" : "Folge 81: Gras fressen!",
-    "upc" : "886447868751"
-  },
-  {
-    "albumID" : "1501683197",
-    "artist" : "Teufelskicker",
-    "duration" : 4494.625999999999,
-    "releaseDate" : 606960000,
-    "title" : "Folge 82: Das Triple!",
-    "upc" : "886447868768"
-  },
-  {
     "albumID" : "1512230105",
     "artist" : "Teufelskicker",
     "duration" : 4722.454000000001,
@@ -766,22 +582,6 @@
     "releaseDate" : 624499200,
     "title" : "Folge 85: Der Strafraum-Streuner!",
     "upc" : "886447868799"
-  },
-  {
-    "albumID" : "1539405079",
-    "artist" : "Teufelskicker",
-    "duration" : 4588.375999999999,
-    "releaseDate" : 628732800,
-    "title" : "Folge 86: Blau-Gelb in Bayern!",
-    "upc" : "886448297888"
-  },
-  {
-    "albumID" : "1547807482",
-    "artist" : "Teufelskicker",
-    "duration" : 4580.254,
-    "releaseDate" : 633571200,
-    "title" : "Folge 87: Viva Futebol!",
-    "upc" : "886448297895"
   },
   {
     "albumID" : "1547955136",
