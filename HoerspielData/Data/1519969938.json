@@ -1,26 +1,3 @@
 [
-  {
-    "albumID" : "1753229596",
-    "artist" : "Honigsüß und Mausetot",
-    "duration" : 3704.8699999999985,
-    "releaseDate" : 741830400,
-    "title" : "Folge 1: Der Tote im Stall",
-    "upc" : "4260434325766"
-  },
-  {
-    "albumID" : "1753229344",
-    "artist" : "Honigsüß und Mausetot",
-    "duration" : 4271.954999999998,
-    "releaseDate" : 741830400,
-    "title" : "Folge 2: Gegen den Strom",
-    "upc" : "4260434325773"
-  },
-  {
-    "albumID" : "1747647087",
-    "artist" : "Honigsüß und Mausetot",
-    "duration" : 3920.773999999998,
-    "releaseDate" : 741830400,
-    "title" : "Folge 3: Schnee von Gestern",
-    "upc" : "4260434321782"
-  }
+
 ]
