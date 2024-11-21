@@ -1,21 +1,5 @@
 [
   {
-    "albumID" : "1092525638",
-    "artist" : "Die drei ??? Kids",
-    "duration" : 4202.509000000001,
-    "releaseDate" : 258595200,
-    "title" : "Folge 1: Panik im Paradies",
-    "upc" : "886445747553"
-  },
-  {
-    "albumID" : "1092534740",
-    "artist" : "Die drei ??? Kids",
-    "duration" : 4027.4790000000016,
-    "releaseDate" : 258681600,
-    "title" : "Folge 2: Radio Rocky Beach",
-    "upc" : "886445747560"
-  },
-  {
     "albumID" : "1092525866",
     "artist" : "Die drei ??? Kids",
     "duration" : 3925.121,
@@ -208,14 +192,6 @@
     "upc" : "886445749304"
   },
   {
-    "albumID" : "1110089219",
-    "artist" : "Die drei ??? Kids",
-    "duration" : 4012.4779999999996,
-    "releaseDate" : 355968000,
-    "title" : "Folge 27: Die Schokofalle",
-    "upc" : "886445749991"
-  },
-  {
     "albumID" : "1110089816",
     "artist" : "Die drei ??? Kids",
     "duration" : 3813.0969999999998,
@@ -256,28 +232,12 @@
     "upc" : "886445750157"
   },
   {
-    "albumID" : "1112966058",
-    "artist" : "Die drei ??? Kids",
-    "duration" : 4792.935000000001,
-    "releaseDate" : 389836800,
-    "title" : "Folge 33: Nacht im Kerker",
-    "upc" : "886445750195"
-  },
-  {
     "albumID" : "1112966083",
     "artist" : "Die drei ??? Kids",
     "duration" : 3797.3600000000006,
     "releaseDate" : 399513600,
     "title" : "Folge 34: Falsches Gold",
     "upc" : "886445753356"
-  },
-  {
-    "albumID" : "1112972954",
-    "artist" : "Die drei ??? Kids",
-    "duration" : 4601.413,
-    "releaseDate" : 402537600,
-    "title" : "Folge 35: Im Wilden Westen",
-    "upc" : "886445753363"
   },
   {
     "albumID" : "1112988770",
@@ -312,14 +272,6 @@
     "upc" : "886445753509"
   },
   {
-    "albumID" : "1115104534",
-    "artist" : "Die drei ??? Kids",
-    "duration" : 4787.437,
-    "releaseDate" : 430963200,
-    "title" : "Folge 40: Brennendes Eis",
-    "upc" : "886445753530"
-  },
-  {
     "albumID" : "1134537437",
     "artist" : "Die drei ??? Kids",
     "duration" : 3696.559,
@@ -336,28 +288,12 @@
     "upc" : "886445753622"
   },
   {
-    "albumID" : "1134540248",
-    "artist" : "Die drei ??? Kids",
-    "duration" : 4472.962,
-    "releaseDate" : 447292800,
-    "title" : "Folge 43: Duell der Ritter",
-    "upc" : "886445753684"
-  },
-  {
     "albumID" : "1134543461",
     "artist" : "Die drei ??? Kids",
     "duration" : 4289.481,
     "releaseDate" : 453340800,
     "title" : "Folge 44: Monster in Rocky Beach",
     "upc" : "886445756616"
-  },
-  {
-    "albumID" : "1134564507",
-    "artist" : "Die drei ??? Kids",
-    "duration" : 4791.732000000002,
-    "releaseDate" : 458179200,
-    "title" : "Folge 45: Ein Fall für Superhelden",
-    "upc" : "886445756685"
   },
   {
     "albumID" : "1134546821",
@@ -400,14 +336,6 @@
     "upc" : "886445758092"
   },
   {
-    "albumID" : "1098177344",
-    "artist" : "Die drei ??? Kids",
-    "duration" : 4374.295,
-    "releaseDate" : 484790400,
-    "title" : "Folge 51: Tatort Kletterpark",
-    "upc" : "886445362602"
-  },
-  {
     "albumID" : "1108467631",
     "artist" : "Die drei ??? Kids",
     "duration" : 4180.719,
@@ -448,30 +376,6 @@
     "upc" : "886445362664"
   },
   {
-    "albumID" : "1176893386",
-    "artist" : "Die drei ??? Kids",
-    "duration" : 3835.198,
-    "releaseDate" : 506563200,
-    "title" : "Folge 55: Der schwarze Joker",
-    "upc" : "886445362688"
-  },
-  {
-    "albumID" : "1193156639",
-    "artist" : "Die drei ??? Kids",
-    "duration" : 3864.718,
-    "releaseDate" : 510796800,
-    "title" : "Folge 56: Das Rätsel der Könige",
-    "upc" : "886445991888"
-  },
-  {
-    "albumID" : "1207844864",
-    "artist" : "Die drei ??? Kids",
-    "duration" : 4795.467,
-    "releaseDate" : 516844800,
-    "title" : "Folge 57: Der Weihnachtsdieb",
-    "upc" : "886445991895"
-  },
-  {
     "albumID" : "1207844655",
     "artist" : "Die drei ??? Kids",
     "duration" : 4308.7339999999995,
@@ -486,14 +390,6 @@
     "releaseDate" : 522892800,
     "title" : "Folge 59: Fußballhelden",
     "upc" : "886445991918"
-  },
-  {
-    "albumID" : "1257755625",
-    "artist" : "Die drei ??? Kids",
-    "duration" : 4224.732000000001,
-    "releaseDate" : 528336000,
-    "title" : "Folge 60: Gespensterjagd",
-    "upc" : "886445991932"
   },
   {
     "albumID" : "1281905742",
@@ -544,14 +440,6 @@
     "upc" : "886447023242"
   },
   {
-    "albumID" : "1406277822",
-    "artist" : "Die drei ??? Kids",
-    "duration" : 4550.307,
-    "releaseDate" : 559785600,
-    "title" : "Folge 66: Geheimnis im Meer",
-    "upc" : "886446602691"
-  },
-  {
     "albumID" : "1436948056",
     "artist" : "Die drei ??? Kids",
     "duration" : 4327.2930000000015,
@@ -576,22 +464,6 @@
     "upc" : "886447191736"
   },
   {
-    "albumID" : "1458535921",
-    "artist" : "Die drei ??? Kids",
-    "duration" : 4402.836,
-    "releaseDate" : 580953600,
-    "title" : "Folge 70: Aufbruch ins All",
-    "upc" : "886447660379"
-  },
-  {
-    "albumID" : "1463752980",
-    "artist" : "Die drei ??? Kids",
-    "duration" : 4871.1449999999995,
-    "releaseDate" : 585792000,
-    "title" : "Folge 71: Tatort Trampolin",
-    "upc" : "886447191750"
-  },
-  {
     "albumID" : "1477454609",
     "artist" : "Die drei ??? Kids",
     "duration" : 10419.412999999995,
@@ -608,76 +480,12 @@
     "upc" : "886447191774"
   },
   {
-    "albumID" : "1479539513",
-    "artist" : "Die drei ??? Kids",
-    "duration" : 4833.507999999999,
-    "releaseDate" : 595468800,
-    "title" : "Folge 73: Surfstrand in Gefahr",
-    "upc" : "886447191781"
-  },
-  {
-    "albumID" : "1488586881",
-    "artist" : "Die drei ??? Kids",
-    "duration" : 4196.375000000001,
-    "releaseDate" : 603331200,
-    "title" : "Folge 74: Das Schienen-Monster",
-    "upc" : "886447878507"
-  },
-  {
-    "albumID" : "1495018958",
-    "artist" : "Die drei ??? Kids",
-    "duration" : 4933.959000000001,
-    "releaseDate" : 608774400,
-    "title" : "Folge 75: Der Fußball-Roboter",
-    "upc" : "886447878514"
-  },
-  {
-    "albumID" : "1501322284",
-    "artist" : "Die drei ??? Kids",
-    "duration" : 4161.4259999999995,
-    "releaseDate" : 612403200,
-    "title" : "Folge 76: Blinde Passagiere",
-    "upc" : "886447878521"
-  },
-  {
-    "albumID" : "1515518227",
-    "artist" : "Die drei ??? Kids",
-    "duration" : 4020.84,
-    "releaseDate" : 617846400,
-    "title" : "Folge 77: Die Musikdiebe",
-    "upc" : "886447878538"
-  },
-  {
     "albumID" : "1524265516",
     "artist" : "Die drei ??? Kids",
     "duration" : 4286.682999999999,
     "releaseDate" : 622684800,
     "title" : "Folge 78: Schrottplatz in Gefahr",
     "upc" : "886447878552"
-  },
-  {
-    "albumID" : "1530167507",
-    "artist" : "Die drei ??? Kids",
-    "duration" : 3665.3699999999994,
-    "releaseDate" : 628128000,
-    "title" : "Folge 79: Achtung, Abenteuer!",
-    "upc" : "886447878569"
-  },
-  {
-    "albumID" : "1539905640",
-    "artist" : "Die drei ??? Kids",
-    "duration" : 4673.584,
-    "releaseDate" : 634176000,
-    "title" : "Folge 80: Gefährlicher Nebel",
-    "upc" : "886448759508"
-  },
-  {
-    "albumID" : "1549188908",
-    "artist" : "Die drei ??? Kids",
-    "duration" : 4185.973,
-    "releaseDate" : 637804800,
-    "title" : "Folge 81: Turbo-Rennen",
-    "upc" : "886448759515"
   },
   {
     "albumID" : "1559050329",
@@ -694,14 +502,6 @@
     "releaseDate" : 649296000,
     "title" : "Folge 83: Fußball-Diebe",
     "upc" : "886448759539"
-  },
-  {
-    "albumID" : "1576834649",
-    "artist" : "Die drei ??? Kids",
-    "duration" : 4909.172,
-    "releaseDate" : 654739200,
-    "title" : "Folge 84: Tatort Skater-Park",
-    "upc" : "886448759546"
   },
   {
     "albumID" : "1588735880",
