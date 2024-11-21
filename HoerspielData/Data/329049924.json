@@ -1,45 +1,5 @@
 [
   {
-    "albumID" : "1092514327",
-    "artist" : "Die drei !!!",
-    "duration" : 3994.9439999999995,
-    "releaseDate" : 273715200,
-    "title" : "Folge 1: Die Handy-Falle",
-    "upc" : "886445747584"
-  },
-  {
-    "albumID" : "1092515740",
-    "artist" : "Die drei !!!",
-    "duration" : 3746.108,
-    "releaseDate" : 273801600,
-    "title" : "Folge 2: Betrug beim Casting",
-    "upc" : "886445747669"
-  },
-  {
-    "albumID" : "1209124075",
-    "artist" : "Die drei !!!",
-    "duration" : 4737.772,
-    "releaseDate" : 273888000,
-    "title" : "003/Gefährlicher Chat",
-    "upc" : "886446379272"
-  },
-  {
-    "albumID" : "1092511873",
-    "artist" : "Die drei !!!",
-    "duration" : 4095.3439999999996,
-    "releaseDate" : 280972800,
-    "title" : "Folge 4: Gefahr im Fitness-Studio",
-    "upc" : "886445747843"
-  },
-  {
-    "albumID" : "1092511008",
-    "artist" : "Die drei !!!",
-    "duration" : 4284.867,
-    "releaseDate" : 287020800,
-    "title" : "Folge 5: Tatort Paris",
-    "upc" : "886445747911"
-  },
-  {
     "albumID" : "1092513608",
     "artist" : "Die drei !!!",
     "duration" : 4301.267999999999,
@@ -88,14 +48,6 @@
     "upc" : "886445748246"
   },
   {
-    "albumID" : "1092514591",
-    "artist" : "Die drei !!!",
-    "duration" : 3980.6949999999997,
-    "releaseDate" : 313027200,
-    "title" : "Folge 11: Kuss-Alarm!",
-    "upc" : "886445749564"
-  },
-  {
     "albumID" : "1092513320",
     "artist" : "Die drei !!!",
     "duration" : 4439.865000000002,
@@ -128,28 +80,12 @@
     "upc" : "886445750317"
   },
   {
-    "albumID" : "1092511006",
-    "artist" : "Die drei !!!",
-    "duration" : 4431.7789999999995,
-    "releaseDate" : 342662400,
-    "title" : "Folge 16: Total verknallt!",
-    "upc" : "886445750362"
-  },
-  {
     "albumID" : "1092513350",
     "artist" : "Die drei !!!",
     "duration" : 3893.866999999999,
     "releaseDate" : 348710400,
     "title" : "Folge 17: Gefährliche Fracht",
     "upc" : "886445750430"
-  },
-  {
-    "albumID" : "1092517089",
-    "artist" : "Die drei !!!",
-    "duration" : 4129.678000000001,
-    "releaseDate" : 352339200,
-    "title" : "Folge 18: VIP-Alarm",
-    "upc" : "886445750485"
   },
   {
     "albumID" : "1092519085",
@@ -200,14 +136,6 @@
     "upc" : "886445753295"
   },
   {
-    "albumID" : "1112964533",
-    "artist" : "Die drei !!!",
-    "duration" : 3763.8390000000004,
-    "releaseDate" : 389836800,
-    "title" : "Folge 25: Herzklopfen!",
-    "upc" : "886445753349"
-  },
-  {
     "albumID" : "1112970057",
     "artist" : "Die drei !!!",
     "duration" : 3510.3740000000003,
@@ -254,14 +182,6 @@
     "releaseDate" : 414633600,
     "title" : "Folge 30: Falsches Spiel im Internat",
     "upc" : "886445753752"
-  },
-  {
-    "albumID" : "1115102919",
-    "artist" : "Die drei !!!",
-    "duration" : 3376.3729999999996,
-    "releaseDate" : 420681600,
-    "title" : "Folge 31: Betrug in den Charts",
-    "upc" : "886445753783"
   },
   {
     "albumID" : "1134911349",
@@ -368,22 +288,6 @@
     "upc" : "886445756302"
   },
   {
-    "albumID" : "1106818024",
-    "artist" : "Die drei !!!",
-    "duration" : 3317.0509999999995,
-    "releaseDate" : 484790400,
-    "title" : "Folge 43: Nixensommer",
-    "upc" : "886445362855"
-  },
-  {
-    "albumID" : "1108470195",
-    "artist" : "Die drei !!!",
-    "duration" : 4272.177000000001,
-    "releaseDate" : 490838400,
-    "title" : "Folge 44: Skandal im Café Lomo!",
-    "upc" : "886445362862"
-  },
-  {
     "albumID" : "1128790459",
     "artist" : "Die drei !!!",
     "duration" : 3611.8019999999997,
@@ -406,14 +310,6 @@
     "releaseDate" : 499910400,
     "title" : "Adventskalender - Das Weihnachtsrätsel",
     "upc" : "886446331553"
-  },
-  {
-    "albumID" : "1149031659",
-    "artist" : "Die drei !!!",
-    "duration" : 4343.6539999999995,
-    "releaseDate" : 502329600,
-    "title" : "Folge 46: Filmstar in Gefahr",
-    "upc" : "886445362886"
   },
   {
     "albumID" : "1176632394",
@@ -440,44 +336,12 @@
     "upc" : "886445992397"
   },
   {
-    "albumID" : "1233618766",
-    "artist" : "Die drei !!!",
-    "duration" : 12368.869000000002,
-    "releaseDate" : 522892800,
-    "title" : "Folge 50: Freundinnen in Gefahr",
-    "upc" : "886445992403"
-  },
-  {
-    "albumID" : "1258076510",
-    "artist" : "Die drei !!!",
-    "duration" : 4454.426,
-    "releaseDate" : 528336000,
-    "title" : "Folge 51: Krimi-Dinner",
-    "upc" : "886445992410"
-  },
-  {
     "albumID" : "1281904815",
     "artist" : "Die drei !!!",
     "duration" : 4139.601000000001,
     "releaseDate" : 533779200,
     "title" : "Folge 52: Das rote Phantom",
     "upc" : "886445992427"
-  },
-  {
-    "albumID" : "1321929707",
-    "artist" : "Die drei !!!",
-    "duration" : 4389.414999999999,
-    "releaseDate" : 538012800,
-    "title" : "Folge 53: Hochzeitsfieber",
-    "upc" : "886446606835"
-  },
-  {
-    "albumID" : "1338791860",
-    "artist" : "Die drei !!!",
-    "duration" : 3961.376,
-    "releaseDate" : 541641600,
-    "title" : "Folge 54: Klappe und Action!",
-    "upc" : "886446957296"
   },
   {
     "albumID" : "1349185339",
@@ -496,36 +360,12 @@
     "upc" : "886446606866"
   },
   {
-    "albumID" : "1406273103",
-    "artist" : "Die drei !!!",
-    "duration" : 4254.267,
-    "releaseDate" : 559785600,
-    "title" : "Folge 57: Tatort Kreuzfahrt",
-    "upc" : "886446606873"
-  },
-  {
     "albumID" : "1436947816",
     "artist" : "Die drei !!!",
     "duration" : 4396.134,
     "releaseDate" : 565228800,
     "title" : "Folge 58: Gorilla in Not",
     "upc" : "886446606880"
-  },
-  {
-    "albumID" : "1441756765",
-    "artist" : "Die drei !!!",
-    "duration" : 4401.278,
-    "releaseDate" : 570067200,
-    "title" : "Folge 59: Das geheime Parfüm",
-    "upc" : "886447191651"
-  },
-  {
-    "albumID" : "1449570810",
-    "artist" : "Die drei !!!",
-    "duration" : 4132.586,
-    "releaseDate" : 574300800,
-    "title" : "Folge 60: Liebes-Chaos",
-    "upc" : "886447191668"
   },
   {
     "albumID" : "1458535435",
@@ -568,28 +408,12 @@
     "upc" : "886447191699"
   },
   {
-    "albumID" : "1479540897",
-    "artist" : "Die drei !!!",
-    "duration" : 4361.518999999999,
-    "releaseDate" : 597283200,
-    "title" : "Folge 64: Der Graffiti-Code",
-    "upc" : "886447191712"
-  },
-  {
     "albumID" : "1488586003",
     "artist" : "Die drei !!!",
     "duration" : 4324.920000000001,
     "releaseDate" : 600912000,
     "title" : "Folge 65: Heuler in Not",
     "upc" : "886447878576"
-  },
-  {
-    "albumID" : "1494908548",
-    "artist" : "Die drei !!!",
-    "duration" : 4388.307,
-    "releaseDate" : 605145600,
-    "title" : "Folge 66: Tanz der Herzen",
-    "upc" : "886447878583"
   },
   {
     "albumID" : "1501321693",
@@ -624,28 +448,12 @@
     "upc" : "886447878613"
   },
   {
-    "albumID" : "1530155559",
-    "artist" : "Die drei !!!",
-    "duration" : 4450.612000000001,
-    "releaseDate" : 628128000,
-    "title" : "Folge 70: Gefährliches Spiel",
-    "upc" : "886447878620"
-  },
-  {
     "albumID" : "1539905615",
     "artist" : "Die drei !!!",
     "duration" : 4660.985000000001,
     "releaseDate" : 633571200,
     "title" : "Folge 71: Gefahr in den Ruinen",
     "upc" : "886448727330"
-  },
-  {
-    "albumID" : "1549187633",
-    "artist" : "Die drei !!!",
-    "duration" : 4437.56,
-    "releaseDate" : 637804800,
-    "title" : "Folge 72: Kuss der Meerjungfrau",
-    "upc" : "886448727347"
   },
   {
     "albumID" : "1557642309",
@@ -686,14 +494,6 @@
     "releaseDate" : 655948800,
     "title" : "Adventskalender/Die Marzipan-Mission",
     "upc" : "886449601400"
-  },
-  {
-    "albumID" : "1586835042",
-    "artist" : "Die drei !!!",
-    "duration" : 5064.014,
-    "releaseDate" : 660787200,
-    "title" : "Folge 76: #Falscher Ruhm",
-    "upc" : "886448727392"
   },
   {
     "albumID" : "1598588546",
