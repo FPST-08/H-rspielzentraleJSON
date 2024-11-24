@@ -24,14 +24,6 @@
     "upc" : "4260507194862"
   },
   {
-    "albumID" : "1743776959",
-    "artist" : "Heff Der Chef",
-    "duration" : 2345.1530000000002,
-    "releaseDate" : 740620800,
-    "title" : "Folge 28: Die Grippewelle",
-    "upc" : "4260507195258"
-  },
-  {
     "albumID" : "1751265661",
     "artist" : "Heff Der Chef",
     "duration" : 2182.623,
@@ -54,6 +46,14 @@
     "releaseDate" : 746668800,
     "title" : "Folge 31: Mitarbeiter des Monats",
     "upc" : "4260507197894"
+  },
+  {
+    "albumID" : "1771458770",
+    "artist" : "Heff Der Chef",
+    "duration" : 2299.3119999999994,
+    "releaseDate" : 752112000,
+    "title" : "Folge 32: Teufelszeug",
+    "upc" : "4260507199300"
   },
   {
     "albumID" : "1776657857",
