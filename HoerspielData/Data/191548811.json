@@ -736,6 +736,14 @@
     "upc" : "886445641073"
   },
   {
+    "albumID" : "1148961615",
+    "artist" : "TKKG",
+    "duration" : 3952.692,
+    "releaseDate" : 486604800,
+    "title" : "Folge 197: Bei Anpfiff Übergabe",
+    "upc" : "886446058665"
+  },
+  {
     "albumID" : "1145292244",
     "artist" : "TKKG",
     "duration" : 3528.8670000000006,
@@ -782,14 +790,6 @@
     "releaseDate" : 590889600,
     "title" : "Folge 211: Geiselnahme im Villenviertel",
     "upc" : "886447989760"
-  },
-  {
-    "albumID" : "1521299226",
-    "artist" : "TKKG",
-    "duration" : 4095.8399999999997,
-    "releaseDate" : 617241600,
-    "title" : "Folge 215: Verbrechen im Moorsteiner Wald",
-    "upc" : "886448206217"
   },
   {
     "albumID" : "1536103570",
