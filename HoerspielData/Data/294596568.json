@@ -1,19 +1,27 @@
 [
   {
+    "albumID" : "1458763362",
+    "artist" : "Dreamland Grusel",
+    "duration" : 4503.770999999999,
+    "releaseDate" : 336009600,
+    "title" : "Folge 3: Lebendig begraben",
+    "upc" : "4260507149398"
+  },
+  {
+    "albumID" : "1458764972",
+    "artist" : "Dreamland Grusel",
+    "duration" : 4448.437,
+    "releaseDate" : 336009600,
+    "title" : "Folge 5: Wolfsnächte",
+    "upc" : "4260507149411"
+  },
+  {
     "albumID" : "1458769069",
     "artist" : "Dreamland Grusel",
     "duration" : 3472.656,
     "releaseDate" : 336009600,
     "title" : "Folge 11: Die Totenpatrouille",
     "upc" : "4260507149480"
-  },
-  {
-    "albumID" : "1458769055",
-    "artist" : "Dreamland Grusel",
-    "duration" : 3755.981,
-    "releaseDate" : 336009600,
-    "title" : "Folge 9: Tödliche Knochenhände",
-    "upc" : "4260507149459"
   },
   {
     "albumID" : "1458768558",
@@ -24,20 +32,20 @@
     "upc" : "4260507149442"
   },
   {
-    "albumID" : "1458764806",
-    "artist" : "Dreamland Grusel",
-    "duration" : 4665.897999999999,
-    "releaseDate" : 336009600,
-    "title" : "Folge 4: Der Freak von Soho",
-    "upc" : "4260507149404"
-  },
-  {
     "albumID" : "1458766714",
     "artist" : "Dreamland Grusel",
     "duration" : 4463.867000000001,
     "releaseDate" : 336009600,
     "title" : "Folge 6: Der Zombie-Macher von Haiti",
     "upc" : "4260507149428"
+  },
+  {
+    "albumID" : "1458764806",
+    "artist" : "Dreamland Grusel",
+    "duration" : 4665.897999999999,
+    "releaseDate" : 336009600,
+    "title" : "Folge 4: Der Freak von Soho",
+    "upc" : "4260507149404"
   },
   {
     "albumID" : "1458768491",
@@ -88,12 +96,12 @@
     "upc" : "4260147772512"
   },
   {
-    "albumID" : "1458772190",
+    "albumID" : "1458770754",
     "artist" : "Dreamland Grusel",
-    "duration" : 4784.708,
-    "releaseDate" : 427334400,
-    "title" : "Folge 17: Killer aus der Tiefe",
-    "upc" : "4260507149534"
+    "duration" : 3514.7619999999993,
+    "releaseDate" : 415238400,
+    "title" : "Folge 16: Die Stadt des Todes",
+    "upc" : "4260507149527"
   },
   {
     "albumID" : "1458773590",
@@ -222,14 +230,6 @@
     "releaseDate" : 621475200,
     "title" : "Folge 45: Interferenzen 2",
     "upc" : "4260507161130"
-  },
-  {
-    "albumID" : "1554466424",
-    "artist" : "Dreamland Grusel",
-    "duration" : 4110.5030000000015,
-    "releaseDate" : 635990400,
-    "title" : "Folge 47: Die Angst beginnt um Viertel nach acht",
-    "upc" : "4260507162915"
   },
   {
     "albumID" : "1630933266",
