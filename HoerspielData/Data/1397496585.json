@@ -272,14 +272,6 @@
     "upc" : "4260507143518"
   },
   {
-    "albumID" : "1453117619",
-    "artist" : "Jules Verne",
-    "duration" : 4698.5199999999995,
-    "releaseDate" : 566438400,
-    "title" : "Das Karparthenschloß",
-    "upc" : "4260507146151"
-  },
-  {
     "albumID" : "1453114227",
     "artist" : "Jules Verne",
     "duration" : 4700.671,
@@ -288,12 +280,12 @@
     "upc" : "4260507146182"
   },
   {
-    "albumID" : "1453111294",
+    "albumID" : "1453117619",
     "artist" : "Jules Verne",
-    "duration" : 3187.763999999999,
+    "duration" : 4698.5199999999995,
     "releaseDate" : 566438400,
-    "title" : "Die Kinder des Kapitän Grant",
-    "upc" : "4260507146175"
+    "title" : "Das Karparthenschloß",
+    "upc" : "4260507146151"
   },
   {
     "albumID" : "1453110624",
@@ -302,6 +294,14 @@
     "releaseDate" : 566438400,
     "title" : "Die Irrfahrt des Schoners Sloughi (Hörspiel)",
     "upc" : "4260507146168"
+  },
+  {
+    "albumID" : "1453111294",
+    "artist" : "Jules Verne",
+    "duration" : 3187.763999999999,
+    "releaseDate" : 566438400,
+    "title" : "Die Kinder des Kapitän Grant",
+    "upc" : "4260507146175"
   },
   {
     "albumID" : "1442546469",
