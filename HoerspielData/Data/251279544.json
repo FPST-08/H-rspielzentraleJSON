@@ -128,20 +128,20 @@
     "upc" : "9783838761435"
   },
   {
-    "albumID" : "309326889",
-    "artist" : "Jason Dark & John Sinclair",
-    "duration" : 3120.999999999999,
-    "releaseDate" : 219024000,
-    "title" : "John Sinclair, Folge 41: Die Schöne Aus Dem Totenreich",
-    "upc" : "9783838761442"
-  },
-  {
     "albumID" : "309326366",
     "artist" : "Jason Dark & John Sinclair",
     "duration" : 2874.747,
     "releaseDate" : 229219200,
     "title" : "John Sinclair, Folge 43: Ich Flog In Die Todeswolke (1/2)",
     "upc" : "9783838761466"
+  },
+  {
+    "albumID" : "309170807",
+    "artist" : "Jason Dark & John Sinclair",
+    "duration" : 3264.187,
+    "releaseDate" : 232329600,
+    "title" : "John Sinclair, Folge 44: Das Elixier des Teufels (Teil 2 von 2)",
+    "upc" : "9783838761473"
   },
   {
     "albumID" : "309174960",
