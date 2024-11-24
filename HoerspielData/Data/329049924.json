@@ -184,6 +184,14 @@
     "upc" : "886445753752"
   },
   {
+    "albumID" : "1115102919",
+    "artist" : "Die drei !!!",
+    "duration" : 3376.3729999999996,
+    "releaseDate" : 420681600,
+    "title" : "Folge 31: Betrug in den Charts",
+    "upc" : "886445753783"
+  },
+  {
     "albumID" : "1134911349",
     "artist" : "Die drei !!!",
     "duration" : 3780.9720000000016,
@@ -248,14 +256,6 @@
     "upc" : "886445756104"
   },
   {
-    "albumID" : "1161315130",
-    "artist" : "Die drei !!!",
-    "duration" : 3958.4819999999995,
-    "releaseDate" : 465436800,
-    "title" : "Folge 39: Verliebte Weihnachten",
-    "upc" : "886445756159"
-  },
-  {
     "albumID" : "1134914262",
     "artist" : "Die drei !!!",
     "duration" : 4375.544000000001,
@@ -312,14 +312,6 @@
     "upc" : "886446331553"
   },
   {
-    "albumID" : "1176632394",
-    "artist" : "Die drei !!!",
-    "duration" : 4145.094999999999,
-    "releaseDate" : 506563200,
-    "title" : "Folge 47: Unter Verdacht",
-    "upc" : "886445992373"
-  },
-  {
     "albumID" : "1193152462",
     "artist" : "Die drei !!!",
     "duration" : 3874.1070000000004,
@@ -366,6 +358,14 @@
     "releaseDate" : 565228800,
     "title" : "Folge 58: Gorilla in Not",
     "upc" : "886446606880"
+  },
+  {
+    "albumID" : "1441756765",
+    "artist" : "Die drei !!!",
+    "duration" : 4401.278,
+    "releaseDate" : 570067200,
+    "title" : "Folge 59: Das geheime Parfüm",
+    "upc" : "886447191651"
   },
   {
     "albumID" : "1458535435",
