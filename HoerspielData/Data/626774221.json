@@ -8,14 +8,6 @@
     "upc" : "4260507151612"
   },
   {
-    "albumID" : "1467915722",
-    "artist" : "Professor van Dusen",
-    "duration" : 3352.987000000001,
-    "releaseDate" : 390441600,
-    "title" : "Folge 9: Ein Mörder bei Madame Tussaud",
-    "upc" : "4260507151681"
-  },
-  {
     "albumID" : "1467917153",
     "artist" : "Professor van Dusen",
     "duration" : 3835.4050000000007,
@@ -38,6 +30,14 @@
     "releaseDate" : 447292800,
     "title" : "Folge 12: Stimmen aus dem Jenseits",
     "upc" : "4260507151711"
+  },
+  {
+    "albumID" : "1467948696",
+    "artist" : "Professor van Dusen",
+    "duration" : 4785.092,
+    "releaseDate" : 458784000,
+    "title" : "Die neuen Fälle, Fall 2: Professor van Dusen reitet das trojanische Pferd",
+    "upc" : "4260507151810"
   },
   {
     "albumID" : "1467950840",
@@ -264,14 +264,6 @@
     "upc" : "4260507158239"
   },
   {
-    "albumID" : "1529885703",
-    "artist" : "Professor van Dusen",
-    "duration" : 4388.075999999999,
-    "releaseDate" : 622684800,
-    "title" : "Die neuen Fälle, Fall 23: Professor van Dusen und die Witwentröster von Bombay",
-    "upc" : "4260507161413"
-  },
-  {
     "albumID" : "1506768512",
     "artist" : "Professor van Dusen",
     "duration" : 3961.598000000001,
@@ -334,6 +326,14 @@
     "releaseDate" : 691027200,
     "title" : "Folge 33: Professor van Dusen und der fliegende Teppich",
     "upc" : "4260507176899"
+  },
+  {
+    "albumID" : "1647818963",
+    "artist" : "Professor van Dusen",
+    "duration" : 4022.0000000000005,
+    "releaseDate" : 692236800,
+    "title" : "Folge 34: Professor van Dusen hilft Scotland Yard",
+    "upc" : "4260507176912"
   },
   {
     "albumID" : "1654926288",
