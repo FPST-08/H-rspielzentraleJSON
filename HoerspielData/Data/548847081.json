@@ -1,11 +1,11 @@
 [
   {
-    "albumID" : "1481351570",
+    "albumID" : "1481350408",
     "artist" : "Geister-Schocker",
-    "duration" : 3569.9999999999995,
+    "duration" : 3001.9980000000005,
     "releaseDate" : 367459200,
-    "title" : "Folge 5: Highway zur Hölle",
-    "upc" : "4260507153913"
+    "title" : "Folge 4: Der Hexenjäger",
+    "upc" : "4260507153906"
   },
   {
     "albumID" : "1481349885",
@@ -16,12 +16,12 @@
     "upc" : "4260507153890"
   },
   {
-    "albumID" : "1481355388",
+    "albumID" : "1481351570",
     "artist" : "Geister-Schocker",
-    "duration" : 3040.998,
+    "duration" : 3569.9999999999995,
     "releaseDate" : 367459200,
-    "title" : "Folge 7: Die Bestien aus dem Todesmoor",
-    "upc" : "4260507153937"
+    "title" : "Folge 5: Highway zur Hölle",
+    "upc" : "4260507153913"
   },
   {
     "albumID" : "1481354459",
@@ -32,20 +32,20 @@
     "upc" : "4260507153920"
   },
   {
-    "albumID" : "1481393668",
+    "albumID" : "1481355388",
     "artist" : "Geister-Schocker",
-    "duration" : 4000.995000000001,
+    "duration" : 3040.998,
     "releaseDate" : 367459200,
-    "title" : "Folge 24: Das Teufelstestament",
-    "upc" : "4260507154101"
+    "title" : "Folge 7: Die Bestien aus dem Todesmoor",
+    "upc" : "4260507153937"
   },
   {
-    "albumID" : "1481356133",
+    "albumID" : "1481378503",
     "artist" : "Geister-Schocker",
-    "duration" : 3566.9950000000003,
+    "duration" : 3005.000000000001,
     "releaseDate" : 367459200,
-    "title" : "Folge 8: Der See des Grauens",
-    "upc" : "4260507153944"
+    "title" : "Folge 13: Kreuzfahrt in die Hölle",
+    "upc" : "4260507153999"
   },
   {
     "albumID" : "1481358898",
@@ -64,6 +64,22 @@
     "upc" : "4260507154149"
   },
   {
+    "albumID" : "1481393668",
+    "artist" : "Geister-Schocker",
+    "duration" : 4000.995000000001,
+    "releaseDate" : 367459200,
+    "title" : "Folge 24: Das Teufelstestament",
+    "upc" : "4260507154101"
+  },
+  {
+    "albumID" : "1481356133",
+    "artist" : "Geister-Schocker",
+    "duration" : 3566.9950000000003,
+    "releaseDate" : 367459200,
+    "title" : "Folge 8: Der See des Grauens",
+    "upc" : "4260507153944"
+  },
+  {
     "albumID" : "1481398674",
     "artist" : "Geister-Schocker",
     "duration" : 3423.0040000000004,
@@ -72,12 +88,12 @@
     "upc" : "4260507154163"
   },
   {
-    "albumID" : "1481378503",
+    "albumID" : "1481357126",
     "artist" : "Geister-Schocker",
-    "duration" : 3005.000000000001,
+    "duration" : 3255.0020000000004,
     "releaseDate" : 367459200,
-    "title" : "Folge 13: Kreuzfahrt in die Hölle",
-    "upc" : "4260507153999"
+    "title" : "Folge 9: Der Höllengraf",
+    "upc" : "4260507153951"
   },
   {
     "albumID" : "1481388350",
@@ -96,12 +112,12 @@
     "upc" : "4260507154064"
   },
   {
-    "albumID" : "1481357126",
+    "albumID" : "1481385527",
     "artist" : "Geister-Schocker",
-    "duration" : 3255.0020000000004,
+    "duration" : 3385.998000000001,
     "releaseDate" : 367459200,
-    "title" : "Folge 9: Der Höllengraf",
-    "upc" : "4260507153951"
+    "title" : "Folge 17: Der achtbeinige Tod",
+    "upc" : "4260507154033"
   },
   {
     "albumID" : "1481393665",
@@ -112,20 +128,20 @@
     "upc" : "4260507154095"
   },
   {
+    "albumID" : "1481392369",
+    "artist" : "Geister-Schocker",
+    "duration" : 4282.999999999999,
+    "releaseDate" : 367459200,
+    "title" : "Folge 22: Das Grauen aus dem Eis",
+    "upc" : "4260507154088"
+  },
+  {
     "albumID" : "1481390315",
     "artist" : "Geister-Schocker",
     "duration" : 3565.0010000000007,
     "releaseDate" : 367459200,
     "title" : "Folge 21: Besuch aus dem Jenseits",
     "upc" : "4260507154071"
-  },
-  {
-    "albumID" : "1481385527",
-    "artist" : "Geister-Schocker",
-    "duration" : 3385.998000000001,
-    "releaseDate" : 367459200,
-    "title" : "Folge 17: Der achtbeinige Tod",
-    "upc" : "4260507154033"
   },
   {
     "albumID" : "1481378993",
@@ -136,14 +152,6 @@
     "upc" : "4260507154002"
   },
   {
-    "albumID" : "1481392369",
-    "artist" : "Geister-Schocker",
-    "duration" : 4282.999999999999,
-    "releaseDate" : 367459200,
-    "title" : "Folge 22: Das Grauen aus dem Eis",
-    "upc" : "4260507154088"
-  },
-  {
     "albumID" : "1481373358",
     "artist" : "Geister-Schocker",
     "duration" : 3107.002,
@@ -152,12 +160,12 @@
     "upc" : "4260507153982"
   },
   {
-    "albumID" : "1481395475",
+    "albumID" : "1481394723",
     "artist" : "Geister-Schocker",
-    "duration" : 2726.9979999999996,
+    "duration" : 4181.002,
     "releaseDate" : 367459200,
-    "title" : "Folge 27: Die Stunde des Henkers",
-    "upc" : "4260507154132"
+    "title" : "Folge 25: Der Horrorgarten des Samurais",
+    "upc" : "4260507154118"
   },
   {
     "albumID" : "1481382452",
@@ -176,6 +184,14 @@
     "upc" : "4260507153968"
   },
   {
+    "albumID" : "1481395475",
+    "artist" : "Geister-Schocker",
+    "duration" : 2726.9979999999996,
+    "releaseDate" : 367459200,
+    "title" : "Folge 27: Die Stunde des Henkers",
+    "upc" : "4260507154132"
+  },
+  {
     "albumID" : "1481397284",
     "artist" : "Geister-Schocker",
     "duration" : 6745.998999999996,
@@ -192,12 +208,12 @@
     "upc" : "4260507154040"
   },
   {
-    "albumID" : "1481394723",
+    "albumID" : "1481380445",
     "artist" : "Geister-Schocker",
-    "duration" : 4181.002,
+    "duration" : 7607.001999999998,
     "releaseDate" : 367459200,
-    "title" : "Folge 25: Der Horrorgarten des Samurais",
-    "upc" : "4260507154118"
+    "title" : "Folge 15: Tod in Paris / Im Banne der Untoten",
+    "upc" : "4260507154019"
   },
   {
     "albumID" : "1481396521",
@@ -206,14 +222,6 @@
     "releaseDate" : 367459200,
     "title" : "Folge 26: Venedig sehen und sterben / Blutnächte in Whitechapel",
     "upc" : "4260507154125"
-  },
-  {
-    "albumID" : "1481380445",
-    "artist" : "Geister-Schocker",
-    "duration" : 7607.001999999998,
-    "releaseDate" : 367459200,
-    "title" : "Folge 15: Tod in Paris / Im Banne der Untoten",
-    "upc" : "4260507154019"
   },
   {
     "albumID" : "1481042000",
@@ -296,20 +304,20 @@
     "upc" : "4260507154262"
   },
   {
-    "albumID" : "1481042929",
-    "artist" : "Geister-Schocker",
-    "duration" : 2675.0009999999997,
-    "releaseDate" : 403142400,
-    "title" : "Folge 41: Das Monster aus dem Jenseits",
-    "upc" : "4260507154279"
-  },
-  {
     "albumID" : "1481043754",
     "artist" : "Geister-Schocker",
     "duration" : 3646.9989999999993,
     "releaseDate" : 403142400,
     "title" : "Folge 43: Griff aus dem Dunkel",
     "upc" : "4260507154293"
+  },
+  {
+    "albumID" : "1481042929",
+    "artist" : "Geister-Schocker",
+    "duration" : 2675.0009999999997,
+    "releaseDate" : 403142400,
+    "title" : "Folge 41: Das Monster aus dem Jenseits",
+    "upc" : "4260507154279"
   },
   {
     "albumID" : "1481044124",
@@ -434,7 +442,7 @@
   {
     "albumID" : "1481050283",
     "artist" : "Geister-Schocker",
-    "duration" : 3812.0009999999997,
+    "duration" : 0,
     "releaseDate" : 466646400,
     "title" : "Folge 57: Cargyro, der Schreckensdämon",
     "upc" : "4260507154439"
@@ -592,20 +600,20 @@
     "upc" : "4260507154620"
   },
   {
-    "albumID" : "1481060016",
-    "artist" : "Geister-Schocker",
-    "duration" : 3151.000000000001,
-    "releaseDate" : 564624000,
-    "title" : "Folge 78: Meute des Satans",
-    "upc" : "4260507154644"
-  },
-  {
     "albumID" : "1481060058",
     "artist" : "Geister-Schocker",
     "duration" : 4174.0019999999995,
     "releaseDate" : 564624000,
     "title" : "Folge 77: Die todbringende Nixe",
     "upc" : "4260507154637"
+  },
+  {
+    "albumID" : "1481060016",
+    "artist" : "Geister-Schocker",
+    "duration" : 3151.000000000001,
+    "releaseDate" : 564624000,
+    "title" : "Folge 78: Meute des Satans",
+    "upc" : "4260507154644"
   },
   {
     "albumID" : "1481060378",
@@ -632,6 +640,14 @@
     "upc" : "4260507154675"
   },
   {
+    "albumID" : "1554814228",
+    "artist" : "Geister-Schocker",
+    "duration" : 3969.4689999999996,
+    "releaseDate" : 638409600,
+    "title" : "Folge 92: Der Dämon der Meere",
+    "upc" : "4260507162991"
+  },
+  {
     "albumID" : "1554814939",
     "artist" : "Geister-Schocker",
     "duration" : 3845.495,
@@ -646,14 +662,6 @@
     "releaseDate" : 654134400,
     "title" : "Folge 95: Großalarm - Die Bestien kommen",
     "upc" : "4260507163059"
-  },
-  {
-    "albumID" : "1667330014",
-    "artist" : "Geister-Schocker",
-    "duration" : 3405.333,
-    "releaseDate" : 701308800,
-    "title" : "Folge 104: Der Puppenmörder im Blutrausch",
-    "upc" : "4260507178459"
   },
   {
     "albumID" : "1667388217",
@@ -710,13 +718,5 @@
     "releaseDate" : 749088000,
     "title" : "Folge 113: Das Seeweib von Minsen",
     "upc" : "4260507197177"
-  },
-  {
-    "albumID" : "1755160118",
-    "artist" : "Geister-Schocker",
-    "duration" : 181.098,
-    "releaseDate" : 753926400,
-    "title" : "Folge 114: Die Frequenz des Grauens",
-    "upc" : "4260507197191"
   }
 ]
