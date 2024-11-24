@@ -8,20 +8,20 @@
     "upc" : "4260507143730"
   },
   {
+    "albumID" : "1439329173",
+    "artist" : "Pater Brown",
+    "duration" : 3772.2389999999996,
+    "releaseDate" : 421286400,
+    "title" : "Folge 5: Das Auge des Apoll",
+    "upc" : "4260507143709"
+  },
+  {
     "albumID" : "1438752905",
     "artist" : "Pater Brown",
     "duration" : 3155.639,
     "releaseDate" : 421286400,
     "title" : "Folge 2: Der Hammer Gottes",
     "upc" : "4260507143679"
-  },
-  {
-    "albumID" : "1438753394",
-    "artist" : "Pater Brown",
-    "duration" : 3340.0329999999994,
-    "releaseDate" : 421286400,
-    "title" : "Folge 3: Die fliegenden Sterne",
-    "upc" : "4260507143686"
   },
   {
     "albumID" : "1439330704",
@@ -48,12 +48,12 @@
     "upc" : "4260507143846"
   },
   {
-    "albumID" : "1439329173",
+    "albumID" : "1438754382",
     "artist" : "Pater Brown",
-    "duration" : 3772.2389999999996,
+    "duration" : 3295.4880000000003,
     "releaseDate" : 421286400,
-    "title" : "Folge 5: Das Auge des Apoll",
-    "upc" : "4260507143709"
+    "title" : "Folge 10: Das Duell des Dr. Hirsch",
+    "upc" : "4260507143754"
   },
   {
     "albumID" : "1438754592",
@@ -62,14 +62,6 @@
     "releaseDate" : 421286400,
     "title" : "Folge 9: Der Mann im Gang",
     "upc" : "4260507143747"
-  },
-  {
-    "albumID" : "1438754382",
-    "artist" : "Pater Brown",
-    "duration" : 3295.4880000000003,
-    "releaseDate" : 421286400,
-    "title" : "Folge 10: Das Duell des Dr. Hirsch",
-    "upc" : "4260507143754"
   },
   {
     "albumID" : "1439332205",
@@ -88,6 +80,22 @@
     "upc" : "4260507143808"
   },
   {
+    "albumID" : "1439328998",
+    "artist" : "Pater Brown",
+    "duration" : 3340.1579999999994,
+    "releaseDate" : 421286400,
+    "title" : "Folge 6: Die Sünden des Prinzen Saradin",
+    "upc" : "4260507143716"
+  },
+  {
+    "albumID" : "1438755972",
+    "artist" : "Pater Brown",
+    "duration" : 3394.855000000001,
+    "releaseDate" : 421286400,
+    "title" : "Folge 13: Der Geist von Gideon Wise",
+    "upc" : "4260507143785"
+  },
+  {
     "albumID" : "1439331635",
     "artist" : "Pater Brown",
     "duration" : 3517.890000000001,
@@ -104,36 +112,12 @@
     "upc" : "4260507143778"
   },
   {
-    "albumID" : "1438755972",
-    "artist" : "Pater Brown",
-    "duration" : 3394.855000000001,
-    "releaseDate" : 421286400,
-    "title" : "Folge 13: Der Geist von Gideon Wise",
-    "upc" : "4260507143785"
-  },
-  {
-    "albumID" : "1439328998",
-    "artist" : "Pater Brown",
-    "duration" : 3340.1579999999994,
-    "releaseDate" : 421286400,
-    "title" : "Folge 6: Die Sünden des Prinzen Saradin",
-    "upc" : "4260507143716"
-  },
-  {
     "albumID" : "1438756693",
     "artist" : "Pater Brown",
     "duration" : 4051.593,
     "releaseDate" : 421286400,
     "title" : "Folge 14: Das Verhängnis der Darnaways",
     "upc" : "4260507143792"
-  },
-  {
-    "albumID" : "1439331215",
-    "artist" : "Pater Brown",
-    "duration" : 2979.750000000001,
-    "releaseDate" : 421286400,
-    "title" : "Folge 17: Der Fluch der Pendragons",
-    "upc" : "4260507143822"
   },
   {
     "albumID" : "1438754787",
@@ -144,12 +128,12 @@
     "upc" : "4260507143761"
   },
   {
-    "albumID" : "1438757487",
+    "albumID" : "1439331215",
     "artist" : "Pater Brown",
-    "duration" : 3052.204000000001,
-    "releaseDate" : 467251200,
-    "title" : "Folge 22: Die purpurfarbene Perücke",
-    "upc" : "4260507143877"
+    "duration" : 2979.750000000001,
+    "releaseDate" : 421286400,
+    "title" : "Folge 17: Der Fluch der Pendragons",
+    "upc" : "4260507143822"
   },
   {
     "albumID" : "1438757763",
@@ -158,6 +142,14 @@
     "releaseDate" : 467251200,
     "title" : "Folge 23: Das Zeichen des zerbrochenen Säbels",
     "upc" : "4260507143884"
+  },
+  {
+    "albumID" : "1438757487",
+    "artist" : "Pater Brown",
+    "duration" : 3052.204000000001,
+    "releaseDate" : 467251200,
+    "title" : "Folge 22: Die purpurfarbene Perücke",
+    "upc" : "4260507143877"
   },
   {
     "albumID" : "1439332843",
@@ -192,14 +184,6 @@
     "upc" : "4260507143945"
   },
   {
-    "albumID" : "1439342011",
-    "artist" : "Pater Brown",
-    "duration" : 3298.7170000000006,
-    "releaseDate" : 467856000,
-    "title" : "Folge 30: Raue See",
-    "upc" : "4260507143952"
-  },
-  {
     "albumID" : "1438758287",
     "artist" : "Pater Brown",
     "duration" : 2981.1220000000008,
@@ -214,6 +198,14 @@
     "releaseDate" : 467856000,
     "title" : "Folge 27: Penelope",
     "upc" : "4260507143921"
+  },
+  {
+    "albumID" : "1439342011",
+    "artist" : "Pater Brown",
+    "duration" : 3298.7170000000006,
+    "releaseDate" : 467856000,
+    "title" : "Folge 30: Raue See",
+    "upc" : "4260507143952"
   },
   {
     "albumID" : "1439336594",
@@ -278,14 +270,6 @@
     "releaseDate" : 518659200,
     "title" : "Folge 32: Der Spieler und das Mädchen",
     "upc" : "4260507134806"
-  },
-  {
-    "albumID" : "1237583732",
-    "artist" : "Pater Brown",
-    "duration" : 3639,
-    "releaseDate" : 519264000,
-    "title" : "Folge 36: Diamanten-Express",
-    "upc" : "4260507134844"
   },
   {
     "albumID" : "1237568360",
@@ -392,6 +376,14 @@
     "upc" : "4260507134967"
   },
   {
+    "albumID" : "1288258903",
+    "artist" : "Pater Brown",
+    "duration" : 4294.481000000001,
+    "releaseDate" : 529545600,
+    "title" : "Folge 53: Der Unschuldsbeweis",
+    "upc" : "4260507136565"
+  },
+  {
     "albumID" : "1442521085",
     "artist" : "Pater Brown",
     "duration" : 3820.003,
@@ -470,6 +462,14 @@
     "releaseDate" : 632966400,
     "title" : "Folge 64: Der Tod lässt bitten",
     "upc" : "4260507162298"
+  },
+  {
+    "albumID" : "1559499503",
+    "artist" : "Pater Brown",
+    "duration" : 4048.0029999999997,
+    "releaseDate" : 639619200,
+    "title" : "Folge 65: Böse Überraschungen",
+    "upc" : "4260507164490"
   },
   {
     "albumID" : "1628254717",
