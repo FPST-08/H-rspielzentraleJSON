@@ -1,13 +1,5 @@
 [
   {
-    "albumID" : "1002512476",
-    "artist" : "Fünf Freunde",
-    "duration" : 2526.9199999999996,
-    "releaseDate" : -691545600,
-    "title" : "Folge 6: helfen ihrem Kameraden",
-    "upc" : "886445130362"
-  },
-  {
     "albumID" : "1653992614",
     "artist" : "Fünf Freunde",
     "duration" : 2312.868,
@@ -454,6 +446,14 @@
     "releaseDate" : 164246400,
     "title" : "Folge 66: und das Seeungeheuer",
     "upc" : "886445151084"
+  },
+  {
+    "albumID" : "1002490636",
+    "artist" : "Fünf Freunde",
+    "duration" : 3075.691000000001,
+    "releaseDate" : 169689600,
+    "title" : "Folge 67: und der unheimliche Brandstifter",
+    "upc" : "886445151091"
   },
   {
     "albumID" : "1002451305",
@@ -920,14 +920,6 @@
     "upc" : "886447192641"
   },
   {
-    "albumID" : "1449471516",
-    "artist" : "Fünf Freunde",
-    "duration" : 3333.2940000000003,
-    "releaseDate" : 571881600,
-    "title" : "Folge 130: und die Glocke der Wikinger",
-    "upc" : "886447234150"
-  },
-  {
     "albumID" : "1456262331",
     "artist" : "Fünf Freunde",
     "duration" : 3300.9589999999994,
@@ -958,6 +950,14 @@
     "releaseDate" : 607564800,
     "title" : "Folge 136: Fünf Freunde und der wütende Stier",
     "upc" : "886448054009"
+  },
+  {
+    "albumID" : "1527753025",
+    "artist" : "Fünf Freunde",
+    "duration" : 3709.1180000000004,
+    "releaseDate" : 620870400,
+    "title" : "Folge 138: am Ende der Welt",
+    "upc" : "886448109402"
   },
   {
     "albumID" : "1538124716",
