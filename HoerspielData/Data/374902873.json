@@ -56,20 +56,20 @@
     "upc" : "886445239904"
   },
   {
-    "albumID" : "1029945921",
-    "artist" : "Teufelskicker",
-    "duration" : 3285.5879999999993,
-    "releaseDate" : 184809600,
-    "title" : "Folge 8: Doppelter Einsatz für Moritz!",
-    "upc" : "886445239911"
-  },
-  {
     "albumID" : "1029957270",
     "artist" : "Teufelskicker",
     "duration" : 4205.522000000001,
     "releaseDate" : 184809600,
     "title" : "Folge 46: Eigentor für Moritz!",
     "upc" : "886445284003"
+  },
+  {
+    "albumID" : "1029945921",
+    "artist" : "Teufelskicker",
+    "duration" : 3285.5879999999993,
+    "releaseDate" : 184809600,
+    "title" : "Folge 8: Doppelter Einsatz für Moritz!",
+    "upc" : "886445239911"
   },
   {
     "albumID" : "1029945689",
@@ -176,14 +176,6 @@
     "upc" : "886445240566"
   },
   {
-    "albumID" : "1029961913",
-    "artist" : "Teufelskicker",
-    "duration" : 4214.996999999999,
-    "releaseDate" : 306374400,
-    "title" : "Folge 24: Geheimakte Blau-Gelb!",
-    "upc" : "886445240641"
-  },
-  {
     "albumID" : "1029952286",
     "artist" : "Teufelskicker",
     "duration" : 4442.400999999999,
@@ -240,6 +232,14 @@
     "upc" : "886445241006"
   },
   {
+    "albumID" : "1029957023",
+    "artist" : "Teufelskicker",
+    "duration" : 4127.7080000000005,
+    "releaseDate" : 350524800,
+    "title" : "Folge 34: Freundschaft in Gefahr!",
+    "upc" : "886445241112"
+  },
+  {
     "albumID" : "1029955068",
     "artist" : "Teufelskicker",
     "duration" : 4431.851999999999,
@@ -286,6 +286,14 @@
     "releaseDate" : 382579200,
     "title" : "Folge 41: Rettet Blau-Gelb!",
     "upc" : "886445283952"
+  },
+  {
+    "albumID" : "1029955596",
+    "artist" : "Teufelskicker",
+    "duration" : 4303.509000000002,
+    "releaseDate" : 389836800,
+    "title" : "Folge 43: Die Beach-Kings",
+    "upc" : "886445283976"
   },
   {
     "albumID" : "1029955069",
@@ -344,14 +352,6 @@
     "upc" : "886445317626"
   },
   {
-    "albumID" : "1057630398",
-    "artist" : "Teufelskicker",
-    "duration" : 4188.000000000001,
-    "releaseDate" : 445478400,
-    "title" : "Folge 54: Der Ballflüsterer!",
-    "upc" : "886445317633"
-  },
-  {
     "albumID" : "1057630385",
     "artist" : "Teufelskicker",
     "duration" : 4282.469000000001,
@@ -406,14 +406,6 @@
     "releaseDate" : 510796800,
     "title" : "Folge 66: Labrador, noch ein Tor!",
     "upc" : "886445629101"
-  },
-  {
-    "albumID" : "1208986284",
-    "artist" : "Teufelskicker",
-    "duration" : 4334.348,
-    "releaseDate" : 518659200,
-    "title" : "Folge 67: Paula im Abseits!",
-    "upc" : "886445629118"
   },
   {
     "albumID" : "1240134685",
@@ -536,14 +528,6 @@
     "upc" : "886446538990"
   },
   {
-    "albumID" : "1465118265",
-    "artist" : "Teufelskicker",
-    "duration" : 4444.772000000001,
-    "releaseDate" : 581558400,
-    "title" : "077/Sprung an die Spitze!",
-    "upc" : "886446539003"
-  },
-  {
     "albumID" : "1470370907",
     "artist" : "Teufelskicker",
     "duration" : 4429.049,
@@ -560,12 +544,20 @@
     "upc" : "886446539027"
   },
   {
-    "albumID" : "1512230105",
+    "albumID" : "1492295259",
     "artist" : "Teufelskicker",
-    "duration" : 4722.454000000001,
-    "releaseDate" : 613008000,
-    "title" : "Folge 83: König von Europa!",
-    "upc" : "886447868775"
+    "duration" : 4561.600000000001,
+    "releaseDate" : 601516800,
+    "title" : "Folge 81: Gras fressen!",
+    "upc" : "886447868751"
+  },
+  {
+    "albumID" : "1501683197",
+    "artist" : "Teufelskicker",
+    "duration" : 4494.625999999999,
+    "releaseDate" : 606960000,
+    "title" : "Folge 82: Das Triple!",
+    "upc" : "886447868768"
   },
   {
     "albumID" : "1521834054",
@@ -582,6 +574,14 @@
     "releaseDate" : 624499200,
     "title" : "Folge 85: Der Strafraum-Streuner!",
     "upc" : "886447868799"
+  },
+  {
+    "albumID" : "1547807482",
+    "artist" : "Teufelskicker",
+    "duration" : 4580.254,
+    "releaseDate" : 633571200,
+    "title" : "Folge 87: Viva Futebol!",
+    "upc" : "886448297895"
   },
   {
     "albumID" : "1547955136",
