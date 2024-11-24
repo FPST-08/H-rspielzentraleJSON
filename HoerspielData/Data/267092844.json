@@ -240,6 +240,14 @@
     "upc" : "4260229663547"
   },
   {
+    "albumID" : "1462643906",
+    "artist" : "Die Playmos",
+    "duration" : 3255.002,
+    "releaseDate" : 370742400,
+    "title" : "Folge 31: Nächtlicher Angriff der Mega Masters (Das Original Playmobil Hörspiel)",
+    "upc" : "4260229663011"
+  },
+  {
     "albumID" : "1462644035",
     "artist" : "Die Playmos",
     "duration" : 3492.0000000000005,
@@ -552,14 +560,6 @@
     "upc" : "4260229664155"
   },
   {
-    "albumID" : "1535463850",
-    "artist" : "Die Playmos",
-    "duration" : 3156.0000000000005,
-    "releaseDate" : 625708800,
-    "title" : "Folge 73: Spurensuche im Zoo (Das Original Playmobil Hörspiel)",
-    "upc" : "4260229664162"
-  },
-  {
     "albumID" : "1558800313",
     "artist" : "Die Playmos",
     "duration" : 10226.99899999999,
@@ -682,7 +682,7 @@
   {
     "albumID" : "1779075716",
     "artist" : "Die Playmos",
-    "duration" : 169.961,
+    "duration" : 3534.2889999999998,
     "releaseDate" : 753926400,
     "title" : "Folge 91: Der erste Fall von Mato Meisterdetektiv (Das Original Playmobil Hörspiel)",
     "upc" : "4260229665657"
