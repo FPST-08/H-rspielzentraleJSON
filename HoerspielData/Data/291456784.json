@@ -1,27 +1,11 @@
 [
   {
-    "albumID" : "1473318223",
-    "artist" : "Tony Ballard",
-    "duration" : 4572.432000000001,
-    "releaseDate" : 585792000,
-    "title" : "Folge 19: Duell der Dämonen",
-    "upc" : "4260507152466"
-  },
-  {
     "albumID" : "1473311766",
     "artist" : "Tony Ballard",
     "duration" : 4424.814,
     "releaseDate" : 585792000,
     "title" : "Folge 14: Das Schiff der schwarzen Piraten",
     "upc" : "4260507152411"
-  },
-  {
-    "albumID" : "1473320965",
-    "artist" : "Tony Ballard",
-    "duration" : 4761.294000000001,
-    "releaseDate" : 585792000,
-    "title" : "Folge 23: Der Tod schleicht durch London",
-    "upc" : "4260507152503"
   },
   {
     "albumID" : "1473319926",
@@ -32,20 +16,20 @@
     "upc" : "4260507152480"
   },
   {
+    "albumID" : "1473320965",
+    "artist" : "Tony Ballard",
+    "duration" : 4761.294000000001,
+    "releaseDate" : 585792000,
+    "title" : "Folge 23: Der Tod schleicht durch London",
+    "upc" : "4260507152503"
+  },
+  {
     "albumID" : "1473319105",
     "artist" : "Tony Ballard",
     "duration" : 3998.4389999999994,
     "releaseDate" : 585792000,
     "title" : "Folge 20: In den Krallen der Tigerfrauen",
     "upc" : "4260507152473"
-  },
-  {
-    "albumID" : "1473323686",
-    "artist" : "Tony Ballard",
-    "duration" : 4734.6939999999995,
-    "releaseDate" : 585792000,
-    "title" : "Folge 30: Monster aus der Retorte",
-    "upc" : "4260507152572"
   },
   {
     "albumID" : "1473320246",
@@ -56,20 +40,20 @@
     "upc" : "4260507152497"
   },
   {
+    "albumID" : "1473323686",
+    "artist" : "Tony Ballard",
+    "duration" : 4734.6939999999995,
+    "releaseDate" : 585792000,
+    "title" : "Folge 30: Monster aus der Retorte",
+    "upc" : "4260507152572"
+  },
+  {
     "albumID" : "1473321629",
     "artist" : "Tony Ballard",
     "duration" : 4689.334999999999,
     "releaseDate" : 585792000,
     "title" : "Folge 25: Als der Silberdämon starb",
     "upc" : "4260507152527"
-  },
-  {
-    "albumID" : "1473326325",
-    "artist" : "Tony Ballard",
-    "duration" : 4067.186,
-    "releaseDate" : 585792000,
-    "title" : "Folge 31: Brutstätte des Bösen",
-    "upc" : "4260507152589"
   },
   {
     "albumID" : "1473323352",
@@ -80,12 +64,28 @@
     "upc" : "4260507152565"
   },
   {
+    "albumID" : "1473326325",
+    "artist" : "Tony Ballard",
+    "duration" : 4067.186,
+    "releaseDate" : 585792000,
+    "title" : "Folge 31: Brutstätte des Bösen",
+    "upc" : "4260507152589"
+  },
+  {
     "albumID" : "1473322250",
     "artist" : "Tony Ballard",
     "duration" : 4410.152,
     "releaseDate" : 585792000,
     "title" : "Folge 26: Die Hexe und ihr Henker",
     "upc" : "4260507152534"
+  },
+  {
+    "albumID" : "1473320977",
+    "artist" : "Tony Ballard",
+    "duration" : 4721.201,
+    "releaseDate" : 585792000,
+    "title" : "Folge 24: In den Klauen der Knochenmänner",
+    "upc" : "4260507152510"
   },
   {
     "albumID" : "1473323054",
@@ -102,14 +102,6 @@
     "releaseDate" : 585792000,
     "title" : "Folge 27: Sie wollten meine Seele fressen",
     "upc" : "4260507152541"
-  },
-  {
-    "albumID" : "1473320977",
-    "artist" : "Tony Ballard",
-    "duration" : 4721.201,
-    "releaseDate" : 585792000,
-    "title" : "Folge 24: In den Klauen der Knochenmänner",
-    "upc" : "4260507152510"
   },
   {
     "albumID" : "1523477552",
@@ -142,6 +134,14 @@
     "releaseDate" : 640828800,
     "title" : "Folge 41: Sklaven der Satansdroge",
     "upc" : "4260507164674"
+  },
+  {
+    "albumID" : "1575187480",
+    "artist" : "Tony Ballard",
+    "duration" : 4796.481999999999,
+    "releaseDate" : 649900800,
+    "title" : "Folge 42: MARBU - Die Kraft des Todes",
+    "upc" : "4260507168917"
   },
   {
     "albumID" : "1600508024",
@@ -338,7 +338,7 @@
   {
     "albumID" : "1771494164",
     "artist" : "Tony Ballard",
-    "duration" : 181.469,
+    "duration" : 4789.999000000002,
     "releaseDate" : 753926400,
     "title" : "Folge 66: Die Monster aus dem All",
     "upc" : "4260507199485"
