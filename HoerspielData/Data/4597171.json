@@ -8,6 +8,14 @@
     "upc" : "9783838761121"
   },
   {
+    "albumID" : "309321421",
+    "artist" : "Jason Dark & John Sinclair",
+    "duration" : 3260.932,
+    "releaseDate" : 27216000,
+    "title" : "John Sinclair, Folge 10: Die Horror-Reiter",
+    "upc" : "9783838761138"
+  },
+  {
     "albumID" : "309322022",
     "artist" : "Jason Dark & John Sinclair",
     "duration" : 3301.764,
@@ -24,20 +32,20 @@
     "upc" : "9783838761190"
   },
   {
-    "albumID" : "309164868",
-    "artist" : "Jason Dark & John Sinclair",
-    "duration" : 2942.3070000000002,
-    "releaseDate" : 36374400,
-    "title" : "John Sinclair, Folge 13: Gefangen in der Mikrowelt (Teil 2 von 2)",
-    "upc" : "9783838761169"
-  },
-  {
     "albumID" : "309162788",
     "artist" : "Jason Dark & John Sinclair",
     "duration" : 2952.946,
     "releaseDate" : 36374400,
     "title" : "John Sinclair, Folge 15: Die Geisterbraut",
     "upc" : "9783838761183"
+  },
+  {
+    "albumID" : "309164868",
+    "artist" : "Jason Dark & John Sinclair",
+    "duration" : 2942.3070000000002,
+    "releaseDate" : 36374400,
+    "title" : "John Sinclair, Folge 13: Gefangen in der Mikrowelt (Teil 2 von 2)",
+    "upc" : "9783838761169"
   },
   {
     "albumID" : "309151058",
@@ -86,6 +94,14 @@
     "releaseDate" : 66528000,
     "title" : "John Sinclair, Folge 22: Asmodinas Reich (Teli 2 von 2)",
     "upc" : "9783838761251"
+  },
+  {
+    "albumID" : "309190683",
+    "artist" : "Jason Dark & John Sinclair",
+    "duration" : 2934.681,
+    "releaseDate" : 67824000,
+    "title" : "John Sinclair, Folge 23: Der unheimliche Richter",
+    "upc" : "9783838761268"
   },
   {
     "albumID" : "309208816",
@@ -248,14 +264,6 @@
     "upc" : "9783838761473"
   },
   {
-    "albumID" : "309171574",
-    "artist" : "Jason Dark & John Sinclair",
-    "duration" : 3403.5069999999996,
-    "releaseDate" : 237772800,
-    "title" : "John Sinclair, Folge 45: Die Teufelsuhr",
-    "upc" : "9783838761480"
-  },
-  {
     "albumID" : "309174960",
     "artist" : "Jason Dark & John Sinclair",
     "duration" : 2842.015,
@@ -302,14 +310,6 @@
     "releaseDate" : 255916800,
     "title" : "John Sinclair, Folge 48: Lupinas Todfeind",
     "upc" : "9783838760599"
-  },
-  {
-    "albumID" : "310881960",
-    "artist" : "John Sinclair & Jason Dark",
-    "duration" : 3623.5179999999996,
-    "releaseDate" : 261360000,
-    "title" : "John Sinclair, Folge 50: Zombies in Manhattan",
-    "upc" : "9783785740590"
   },
   {
     "albumID" : "310881940",
@@ -366,14 +366,6 @@
     "releaseDate" : 288921600,
     "title" : "John Sinclair, Folge 56: Eine schaurige Warnung",
     "upc" : "9783838766232"
-  },
-  {
-    "albumID" : "371219234",
-    "artist" : "John Sinclair",
-    "duration" : 3510.6940000000004,
-    "releaseDate" : 296784000,
-    "title" : "John Sinclair, Classics Folge 3: Dr. Satanos",
-    "upc" : "9783838766485"
   },
   {
     "albumID" : "378824710",
@@ -662,6 +654,14 @@
     "releaseDate" : 384912000,
     "title" : "Folge 81: Allein in der Drachenhöhle - Kreuz-Trilogie, Teil 2",
     "upc" : "9783838771779"
+  },
+  {
+    "albumID" : "634857916",
+    "artist" : "John Sinclair",
+    "duration" : 4721.906999999999,
+    "releaseDate" : 388022400,
+    "title" : "Folge 83: Ein Leben unter Toten",
+    "upc" : "4250783611221"
   },
   {
     "albumID" : "641572055",
@@ -1896,20 +1896,20 @@
     "upc" : "4251234326640"
   },
   {
-    "albumID" : "1252972325",
-    "artist" : "John Sinclair",
-    "duration" : 8500.182999999999,
-    "releaseDate" : 522288000,
-    "title" : "Sinclair Academy, Folge 10: Das kalte Kind",
-    "upc" : "9783838784700"
-  },
-  {
     "albumID" : "1265807968",
     "artist" : "John Sinclair",
     "duration" : 3754.667999999999,
     "releaseDate" : 522288000,
     "title" : "Tonstudio Braun, Folge 88: Die Geier und der Wertiger",
     "upc" : "4251234337417"
+  },
+  {
+    "albumID" : "1252972325",
+    "artist" : "John Sinclair",
+    "duration" : 8500.182999999999,
+    "releaseDate" : 522288000,
+    "title" : "Sinclair Academy, Folge 10: Das kalte Kind",
+    "upc" : "9783838784700"
   },
   {
     "albumID" : "1214958497",
@@ -2208,6 +2208,14 @@
     "upc" : "9783838787749"
   },
   {
+    "albumID" : "1369227784",
+    "artist" : "John Sinclair",
+    "duration" : 3287.8519999999994,
+    "releaseDate" : 554342400,
+    "title" : "Folge 123: Alvas Feuerkuss",
+    "upc" : "9783838787596"
+  },
+  {
     "albumID" : "1369227922",
     "artist" : "John Sinclair",
     "duration" : 3505.8030000000003,
@@ -2288,6 +2296,14 @@
     "upc" : "9783838779249"
   },
   {
+    "albumID" : "1461467289",
+    "artist" : "John Sinclair",
+    "duration" : 3246.4950000000003,
+    "releaseDate" : 578448000,
+    "title" : "Episode 12: Some Darker Magic",
+    "upc" : "9783838779287"
+  },
+  {
     "albumID" : "1461468767",
     "artist" : "John Sinclair",
     "duration" : 2936.6839999999997,
@@ -2302,14 +2318,6 @@
     "releaseDate" : 578448000,
     "title" : "Episode 10: Black Dragon Rising",
     "upc" : "9783838779263"
-  },
-  {
-    "albumID" : "1461467289",
-    "artist" : "John Sinclair",
-    "duration" : 3246.4950000000003,
-    "releaseDate" : 578448000,
-    "title" : "Episode 12: Some Darker Magic",
-    "upc" : "9783838779287"
   },
   {
     "albumID" : "1458758419",
@@ -2582,14 +2590,6 @@
     "releaseDate" : 638409600,
     "title" : "Sinclair, Staffel 2: Underworld, Folge 1: Kyvos",
     "upc" : "4066004034362"
-  },
-  {
-    "albumID" : "1560216795",
-    "artist" : "John Sinclair",
-    "duration" : 3051.855,
-    "releaseDate" : 641433600,
-    "title" : "Folge 145: Villa Frankenstein",
-    "upc" : "9783838797069"
   },
   {
     "albumID" : "1564820359",
