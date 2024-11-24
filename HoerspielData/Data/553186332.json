@@ -24,14 +24,6 @@
     "upc" : "4260507139764"
   },
   {
-    "albumID" : "1362028441",
-    "artist" : "Sherlock Holmes & Co",
-    "duration" : 3008.0139999999997,
-    "releaseDate" : 418262400,
-    "title" : "Folge 7: Die Tragödie von Birlstone",
-    "upc" : "4260507139771"
-  },
-  {
     "albumID" : "1362219314",
     "artist" : "Sherlock Holmes & Co",
     "duration" : 3420.2119999999995,
@@ -240,6 +232,14 @@
     "upc" : "4260507137241"
   },
   {
+    "albumID" : "1362650242",
+    "artist" : "Sherlock Holmes & Co",
+    "duration" : 3293.3860000000004,
+    "releaseDate" : 546480000,
+    "title" : "Folge 37: Der Jungbrunnen, Episode 2",
+    "upc" : "4260507139634"
+  },
+  {
     "albumID" : "1386740020",
     "artist" : "Sherlock Holmes & Co",
     "duration" : 4092,
@@ -256,12 +256,12 @@
     "upc" : "4260507143969"
   },
   {
-    "albumID" : "1451505427",
+    "albumID" : "1495658335",
     "artist" : "Sherlock Holmes & Co",
-    "duration" : 4492.651999999999,
-    "releaseDate" : 573696000,
-    "title" : "Folge 44: Der Falschspieler mit dem Karo-Ass",
-    "upc" : "4260507147301"
+    "duration" : 4441.001,
+    "releaseDate" : 605750400,
+    "title" : "Folge 51: Der bleiche Tod",
+    "upc" : "4260507156211"
   },
   {
     "albumID" : "1515723264",
@@ -296,6 +296,22 @@
     "upc" : "4260507161543"
   },
   {
+    "albumID" : "1539151082",
+    "artist" : "Sherlock Holmes & Co",
+    "duration" : 3953.0009999999984,
+    "releaseDate" : 628128000,
+    "title" : "Folge 57: Der König von New York",
+    "upc" : "4260507162021"
+  },
+  {
+    "albumID" : "1545545108",
+    "artist" : "Sherlock Holmes & Co",
+    "duration" : 3422.0009999999993,
+    "releaseDate" : 633571200,
+    "title" : "Folge 58: Unheilvolle Beute",
+    "upc" : "4260507162694"
+  },
+  {
     "albumID" : "1559500558",
     "artist" : "Sherlock Holmes & Co",
     "duration" : 4099.603,
@@ -312,14 +328,6 @@
     "upc" : "4260507166777"
   },
   {
-    "albumID" : "1583616171",
-    "artist" : "Sherlock Holmes & Co",
-    "duration" : 3366.999,
-    "releaseDate" : 654134400,
-    "title" : "Folge 64: Puppenspieler",
-    "upc" : "4260507170156"
-  },
-  {
     "albumID" : "1589751797",
     "artist" : "Sherlock Holmes & Co",
     "duration" : 3500.0020000000004,
@@ -334,14 +342,6 @@
     "releaseDate" : 669859200,
     "title" : "Folge 66: Die Stunde der Frau",
     "upc" : "4260507172273"
-  },
-  {
-    "albumID" : "1610157105",
-    "artist" : "Sherlock Holmes & Co",
-    "duration" : 4599.003000000001,
-    "releaseDate" : 672278400,
-    "title" : "Folge 67: Der Wiedergänger",
-    "upc" : "4260507172563"
   },
   {
     "albumID" : "1631824314",
