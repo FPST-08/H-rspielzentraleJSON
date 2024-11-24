@@ -1,19 +1,19 @@
 [
   {
+    "albumID" : "1478283967",
+    "artist" : "Sherlock Holmes - Die neuen Fälle",
+    "duration" : 5974.2300000000005,
+    "releaseDate" : 378950400,
+    "title" : "Fall 2: Die Gesellschaft des Schreckens (Die neuen Fälle)",
+    "upc" : "4260507153364"
+  },
+  {
     "albumID" : "1478284507",
     "artist" : "Sherlock Holmes - Die neuen Fälle",
     "duration" : 3995.069,
     "releaseDate" : 389836800,
     "title" : "Fall 4: Die gelbe und die blaue Flamme (Die neuen Fälle)",
     "upc" : "4260507153388"
-  },
-  {
-    "albumID" : "1478285233",
-    "artist" : "Sherlock Holmes - Die neuen Fälle",
-    "duration" : 4498.360999999999,
-    "releaseDate" : 394675200,
-    "title" : "Fall 5: Das steinerne Schiff (Die neuen Fälle)",
-    "upc" : "4260507153395"
   },
   {
     "albumID" : "1478286188",
@@ -56,20 +56,20 @@
     "upc" : "4260507153456"
   },
   {
-    "albumID" : "1478288320",
-    "artist" : "Sherlock Holmes - Die neuen Fälle",
-    "duration" : 4442.373,
-    "releaseDate" : 427334400,
-    "title" : "Fall 12: Der verhängnisvolle Schlüssel (Die neuen Fälle)",
-    "upc" : "4260507153463"
-  },
-  {
     "albumID" : "1478289003",
     "artist" : "Sherlock Holmes - Die neuen Fälle",
     "duration" : 4005.639999999999,
     "releaseDate" : 432777600,
     "title" : "Fall 13: Der geniale Magier (Die neuen Fälle)",
     "upc" : "4260507153470"
+  },
+  {
+    "albumID" : "1478290095",
+    "artist" : "Sherlock Holmes - Die neuen Fälle",
+    "duration" : 4540.254000000002,
+    "releaseDate" : 435196800,
+    "title" : "Fall 14: Der bibelfeste Mörder (Die neuen Fälle)",
+    "upc" : "4260507153487"
   },
   {
     "albumID" : "1478289281",
