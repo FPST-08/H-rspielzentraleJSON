@@ -64,14 +64,6 @@
     "upc" : "4260507181114"
   },
   {
-    "albumID" : "1680676021",
-    "artist" : "Larry Brent",
-    "duration" : 3156.4409999999993,
-    "releaseDate" : 702518400,
-    "title" : "Folge 15: Die Pest fraß sie alle",
-    "upc" : "4260507181275"
-  },
-  {
     "albumID" : "1679321789",
     "artist" : "Larry Brent",
     "duration" : 4219.7029999999995,
@@ -80,12 +72,12 @@
     "upc" : "4260507181138"
   },
   {
-    "albumID" : "1680676099",
+    "albumID" : "1680676021",
     "artist" : "Larry Brent",
-    "duration" : 3544.7600000000007,
+    "duration" : 3156.4409999999993,
     "releaseDate" : 702518400,
-    "title" : "Folge 14: Eiskalter Tod",
-    "upc" : "4260507181251"
+    "title" : "Folge 15: Die Pest fraß sie alle",
+    "upc" : "4260507181275"
   },
   {
     "albumID" : "1680675071",
@@ -94,6 +86,14 @@
     "releaseDate" : 702518400,
     "title" : "Folge 12: Draculas Liebesbiss",
     "upc" : "4260507181213"
+  },
+  {
+    "albumID" : "1680676099",
+    "artist" : "Larry Brent",
+    "duration" : 3544.7600000000007,
+    "releaseDate" : 702518400,
+    "title" : "Folge 14: Eiskalter Tod",
+    "upc" : "4260507181251"
   },
   {
     "albumID" : "1680676952",
@@ -110,6 +110,14 @@
     "releaseDate" : 702518400,
     "title" : "Folge 11: Vampir-Klinik des Dr. Satanas",
     "upc" : "4260507181190"
+  },
+  {
+    "albumID" : "1680677388",
+    "artist" : "Larry Brent",
+    "duration" : 3810.597999999999,
+    "releaseDate" : 702518400,
+    "title" : "Folge 20: Das Beinhaus der Medusa",
+    "upc" : "4260507181374"
   },
   {
     "albumID" : "1680679578",
@@ -144,44 +152,12 @@
     "upc" : "4260507181398"
   },
   {
-    "albumID" : "1680677388",
-    "artist" : "Larry Brent",
-    "duration" : 3810.597999999999,
-    "releaseDate" : 702518400,
-    "title" : "Folge 20: Das Beinhaus der Medusa",
-    "upc" : "4260507181374"
-  },
-  {
     "albumID" : "1680675798",
     "artist" : "Larry Brent",
     "duration" : 3711.0530000000003,
     "releaseDate" : 702518400,
     "title" : "Folge 13: Draculas Höllenfahrt",
     "upc" : "4260507181237"
-  },
-  {
-    "albumID" : "1680677279",
-    "artist" : "Larry Brent",
-    "duration" : 4660.867,
-    "releaseDate" : 702518400,
-    "title" : "Folge 18: Verfluchte aus dem Jenseits (3 von 3)",
-    "upc" : "4260507181336"
-  },
-  {
-    "albumID" : "1680678691",
-    "artist" : "Larry Brent",
-    "duration" : 3334.867,
-    "releaseDate" : 702518400,
-    "title" : "Folge 25: Geheimexperiment \"Todessporen\"",
-    "upc" : "4260507181473"
-  },
-  {
-    "albumID" : "1680681816",
-    "artist" : "Larry Brent",
-    "duration" : 4624.679000000002,
-    "releaseDate" : 702518400,
-    "title" : "Folge 45: Die Treppe ins Jenseits",
-    "upc" : "4260507181879"
   },
   {
     "albumID" : "1680678167",
@@ -192,52 +168,28 @@
     "upc" : "4260507181435"
   },
   {
-    "albumID" : "1680680178",
+    "albumID" : "1680677279",
     "artist" : "Larry Brent",
-    "duration" : 4231.334,
+    "duration" : 4660.867,
     "releaseDate" : 702518400,
-    "title" : "Folge 32: Der Fluch der blutenden Augen",
-    "upc" : "4260507181619"
+    "title" : "Folge 18: Verfluchte aus dem Jenseits (3 von 3)",
+    "upc" : "4260507181336"
   },
   {
-    "albumID" : "1680680975",
+    "albumID" : "1680681816",
     "artist" : "Larry Brent",
-    "duration" : 3333.278999999999,
+    "duration" : 4624.679000000002,
     "releaseDate" : 702518400,
-    "title" : "Folge 39: Der Horror-Butler",
-    "upc" : "4260507181756"
+    "title" : "Folge 45: Die Treppe ins Jenseits",
+    "upc" : "4260507181879"
   },
   {
-    "albumID" : "1680682289",
+    "albumID" : "1680678691",
     "artist" : "Larry Brent",
-    "duration" : 6863.374999999999,
+    "duration" : 3334.867,
     "releaseDate" : 702518400,
-    "title" : "Folge 43: Die Angst erwacht im Todesschloss",
-    "upc" : "4260507181831"
-  },
-  {
-    "albumID" : "1680680315",
-    "artist" : "Larry Brent",
-    "duration" : 4320.006,
-    "releaseDate" : 702518400,
-    "title" : "Folge 33: Der Schlitzer aus dem Jenseits",
-    "upc" : "4260507181633"
-  },
-  {
-    "albumID" : "1680682361",
-    "artist" : "Larry Brent",
-    "duration" : 4043.8149999999996,
-    "releaseDate" : 702518400,
-    "title" : "Folge 47: Atomgespenster",
-    "upc" : "4260507181916"
-  },
-  {
-    "albumID" : "1680677995",
-    "artist" : "Larry Brent",
-    "duration" : 3159.638999999999,
-    "releaseDate" : 702518400,
-    "title" : "Folge 24: Satans Mörderuhr",
-    "upc" : "4260507181459"
+    "title" : "Folge 25: Geheimexperiment \"Todessporen\"",
+    "upc" : "4260507181473"
   },
   {
     "albumID" : "1680679689",
@@ -248,12 +200,84 @@
     "upc" : "4260507181558"
   },
   {
+    "albumID" : "1680680975",
+    "artist" : "Larry Brent",
+    "duration" : 3333.278999999999,
+    "releaseDate" : 702518400,
+    "title" : "Folge 39: Der Horror-Butler",
+    "upc" : "4260507181756"
+  },
+  {
+    "albumID" : "1680677505",
+    "artist" : "Larry Brent",
+    "duration" : 3291.734999999999,
+    "releaseDate" : 702518400,
+    "title" : "Folge 22: Die Mörderpuppen der Madame Wong",
+    "upc" : "4260507181411"
+  },
+  {
+    "albumID" : "1680680315",
+    "artist" : "Larry Brent",
+    "duration" : 4320.006,
+    "releaseDate" : 702518400,
+    "title" : "Folge 33: Der Schlitzer aus dem Jenseits",
+    "upc" : "4260507181633"
+  },
+  {
+    "albumID" : "1680680178",
+    "artist" : "Larry Brent",
+    "duration" : 4231.334,
+    "releaseDate" : 702518400,
+    "title" : "Folge 32: Der Fluch der blutenden Augen",
+    "upc" : "4260507181619"
+  },
+  {
+    "albumID" : "1680677995",
+    "artist" : "Larry Brent",
+    "duration" : 3159.638999999999,
+    "releaseDate" : 702518400,
+    "title" : "Folge 24: Satans Mörderuhr",
+    "upc" : "4260507181459"
+  },
+  {
+    "albumID" : "1680682361",
+    "artist" : "Larry Brent",
+    "duration" : 4043.8149999999996,
+    "releaseDate" : 702518400,
+    "title" : "Folge 47: Atomgespenster",
+    "upc" : "4260507181916"
+  },
+  {
+    "albumID" : "1680678586",
+    "artist" : "Larry Brent",
+    "duration" : 2948.6679999999997,
+    "releaseDate" : 702518400,
+    "title" : "Folge 26: Dr. Satanas Killer-Computer",
+    "upc" : "4260507181497"
+  },
+  {
     "albumID" : "1680681463",
     "artist" : "Larry Brent",
     "duration" : 3744.0640000000008,
     "releaseDate" : 702518400,
     "title" : "Folge 42: Machetta - Sumpfhexe vom Mississippi",
     "upc" : "4260507181817"
+  },
+  {
+    "albumID" : "1680681126",
+    "artist" : "Larry Brent",
+    "duration" : 3246.438999999999,
+    "releaseDate" : 702518400,
+    "title" : "Folge 40: Todesküsse vom Höllenfürst",
+    "upc" : "4260507181770"
+  },
+  {
+    "albumID" : "1680682289",
+    "artist" : "Larry Brent",
+    "duration" : 6863.374999999999,
+    "releaseDate" : 702518400,
+    "title" : "Folge 43: Die Angst erwacht im Todesschloss",
+    "upc" : "4260507181831"
   },
   {
     "albumID" : "1680679960",
@@ -272,60 +296,12 @@
     "upc" : "4260507181718"
   },
   {
-    "albumID" : "1680678586",
-    "artist" : "Larry Brent",
-    "duration" : 2948.6679999999997,
-    "releaseDate" : 702518400,
-    "title" : "Folge 26: Dr. Satanas Killer-Computer",
-    "upc" : "4260507181497"
-  },
-  {
-    "albumID" : "1680681126",
-    "artist" : "Larry Brent",
-    "duration" : 3246.438999999999,
-    "releaseDate" : 702518400,
-    "title" : "Folge 40: Todesküsse vom Höllenfürst",
-    "upc" : "4260507181770"
-  },
-  {
-    "albumID" : "1680677505",
-    "artist" : "Larry Brent",
-    "duration" : 3291.734999999999,
-    "releaseDate" : 702518400,
-    "title" : "Folge 22: Die Mörderpuppen der Madame Wong",
-    "upc" : "4260507181411"
-  },
-  {
     "albumID" : "1680678844",
     "artist" : "Larry Brent",
     "duration" : 3541.132000000001,
     "releaseDate" : 702518400,
     "title" : "Folge 28: Amöba saugt die Menschen aus",
     "upc" : "4260507181534"
-  },
-  {
-    "albumID" : "1680680053",
-    "artist" : "Larry Brent",
-    "duration" : 4102.508,
-    "releaseDate" : 702518400,
-    "title" : "Folge 35: Die Schneehexe",
-    "upc" : "4260507181671"
-  },
-  {
-    "albumID" : "1680682518",
-    "artist" : "Larry Brent",
-    "duration" : 4668.678000000001,
-    "releaseDate" : 702518400,
-    "title" : "Folge 46: Das Grauen von Blackwood Castle",
-    "upc" : "4260507181893"
-  },
-  {
-    "albumID" : "1680680732",
-    "artist" : "Larry Brent",
-    "duration" : 3570.721,
-    "releaseDate" : 702518400,
-    "title" : "Folge 38: Pakt mit Luzifer",
-    "upc" : "4260507181732"
   },
   {
     "albumID" : "1680680641",
@@ -344,12 +320,36 @@
     "upc" : "4260507181596"
   },
   {
+    "albumID" : "1680680732",
+    "artist" : "Larry Brent",
+    "duration" : 3570.721,
+    "releaseDate" : 702518400,
+    "title" : "Folge 38: Pakt mit Luzifer",
+    "upc" : "4260507181732"
+  },
+  {
+    "albumID" : "1680680053",
+    "artist" : "Larry Brent",
+    "duration" : 4102.508,
+    "releaseDate" : 702518400,
+    "title" : "Folge 35: Die Schneehexe",
+    "upc" : "4260507181671"
+  },
+  {
     "albumID" : "1680681916",
     "artist" : "Larry Brent",
     "duration" : 3188.7600000000007,
     "releaseDate" : 702518400,
     "title" : "Folge 44: Medusas steinerne Mörder",
     "upc" : "4260507181855"
+  },
+  {
+    "albumID" : "1680682518",
+    "artist" : "Larry Brent",
+    "duration" : 4668.678000000001,
+    "releaseDate" : 702518400,
+    "title" : "Folge 46: Das Grauen von Blackwood Castle",
+    "upc" : "4260507181893"
   },
   {
     "albumID" : "1680681553",
