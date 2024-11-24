@@ -1,13 +1,5 @@
 [
   {
-    "albumID" : "1384996720",
-    "artist" : "Mimi Rutherfurt",
-    "duration" : 2622.001,
-    "releaseDate" : 427939200,
-    "title" : "Folge 6: Flucht im Dunkeln",
-    "upc" : "4260507140388"
-  },
-  {
     "albumID" : "1384971189",
     "artist" : "Mimi Rutherfurt",
     "duration" : 2737.001,
@@ -168,14 +160,6 @@
     "upc" : "4260507140777"
   },
   {
-    "albumID" : "1385075266",
-    "artist" : "Mimi Rutherfurt",
-    "duration" : 4112.002,
-    "releaseDate" : 492652800,
-    "title" : "Mimi Rutherfurt ermittelt ..., Folge 4: Im Schatten der Stonehenge",
-    "upc" : "4260507140784"
-  },
-  {
     "albumID" : "1385073209",
     "artist" : "Mimi Rutherfurt",
     "duration" : 4782.000000000001,
@@ -184,12 +168,12 @@
     "upc" : "4260507140760"
   },
   {
-    "albumID" : "1385084241",
+    "albumID" : "1385075266",
     "artist" : "Mimi Rutherfurt",
-    "duration" : 4503.001,
+    "duration" : 4112.002,
     "releaseDate" : 492652800,
-    "title" : "Mimi Rutherfurt ermittelt ..., Folge 7: Todsicher in Ascot",
-    "upc" : "4260507140814"
+    "title" : "Mimi Rutherfurt ermittelt ..., Folge 4: Im Schatten der Stonehenge",
+    "upc" : "4260507140784"
   },
   {
     "albumID" : "1385078832",
@@ -198,6 +182,14 @@
     "releaseDate" : 492652800,
     "title" : "Mimi Rutherfurt ermittelt ..., Folge 5: Mord in der Kathedrale",
     "upc" : "4260507140791"
+  },
+  {
+    "albumID" : "1385084241",
+    "artist" : "Mimi Rutherfurt",
+    "duration" : 4503.001,
+    "releaseDate" : 492652800,
+    "title" : "Mimi Rutherfurt ermittelt ..., Folge 7: Todsicher in Ascot",
+    "upc" : "4260507140814"
   },
   {
     "albumID" : "1381368202",
@@ -216,36 +208,20 @@
     "upc" : "4260507140807"
   },
   {
+    "albumID" : "1385018335",
+    "artist" : "Mimi Rutherfurt",
+    "duration" : 3993.0029999999997,
+    "releaseDate" : 547689600,
+    "title" : "Folge 14: Sein oder Nichtsein",
+    "upc" : "4260507140463"
+  },
+  {
     "albumID" : "1385043439",
     "artist" : "Mimi Rutherfurt",
     "duration" : 3863.9970000000003,
     "releaseDate" : 547689600,
     "title" : "Folge 24: Schwarze Blüten",
     "upc" : "4260507140562"
-  },
-  {
-    "albumID" : "1385014164",
-    "artist" : "Mimi Rutherfurt",
-    "duration" : 4744.000000000001,
-    "releaseDate" : 547689600,
-    "title" : "Folge 10: Spuk im Herrenhaus",
-    "upc" : "4260507140425"
-  },
-  {
-    "albumID" : "1385000440",
-    "artist" : "Mimi Rutherfurt",
-    "duration" : 3300.999,
-    "releaseDate" : 547689600,
-    "title" : "Folge 7: Priestermord",
-    "upc" : "4260507140395"
-  },
-  {
-    "albumID" : "1385030908",
-    "artist" : "Mimi Rutherfurt",
-    "duration" : 4313.999,
-    "releaseDate" : 547689600,
-    "title" : "Folge 19: Der Fuchs ist tot",
-    "upc" : "4260507140517"
   },
   {
     "albumID" : "1385011110",
@@ -256,20 +232,12 @@
     "upc" : "4260507140432"
   },
   {
-    "albumID" : "1385008591",
+    "albumID" : "1385000440",
     "artist" : "Mimi Rutherfurt",
-    "duration" : 3280,
+    "duration" : 3300.999,
     "releaseDate" : 547689600,
-    "title" : "Folge 9: Schwarze Rache",
-    "upc" : "4260507140418"
-  },
-  {
-    "albumID" : "1384978244",
-    "artist" : "Mimi Rutherfurt",
-    "duration" : 2997.0020000000004,
-    "releaseDate" : 547689600,
-    "title" : "Folge 4: Todesliste",
-    "upc" : "4260507140364"
+    "title" : "Folge 7: Priestermord",
+    "upc" : "4260507140395"
   },
   {
     "albumID" : "1385014940",
@@ -280,28 +248,44 @@
     "upc" : "4260507140456"
   },
   {
+    "albumID" : "1385014164",
+    "artist" : "Mimi Rutherfurt",
+    "duration" : 4744.000000000001,
+    "releaseDate" : 547689600,
+    "title" : "Folge 10: Spuk im Herrenhaus",
+    "upc" : "4260507140425"
+  },
+  {
+    "albumID" : "1384978244",
+    "artist" : "Mimi Rutherfurt",
+    "duration" : 2997.0020000000004,
+    "releaseDate" : 547689600,
+    "title" : "Folge 4: Todesliste",
+    "upc" : "4260507140364"
+  },
+  {
+    "albumID" : "1385008591",
+    "artist" : "Mimi Rutherfurt",
+    "duration" : 3280,
+    "releaseDate" : 547689600,
+    "title" : "Folge 9: Schwarze Rache",
+    "upc" : "4260507140418"
+  },
+  {
+    "albumID" : "1385030908",
+    "artist" : "Mimi Rutherfurt",
+    "duration" : 4313.999,
+    "releaseDate" : 547689600,
+    "title" : "Folge 19: Der Fuchs ist tot",
+    "upc" : "4260507140517"
+  },
+  {
     "albumID" : "1385027898",
     "artist" : "Mimi Rutherfurt",
     "duration" : 4543.999000000001,
     "releaseDate" : 547689600,
     "title" : "Folge 16: Galgenfrist",
     "upc" : "4260507140487"
-  },
-  {
-    "albumID" : "1385023097",
-    "artist" : "Mimi Rutherfurt",
-    "duration" : 4116.998,
-    "releaseDate" : 547689600,
-    "title" : "Folge 15: Flammentod",
-    "upc" : "4260507140470"
-  },
-  {
-    "albumID" : "1385024686",
-    "artist" : "Mimi Rutherfurt",
-    "duration" : 4301.002000000001,
-    "releaseDate" : 547689600,
-    "title" : "Folge 17: Die Ruhe der Toten",
-    "upc" : "4260507140494"
   },
   {
     "albumID" : "1385033177",
@@ -312,12 +296,28 @@
     "upc" : "4260507140524"
   },
   {
+    "albumID" : "1385023097",
+    "artist" : "Mimi Rutherfurt",
+    "duration" : 4116.998,
+    "releaseDate" : 547689600,
+    "title" : "Folge 15: Flammentod",
+    "upc" : "4260507140470"
+  },
+  {
     "albumID" : "1385027315",
     "artist" : "Mimi Rutherfurt",
     "duration" : 3632.0010000000007,
     "releaseDate" : 547689600,
     "title" : "Folge 18: Diebe in der Nacht",
     "upc" : "4260507140500"
+  },
+  {
+    "albumID" : "1385024686",
+    "artist" : "Mimi Rutherfurt",
+    "duration" : 4301.002000000001,
+    "releaseDate" : 547689600,
+    "title" : "Folge 17: Die Ruhe der Toten",
+    "upc" : "4260507140494"
   },
   {
     "albumID" : "1385049044",
