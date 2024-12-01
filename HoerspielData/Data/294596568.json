@@ -1,27 +1,19 @@
 [
   {
+    "albumID" : "1458769055",
+    "artist" : "Dreamland Grusel",
+    "duration" : 3755.981,
+    "releaseDate" : 336009600,
+    "title" : "Folge 9: Tödliche Knochenhände",
+    "upc" : "4260507149459"
+  },
+  {
     "albumID" : "1458763362",
     "artist" : "Dreamland Grusel",
     "duration" : 4503.770999999999,
     "releaseDate" : 336009600,
     "title" : "Folge 3: Lebendig begraben",
     "upc" : "4260507149398"
-  },
-  {
-    "albumID" : "1458764972",
-    "artist" : "Dreamland Grusel",
-    "duration" : 4448.437,
-    "releaseDate" : 336009600,
-    "title" : "Folge 5: Wolfsnächte",
-    "upc" : "4260507149411"
-  },
-  {
-    "albumID" : "1458769069",
-    "artist" : "Dreamland Grusel",
-    "duration" : 3472.656,
-    "releaseDate" : 336009600,
-    "title" : "Folge 11: Die Totenpatrouille",
-    "upc" : "4260507149480"
   },
   {
     "albumID" : "1458768558",
@@ -64,20 +56,20 @@
     "upc" : "4260507149466"
   },
   {
+    "albumID" : "1458762910",
+    "artist" : "Dreamland Grusel",
+    "duration" : 4278.713000000001,
+    "releaseDate" : 336009600,
+    "title" : "Folge 2: Jagd auf den Werwolf",
+    "upc" : "4260507149381"
+  },
+  {
     "albumID" : "1465319565",
     "artist" : "Dreamland Grusel",
     "duration" : 4368.2970000000005,
     "releaseDate" : 336009600,
     "title" : "Folge 10: Blutgericht der Insekten",
     "upc" : "4260507149473"
-  },
-  {
-    "albumID" : "1458769807",
-    "artist" : "Dreamland Grusel",
-    "duration" : 3420.1990000000005,
-    "releaseDate" : 399513600,
-    "title" : "Folge 13: Der Geist aus dem Totenbrunnen",
-    "upc" : "4260507149503"
   },
   {
     "albumID" : "1458769865",
@@ -102,6 +94,14 @@
     "releaseDate" : 415238400,
     "title" : "Folge 16: Die Stadt des Todes",
     "upc" : "4260507149527"
+  },
+  {
+    "albumID" : "1458772190",
+    "artist" : "Dreamland Grusel",
+    "duration" : 4784.708,
+    "releaseDate" : 427334400,
+    "title" : "Folge 17: Killer aus der Tiefe",
+    "upc" : "4260507149534"
   },
   {
     "albumID" : "1458773590",
@@ -200,6 +200,14 @@
     "upc" : "4260507149657"
   },
   {
+    "albumID" : "1458779647",
+    "artist" : "Dreamland Grusel",
+    "duration" : 3834.6810000000005,
+    "releaseDate" : 525312000,
+    "title" : "Folge 30: Zeit der Angst",
+    "upc" : "4260507149664"
+  },
+  {
     "albumID" : "1458779814",
     "artist" : "Dreamland Grusel",
     "duration" : 4160.2390000000005,
@@ -246,14 +254,6 @@
     "releaseDate" : 689212800,
     "title" : "Folge 54: Die Rückkehr der Todesratte",
     "upc" : "4260507177193"
-  },
-  {
-    "albumID" : "1670067443",
-    "artist" : "Dreamland Grusel",
-    "duration" : 2692.1319999999996,
-    "releaseDate" : 699494400,
-    "title" : "Folge 55: Der Tag der Bestie",
-    "upc" : "4260507180261"
   },
   {
     "albumID" : "1675465466",
@@ -386,7 +386,7 @@
   {
     "albumID" : "1775149623",
     "artist" : "Dreamland Grusel",
-    "duration" : 207.567,
+    "duration" : 4460.987000000001,
     "releaseDate" : 754531200,
     "title" : "Folge 72: Das allsehende Auge",
     "upc" : "4260507199881"
