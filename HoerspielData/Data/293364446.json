@@ -8,12 +8,12 @@
     "upc" : "4049709934625"
   },
   {
-    "albumID" : "1527469297",
+    "albumID" : "1527470395",
     "artist" : "Gruselkabinett",
-    "duration" : 4134.04,
+    "duration" : 4376.348999999998,
     "releaseDate" : 126230400,
-    "title" : "Folge 7: Die Totenbraut",
-    "upc" : "4049709934649"
+    "title" : "Folge 5: Die Unschuldsengel",
+    "upc" : "4049709934601"
   },
   {
     "albumID" : "1527444584",
@@ -24,12 +24,12 @@
     "upc" : "4049709934946"
   },
   {
-    "albumID" : "1527470395",
+    "albumID" : "1527469297",
     "artist" : "Gruselkabinett",
-    "duration" : 4376.348999999998,
+    "duration" : 4134.04,
     "releaseDate" : 126230400,
-    "title" : "Folge 5: Die Unschuldsengel",
-    "upc" : "4049709934601"
+    "title" : "Folge 7: Die Totenbraut",
+    "upc" : "4049709934649"
   },
   {
     "albumID" : "1527471338",
@@ -104,14 +104,6 @@
     "upc" : "4049709934786"
   },
   {
-    "albumID" : "1527455653",
-    "artist" : "Gruselkabinett",
-    "duration" : 3681.227999999999,
-    "releaseDate" : 189302400,
-    "title" : "Folge 21: Der Hexenfluch",
-    "upc" : "4049709934885"
-  },
-  {
     "albumID" : "1527448934",
     "artist" : "Gruselkabinett",
     "duration" : 3170.1349999999998,
@@ -120,12 +112,12 @@
     "upc" : "4049709934908"
   },
   {
-    "albumID" : "1527460839",
+    "albumID" : "1527455653",
     "artist" : "Gruselkabinett",
-    "duration" : 4699.946999999999,
+    "duration" : 3681.227999999999,
     "releaseDate" : 189302400,
-    "title" : "Folge 18: Dracula (Folge 2 von 3)",
-    "upc" : "4049709934823"
+    "title" : "Folge 21: Der Hexenfluch",
+    "upc" : "4049709934885"
   },
   {
     "albumID" : "1527443372",
@@ -136,12 +128,12 @@
     "upc" : "4049709934960"
   },
   {
-    "albumID" : "1527454693",
+    "albumID" : "1527460839",
     "artist" : "Gruselkabinett",
-    "duration" : 4731.067,
+    "duration" : 4699.946999999999,
     "releaseDate" : 189302400,
-    "title" : "Folge 20: Der Werwolf",
-    "upc" : "4049709934861"
+    "title" : "Folge 18: Dracula (Folge 2 von 3)",
+    "upc" : "4049709934823"
   },
   {
     "albumID" : "1527457989",
@@ -150,6 +142,14 @@
     "releaseDate" : 189302400,
     "title" : "Folge 19: Dracula (Folge 3 von 3)",
     "upc" : "4049709934847"
+  },
+  {
+    "albumID" : "1527454693",
+    "artist" : "Gruselkabinett",
+    "duration" : 4731.067,
+    "releaseDate" : 189302400,
+    "title" : "Folge 20: Der Werwolf",
+    "upc" : "4049709934861"
   },
   {
     "albumID" : "1527443515",
@@ -224,20 +224,20 @@
     "upc" : "4049709936018"
   },
   {
-    "albumID" : "1527401592",
-    "artist" : "Gruselkabinett",
-    "duration" : 3292.893,
-    "releaseDate" : 252460800,
-    "title" : "Folge 34: Die obere Koje",
-    "upc" : "4049709935967"
-  },
-  {
     "albumID" : "1527382548",
     "artist" : "Gruselkabinett",
     "duration" : 4631.149,
     "releaseDate" : 252460800,
     "title" : "Folge 32: Jagd der Vampire (Folge 1 von 2)",
     "upc" : "4049709935943"
+  },
+  {
+    "albumID" : "1527401592",
+    "artist" : "Gruselkabinett",
+    "duration" : 3292.893,
+    "releaseDate" : 252460800,
+    "title" : "Folge 34: Die obere Koje",
+    "upc" : "4049709935967"
   },
   {
     "albumID" : "1527400687",
@@ -456,20 +456,20 @@
     "upc" : "4049709939279"
   },
   {
-    "albumID" : "1527237813",
-    "artist" : "Gruselkabinett",
-    "duration" : 3504.7359999999994,
-    "releaseDate" : 355276800,
-    "title" : "Folge 62: Rappaccinis Tochter",
-    "upc" : "4049709939408"
-  },
-  {
     "albumID" : "1527239040",
     "artist" : "Gruselkabinett",
     "duration" : 3392.549000000001,
     "releaseDate" : 355276800,
     "title" : "Folge 63: Besessen",
     "upc" : "4049709939422"
+  },
+  {
+    "albumID" : "1527237813",
+    "artist" : "Gruselkabinett",
+    "duration" : 3504.7359999999994,
+    "releaseDate" : 355276800,
+    "title" : "Folge 62: Rappaccinis Tochter",
+    "upc" : "4049709939408"
   },
   {
     "albumID" : "1527239419",
@@ -768,20 +768,20 @@
     "upc" : "4049709940435"
   },
   {
-    "albumID" : "1037791074",
-    "artist" : "Gruselkabinett",
-    "duration" : 4249.494,
-    "releaseDate" : 463622400,
-    "title" : "Folge 102: Mrs. Amworth",
-    "upc" : "9783785751626"
-  },
-  {
     "albumID" : "1527224675",
     "artist" : "Gruselkabinett",
     "duration" : 3081.7339999999995,
     "releaseDate" : 463622400,
     "title" : "Folge 103: Das ägyptische Parfüm",
     "upc" : "4049709940510"
+  },
+  {
+    "albumID" : "1037791074",
+    "artist" : "Gruselkabinett",
+    "duration" : 4249.494,
+    "releaseDate" : 463622400,
+    "title" : "Folge 102: Mrs. Amworth",
+    "upc" : "9783785751626"
   },
   {
     "albumID" : "1527227623",
@@ -840,20 +840,20 @@
     "upc" : "4049709940633"
   },
   {
-    "albumID" : "1527143627",
-    "artist" : "Gruselkabinett",
-    "duration" : 3424.2549999999987,
-    "releaseDate" : 490233600,
-    "title" : "Folge 110: Der Drachenspiegel",
-    "upc" : "4049709941210"
-  },
-  {
     "albumID" : "1527143900",
     "artist" : "Gruselkabinett",
     "duration" : 4044.933000000001,
     "releaseDate" : 490233600,
     "title" : "Folge 111: Die Grube und das Pendel",
     "upc" : "4049709941234"
+  },
+  {
+    "albumID" : "1527143627",
+    "artist" : "Gruselkabinett",
+    "duration" : 3424.2549999999987,
+    "releaseDate" : 490233600,
+    "title" : "Folge 110: Der Drachenspiegel",
+    "upc" : "4049709941210"
   },
   {
     "albumID" : "1527144112",
@@ -942,6 +942,14 @@
     "releaseDate" : 519868800,
     "title" : "Folge 123: Die Zeitmaschine",
     "upc" : "4049709941296"
+  },
+  {
+    "albumID" : "1527391777",
+    "artist" : "Gruselkabinett",
+    "duration" : 3636.295,
+    "releaseDate" : 525312000,
+    "title" : "Folge 124: Der Krieg der Welten (Teil 1 von 2)",
+    "upc" : "4049709933512"
   },
   {
     "albumID" : "1527391726",
@@ -1128,20 +1136,20 @@
     "upc" : "4049709945034"
   },
   {
-    "albumID" : "1527086250",
-    "artist" : "Gruselkabinett",
-    "duration" : 5671.677999999999,
-    "releaseDate" : 606960000,
-    "title" : "Folge 159: Das kalte Herz",
-    "upc" : "4251777700082"
-  },
-  {
     "albumID" : "1527083104",
     "artist" : "Gruselkabinett",
     "duration" : 3355.0300000000007,
     "releaseDate" : 606960000,
     "title" : "Folge 158: Das innerste Licht",
     "upc" : "4251777700099"
+  },
+  {
+    "albumID" : "1527086250",
+    "artist" : "Gruselkabinett",
+    "duration" : 5671.677999999999,
+    "releaseDate" : 606960000,
+    "title" : "Folge 159: Das kalte Herz",
+    "upc" : "4251777700082"
   },
   {
     "albumID" : "1527080582",
@@ -1216,28 +1224,12 @@
     "upc" : "9783785783177"
   },
   {
-    "albumID" : "1561774085",
-    "artist" : "Gruselkabinett",
-    "duration" : 3563.4659999999994,
-    "releaseDate" : 641433600,
-    "title" : "Folge 170: Eine wahre Vampir-Geschichte",
-    "upc" : "4251777701577"
-  },
-  {
     "albumID" : "1594818467",
     "artist" : "Gruselkabinett",
     "duration" : 5385.013000000001,
     "releaseDate" : 659577600,
     "title" : "Folge 175: Der Student von Prag",
     "upc" : "4251777702345"
-  },
-  {
-    "albumID" : "1598917522",
-    "artist" : "Gruselkabinett",
-    "duration" : 3450.265,
-    "releaseDate" : 661392000,
-    "title" : "Folge 176: Das Lächeln des Toten",
-    "upc" : "4251777703175"
   },
   {
     "albumID" : "1612208699",
@@ -1254,6 +1246,22 @@
     "releaseDate" : 686188800,
     "title" : "Folge 179: Flaxman Low - Der Fall Medhans Lea",
     "upc" : "4251777704134"
+  },
+  {
+    "albumID" : "1652671540",
+    "artist" : "Gruselkabinett",
+    "duration" : 4344.976,
+    "releaseDate" : 691027200,
+    "title" : "Folge 181: Das gefährlichste Spiel der Welt",
+    "upc" : "4251777704301"
+  },
+  {
+    "albumID" : "1674298827",
+    "artist" : "Gruselkabinett",
+    "duration" : 3098.8260000000005,
+    "releaseDate" : 701913600,
+    "title" : "Folge 182: Sarahs Grabmal",
+    "upc" : "4251777704912"
   },
   {
     "albumID" : "1679292798",
@@ -1326,13 +1334,5 @@
     "releaseDate" : 751507200,
     "title" : "Folge 192: Gefangen bei den Pharaonen",
     "upc" : "4251777708927"
-  },
-  {
-    "albumID" : "1779116395",
-    "artist" : "Gruselkabinett",
-    "duration" : 176.267,
-    "releaseDate" : 754531200,
-    "title" : "Folge 193: Flaxman Low - Der Fall Yand Manor House",
-    "upc" : "4251777709122"
   }
 ]
