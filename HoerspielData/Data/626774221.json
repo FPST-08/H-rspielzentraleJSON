@@ -32,14 +32,6 @@
     "upc" : "4260507151711"
   },
   {
-    "albumID" : "1467948696",
-    "artist" : "Professor van Dusen",
-    "duration" : 4785.092,
-    "releaseDate" : 458784000,
-    "title" : "Die neuen Fälle, Fall 2: Professor van Dusen reitet das trojanische Pferd",
-    "upc" : "4260507151810"
-  },
-  {
     "albumID" : "1467950840",
     "artist" : "Professor van Dusen",
     "duration" : 4405.065,
@@ -72,20 +64,20 @@
     "upc" : "4260507151674"
   },
   {
-    "albumID" : "1467900580",
-    "artist" : "Professor van Dusen",
-    "duration" : 3627.5719999999997,
-    "releaseDate" : 482371200,
-    "title" : "Folge 3: Mord bei Gaslicht",
-    "upc" : "4260507151629"
-  },
-  {
     "albumID" : "1467909013",
     "artist" : "Professor van Dusen",
     "duration" : 3777.0969999999998,
     "releaseDate" : 482371200,
     "title" : "Folge 4: Der Mann, der seinen Kopf verlor",
     "upc" : "4260507151636"
+  },
+  {
+    "albumID" : "1467900580",
+    "artist" : "Professor van Dusen",
+    "duration" : 3627.5719999999997,
+    "releaseDate" : 482371200,
+    "title" : "Folge 3: Mord bei Gaslicht",
+    "upc" : "4260507151629"
   },
   {
     "albumID" : "1467910412",
@@ -256,6 +248,14 @@
     "upc" : "4260507155443"
   },
   {
+    "albumID" : "1506582102",
+    "artist" : "Professor van Dusen",
+    "duration" : 3157.483,
+    "releaseDate" : 606960000,
+    "title" : "Die neuen Fälle, Fall 21: Professor van Dusen zählt nach",
+    "upc" : "4260507157935"
+  },
+  {
     "albumID" : "1506768027",
     "artist" : "Professor van Dusen",
     "duration" : 3574.8050000000007,
@@ -280,6 +280,14 @@
     "upc" : "4260507158260"
   },
   {
+    "albumID" : "1503643060",
+    "artist" : "Professor van Dusen",
+    "duration" : 4028.1250000000005,
+    "releaseDate" : 640224000,
+    "title" : "Folge 27: Professor van Dusen und der schreckliche Schneemensch",
+    "upc" : "4260507158284"
+  },
+  {
     "albumID" : "1503643823",
     "artist" : "Professor van Dusen",
     "duration" : 3857.7649999999994,
@@ -294,14 +302,6 @@
     "releaseDate" : 650505600,
     "title" : "Folge 29: Wo steckt Professor van Dusen?",
     "upc" : "4260507158307"
-  },
-  {
-    "albumID" : "1643137445",
-    "artist" : "Professor van Dusen",
-    "duration" : 3664.319,
-    "releaseDate" : 686188800,
-    "title" : "Fall 31: Professor van Dusen hört das Gras wachsen (Die neuen Fälle)",
-    "upc" : "4260507176479"
   },
   {
     "albumID" : "1647816312",
