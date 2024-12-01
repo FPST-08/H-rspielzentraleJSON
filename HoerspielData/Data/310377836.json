@@ -16,14 +16,6 @@
     "upc" : "4260507157430"
   },
   {
-    "albumID" : "1499104081",
-    "artist" : "Fraktal",
-    "duration" : 3806.200000000001,
-    "releaseDate" : 581558400,
-    "title" : "Folge 8: Der leise Tod",
-    "upc" : "4260507157447"
-  },
-  {
     "albumID" : "1499106651",
     "artist" : "Fraktal",
     "duration" : 4281.582,
@@ -38,6 +30,14 @@
     "releaseDate" : 596678400,
     "title" : "Folge 11: Krieger des Taroximperiums",
     "upc" : "4260507155382"
+  },
+  {
+    "albumID" : "1495676458",
+    "artist" : "Fraktal",
+    "duration" : 3568.0119999999993,
+    "releaseDate" : 602726400,
+    "title" : "Folge 12: Kieron",
+    "upc" : "4260507156563"
   },
   {
     "albumID" : "1686561339",
