@@ -456,6 +456,14 @@
     "upc" : "886446602707"
   },
   {
+    "albumID" : "1441756871",
+    "artist" : "Die drei ??? Kids",
+    "duration" : 4622.468,
+    "releaseDate" : 570067200,
+    "title" : "Folge 68: Chaos im Dunkeln",
+    "upc" : "886447191729"
+  },
+  {
     "albumID" : "1449570341",
     "artist" : "Die drei ??? Kids",
     "duration" : 4348.025999999999,
@@ -478,14 +486,6 @@
     "releaseDate" : 591235200,
     "title" : "Folge 72: Die Laser-Falle",
     "upc" : "886447191774"
-  },
-  {
-    "albumID" : "1515518227",
-    "artist" : "Die drei ??? Kids",
-    "duration" : 4020.84,
-    "releaseDate" : 617846400,
-    "title" : "Folge 77: Die Musikdiebe",
-    "upc" : "886447878538"
   },
   {
     "albumID" : "1524265516",
