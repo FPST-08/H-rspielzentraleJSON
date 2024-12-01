@@ -224,14 +224,6 @@
     "upc" : "4260507136893"
   },
   {
-    "albumID" : "1314336064",
-    "artist" : "Sherlock Holmes & Co",
-    "duration" : 4630,
-    "releaseDate" : 538617600,
-    "title" : "Folge 35: Die schottische Spur",
-    "upc" : "4260507137241"
-  },
-  {
     "albumID" : "1362650242",
     "artist" : "Sherlock Holmes & Co",
     "duration" : 3293.3860000000004,
@@ -254,6 +246,14 @@
     "releaseDate" : 564624000,
     "title" : "Folge 42: Das Verschwinden der Louise M., Episode 2",
     "upc" : "4260507143969"
+  },
+  {
+    "albumID" : "1451505427",
+    "artist" : "Sherlock Holmes & Co",
+    "duration" : 4492.651999999999,
+    "releaseDate" : 573696000,
+    "title" : "Folge 44: Der Falschspieler mit dem Karo-Ass",
+    "upc" : "4260507147301"
   },
   {
     "albumID" : "1495658335",
@@ -296,14 +296,6 @@
     "upc" : "4260507161543"
   },
   {
-    "albumID" : "1539151082",
-    "artist" : "Sherlock Holmes & Co",
-    "duration" : 3953.0009999999984,
-    "releaseDate" : 628128000,
-    "title" : "Folge 57: Der König von New York",
-    "upc" : "4260507162021"
-  },
-  {
     "albumID" : "1545545108",
     "artist" : "Sherlock Holmes & Co",
     "duration" : 3422.0009999999993,
@@ -326,6 +318,14 @@
     "releaseDate" : 648086400,
     "title" : "Folge 62: Die Spur des Verderbens, Episode 2",
     "upc" : "4260507166777"
+  },
+  {
+    "albumID" : "1583616171",
+    "artist" : "Sherlock Holmes & Co",
+    "duration" : 3366.999,
+    "releaseDate" : 654134400,
+    "title" : "Folge 64: Puppenspieler",
+    "upc" : "4260507170156"
   },
   {
     "albumID" : "1589751797",
@@ -438,5 +438,21 @@
     "releaseDate" : 744249600,
     "title" : "Folge 80: Die dunkle Seite",
     "upc" : "4260507196507"
+  },
+  {
+    "albumID" : "1781786046",
+    "artist" : "Sherlock Holmes & Co",
+    "duration" : 183.586,
+    "releaseDate" : 756950400,
+    "title" : "Folge 81: Versuchung",
+    "upc" : "4260507200563"
+  },
+  {
+    "albumID" : "1781919516",
+    "artist" : "Sherlock Holmes & Co",
+    "duration" : 180.53300000000002,
+    "releaseDate" : 761788800,
+    "title" : "Folge 82: Jung, schön, tot",
+    "upc" : "4260507200600"
   }
 ]
