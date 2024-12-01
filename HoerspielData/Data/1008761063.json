@@ -1,5 +1,13 @@
 [
   {
+    "albumID" : "1443578058",
+    "artist" : "Die größten Fälle von Scotland Yard",
+    "duration" : 3660.5600000000004,
+    "releaseDate" : 461203200,
+    "title" : "Folge 7: Gefallener Engel",
+    "upc" : "4260507145055"
+  },
+  {
     "albumID" : "1443580230",
     "artist" : "Die größten Fälle von Scotland Yard",
     "duration" : 3943.2539999999995,
@@ -24,14 +32,6 @@
     "upc" : "4260507145093"
   },
   {
-    "albumID" : "1443584078",
-    "artist" : "Die größten Fälle von Scotland Yard",
-    "duration" : 3022.7749999999996,
-    "releaseDate" : 464227200,
-    "title" : "Folge 13: Sir Cedrics Beerdigung",
-    "upc" : "4260507145116"
-  },
-  {
     "albumID" : "1443585998",
     "artist" : "Die größten Fälle von Scotland Yard",
     "duration" : 3700.564,
@@ -40,20 +40,20 @@
     "upc" : "4260507145109"
   },
   {
-    "albumID" : "1443587248",
-    "artist" : "Die größten Fälle von Scotland Yard",
-    "duration" : 2357.6000000000004,
-    "releaseDate" : 464832000,
-    "title" : "Folge 16: Ein Mörder verschwindet",
-    "upc" : "4260507145147"
-  },
-  {
     "albumID" : "1443585675",
     "artist" : "Die größten Fälle von Scotland Yard",
     "duration" : 2290.4790000000007,
     "releaseDate" : 464832000,
     "title" : "Folge 15: Tod eines Scheinheiligen",
     "upc" : "4260507145130"
+  },
+  {
+    "albumID" : "1443587248",
+    "artist" : "Die größten Fälle von Scotland Yard",
+    "duration" : 2357.6000000000004,
+    "releaseDate" : 464832000,
+    "title" : "Folge 16: Ein Mörder verschwindet",
+    "upc" : "4260507145147"
   },
   {
     "albumID" : "1443585554",
@@ -88,20 +88,20 @@
     "upc" : "4260507145161"
   },
   {
-    "albumID" : "1443594924",
-    "artist" : "Die größten Fälle von Scotland Yard",
-    "duration" : 2974.640999999999,
-    "releaseDate" : 466041600,
-    "title" : "Folge 21: Ausgelöscht",
-    "upc" : "4260507145192"
-  },
-  {
     "albumID" : "1443586774",
     "artist" : "Die größten Fälle von Scotland Yard",
     "duration" : 4239.361,
     "releaseDate" : 466041600,
     "title" : "Folge 20: Die Felseninsel",
     "upc" : "4260507145185"
+  },
+  {
+    "albumID" : "1443594924",
+    "artist" : "Die größten Fälle von Scotland Yard",
+    "duration" : 2974.640999999999,
+    "releaseDate" : 466041600,
+    "title" : "Folge 21: Ausgelöscht",
+    "upc" : "4260507145192"
   },
   {
     "albumID" : "1443596102",
@@ -208,14 +208,6 @@
     "upc" : "4260507144720"
   },
   {
-    "albumID" : "1481960361",
-    "artist" : "Die größten Fälle von Scotland Yard",
-    "duration" : 3646.2,
-    "releaseDate" : 593654400,
-    "title" : "Folge 39: Fleischtransport",
-    "upc" : "4260507154804"
-  },
-  {
     "albumID" : "1508602245",
     "artist" : "Die größten Fälle von Scotland Yard",
     "duration" : 3955.734,
@@ -246,6 +238,14 @@
     "releaseDate" : 653529600,
     "title" : "Folge 49: Hochzeitsnacht",
     "upc" : "4260507166043"
+  },
+  {
+    "albumID" : "1575187401",
+    "artist" : "Die größten Fälle von Scotland Yard",
+    "duration" : 3035.004,
+    "releaseDate" : 658972800,
+    "title" : "Folge 50: Furcht vor der Wahrheit",
+    "upc" : "4260507168894"
   },
   {
     "albumID" : "1667373234",
