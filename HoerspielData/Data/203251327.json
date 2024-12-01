@@ -176,14 +176,6 @@
     "upc" : "9783955729066"
   },
   {
-    "albumID" : "1410157740",
-    "artist" : "Dorian Hunter",
-    "duration" : 4188.77,
-    "releaseDate" : 430963200,
-    "title" : "25.3: Die Masken des Dr. Faustus - Fastnacht",
-    "upc" : "9783962376796"
-  },
-  {
     "albumID" : "1412077313",
     "artist" : "Dorian Hunter",
     "duration" : 4178.76,
@@ -192,12 +184,12 @@
     "upc" : "9783962376864"
   },
   {
-    "albumID" : "1414349619",
+    "albumID" : "1412073411",
     "artist" : "Dorian Hunter",
-    "duration" : 3407.5309999999995,
-    "releaseDate" : 494467200,
-    "title" : "31: Capricorn",
-    "upc" : "9783962376888"
+    "duration" : 3125.0180000000005,
+    "releaseDate" : 470880000,
+    "title" : "29.1: Hexensabbat - Lehrjahre (Teil 1 Von 2)",
+    "upc" : "9783962376857"
   },
   {
     "albumID" : "1415630910",
@@ -214,6 +206,14 @@
     "releaseDate" : 623289600,
     "title" : "43: Wien",
     "upc" : "9783955726911"
+  },
+  {
+    "albumID" : "1624212537",
+    "artist" : "Dorian Hunter",
+    "duration" : 4948.6410000000005,
+    "releaseDate" : 677116800,
+    "title" : "47: Duk Duk",
+    "upc" : "9783955727086"
   },
   {
     "albumID" : "1649758242",
