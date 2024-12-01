@@ -136,6 +136,14 @@
     "upc" : "886445753295"
   },
   {
+    "albumID" : "1112964533",
+    "artist" : "Die drei !!!",
+    "duration" : 3763.8390000000004,
+    "releaseDate" : 389836800,
+    "title" : "Folge 25: Herzklopfen!",
+    "upc" : "886445753349"
+  },
+  {
     "albumID" : "1112970057",
     "artist" : "Die drei !!!",
     "duration" : 3510.3740000000003,
@@ -206,14 +214,6 @@
     "releaseDate" : 430963200,
     "title" : "Folge 33: Küsse im Schnee",
     "upc" : "886445755060"
-  },
-  {
-    "albumID" : "1165478141",
-    "artist" : "Die drei !!!",
-    "duration" : 7062.866,
-    "releaseDate" : 438825600,
-    "title" : "Eisprinzessin in Not",
-    "upc" : "886446100623"
   },
   {
     "albumID" : "1134912144",
@@ -312,6 +312,14 @@
     "upc" : "886446331553"
   },
   {
+    "albumID" : "1149031659",
+    "artist" : "Die drei !!!",
+    "duration" : 4343.6539999999995,
+    "releaseDate" : 502329600,
+    "title" : "Folge 46: Filmstar in Gefahr",
+    "upc" : "886445362886"
+  },
+  {
     "albumID" : "1193152462",
     "artist" : "Die drei !!!",
     "duration" : 3874.1070000000004,
@@ -358,22 +366,6 @@
     "releaseDate" : 565228800,
     "title" : "Folge 58: Gorilla in Not",
     "upc" : "886446606880"
-  },
-  {
-    "albumID" : "1441756765",
-    "artist" : "Die drei !!!",
-    "duration" : 4401.278,
-    "releaseDate" : 570067200,
-    "title" : "Folge 59: Das geheime Parfüm",
-    "upc" : "886447191651"
-  },
-  {
-    "albumID" : "1458535435",
-    "artist" : "Die drei !!!",
-    "duration" : 4756.333000000001,
-    "releaseDate" : 580348800,
-    "title" : "Folge 61: Der Fall Dornröschen",
-    "upc" : "886447660485"
   },
   {
     "albumID" : "1470370696",
@@ -446,6 +438,14 @@
     "releaseDate" : 622684800,
     "title" : "Folge 69: Nacht der Wölfe",
     "upc" : "886447878613"
+  },
+  {
+    "albumID" : "1530155559",
+    "artist" : "Die drei !!!",
+    "duration" : 4450.612000000001,
+    "releaseDate" : 628128000,
+    "title" : "Folge 70: Gefährliches Spiel",
+    "upc" : "886447878620"
   },
   {
     "albumID" : "1539905615",
