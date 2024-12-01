@@ -136,14 +136,6 @@
     "upc" : "886446428291"
   },
   {
-    "albumID" : "1216486401",
-    "artist" : "TKKG",
-    "duration" : 2999.882,
-    "releaseDate" : -25401600,
-    "title" : "Folge 119: Frische Spur nach 70 Jahren",
-    "upc" : "886446428307"
-  },
-  {
     "albumID" : "1216486746",
     "artist" : "TKKG",
     "duration" : 3274.7090000000003,
@@ -752,14 +744,6 @@
     "upc" : "886445582888"
   },
   {
-    "albumID" : "1298617442",
-    "artist" : "TKKG",
-    "duration" : 3976.0160000000005,
-    "releaseDate" : 533174400,
-    "title" : "Folge 203: Der Räuber mit der Weihnachtsmaske",
-    "upc" : "886446167084"
-  },
-  {
     "albumID" : "1371388955",
     "artist" : "TKKG",
     "duration" : 3926.616,
@@ -790,6 +774,14 @@
     "releaseDate" : 590889600,
     "title" : "Folge 211: Geiselnahme im Villenviertel",
     "upc" : "886447989760"
+  },
+  {
+    "albumID" : "1521299226",
+    "artist" : "TKKG",
+    "duration" : 4095.8399999999997,
+    "releaseDate" : 617241600,
+    "title" : "Folge 215: Verbrechen im Moorsteiner Wald",
+    "upc" : "886448206217"
   },
   {
     "albumID" : "1536103570",
@@ -942,5 +934,13 @@
     "releaseDate" : 745459200,
     "title" : "Folge 233: Räuberwald",
     "upc" : "196872211658"
+  },
+  {
+    "albumID" : "1764059248",
+    "artist" : "TKKG",
+    "duration" : 3436.5200000000004,
+    "releaseDate" : 753321600,
+    "title" : "Folge 234: Im Auftrag des Bösen",
+    "upc" : "196872196542"
   }
 ]
