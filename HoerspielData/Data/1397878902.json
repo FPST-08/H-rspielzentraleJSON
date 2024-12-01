@@ -32,6 +32,14 @@
     "upc" : "4260507160041"
   },
   {
+    "albumID" : "1515742433",
+    "artist" : "Edgar Allan Poe & Auguste Dupin",
+    "duration" : 4029.6500000000005,
+    "releaseDate" : 621475200,
+    "title" : "Aus den Archiven, Folge 7: Wolfsspuren",
+    "upc" : "4260507160058"
+  },
+  {
     "albumID" : "1515741592",
     "artist" : "Edgar Allan Poe & Auguste Dupin",
     "duration" : 3841.3549999999987,
@@ -54,14 +62,6 @@
     "releaseDate" : 625104000,
     "title" : "Aus den Archiven, Folge 10: Femme Fatale",
     "upc" : "4260507160089"
-  },
-  {
-    "albumID" : "1533639463",
-    "artist" : "Edgar Allan Poe & Auguste Dupin",
-    "duration" : 3602.9990000000003,
-    "releaseDate" : 625708800,
-    "title" : "Folge 11: Die Dämonen des Auguste Dupin",
-    "upc" : "4260507161567"
   },
   {
     "albumID" : "1515743337",
