@@ -8,12 +8,12 @@
     "upc" : "886448430643"
   },
   {
-    "albumID" : "1700905912",
+    "albumID" : "1700906183",
     "artist" : "VIDAN",
-    "duration" : 3528.1079999999997,
+    "duration" : 3607.7340000000004,
     "releaseDate" : 717638400,
-    "title" : "Staffel 3: Schrei nach Vernichtung, Folge 5: Flehende Seelen",
-    "upc" : "196871108461"
+    "title" : "Staffel 3: Schrei nach Vernichtung, Folge 6: Der El Paso-Vorfall",
+    "upc" : "196871108492"
   },
   {
     "albumID" : "1700925166",
@@ -24,20 +24,20 @@
     "upc" : "196871108522"
   },
   {
-    "albumID" : "1700906341",
-    "artist" : "VIDAN",
-    "duration" : 2755.1609999999996,
-    "releaseDate" : 717638400,
-    "title" : "Folge 8: Die Gesandte (Staffel 3: Schrei nach Vernichtung)",
-    "upc" : "196871108560"
-  },
-  {
     "albumID" : "1700907151",
     "artist" : "VIDAN",
     "duration" : 4473.268000000001,
     "releaseDate" : 717638400,
     "title" : "Staffel 3: Schrei nach Vernichtung, Folge 10: Überleben?",
     "upc" : "196871108652"
+  },
+  {
+    "albumID" : "1700906341",
+    "artist" : "VIDAN",
+    "duration" : 2755.1609999999996,
+    "releaseDate" : 717638400,
+    "title" : "Folge 8: Die Gesandte (Staffel 3: Schrei nach Vernichtung)",
+    "upc" : "196871108560"
   },
   {
     "albumID" : "1700906725",
