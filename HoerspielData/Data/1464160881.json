@@ -8,14 +8,6 @@
     "upc" : "4260507198167"
   },
   {
-    "albumID" : "1763600787",
-    "artist" : "Irene Adler",
-    "duration" : 3542.0009999999997,
-    "releaseDate" : 750902400,
-    "title" : "Sonderermittlerin der Krone, Folge 24: Hinter der Fassade",
-    "upc" : "4260507198709"
-  },
-  {
     "albumID" : "1771902165",
     "artist" : "Oscar Wilde & Mycroft Holmes, Irene Adler & Oscar Wilde & Irene Adler",
     "duration" : 3261.9990000000007,
@@ -30,5 +22,13 @@
     "releaseDate" : 752716800,
     "title" : "Oscar Wilde & Irene Adler, Folge 3: Ein Sommernachtsalbtraum",
     "upc" : "4099995898651"
+  },
+  {
+    "albumID" : "1771910926",
+    "artist" : "Oscar Wilde & Mycroft Holmes, Irene Adler & Oscar Wilde & Irene Adler",
+    "duration" : 3298.0000000000005,
+    "releaseDate" : 753321600,
+    "title" : "Oscar Wilde & Irene Adler, Folge 4: Was ihr nicht wollt",
+    "upc" : "4099995898644"
   }
 ]
