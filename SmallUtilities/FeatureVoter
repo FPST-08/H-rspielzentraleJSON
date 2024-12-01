@@ -1,5 +1,12 @@
 [
   {
+    "description" : "Vorschläge für neue Hörspiele und einfacheres Weiterspielen",
+    "id" : "17",
+    "isFinished" : false,
+    "status" : "Geplant",
+    "title" : "Widgets verbessern"
+  },
+  {
     "description" : "Verbleibende Zeit und Wiedergabe-Controls auf dem Lockscreen",
     "id" : "16",
     "isFinished" : false,
