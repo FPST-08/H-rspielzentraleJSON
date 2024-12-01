@@ -16,14 +16,6 @@
     "upc" : "4260507147639"
   },
   {
-    "albumID" : "1451509272",
-    "artist" : "Sherlock Holmes Chronicles",
-    "duration" : 8962.004999999997,
-    "releaseDate" : 448502400,
-    "title" : "Folge 9: Das Freimaurer-Komplott",
-    "upc" : "4260507147615"
-  },
-  {
     "albumID" : "1451508470",
     "artist" : "Sherlock Holmes Chronicles",
     "duration" : 9764.394,
@@ -416,20 +408,20 @@
     "upc" : "4260507159922"
   },
   {
-    "albumID" : "1533647791",
-    "artist" : "Sherlock Holmes Chronicles",
-    "duration" : 3977.116,
-    "releaseDate" : 628732800,
-    "title" : "Folge 69: Der gelbe Tropfen",
-    "upc" : "4260507161659"
-  },
-  {
     "albumID" : "1535437525",
     "artist" : "Sherlock Holmes Chronicles",
     "duration" : 2460.444,
     "releaseDate" : 628732800,
     "title" : "Folge 63: Der blutrote Edelstein",
     "upc" : "4260507159939"
+  },
+  {
+    "albumID" : "1533647791",
+    "artist" : "Sherlock Holmes Chronicles",
+    "duration" : 3977.116,
+    "releaseDate" : 628732800,
+    "title" : "Folge 69: Der gelbe Tropfen",
+    "upc" : "4260507161659"
   },
   {
     "albumID" : "1535445860",
@@ -470,14 +462,6 @@
     "releaseDate" : 649296000,
     "title" : "Folge 74: Abbey Grange",
     "upc" : "4260507165237"
-  },
-  {
-    "albumID" : "1567985684",
-    "artist" : "Sherlock Holmes Chronicles",
-    "duration" : 2794.496,
-    "releaseDate" : 650505600,
-    "title" : "Folge 75: Mord im Mädchenpensionat",
-    "upc" : "4260507165251"
   },
   {
     "albumID" : "1567985506",
@@ -632,6 +616,14 @@
     "upc" : "4260507172433"
   },
   {
+    "albumID" : "1618628172",
+    "artist" : "Sherlock Holmes Chronicles",
+    "duration" : 4300.002,
+    "releaseDate" : 681350400,
+    "title" : "Folge 91: Das Mörder-Moor",
+    "upc" : "4260507173201"
+  },
+  {
     "albumID" : "1622048027",
     "artist" : "Sherlock Holmes Chronicles",
     "duration" : 2286.001,
@@ -710,6 +702,14 @@
     "releaseDate" : 711590400,
     "title" : "Folge 8: Die verschwundene Mrs. Hudson",
     "upc" : "4260507187765"
+  },
+  {
+    "albumID" : "1663943540",
+    "artist" : "Sherlock Holmes Chronicles",
+    "duration" : 4458.0009999999975,
+    "releaseDate" : 712800000,
+    "title" : "Folge 103: Der ägyptische Schatz",
+    "upc" : "4260507178411"
   },
   {
     "albumID" : "1670984735",
@@ -886,5 +886,13 @@
     "releaseDate" : 756345600,
     "title" : "Folge 122: Der griechische Dolmetscher",
     "upc" : "4260507200495"
+  },
+  {
+    "albumID" : "1781935651",
+    "artist" : "Sherlock Holmes Chronicles",
+    "duration" : 183.019,
+    "releaseDate" : 760579200,
+    "title" : "Folge 123: Die schwarzen Beine der Madame",
+    "upc" : "4260507200549"
   }
 ]
