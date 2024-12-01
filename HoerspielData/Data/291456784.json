@@ -1,11 +1,11 @@
 [
   {
-    "albumID" : "1473311766",
+    "albumID" : "1473318223",
     "artist" : "Tony Ballard",
-    "duration" : 4424.814,
+    "duration" : 4572.432000000001,
     "releaseDate" : 585792000,
-    "title" : "Folge 14: Das Schiff der schwarzen Piraten",
-    "upc" : "4260507152411"
+    "title" : "Folge 19: Duell der Dämonen",
+    "upc" : "4260507152466"
   },
   {
     "albumID" : "1473319926",
@@ -16,12 +16,12 @@
     "upc" : "4260507152480"
   },
   {
-    "albumID" : "1473320965",
+    "albumID" : "1473323686",
     "artist" : "Tony Ballard",
-    "duration" : 4761.294000000001,
+    "duration" : 4734.6939999999995,
     "releaseDate" : 585792000,
-    "title" : "Folge 23: Der Tod schleicht durch London",
-    "upc" : "4260507152503"
+    "title" : "Folge 30: Monster aus der Retorte",
+    "upc" : "4260507152572"
   },
   {
     "albumID" : "1473319105",
@@ -32,20 +32,20 @@
     "upc" : "4260507152473"
   },
   {
+    "albumID" : "1473320965",
+    "artist" : "Tony Ballard",
+    "duration" : 4761.294000000001,
+    "releaseDate" : 585792000,
+    "title" : "Folge 23: Der Tod schleicht durch London",
+    "upc" : "4260507152503"
+  },
+  {
     "albumID" : "1473320246",
     "artist" : "Tony Ballard",
     "duration" : 4483.348,
     "releaseDate" : 585792000,
     "title" : "Folge 22: Die Schrecken des Mortimer K.",
     "upc" : "4260507152497"
-  },
-  {
-    "albumID" : "1473323686",
-    "artist" : "Tony Ballard",
-    "duration" : 4734.6939999999995,
-    "releaseDate" : 585792000,
-    "title" : "Folge 30: Monster aus der Retorte",
-    "upc" : "4260507152572"
   },
   {
     "albumID" : "1473321629",
@@ -64,12 +64,12 @@
     "upc" : "4260507152565"
   },
   {
-    "albumID" : "1473326325",
+    "albumID" : "1473323054",
     "artist" : "Tony Ballard",
-    "duration" : 4067.186,
+    "duration" : 3762.096,
     "releaseDate" : 585792000,
-    "title" : "Folge 31: Brutstätte des Bösen",
-    "upc" : "4260507152589"
+    "title" : "Folge 28: Der Teufel führt Regie",
+    "upc" : "4260507152558"
   },
   {
     "albumID" : "1473322250",
@@ -80,20 +80,12 @@
     "upc" : "4260507152534"
   },
   {
-    "albumID" : "1473320977",
+    "albumID" : "1473326325",
     "artist" : "Tony Ballard",
-    "duration" : 4721.201,
+    "duration" : 4067.186,
     "releaseDate" : 585792000,
-    "title" : "Folge 24: In den Klauen der Knochenmänner",
-    "upc" : "4260507152510"
-  },
-  {
-    "albumID" : "1473323054",
-    "artist" : "Tony Ballard",
-    "duration" : 3762.096,
-    "releaseDate" : 585792000,
-    "title" : "Folge 28: Der Teufel führt Regie",
-    "upc" : "4260507152558"
+    "title" : "Folge 31: Brutstätte des Bösen",
+    "upc" : "4260507152589"
   },
   {
     "albumID" : "1473348814",
@@ -102,6 +94,14 @@
     "releaseDate" : 585792000,
     "title" : "Folge 27: Sie wollten meine Seele fressen",
     "upc" : "4260507152541"
+  },
+  {
+    "albumID" : "1473320977",
+    "artist" : "Tony Ballard",
+    "duration" : 4721.201,
+    "releaseDate" : 585792000,
+    "title" : "Folge 24: In den Klauen der Knochenmänner",
+    "upc" : "4260507152510"
   },
   {
     "albumID" : "1523477552",
