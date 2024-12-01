@@ -96,12 +96,12 @@
     "upc" : "9783838761251"
   },
   {
-    "albumID" : "309190683",
+    "albumID" : "309195958",
     "artist" : "Jason Dark & John Sinclair",
-    "duration" : 2934.681,
-    "releaseDate" : 67824000,
-    "title" : "John Sinclair, Folge 23: Der unheimliche Richter",
-    "upc" : "9783838761268"
+    "duration" : 2731.171,
+    "releaseDate" : 76896000,
+    "title" : "John Sinclair, Folge 24: Die Drohung (Teil 1 von 3)",
+    "upc" : "9783838761275"
   },
   {
     "albumID" : "309208816",
@@ -262,6 +262,14 @@
     "releaseDate" : 232329600,
     "title" : "John Sinclair, Folge 44: Das Elixier des Teufels (Teil 2 von 2)",
     "upc" : "9783838761473"
+  },
+  {
+    "albumID" : "309171574",
+    "artist" : "Jason Dark & John Sinclair",
+    "duration" : 3403.5069999999996,
+    "releaseDate" : 237772800,
+    "title" : "John Sinclair, Folge 45: Die Teufelsuhr",
+    "upc" : "9783838761480"
   },
   {
     "albumID" : "309174960",
@@ -654,14 +662,6 @@
     "releaseDate" : 384912000,
     "title" : "Folge 81: Allein in der Drachenhöhle - Kreuz-Trilogie, Teil 2",
     "upc" : "9783838771779"
-  },
-  {
-    "albumID" : "634857916",
-    "artist" : "John Sinclair",
-    "duration" : 4721.906999999999,
-    "releaseDate" : 388022400,
-    "title" : "Folge 83: Ein Leben unter Toten",
-    "upc" : "4250783611221"
   },
   {
     "albumID" : "641572055",
@@ -1896,12 +1896,12 @@
     "upc" : "4251234326640"
   },
   {
-    "albumID" : "1265807968",
+    "albumID" : "1193213771",
     "artist" : "John Sinclair",
-    "duration" : 3754.667999999999,
+    "duration" : 4027.3620000000005,
     "releaseDate" : 522288000,
-    "title" : "Tonstudio Braun, Folge 88: Die Geier und der Wertiger",
-    "upc" : "4251234337417"
+    "title" : "Folge 117: Zombies auf dem Roten Platz",
+    "upc" : "9783838783314"
   },
   {
     "albumID" : "1252972325",
@@ -1910,6 +1910,14 @@
     "releaseDate" : 522288000,
     "title" : "Sinclair Academy, Folge 10: Das kalte Kind",
     "upc" : "9783838784700"
+  },
+  {
+    "albumID" : "1265807968",
+    "artist" : "John Sinclair",
+    "duration" : 3754.667999999999,
+    "releaseDate" : 522288000,
+    "title" : "Tonstudio Braun, Folge 88: Die Geier und der Wertiger",
+    "upc" : "4251234337417"
   },
   {
     "albumID" : "1214958497",
@@ -2208,14 +2216,6 @@
     "upc" : "9783838787749"
   },
   {
-    "albumID" : "1369227784",
-    "artist" : "John Sinclair",
-    "duration" : 3287.8519999999994,
-    "releaseDate" : 554342400,
-    "title" : "Folge 123: Alvas Feuerkuss",
-    "upc" : "9783838787596"
-  },
-  {
     "albumID" : "1369227922",
     "artist" : "John Sinclair",
     "duration" : 3505.8030000000003,
@@ -2288,28 +2288,20 @@
     "upc" : "9783838789712"
   },
   {
+    "albumID" : "1458758419",
+    "artist" : "John Sinclair",
+    "duration" : 18405.660000000007,
+    "releaseDate" : 578448000,
+    "title" : "Dark Tales, Season II: Episode 7-12 (Audio Movie)",
+    "upc" : "9783838791180"
+  },
+  {
     "albumID" : "1461466948",
     "artist" : "John Sinclair",
     "duration" : 3147.6400000000003,
     "releaseDate" : 578448000,
     "title" : "Episode 8: The Taste of Human Flesh",
     "upc" : "9783838779249"
-  },
-  {
-    "albumID" : "1461467289",
-    "artist" : "John Sinclair",
-    "duration" : 3246.4950000000003,
-    "releaseDate" : 578448000,
-    "title" : "Episode 12: Some Darker Magic",
-    "upc" : "9783838779287"
-  },
-  {
-    "albumID" : "1461468767",
-    "artist" : "John Sinclair",
-    "duration" : 2936.6839999999997,
-    "releaseDate" : 578448000,
-    "title" : "Episode 9: To Kill a Beast",
-    "upc" : "9783838779256"
   },
   {
     "albumID" : "1461467608",
@@ -2320,12 +2312,20 @@
     "upc" : "9783838779263"
   },
   {
-    "albumID" : "1458758419",
+    "albumID" : "1461468767",
     "artist" : "John Sinclair",
-    "duration" : 18405.660000000007,
+    "duration" : 2936.6839999999997,
     "releaseDate" : 578448000,
-    "title" : "Dark Tales, Season II: Episode 7-12 (Audio Movie)",
-    "upc" : "9783838791180"
+    "title" : "Episode 9: To Kill a Beast",
+    "upc" : "9783838779256"
+  },
+  {
+    "albumID" : "1461467289",
+    "artist" : "John Sinclair",
+    "duration" : 3246.4950000000003,
+    "releaseDate" : 578448000,
+    "title" : "Episode 12: Some Darker Magic",
+    "upc" : "9783838779287"
   },
   {
     "albumID" : "1461467331",
@@ -2590,6 +2590,14 @@
     "releaseDate" : 638409600,
     "title" : "Sinclair, Staffel 2: Underworld, Folge 1: Kyvos",
     "upc" : "4066004034362"
+  },
+  {
+    "albumID" : "1560216795",
+    "artist" : "John Sinclair",
+    "duration" : 3051.855,
+    "releaseDate" : 641433600,
+    "title" : "Folge 145: Villa Frankenstein",
+    "upc" : "9783838797069"
   },
   {
     "albumID" : "1564820359",
