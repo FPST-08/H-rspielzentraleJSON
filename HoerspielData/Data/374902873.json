@@ -176,6 +176,14 @@
     "upc" : "886445240566"
   },
   {
+    "albumID" : "1029961913",
+    "artist" : "Teufelskicker",
+    "duration" : 4214.996999999999,
+    "releaseDate" : 306374400,
+    "title" : "Folge 24: Geheimakte Blau-Gelb!",
+    "upc" : "886445240641"
+  },
+  {
     "albumID" : "1029952286",
     "artist" : "Teufelskicker",
     "duration" : 4442.400999999999,
@@ -320,14 +328,6 @@
     "upc" : "886445317534"
   },
   {
-    "albumID" : "1057608912",
-    "artist" : "Teufelskicker",
-    "duration" : 4312.575999999999,
-    "releaseDate" : 418262400,
-    "title" : "Folge 49: Kapitän über Bord!",
-    "upc" : "886445317541"
-  },
-  {
     "albumID" : "1057616678",
     "artist" : "Teufelskicker",
     "duration" : 8474.545999999998,
@@ -350,6 +350,14 @@
     "releaseDate" : 438825600,
     "title" : "Folge 53: Zoff bei Zeche 04",
     "upc" : "886445317626"
+  },
+  {
+    "albumID" : "1057630398",
+    "artist" : "Teufelskicker",
+    "duration" : 4188.000000000001,
+    "releaseDate" : 445478400,
+    "title" : "Folge 54: Der Ballflüsterer!",
+    "upc" : "886445317633"
   },
   {
     "albumID" : "1057630385",
@@ -414,14 +422,6 @@
     "releaseDate" : 528336000,
     "title" : "Folge 68: Das Juwel vom Rummelplatz",
     "upc" : "886445629125"
-  },
-  {
-    "albumID" : "1286720910",
-    "artist" : "Teufelskicker",
-    "duration" : 4512.572999999999,
-    "releaseDate" : 532569600,
-    "title" : "Folge 69: Die guten Taten!",
-    "upc" : "886445629149"
   },
   {
     "albumID" : "1398250787",
@@ -544,14 +544,6 @@
     "upc" : "886446539027"
   },
   {
-    "albumID" : "1492295259",
-    "artist" : "Teufelskicker",
-    "duration" : 4561.600000000001,
-    "releaseDate" : 601516800,
-    "title" : "Folge 81: Gras fressen!",
-    "upc" : "886447868751"
-  },
-  {
     "albumID" : "1501683197",
     "artist" : "Teufelskicker",
     "duration" : 4494.625999999999,
@@ -574,6 +566,14 @@
     "releaseDate" : 624499200,
     "title" : "Folge 85: Der Strafraum-Streuner!",
     "upc" : "886447868799"
+  },
+  {
+    "albumID" : "1539405079",
+    "artist" : "Teufelskicker",
+    "duration" : 4588.375999999999,
+    "releaseDate" : 628732800,
+    "title" : "Folge 86: Blau-Gelb in Bayern!",
+    "upc" : "886448297888"
   },
   {
     "albumID" : "1547807482",
