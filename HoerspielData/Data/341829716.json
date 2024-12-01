@@ -32,20 +32,20 @@
     "upc" : "4260507141903"
   },
   {
-    "albumID" : "1414546073",
-    "artist" : "Offenbarung 23",
-    "duration" : 4361.001,
-    "releaseDate" : 220838400,
-    "title" : "Folge 24: Ausgespäht und ausgetrickst",
-    "upc" : "4260507141866"
-  },
-  {
     "albumID" : "1414542941",
     "artist" : "Offenbarung 23",
     "duration" : 4327.001,
     "releaseDate" : 220838400,
     "title" : "Folge 22: Der Fluch des Tutanchamun",
     "upc" : "4260507141842"
+  },
+  {
+    "albumID" : "1414546073",
+    "artist" : "Offenbarung 23",
+    "duration" : 4361.001,
+    "releaseDate" : 220838400,
+    "title" : "Folge 24: Ausgespäht und ausgetrickst",
+    "upc" : "4260507141866"
   },
   {
     "albumID" : "1414546074",
@@ -88,20 +88,20 @@
     "upc" : "4260507141958"
   },
   {
-    "albumID" : "1411961877",
-    "artist" : "Offenbarung 23",
-    "duration" : 3425.003,
-    "releaseDate" : 252460800,
-    "title" : "Folge 35: Im Namen des Volkes",
-    "upc" : "4260507141972"
-  },
-  {
     "albumID" : "1411970693",
     "artist" : "Offenbarung 23",
     "duration" : 3497,
     "releaseDate" : 252460800,
     "title" : "Folge 36: Liebesgrüße nach Moskau",
     "upc" : "4260507141989"
+  },
+  {
+    "albumID" : "1411961877",
+    "artist" : "Offenbarung 23",
+    "duration" : 3425.003,
+    "releaseDate" : 252460800,
+    "title" : "Folge 35: Im Namen des Volkes",
+    "upc" : "4260507141972"
   },
   {
     "albumID" : "1411977372",
@@ -118,6 +118,14 @@
     "releaseDate" : 283996800,
     "title" : "Folge 38: 60 Minuten - Die Echtzeitfolge",
     "upc" : "4260507142009"
+  },
+  {
+    "albumID" : "1414532316",
+    "artist" : "Offenbarung 23",
+    "duration" : 4598.004,
+    "releaseDate" : 336009600,
+    "title" : "Folge 10: Die traurige Prinzessin",
+    "upc" : "4260507141729"
   },
   {
     "albumID" : "1414534004",
@@ -192,20 +200,20 @@
     "upc" : "4260507142023"
   },
   {
-    "albumID" : "1414557404",
-    "artist" : "Offenbarung 23",
-    "duration" : 3628.0039999999995,
-    "releaseDate" : 339033600,
-    "title" : "Folge 39: Insomnia",
-    "upc" : "4260507142016"
-  },
-  {
     "albumID" : "1411988726",
     "artist" : "Offenbarung 23",
     "duration" : 3669.0010000000007,
     "releaseDate" : 339033600,
     "title" : "Folge 41: Der Kronzeuge",
     "upc" : "4260507142030"
+  },
+  {
+    "albumID" : "1414557404",
+    "artist" : "Offenbarung 23",
+    "duration" : 3628.0039999999995,
+    "releaseDate" : 339033600,
+    "title" : "Folge 39: Insomnia",
+    "upc" : "4260507142016"
   },
   {
     "albumID" : "1414562241",
@@ -296,20 +304,20 @@
     "upc" : "4260507142160"
   },
   {
-    "albumID" : "1411317878",
-    "artist" : "Offenbarung 23",
-    "duration" : 3810.001,
-    "releaseDate" : 410227200,
-    "title" : "Folge 51: The Mad Scientists",
-    "upc" : "4260507142153"
-  },
-  {
     "albumID" : "1411324542",
     "artist" : "Offenbarung 23",
     "duration" : 4199.999999999999,
     "releaseDate" : 410227200,
     "title" : "Folge 53: Die Klima-Maschine",
     "upc" : "4260507142177"
+  },
+  {
+    "albumID" : "1411317878",
+    "artist" : "Offenbarung 23",
+    "duration" : 3810.001,
+    "releaseDate" : 410227200,
+    "title" : "Folge 51: The Mad Scientists",
+    "upc" : "4260507142153"
   },
   {
     "albumID" : "1411328440",
@@ -352,20 +360,20 @@
     "upc" : "4260507142214"
   },
   {
-    "albumID" : "1411329596",
-    "artist" : "Offenbarung 23",
-    "duration" : 3567.0029999999997,
-    "releaseDate" : 441763200,
-    "title" : "Folge 55: Heiliger Gral 2.0",
-    "upc" : "4260507142207"
-  },
-  {
     "albumID" : "1414570890",
     "artist" : "Offenbarung 23",
     "duration" : 5799.000000000001,
     "releaseDate" : 441763200,
     "title" : "Folge 59: Schwarzes Gold",
     "upc" : "4260507142245"
+  },
+  {
+    "albumID" : "1411329596",
+    "artist" : "Offenbarung 23",
+    "duration" : 3567.0029999999997,
+    "releaseDate" : 441763200,
+    "title" : "Folge 55: Heiliger Gral 2.0",
+    "upc" : "4260507142207"
   },
   {
     "albumID" : "1411331896",
@@ -574,14 +582,6 @@
     "releaseDate" : 632361600,
     "title" : "Sonderfolge: Interview mit Jan Gaspard",
     "upc" : "4260507162069"
-  },
-  {
-    "albumID" : "1551322614",
-    "artist" : "Offenbarung 23",
-    "duration" : 3902.6480000000006,
-    "releaseDate" : 635990400,
-    "title" : "Folge 91: dreIundzwANziG",
-    "upc" : "4260507162786"
   },
   {
     "albumID" : "1579282135",
