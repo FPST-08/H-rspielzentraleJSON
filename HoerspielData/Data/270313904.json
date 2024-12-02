@@ -1,5 +1,13 @@
 [
   {
+    "albumID" : "1213426333",
+    "artist" : "Gruselserie",
+    "duration" : 2570.801,
+    "releaseDate" : -63114076800,
+    "title" : "Folge 12: Die Nacht der Todes-Ratte",
+    "upc" : "886446263311"
+  },
+  {
     "albumID" : "1213449294",
     "artist" : "Gruselserie",
     "duration" : 2556.5310000000004,
@@ -38,14 +46,6 @@
     "releaseDate" : 696470400,
     "title" : "Folge 10: Subway 666 - Endstation Hölle",
     "upc" : "196871076760"
-  },
-  {
-    "albumID" : "1706316862",
-    "artist" : "Gruselserie",
-    "duration" : 3464.0909999999994,
-    "releaseDate" : 718243200,
-    "title" : "Folge 11: Gothic Land (Treibjagd im Vergnügungspark)",
-    "upc" : "196871130608"
   },
   {
     "albumID" : "1742547215",
