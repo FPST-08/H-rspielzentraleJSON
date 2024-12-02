@@ -80,6 +80,14 @@
     "upc" : "4260507143853"
   },
   {
+    "albumID" : "1438756616",
+    "artist" : "Pater Brown",
+    "duration" : 3094.658,
+    "releaseDate" : 421286400,
+    "title" : "Folge 15: Die seltsamen Schritte",
+    "upc" : "4260507143808"
+  },
+  {
     "albumID" : "1439331635",
     "artist" : "Pater Brown",
     "duration" : 3517.890000000001,
@@ -110,14 +118,6 @@
     "releaseDate" : 421286400,
     "title" : "Folge 13: Der Geist von Gideon Wise",
     "upc" : "4260507143785"
-  },
-  {
-    "albumID" : "1438756616",
-    "artist" : "Pater Brown",
-    "duration" : 3094.658,
-    "releaseDate" : 421286400,
-    "title" : "Folge 15: Die seltsamen Schritte",
-    "upc" : "4260507143808"
   },
   {
     "albumID" : "1438756693",
@@ -184,20 +184,20 @@
     "upc" : "4260507143907"
   },
   {
-    "albumID" : "1439342011",
-    "artist" : "Pater Brown",
-    "duration" : 3298.7170000000006,
-    "releaseDate" : 467856000,
-    "title" : "Folge 30: Raue See",
-    "upc" : "4260507143952"
-  },
-  {
     "albumID" : "1439341583",
     "artist" : "Pater Brown",
     "duration" : 3207.6850000000004,
     "releaseDate" : 467856000,
     "title" : "Folge 29: Pater Brown macht Urlaub",
     "upc" : "4260507143945"
+  },
+  {
+    "albumID" : "1439342011",
+    "artist" : "Pater Brown",
+    "duration" : 3298.7170000000006,
+    "releaseDate" : 467856000,
+    "title" : "Folge 30: Raue See",
+    "upc" : "4260507143952"
   },
   {
     "albumID" : "1438758287",
@@ -312,14 +312,6 @@
     "upc" : "4260507134875"
   },
   {
-    "albumID" : "1237595332",
-    "artist" : "Pater Brown",
-    "duration" : 3349,
-    "releaseDate" : 520473600,
-    "title" : "Folge 41: Aus dem Ei gepellt",
-    "upc" : "4260507134899"
-  },
-  {
     "albumID" : "1237595645",
     "artist" : "Pater Brown",
     "duration" : 3407,
@@ -392,6 +384,14 @@
     "upc" : "4260507143334"
   },
   {
+    "albumID" : "1514169745",
+    "artist" : "Pater Brown",
+    "duration" : 4256.000999999999,
+    "releaseDate" : 613008000,
+    "title" : "Folge 62: Grube, Dame, As und Tod",
+    "upc" : "4260507159311"
+  },
+  {
     "albumID" : "1515734687",
     "artist" : "Pater Brown",
     "duration" : 3835.0000000000005,
@@ -456,12 +456,12 @@
     "upc" : "4260507160560"
   },
   {
-    "albumID" : "1559499503",
+    "albumID" : "1542241676",
     "artist" : "Pater Brown",
-    "duration" : 4048.0029999999997,
-    "releaseDate" : 639619200,
-    "title" : "Folge 65: Böse Überraschungen",
-    "upc" : "4260507164490"
+    "duration" : 4598.998000000001,
+    "releaseDate" : 632966400,
+    "title" : "Folge 64: Der Tod lässt bitten",
+    "upc" : "4260507162298"
   },
   {
     "albumID" : "1628254717",
