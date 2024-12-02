@@ -8,14 +8,6 @@
     "upc" : "9783838761121"
   },
   {
-    "albumID" : "309321421",
-    "artist" : "Jason Dark & John Sinclair",
-    "duration" : 3260.932,
-    "releaseDate" : 27216000,
-    "title" : "John Sinclair, Folge 10: Die Horror-Reiter",
-    "upc" : "9783838761138"
-  },
-  {
     "albumID" : "309322022",
     "artist" : "Jason Dark & John Sinclair",
     "duration" : 3301.764,
@@ -96,12 +88,12 @@
     "upc" : "9783838761251"
   },
   {
-    "albumID" : "309195958",
+    "albumID" : "309190683",
     "artist" : "Jason Dark & John Sinclair",
-    "duration" : 2731.171,
-    "releaseDate" : 76896000,
-    "title" : "John Sinclair, Folge 24: Die Drohung (Teil 1 von 3)",
-    "upc" : "9783838761275"
+    "duration" : 2934.681,
+    "releaseDate" : 67824000,
+    "title" : "John Sinclair, Folge 23: Der unheimliche Richter",
+    "upc" : "9783838761268"
   },
   {
     "albumID" : "309208816",
@@ -846,6 +838,14 @@
     "releaseDate" : 445478400,
     "title" : "Folge 98: Treffpunkt Leichenhaus",
     "upc" : "9783838774589"
+  },
+  {
+    "albumID" : "957426097",
+    "artist" : "John Sinclair",
+    "duration" : 7522.109000000001,
+    "releaseDate" : 447897600,
+    "title" : "Folge 100: Das Ende",
+    "upc" : "9783838775432"
   },
   {
     "albumID" : "949585255",
@@ -1896,14 +1896,6 @@
     "upc" : "4251234326640"
   },
   {
-    "albumID" : "1193213771",
-    "artist" : "John Sinclair",
-    "duration" : 4027.3620000000005,
-    "releaseDate" : 522288000,
-    "title" : "Folge 117: Zombies auf dem Roten Platz",
-    "upc" : "9783838783314"
-  },
-  {
     "albumID" : "1252972325",
     "artist" : "John Sinclair",
     "duration" : 8500.182999999999,
@@ -2014,14 +2006,6 @@
     "releaseDate" : 528249600,
     "title" : "Tonstudio Braun, Folge 98: Dr. Tods Monsterhöhle",
     "upc" : "4251234326435"
-  },
-  {
-    "albumID" : "1236872881",
-    "artist" : "John Sinclair",
-    "duration" : 3360.2490000000003,
-    "releaseDate" : 528336000,
-    "title" : "Folge 118: Die Kreuzweg-Legende",
-    "upc" : "9783838783321"
   },
   {
     "albumID" : "1255577553",
@@ -2216,6 +2200,14 @@
     "upc" : "9783838787749"
   },
   {
+    "albumID" : "1369227784",
+    "artist" : "John Sinclair",
+    "duration" : 3287.8519999999994,
+    "releaseDate" : 554342400,
+    "title" : "Folge 123: Alvas Feuerkuss",
+    "upc" : "9783838787596"
+  },
+  {
     "albumID" : "1369227922",
     "artist" : "John Sinclair",
     "duration" : 3505.8030000000003,
@@ -2278,6 +2270,14 @@
     "releaseDate" : 575510400,
     "title" : "Classics, Folge 35: Der Voodoo-Mörder",
     "upc" : "9783838787664"
+  },
+  {
+    "albumID" : "1458759447",
+    "artist" : "John Sinclair",
+    "duration" : 4985.943,
+    "releaseDate" : 578188800,
+    "title" : "Sinclair, Staffel 1: Dead Zone, Folge 1: Zeichen",
+    "upc" : "4251535784934"
   },
   {
     "albumID" : "1458757823",
