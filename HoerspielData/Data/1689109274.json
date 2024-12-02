@@ -1,13 +1,5 @@
 [
   {
-    "albumID" : "1689237131",
-    "artist" : "Sherlock Holmes Legends",
-    "duration" : 3536.999999999999,
-    "releaseDate" : 708566400,
-    "title" : "Folge 3: Eine Studie in Scharlachrot II: Hope",
-    "upc" : "4260507186225"
-  },
-  {
     "albumID" : "1689119004",
     "artist" : "Sherlock Holmes Legends",
     "duration" : 3396.376,
@@ -16,20 +8,12 @@
     "upc" : "4260507186348"
   },
   {
-    "albumID" : "1689237339",
+    "albumID" : "1689236425",
     "artist" : "Sherlock Holmes Legends",
-    "duration" : 3539.458,
+    "duration" : 3728.532,
     "releaseDate" : 709776000,
-    "title" : "Folge 14: Das Zeichen der Vier I: Perlenkette",
-    "upc" : "4260507186447"
-  },
-  {
-    "albumID" : "1689237459",
-    "artist" : "Sherlock Holmes Legends",
-    "duration" : 3919.003,
-    "releaseDate" : 709776000,
-    "title" : "Folge 15: Das Zeichen der Vier II: Der Agra-Schatz",
-    "upc" : "4260507186461"
+    "title" : "Folge 11: Der Marinevertrag",
+    "upc" : "4260507186386"
   },
   {
     "albumID" : "1689237408",
@@ -38,6 +22,14 @@
     "releaseDate" : 709776000,
     "title" : "Folge 13: Das Beryll-Diadem",
     "upc" : "4260507186423"
+  },
+  {
+    "albumID" : "1689237459",
+    "artist" : "Sherlock Holmes Legends",
+    "duration" : 3919.003,
+    "releaseDate" : 709776000,
+    "title" : "Folge 15: Das Zeichen der Vier II: Der Agra-Schatz",
+    "upc" : "4260507186461"
   },
   {
     "albumID" : "1740088846",
@@ -54,6 +46,14 @@
     "releaseDate" : 732758400,
     "title" : "Folge 22: Das Geheimnis von Boscombe Valley",
     "upc" : "4260507192837"
+  },
+  {
+    "albumID" : "1739114098",
+    "artist" : "Sherlock Holmes Legends",
+    "duration" : 3916.227,
+    "releaseDate" : 735782400,
+    "title" : "Folge 23: Der Daumen des Ingenieurs",
+    "upc" : "4260507194350"
   },
   {
     "albumID" : "1740089831",
