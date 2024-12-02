@@ -1,5 +1,13 @@
 [
   {
+    "albumID" : "922124363",
+    "artist" : "Fraktal",
+    "duration" : 3999.746,
+    "releaseDate" : 434592000,
+    "title" : "Folge 02: Sternenstaub",
+    "upc" : "4260147773458"
+  },
+  {
     "albumID" : "1697523649",
     "artist" : "Fraktal, Green & G.R.E.S",
     "duration" : 2772.3949999999995,
@@ -22,14 +30,6 @@
     "releaseDate" : 589420800,
     "title" : "Folge 9: Die Traummaschine",
     "upc" : "4260507157454"
-  },
-  {
-    "albumID" : "1486608515",
-    "artist" : "Fraktal",
-    "duration" : 3181.0249999999996,
-    "releaseDate" : 596678400,
-    "title" : "Folge 11: Krieger des Taroximperiums",
-    "upc" : "4260507155382"
   },
   {
     "albumID" : "1495676458",
