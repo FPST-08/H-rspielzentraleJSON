@@ -24,28 +24,12 @@
     "upc" : "4260507153388"
   },
   {
-    "albumID" : "1478285233",
-    "artist" : "Sherlock Holmes - Die neuen Fälle",
-    "duration" : 4498.360999999999,
-    "releaseDate" : 394675200,
-    "title" : "Fall 5: Das steinerne Schiff (Die neuen Fälle)",
-    "upc" : "4260507153395"
-  },
-  {
     "albumID" : "1478286188",
     "artist" : "Sherlock Holmes - Die neuen Fälle",
     "duration" : 4676.812999999998,
     "releaseDate" : 403142400,
     "title" : "Fall 6: Das Haus auf dem Hexenhügel (Die neuen Fälle)",
     "upc" : "4260507153401"
-  },
-  {
-    "albumID" : "1478286937",
-    "artist" : "Sherlock Holmes - Die neuen Fälle",
-    "duration" : 4709.987999999999,
-    "releaseDate" : 404352000,
-    "title" : "Fall 7: Der eisige Tod (Die neuen Fälle)",
-    "upc" : "4260507153418"
   },
   {
     "albumID" : "1478287440",
@@ -208,20 +192,20 @@
     "upc" : "4260507153654"
   },
   {
+    "albumID" : "1478295560",
+    "artist" : "Sherlock Holmes - Die neuen Fälle",
+    "duration" : 4634.014999999999,
+    "releaseDate" : 518659200,
+    "title" : "Fall 32: Der Fall John Watson (Die neuen Fälle)",
+    "upc" : "4260507153661"
+  },
+  {
     "albumID" : "1478296765",
     "artist" : "Sherlock Holmes - Die neuen Fälle",
     "duration" : 4794.189,
     "releaseDate" : 522892800,
     "title" : "Fall 33: Die Wölfe von Whitechapel (Die neuen Fälle)",
     "upc" : "4260507153678"
-  },
-  {
-    "albumID" : "1478296223",
-    "artist" : "Sherlock Holmes - Die neuen Fälle",
-    "duration" : 4741.639,
-    "releaseDate" : 528336000,
-    "title" : "Fall 34: In den Klauen der Angst (Die neuen Fälle)",
-    "upc" : "4260507153685"
   },
   {
     "albumID" : "1478296700",
@@ -238,6 +222,14 @@
     "releaseDate" : 558576000,
     "title" : "Fall 38: Die rote Spinne (Die neuen Fälle)",
     "upc" : "4260507153722"
+  },
+  {
+    "albumID" : "1478297732",
+    "artist" : "Sherlock Holmes - Die neuen Fälle",
+    "duration" : 4792.454999999999,
+    "releaseDate" : 565228800,
+    "title" : "Fall 39: Der Tod des Henkers (Die neuen Fälle)",
+    "upc" : "4260507153739"
   },
   {
     "albumID" : "1608859256",
@@ -278,6 +270,14 @@
     "releaseDate" : 687398400,
     "title" : "Die neuen Fälle, Collector's Box 5",
     "upc" : "4260507172372"
+  },
+  {
+    "albumID" : "1604224404",
+    "artist" : "Sherlock Holmes - Die neuen Fälle",
+    "duration" : 4760.7739999999985,
+    "releaseDate" : 691027200,
+    "title" : "Die neuen Fälle, Fall 53: Die sieben Zinnsoldaten",
+    "upc" : "4260507171337"
   },
   {
     "albumID" : "1670983872",
