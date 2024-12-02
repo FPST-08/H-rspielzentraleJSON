@@ -64,20 +64,20 @@
     "upc" : "4260507181114"
   },
   {
-    "albumID" : "1680676952",
-    "artist" : "Larry Brent",
-    "duration" : 3791.2810000000013,
-    "releaseDate" : 702518400,
-    "title" : "Folge 19: Monsterburg Höllenstein",
-    "upc" : "4260507181350"
-  },
-  {
     "albumID" : "1680676021",
     "artist" : "Larry Brent",
     "duration" : 3156.4409999999993,
     "releaseDate" : 702518400,
     "title" : "Folge 15: Die Pest fraß sie alle",
     "upc" : "4260507181275"
+  },
+  {
+    "albumID" : "1680676952",
+    "artist" : "Larry Brent",
+    "duration" : 3791.2810000000013,
+    "releaseDate" : 702518400,
+    "title" : "Folge 19: Monsterburg Höllenstein",
+    "upc" : "4260507181350"
   },
   {
     "albumID" : "1679321789",
@@ -128,14 +128,6 @@
     "upc" : "4260507181312"
   },
   {
-    "albumID" : "1679293169",
-    "artist" : "Larry Brent",
-    "duration" : 4569.383000000001,
-    "releaseDate" : 702518400,
-    "title" : "Folge 10: Mordaugen",
-    "upc" : "4260507181176"
-  },
-  {
     "albumID" : "1680677388",
     "artist" : "Larry Brent",
     "duration" : 3810.597999999999,
@@ -144,12 +136,12 @@
     "upc" : "4260507181374"
   },
   {
-    "albumID" : "1680677697",
+    "albumID" : "1679293169",
     "artist" : "Larry Brent",
-    "duration" : 3303.4820000000004,
+    "duration" : 4569.383000000001,
     "releaseDate" : 702518400,
-    "title" : "Folge 21: Die Blutsauger von Tahiti",
-    "upc" : "4260507181398"
+    "title" : "Folge 10: Mordaugen",
+    "upc" : "4260507181176"
   },
   {
     "albumID" : "1680677279",
@@ -160,22 +152,6 @@
     "upc" : "4260507181336"
   },
   {
-    "albumID" : "1680675798",
-    "artist" : "Larry Brent",
-    "duration" : 3711.0530000000003,
-    "releaseDate" : 702518400,
-    "title" : "Folge 13: Draculas Höllenfahrt",
-    "upc" : "4260507181237"
-  },
-  {
-    "albumID" : "1680677995",
-    "artist" : "Larry Brent",
-    "duration" : 3159.638999999999,
-    "releaseDate" : 702518400,
-    "title" : "Folge 24: Satans Mörderuhr",
-    "upc" : "4260507181459"
-  },
-  {
     "albumID" : "1680678167",
     "artist" : "Larry Brent",
     "duration" : 3919.3579999999993,
@@ -184,52 +160,20 @@
     "upc" : "4260507181435"
   },
   {
-    "albumID" : "1680678691",
+    "albumID" : "1680677697",
     "artist" : "Larry Brent",
-    "duration" : 3334.867,
+    "duration" : 3303.4820000000004,
     "releaseDate" : 702518400,
-    "title" : "Folge 25: Geheimexperiment \"Todessporen\"",
-    "upc" : "4260507181473"
+    "title" : "Folge 21: Die Blutsauger von Tahiti",
+    "upc" : "4260507181398"
   },
   {
-    "albumID" : "1680680975",
+    "albumID" : "1680675798",
     "artist" : "Larry Brent",
-    "duration" : 3333.278999999999,
+    "duration" : 3711.0530000000003,
     "releaseDate" : 702518400,
-    "title" : "Folge 39: Der Horror-Butler",
-    "upc" : "4260507181756"
-  },
-  {
-    "albumID" : "1680679960",
-    "artist" : "Larry Brent",
-    "duration" : 3547.268,
-    "releaseDate" : 702518400,
-    "title" : "Folge 34: Der Unheimliche aus dem Sarkophag",
-    "upc" : "4260507181657"
-  },
-  {
-    "albumID" : "1680679689",
-    "artist" : "Larry Brent",
-    "duration" : 3586.370999999999,
-    "releaseDate" : 702518400,
-    "title" : "Folge 29: Schrei, wenn dich der Hexentöter würgt",
-    "upc" : "4260507181558"
-  },
-  {
-    "albumID" : "1680678586",
-    "artist" : "Larry Brent",
-    "duration" : 2948.6679999999997,
-    "releaseDate" : 702518400,
-    "title" : "Folge 26: Dr. Satanas Killer-Computer",
-    "upc" : "4260507181497"
-  },
-  {
-    "albumID" : "1680681126",
-    "artist" : "Larry Brent",
-    "duration" : 3246.438999999999,
-    "releaseDate" : 702518400,
-    "title" : "Folge 40: Todesküsse vom Höllenfürst",
-    "upc" : "4260507181770"
+    "title" : "Folge 13: Draculas Höllenfahrt",
+    "upc" : "4260507181237"
   },
   {
     "albumID" : "1680677505",
@@ -240,6 +184,46 @@
     "upc" : "4260507181411"
   },
   {
+    "albumID" : "1680677995",
+    "artist" : "Larry Brent",
+    "duration" : 3159.638999999999,
+    "releaseDate" : 702518400,
+    "title" : "Folge 24: Satans Mörderuhr",
+    "upc" : "4260507181459"
+  },
+  {
+    "albumID" : "1680679960",
+    "artist" : "Larry Brent",
+    "duration" : 3547.268,
+    "releaseDate" : 702518400,
+    "title" : "Folge 34: Der Unheimliche aus dem Sarkophag",
+    "upc" : "4260507181657"
+  },
+  {
+    "albumID" : "1680678691",
+    "artist" : "Larry Brent",
+    "duration" : 3334.867,
+    "releaseDate" : 702518400,
+    "title" : "Folge 25: Geheimexperiment \"Todessporen\"",
+    "upc" : "4260507181473"
+  },
+  {
+    "albumID" : "1680679689",
+    "artist" : "Larry Brent",
+    "duration" : 3586.370999999999,
+    "releaseDate" : 702518400,
+    "title" : "Folge 29: Schrei, wenn dich der Hexentöter würgt",
+    "upc" : "4260507181558"
+  },
+  {
+    "albumID" : "1680680975",
+    "artist" : "Larry Brent",
+    "duration" : 3333.278999999999,
+    "releaseDate" : 702518400,
+    "title" : "Folge 39: Der Horror-Butler",
+    "upc" : "4260507181756"
+  },
+  {
     "albumID" : "1680682289",
     "artist" : "Larry Brent",
     "duration" : 6863.374999999999,
@@ -248,12 +232,20 @@
     "upc" : "4260507181831"
   },
   {
-    "albumID" : "1680681816",
+    "albumID" : "1680681126",
     "artist" : "Larry Brent",
-    "duration" : 4624.679000000002,
+    "duration" : 3246.438999999999,
     "releaseDate" : 702518400,
-    "title" : "Folge 45: Die Treppe ins Jenseits",
-    "upc" : "4260507181879"
+    "title" : "Folge 40: Todesküsse vom Höllenfürst",
+    "upc" : "4260507181770"
+  },
+  {
+    "albumID" : "1680678586",
+    "artist" : "Larry Brent",
+    "duration" : 2948.6679999999997,
+    "releaseDate" : 702518400,
+    "title" : "Folge 26: Dr. Satanas Killer-Computer",
+    "upc" : "4260507181497"
   },
   {
     "albumID" : "1680682361",
@@ -272,6 +264,14 @@
     "upc" : "4260507181671"
   },
   {
+    "albumID" : "1680680178",
+    "artist" : "Larry Brent",
+    "duration" : 4231.334,
+    "releaseDate" : 702518400,
+    "title" : "Folge 32: Der Fluch der blutenden Augen",
+    "upc" : "4260507181619"
+  },
+  {
     "albumID" : "1680681463",
     "artist" : "Larry Brent",
     "duration" : 3744.0640000000008,
@@ -288,28 +288,36 @@
     "upc" : "4260507181633"
   },
   {
-    "albumID" : "1680678844",
-    "artist" : "Larry Brent",
-    "duration" : 3541.132000000001,
-    "releaseDate" : 702518400,
-    "title" : "Folge 28: Amöba saugt die Menschen aus",
-    "upc" : "4260507181534"
-  },
-  {
-    "albumID" : "1680680178",
-    "artist" : "Larry Brent",
-    "duration" : 4231.334,
-    "releaseDate" : 702518400,
-    "title" : "Folge 32: Der Fluch der blutenden Augen",
-    "upc" : "4260507181619"
-  },
-  {
     "albumID" : "1680680624",
     "artist" : "Larry Brent",
     "duration" : 3823.7999999999997,
     "releaseDate" : 702518400,
     "title" : "Folge 37: Schizophrenia - Nächte des Wahnsinns",
     "upc" : "4260507181718"
+  },
+  {
+    "albumID" : "1680682518",
+    "artist" : "Larry Brent",
+    "duration" : 4668.678000000001,
+    "releaseDate" : 702518400,
+    "title" : "Folge 46: Das Grauen von Blackwood Castle",
+    "upc" : "4260507181893"
+  },
+  {
+    "albumID" : "1680681816",
+    "artist" : "Larry Brent",
+    "duration" : 4624.679000000002,
+    "releaseDate" : 702518400,
+    "title" : "Folge 45: Die Treppe ins Jenseits",
+    "upc" : "4260507181879"
+  },
+  {
+    "albumID" : "1680678844",
+    "artist" : "Larry Brent",
+    "duration" : 3541.132000000001,
+    "releaseDate" : 702518400,
+    "title" : "Folge 28: Amöba saugt die Menschen aus",
+    "upc" : "4260507181534"
   },
   {
     "albumID" : "1680680732",
@@ -350,14 +358,6 @@
     "releaseDate" : 702518400,
     "title" : "Folge 44: Medusas steinerne Mörder",
     "upc" : "4260507181855"
-  },
-  {
-    "albumID" : "1680682518",
-    "artist" : "Larry Brent",
-    "duration" : 4668.678000000001,
-    "releaseDate" : 702518400,
-    "title" : "Folge 46: Das Grauen von Blackwood Castle",
-    "upc" : "4260507181893"
   },
   {
     "albumID" : "1693245602",
