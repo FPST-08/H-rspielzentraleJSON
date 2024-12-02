@@ -176,6 +176,14 @@
     "upc" : "9783955729066"
   },
   {
+    "albumID" : "1410157740",
+    "artist" : "Dorian Hunter",
+    "duration" : 4188.77,
+    "releaseDate" : 430963200,
+    "title" : "25.3: Die Masken des Dr. Faustus - Fastnacht",
+    "upc" : "9783962376796"
+  },
+  {
     "albumID" : "1412077313",
     "artist" : "Dorian Hunter",
     "duration" : 4178.76,
@@ -214,14 +222,6 @@
     "releaseDate" : 677116800,
     "title" : "47: Duk Duk",
     "upc" : "9783955727086"
-  },
-  {
-    "albumID" : "1649758242",
-    "artist" : "Dorian Hunter",
-    "duration" : 2719.995,
-    "releaseDate" : 688003200,
-    "title" : "48.1 Vater des Schreckens - Blut für Lukretia",
-    "upc" : "9783955727093"
   },
   {
     "albumID" : "1649759278",
