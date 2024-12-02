@@ -1,13 +1,5 @@
 [
   {
-    "albumID" : "1450498987",
-    "artist" : "TKKG",
-    "duration" : 3460.3189999999995,
-    "releaseDate" : -176601600,
-    "title" : "Das Geheimnis um TKKG (Neuaufnahme)",
-    "upc" : "886447519189"
-  },
-  {
     "albumID" : "1195630985",
     "artist" : "TKKG",
     "duration" : 2942.281,
@@ -134,6 +126,14 @@
     "releaseDate" : -30844800,
     "title" : "Folge 118: Im Kaufhaus ist der Teufel los",
     "upc" : "886446428291"
+  },
+  {
+    "albumID" : "1216486401",
+    "artist" : "TKKG",
+    "duration" : 2999.882,
+    "releaseDate" : -25401600,
+    "title" : "Folge 119: Frische Spur nach 70 Jahren",
+    "upc" : "886446428307"
   },
   {
     "albumID" : "1216486746",
@@ -720,14 +720,6 @@
     "upc" : "886445641066"
   },
   {
-    "albumID" : "1087309130",
-    "artist" : "TKKG",
-    "duration" : 4434.147,
-    "releaseDate" : 469670400,
-    "title" : "Folge 194: Der Friedhof der Namenlosen",
-    "upc" : "886445641073"
-  },
-  {
     "albumID" : "1148961615",
     "artist" : "TKKG",
     "duration" : 3952.692,
@@ -742,6 +734,14 @@
     "releaseDate" : 496886400,
     "title" : "Folge 198: Der Golem vom Dunkelsee",
     "upc" : "886445582888"
+  },
+  {
+    "albumID" : "1298617442",
+    "artist" : "TKKG",
+    "duration" : 3976.0160000000005,
+    "releaseDate" : 533174400,
+    "title" : "Folge 203: Der Räuber mit der Weihnachtsmaske",
+    "upc" : "886446167084"
   },
   {
     "albumID" : "1371388955",
