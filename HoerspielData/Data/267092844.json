@@ -552,14 +552,6 @@
     "upc" : "4260229664155"
   },
   {
-    "albumID" : "1535463850",
-    "artist" : "Die Playmos",
-    "duration" : 3156.0000000000005,
-    "releaseDate" : 625708800,
-    "title" : "Folge 73: Spurensuche im Zoo (Das Original Playmobil Hörspiel)",
-    "upc" : "4260229664162"
-  },
-  {
     "albumID" : "1558800313",
     "artist" : "Die Playmos",
     "duration" : 10226.99899999999,
@@ -574,6 +566,14 @@
     "releaseDate" : 657763200,
     "title" : "Folge 77: Schmuggler im Hafen",
     "upc" : "4066004387864"
+  },
+  {
+    "albumID" : "1610365395",
+    "artist" : "Die Playmos",
+    "duration" : 3591.999999999999,
+    "releaseDate" : 668563200,
+    "title" : "Folge 78: Auf Mission mit dem SWAT-Team (Das Original Playmobil Hörspiel)",
+    "upc" : "4260229664827"
   },
   {
     "albumID" : "1628384681",
