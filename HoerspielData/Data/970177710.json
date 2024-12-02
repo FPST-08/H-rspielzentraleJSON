@@ -104,6 +104,14 @@
     "upc" : "4260507147738"
   },
   {
+    "albumID" : "1451507483",
+    "artist" : "Sherlock Holmes Chronicles",
+    "duration" : 8904.845999999998,
+    "releaseDate" : 490838400,
+    "title" : "Folge 2: Die Zeitmaschine",
+    "upc" : "4260507147578"
+  },
+  {
     "albumID" : "1451511285",
     "artist" : "Sherlock Holmes Chronicles",
     "duration" : 8514.457999999999,
@@ -336,14 +344,6 @@
     "upc" : "4260507158161"
   },
   {
-    "albumID" : "1515722555",
-    "artist" : "Sherlock Holmes Chronicles",
-    "duration" : 7958.02,
-    "releaseDate" : 619056000,
-    "title" : "Folge 54: Die Kaiserattentate",
-    "upc" : "4260507158178"
-  },
-  {
     "albumID" : "1515721805",
     "artist" : "Sherlock Holmes Chronicles",
     "duration" : 4296.657,
@@ -408,20 +408,20 @@
     "upc" : "4260507159922"
   },
   {
-    "albumID" : "1535437525",
-    "artist" : "Sherlock Holmes Chronicles",
-    "duration" : 2460.444,
-    "releaseDate" : 628732800,
-    "title" : "Folge 63: Der blutrote Edelstein",
-    "upc" : "4260507159939"
-  },
-  {
     "albumID" : "1533647791",
     "artist" : "Sherlock Holmes Chronicles",
     "duration" : 3977.116,
     "releaseDate" : 628732800,
     "title" : "Folge 69: Der gelbe Tropfen",
     "upc" : "4260507161659"
+  },
+  {
+    "albumID" : "1535437525",
+    "artist" : "Sherlock Holmes Chronicles",
+    "duration" : 2460.444,
+    "releaseDate" : 628732800,
+    "title" : "Folge 63: Der blutrote Edelstein",
+    "upc" : "4260507159939"
   },
   {
     "albumID" : "1535445860",
@@ -462,6 +462,14 @@
     "releaseDate" : 649296000,
     "title" : "Folge 74: Abbey Grange",
     "upc" : "4260507165237"
+  },
+  {
+    "albumID" : "1567985684",
+    "artist" : "Sherlock Holmes Chronicles",
+    "duration" : 2794.496,
+    "releaseDate" : 650505600,
+    "title" : "Folge 75: Mord im Mädchenpensionat",
+    "upc" : "4260507165251"
   },
   {
     "albumID" : "1567985506",
@@ -702,14 +710,6 @@
     "releaseDate" : 711590400,
     "title" : "Folge 8: Die verschwundene Mrs. Hudson",
     "upc" : "4260507187765"
-  },
-  {
-    "albumID" : "1663943540",
-    "artist" : "Sherlock Holmes Chronicles",
-    "duration" : 4458.0009999999975,
-    "releaseDate" : 712800000,
-    "title" : "Folge 103: Der ägyptische Schatz",
-    "upc" : "4260507178411"
   },
   {
     "albumID" : "1670984735",
