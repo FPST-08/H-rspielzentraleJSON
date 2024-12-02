@@ -144,6 +144,22 @@
     "upc" : "886445132670"
   },
   {
+    "albumID" : "1002477358",
+    "artist" : "Fünf Freunde",
+    "duration" : 2741.519,
+    "releaseDate" : -347068800,
+    "title" : "Folge 27: und die goldene Truhe",
+    "upc" : "886445132687"
+  },
+  {
+    "albumID" : "1002475154",
+    "artist" : "Fünf Freunde",
+    "duration" : 2792.589,
+    "releaseDate" : -315619200,
+    "title" : "Folge 28: und die geheimnisvolle Stadt",
+    "upc" : "886445132724"
+  },
+  {
     "albumID" : "1002464607",
     "artist" : "Fünf Freunde",
     "duration" : 2952.281,
@@ -840,28 +856,12 @@
     "upc" : "886445317510"
   },
   {
-    "albumID" : "1048622732",
-    "artist" : "Fünf Freunde",
-    "duration" : 3726.7850000000008,
-    "releaseDate" : 469670400,
-    "title" : "Folge 114: und der Skandal auf der Freilichtbühne",
-    "upc" : "886444980586"
-  },
-  {
     "albumID" : "1070221537",
     "artist" : "Fünf Freunde",
     "duration" : 3099.5459999999994,
     "releaseDate" : 477532800,
     "title" : "Folge 115: helfen den Flutopfern",
     "upc" : "886445603002"
-  },
-  {
-    "albumID" : "1090908738",
-    "artist" : "Fünf Freunde",
-    "duration" : 3197.6370000000015,
-    "releaseDate" : 482371200,
-    "title" : "Folge 116: und der chinesische Pflanzenzauber",
-    "upc" : "886445603019"
   },
   {
     "albumID" : "1110806395",
@@ -878,6 +878,14 @@
     "releaseDate" : 514425600,
     "title" : "Folge 121: und die verlassene Jagdhütte",
     "upc" : "886446072043"
+  },
+  {
+    "albumID" : "1223460942",
+    "artist" : "Fünf Freunde",
+    "duration" : 3405.482000000001,
+    "releaseDate" : 519264000,
+    "title" : "Folge 122: und der Großalarm in Kirrin",
+    "upc" : "886446072050"
   },
   {
     "albumID" : "1287526566",
@@ -950,14 +958,6 @@
     "releaseDate" : 607564800,
     "title" : "Folge 136: Fünf Freunde und der wütende Stier",
     "upc" : "886448054009"
-  },
-  {
-    "albumID" : "1527753025",
-    "artist" : "Fünf Freunde",
-    "duration" : 3709.1180000000004,
-    "releaseDate" : 620870400,
-    "title" : "Folge 138: am Ende der Welt",
-    "upc" : "886448109402"
   },
   {
     "albumID" : "1538124716",
