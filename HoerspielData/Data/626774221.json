@@ -264,6 +264,14 @@
     "upc" : "4260507158239"
   },
   {
+    "albumID" : "1529885703",
+    "artist" : "Professor van Dusen",
+    "duration" : 4388.075999999999,
+    "releaseDate" : 622684800,
+    "title" : "Die neuen Fälle, Fall 23: Professor van Dusen und die Witwentröster von Bombay",
+    "upc" : "4260507161413"
+  },
+  {
     "albumID" : "1506768512",
     "artist" : "Professor van Dusen",
     "duration" : 3961.598000000001,
@@ -278,14 +286,6 @@
     "releaseDate" : 629942400,
     "title" : "Folge 25: Professor van Dusen und der Zirkusmörder",
     "upc" : "4260507158260"
-  },
-  {
-    "albumID" : "1503643060",
-    "artist" : "Professor van Dusen",
-    "duration" : 4028.1250000000005,
-    "releaseDate" : 640224000,
-    "title" : "Folge 27: Professor van Dusen und der schreckliche Schneemensch",
-    "upc" : "4260507158284"
   },
   {
     "albumID" : "1503643823",
