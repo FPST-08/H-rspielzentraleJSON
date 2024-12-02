@@ -24,20 +24,20 @@
     "upc" : "4260507149442"
   },
   {
-    "albumID" : "1458766714",
-    "artist" : "Dreamland Grusel",
-    "duration" : 4463.867000000001,
-    "releaseDate" : 336009600,
-    "title" : "Folge 6: Der Zombie-Macher von Haiti",
-    "upc" : "4260507149428"
-  },
-  {
     "albumID" : "1458764806",
     "artist" : "Dreamland Grusel",
     "duration" : 4665.897999999999,
     "releaseDate" : 336009600,
     "title" : "Folge 4: Der Freak von Soho",
     "upc" : "4260507149404"
+  },
+  {
+    "albumID" : "1458766714",
+    "artist" : "Dreamland Grusel",
+    "duration" : 4463.867000000001,
+    "releaseDate" : 336009600,
+    "title" : "Folge 6: Der Zombie-Macher von Haiti",
+    "upc" : "4260507149428"
   },
   {
     "albumID" : "1458768491",
@@ -54,14 +54,6 @@
     "releaseDate" : 336009600,
     "title" : "Folge 10: Mit den Insekten kam das Grauen",
     "upc" : "4260507149466"
-  },
-  {
-    "albumID" : "1458762910",
-    "artist" : "Dreamland Grusel",
-    "duration" : 4278.713000000001,
-    "releaseDate" : 336009600,
-    "title" : "Folge 2: Jagd auf den Werwolf",
-    "upc" : "4260507149381"
   },
   {
     "albumID" : "1465319565",
@@ -168,6 +160,14 @@
     "upc" : "4260507149602"
   },
   {
+    "albumID" : "1458777376",
+    "artist" : "Dreamland Grusel",
+    "duration" : 4977.079000000001,
+    "releaseDate" : 488419200,
+    "title" : "Folge 25: In den Fängen des Todes",
+    "upc" : "4260507149619"
+  },
+  {
     "albumID" : "1458777994",
     "artist" : "Dreamland Grusel",
     "duration" : 4129.748000000001,
@@ -198,14 +198,6 @@
     "releaseDate" : 515030400,
     "title" : "Folge 29: Im Schatten des Rippers",
     "upc" : "4260507149657"
-  },
-  {
-    "albumID" : "1458779647",
-    "artist" : "Dreamland Grusel",
-    "duration" : 3834.6810000000005,
-    "releaseDate" : 525312000,
-    "title" : "Folge 30: Zeit der Angst",
-    "upc" : "4260507149664"
   },
   {
     "albumID" : "1458779814",
@@ -254,6 +246,14 @@
     "releaseDate" : 689212800,
     "title" : "Folge 54: Die Rückkehr der Todesratte",
     "upc" : "4260507177193"
+  },
+  {
+    "albumID" : "1670067443",
+    "artist" : "Dreamland Grusel",
+    "duration" : 2692.1319999999996,
+    "releaseDate" : 699494400,
+    "title" : "Folge 55: Der Tag der Bestie",
+    "upc" : "4260507180261"
   },
   {
     "albumID" : "1675465466",
