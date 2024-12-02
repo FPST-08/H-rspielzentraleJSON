@@ -1,5 +1,21 @@
 [
   {
+    "albumID" : "1414530831",
+    "artist" : "Offenbarung 23",
+    "duration" : 4387.998,
+    "releaseDate" : 157766400,
+    "title" : "Folge 9: Gier!",
+    "upc" : "4260507141712"
+  },
+  {
+    "albumID" : "1414540626",
+    "artist" : "Offenbarung 23",
+    "duration" : 4571.001000000002,
+    "releaseDate" : 189302400,
+    "title" : "Folge 20: Die Pyramiden-Saga",
+    "upc" : "4260507141828"
+  },
+  {
     "albumID" : "1414537044",
     "artist" : "Offenbarung 23",
     "duration" : 4393.001,
@@ -118,22 +134,6 @@
     "releaseDate" : 283996800,
     "title" : "Folge 38: 60 Minuten - Die Echtzeitfolge",
     "upc" : "4260507142009"
-  },
-  {
-    "albumID" : "1414532316",
-    "artist" : "Offenbarung 23",
-    "duration" : 4598.004,
-    "releaseDate" : 336009600,
-    "title" : "Folge 10: Die traurige Prinzessin",
-    "upc" : "4260507141729"
-  },
-  {
-    "albumID" : "1414534004",
-    "artist" : "Offenbarung 23",
-    "duration" : 4696.999000000001,
-    "releaseDate" : 339033600,
-    "title" : "Folge 13: Das Wissen der Menschheit",
-    "upc" : "4260507141750"
   },
   {
     "albumID" : "1414550911",
@@ -304,20 +304,20 @@
     "upc" : "4260507142160"
   },
   {
-    "albumID" : "1411324542",
-    "artist" : "Offenbarung 23",
-    "duration" : 4199.999999999999,
-    "releaseDate" : 410227200,
-    "title" : "Folge 53: Die Klima-Maschine",
-    "upc" : "4260507142177"
-  },
-  {
     "albumID" : "1411317878",
     "artist" : "Offenbarung 23",
     "duration" : 3810.001,
     "releaseDate" : 410227200,
     "title" : "Folge 51: The Mad Scientists",
     "upc" : "4260507142153"
+  },
+  {
+    "albumID" : "1411324542",
+    "artist" : "Offenbarung 23",
+    "duration" : 4199.999999999999,
+    "releaseDate" : 410227200,
+    "title" : "Folge 53: Die Klima-Maschine",
+    "upc" : "4260507142177"
   },
   {
     "albumID" : "1411328440",
@@ -352,14 +352,6 @@
     "upc" : "4260507142276"
   },
   {
-    "albumID" : "1414567511",
-    "artist" : "Offenbarung 23",
-    "duration" : 3992.000000000001,
-    "releaseDate" : 441763200,
-    "title" : "Folge 56: Die Matrix",
-    "upc" : "4260507142214"
-  },
-  {
     "albumID" : "1414570890",
     "artist" : "Offenbarung 23",
     "duration" : 5799.000000000001,
@@ -374,6 +366,14 @@
     "releaseDate" : 441763200,
     "title" : "Folge 55: Heiliger Gral 2.0",
     "upc" : "4260507142207"
+  },
+  {
+    "albumID" : "1414567511",
+    "artist" : "Offenbarung 23",
+    "duration" : 3992.000000000001,
+    "releaseDate" : 441763200,
+    "title" : "Folge 56: Die Matrix",
+    "upc" : "4260507142214"
   },
   {
     "albumID" : "1411331896",
