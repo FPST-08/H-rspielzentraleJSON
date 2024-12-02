@@ -48,6 +48,14 @@
     "upc" : "196589989512"
   },
   {
+    "albumID" : "1694280408",
+    "artist" : "TKKG Junior",
+    "duration" : 3327.3189999999995,
+    "releaseDate" : 711590400,
+    "title" : "Folge 28: Tatort Zirkus",
+    "upc" : "196589971906"
+  },
+  {
     "albumID" : "1705864069",
     "artist" : "TKKG Junior",
     "duration" : 2898.9189999999994,
@@ -86,13 +94,5 @@
     "releaseDate" : 749088000,
     "title" : "Folge 34: Die Jagd nach dem Phantom",
     "upc" : "196872211986"
-  },
-  {
-    "albumID" : "1777047904",
-    "artist" : "TKKG Junior",
-    "duration" : 5454.948999999998,
-    "releaseDate" : 754531200,
-    "title" : "Adventskalender - Eine schöne Bescherung",
-    "upc" : "196872211993"
   }
 ]
