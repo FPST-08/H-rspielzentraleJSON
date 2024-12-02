@@ -8,6 +8,14 @@
     "upc" : "4049709934625"
   },
   {
+    "albumID" : "1527469297",
+    "artist" : "Gruselkabinett",
+    "duration" : 4134.04,
+    "releaseDate" : 126230400,
+    "title" : "Folge 7: Die Totenbraut",
+    "upc" : "4049709934649"
+  },
+  {
     "albumID" : "1527470395",
     "artist" : "Gruselkabinett",
     "duration" : 4376.348999999998,
@@ -22,14 +30,6 @@
     "releaseDate" : 126230400,
     "title" : "Folge 9: Spuk in Hill House (Folge 2 von 2)",
     "upc" : "4049709934946"
-  },
-  {
-    "albumID" : "1527469297",
-    "artist" : "Gruselkabinett",
-    "duration" : 4134.04,
-    "releaseDate" : 126230400,
-    "title" : "Folge 7: Die Totenbraut",
-    "upc" : "4049709934649"
   },
   {
     "albumID" : "1527471338",
@@ -136,20 +136,20 @@
     "upc" : "4049709934823"
   },
   {
-    "albumID" : "1527457989",
-    "artist" : "Gruselkabinett",
-    "duration" : 4288.025000000001,
-    "releaseDate" : 189302400,
-    "title" : "Folge 19: Dracula (Folge 3 von 3)",
-    "upc" : "4049709934847"
-  },
-  {
     "albumID" : "1527454693",
     "artist" : "Gruselkabinett",
     "duration" : 4731.067,
     "releaseDate" : 189302400,
     "title" : "Folge 20: Der Werwolf",
     "upc" : "4049709934861"
+  },
+  {
+    "albumID" : "1527457989",
+    "artist" : "Gruselkabinett",
+    "duration" : 4288.025000000001,
+    "releaseDate" : 189302400,
+    "title" : "Folge 19: Dracula (Folge 3 von 3)",
+    "upc" : "4049709934847"
   },
   {
     "albumID" : "1527443515",
@@ -232,20 +232,20 @@
     "upc" : "4049709935943"
   },
   {
-    "albumID" : "1527401592",
-    "artist" : "Gruselkabinett",
-    "duration" : 3292.893,
-    "releaseDate" : 252460800,
-    "title" : "Folge 34: Die obere Koje",
-    "upc" : "4049709935967"
-  },
-  {
     "albumID" : "1527400687",
     "artist" : "Gruselkabinett",
     "duration" : 4100.802000000001,
     "releaseDate" : 252460800,
     "title" : "Folge 35: Das Schloss des weißen Lindwurms",
     "upc" : "4049709935974"
+  },
+  {
+    "albumID" : "1527401592",
+    "artist" : "Gruselkabinett",
+    "duration" : 3292.893,
+    "releaseDate" : 252460800,
+    "title" : "Folge 34: Die obere Koje",
+    "upc" : "4049709935967"
   },
   {
     "albumID" : "1527399670",
@@ -1136,20 +1136,20 @@
     "upc" : "4049709945034"
   },
   {
-    "albumID" : "1527083104",
-    "artist" : "Gruselkabinett",
-    "duration" : 3355.0300000000007,
-    "releaseDate" : 606960000,
-    "title" : "Folge 158: Das innerste Licht",
-    "upc" : "4251777700099"
-  },
-  {
     "albumID" : "1527086250",
     "artist" : "Gruselkabinett",
     "duration" : 5671.677999999999,
     "releaseDate" : 606960000,
     "title" : "Folge 159: Das kalte Herz",
     "upc" : "4251777700082"
+  },
+  {
+    "albumID" : "1527083104",
+    "artist" : "Gruselkabinett",
+    "duration" : 3355.0300000000007,
+    "releaseDate" : 606960000,
+    "title" : "Folge 158: Das innerste Licht",
+    "upc" : "4251777700099"
   },
   {
     "albumID" : "1527080582",
@@ -1224,6 +1224,14 @@
     "upc" : "9783785783177"
   },
   {
+    "albumID" : "1561774085",
+    "artist" : "Gruselkabinett",
+    "duration" : 3563.4659999999994,
+    "releaseDate" : 641433600,
+    "title" : "Folge 170: Eine wahre Vampir-Geschichte",
+    "upc" : "4251777701577"
+  },
+  {
     "albumID" : "1594818467",
     "artist" : "Gruselkabinett",
     "duration" : 5385.013000000001,
@@ -1232,28 +1240,20 @@
     "upc" : "4251777702345"
   },
   {
+    "albumID" : "1598917522",
+    "artist" : "Gruselkabinett",
+    "duration" : 3450.265,
+    "releaseDate" : 661392000,
+    "title" : "Folge 176: Das Lächeln des Toten",
+    "upc" : "4251777703175"
+  },
+  {
     "albumID" : "1612208699",
     "artist" : "Gruselkabinett",
     "duration" : 3705.3979999999997,
     "releaseDate" : 669859200,
     "title" : "Folge 177: Furia Infernalis",
     "upc" : "4251777703441"
-  },
-  {
-    "albumID" : "1643523386",
-    "artist" : "Gruselkabinett",
-    "duration" : 3612.2949999999996,
-    "releaseDate" : 686188800,
-    "title" : "Folge 179: Flaxman Low - Der Fall Medhans Lea",
-    "upc" : "4251777704134"
-  },
-  {
-    "albumID" : "1652671540",
-    "artist" : "Gruselkabinett",
-    "duration" : 4344.976,
-    "releaseDate" : 691027200,
-    "title" : "Folge 181: Das gefährlichste Spiel der Welt",
-    "upc" : "4251777704301"
   },
   {
     "albumID" : "1674298827",
