@@ -104,20 +104,20 @@
     "upc" : "4260507140685"
   },
   {
-    "albumID" : "1385061728",
-    "artist" : "Mimi Rutherfurt",
-    "duration" : 3556.999,
-    "releaseDate" : 466041600,
-    "title" : "Folge 37: Der Patient aus Nr. 5",
-    "upc" : "4260507140692"
-  },
-  {
     "albumID" : "1385066085",
     "artist" : "Mimi Rutherfurt",
     "duration" : 4644.9980000000005,
     "releaseDate" : 466041600,
     "title" : "Folge 38: Comics für den Staatsanwalt",
     "upc" : "4260507140708"
+  },
+  {
+    "albumID" : "1385061728",
+    "artist" : "Mimi Rutherfurt",
+    "duration" : 3556.999,
+    "releaseDate" : 466041600,
+    "title" : "Folge 37: Der Patient aus Nr. 5",
+    "upc" : "4260507140692"
   },
   {
     "albumID" : "1385066355",
@@ -192,14 +192,6 @@
     "upc" : "4260507140791"
   },
   {
-    "albumID" : "1381368202",
-    "artist" : "Mimi Rutherfurt",
-    "duration" : 3509.9990000000003,
-    "releaseDate" : 492652800,
-    "title" : "Folge 8: Mit Glockenschlägen zum Mord (Mimi Rutherfurt ermittelt...)",
-    "upc" : "4260507140821"
-  },
-  {
     "albumID" : "1385084241",
     "artist" : "Mimi Rutherfurt",
     "duration" : 4503.001,
@@ -208,20 +200,20 @@
     "upc" : "4260507140814"
   },
   {
+    "albumID" : "1381368202",
+    "artist" : "Mimi Rutherfurt",
+    "duration" : 3509.9990000000003,
+    "releaseDate" : 492652800,
+    "title" : "Folge 8: Mit Glockenschlägen zum Mord (Mimi Rutherfurt ermittelt...)",
+    "upc" : "4260507140821"
+  },
+  {
     "albumID" : "1385080587",
     "artist" : "Mimi Rutherfurt",
     "duration" : 4555.000000000002,
     "releaseDate" : 492652800,
     "title" : "Folge 6: Wachs oder Wirklichkeit (Mimi Rutherfurt ermittelt...)",
     "upc" : "4260507140807"
-  },
-  {
-    "albumID" : "1385043439",
-    "artist" : "Mimi Rutherfurt",
-    "duration" : 3863.9970000000003,
-    "releaseDate" : 547689600,
-    "title" : "Folge 24: Schwarze Blüten",
-    "upc" : "4260507140562"
   },
   {
     "albumID" : "1385030908",
@@ -240,28 +232,12 @@
     "upc" : "4260507140432"
   },
   {
-    "albumID" : "1385014164",
+    "albumID" : "1385043439",
     "artist" : "Mimi Rutherfurt",
-    "duration" : 4744.000000000001,
+    "duration" : 3863.9970000000003,
     "releaseDate" : 547689600,
-    "title" : "Folge 10: Spuk im Herrenhaus",
-    "upc" : "4260507140425"
-  },
-  {
-    "albumID" : "1385008591",
-    "artist" : "Mimi Rutherfurt",
-    "duration" : 3280,
-    "releaseDate" : 547689600,
-    "title" : "Folge 9: Schwarze Rache",
-    "upc" : "4260507140418"
-  },
-  {
-    "albumID" : "1384978244",
-    "artist" : "Mimi Rutherfurt",
-    "duration" : 2997.0020000000004,
-    "releaseDate" : 547689600,
-    "title" : "Folge 4: Todesliste",
-    "upc" : "4260507140364"
+    "title" : "Folge 24: Schwarze Blüten",
+    "upc" : "4260507140562"
   },
   {
     "albumID" : "1385000440",
@@ -280,6 +256,30 @@
     "upc" : "4260507140456"
   },
   {
+    "albumID" : "1385008591",
+    "artist" : "Mimi Rutherfurt",
+    "duration" : 3280,
+    "releaseDate" : 547689600,
+    "title" : "Folge 9: Schwarze Rache",
+    "upc" : "4260507140418"
+  },
+  {
+    "albumID" : "1384978244",
+    "artist" : "Mimi Rutherfurt",
+    "duration" : 2997.0020000000004,
+    "releaseDate" : 547689600,
+    "title" : "Folge 4: Todesliste",
+    "upc" : "4260507140364"
+  },
+  {
+    "albumID" : "1385014164",
+    "artist" : "Mimi Rutherfurt",
+    "duration" : 4744.000000000001,
+    "releaseDate" : 547689600,
+    "title" : "Folge 10: Spuk im Herrenhaus",
+    "upc" : "4260507140425"
+  },
+  {
     "albumID" : "1385027898",
     "artist" : "Mimi Rutherfurt",
     "duration" : 4543.999000000001,
@@ -288,12 +288,12 @@
     "upc" : "4260507140487"
   },
   {
-    "albumID" : "1385024686",
+    "albumID" : "1385033177",
     "artist" : "Mimi Rutherfurt",
-    "duration" : 4301.002000000001,
+    "duration" : 3428.9989999999993,
     "releaseDate" : 547689600,
-    "title" : "Folge 17: Die Ruhe der Toten",
-    "upc" : "4260507140494"
+    "title" : "Folge 20: Nasses Grab",
+    "upc" : "4260507140524"
   },
   {
     "albumID" : "1385023097",
@@ -312,12 +312,12 @@
     "upc" : "4260507140500"
   },
   {
-    "albumID" : "1385033177",
+    "albumID" : "1385024686",
     "artist" : "Mimi Rutherfurt",
-    "duration" : 3428.9989999999993,
+    "duration" : 4301.002000000001,
     "releaseDate" : 547689600,
-    "title" : "Folge 20: Nasses Grab",
-    "upc" : "4260507140524"
+    "title" : "Folge 17: Die Ruhe der Toten",
+    "upc" : "4260507140494"
   },
   {
     "albumID" : "1385049044",
@@ -350,14 +350,6 @@
     "releaseDate" : 619056000,
     "title" : "Edition 1: Vier Spannende Kriminalhörspiele",
     "upc" : "4260507161031"
-  },
-  {
-    "albumID" : "1515726666",
-    "artist" : "Mimi Rutherfurt",
-    "duration" : 4014.9999999999995,
-    "releaseDate" : 620265600,
-    "title" : "Folge 49: Alte Gier",
-    "upc" : "4260507159755"
   },
   {
     "albumID" : "1527077417",
@@ -462,5 +454,13 @@
     "releaseDate" : 749088000,
     "title" : "Folge 65: Der Sammler",
     "upc" : "4260507198334"
+  },
+  {
+    "albumID" : "1764916869",
+    "artist" : "Mimi Rutherfurt",
+    "duration" : 3562.6359999999995,
+    "releaseDate" : 752716800,
+    "title" : "Folge 66: Der Bücherwurm",
+    "upc" : "4260507198808"
   }
 ]
