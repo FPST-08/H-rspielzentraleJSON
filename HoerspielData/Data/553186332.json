@@ -240,6 +240,14 @@
     "upc" : "4260507140883"
   },
   {
+    "albumID" : "1385488272",
+    "artist" : "Sherlock Holmes & Co",
+    "duration" : 3504,
+    "releaseDate" : 557366400,
+    "title" : "Folge 40: Zirkus des Verbrechens",
+    "upc" : "4260507140890"
+  },
+  {
     "albumID" : "1438231195",
     "artist" : "Sherlock Holmes & Co",
     "duration" : 2607.0009999999997,
@@ -248,20 +256,20 @@
     "upc" : "4260507143969"
   },
   {
-    "albumID" : "1451505427",
+    "albumID" : "1446682786",
     "artist" : "Sherlock Holmes & Co",
-    "duration" : 4492.651999999999,
-    "releaseDate" : 573696000,
-    "title" : "Folge 44: Der Falschspieler mit dem Karo-Ass",
-    "upc" : "4260507147301"
+    "duration" : 3749.9979999999996,
+    "releaseDate" : 570067200,
+    "title" : "Folge 43: Der Rachegeist von Sing Sing",
+    "upc" : "4260507145871"
   },
   {
-    "albumID" : "1495658335",
+    "albumID" : "1468478349",
     "artist" : "Sherlock Holmes & Co",
-    "duration" : 4441.001,
-    "releaseDate" : 605750400,
-    "title" : "Folge 51: Der bleiche Tod",
-    "upc" : "4260507156211"
+    "duration" : 4019.0009999999997,
+    "releaseDate" : 585187200,
+    "title" : "Folge 46: Das doppelte Gesicht",
+    "upc" : "4260507152084"
   },
   {
     "albumID" : "1515723264",
@@ -318,14 +326,6 @@
     "releaseDate" : 648086400,
     "title" : "Folge 62: Die Spur des Verderbens, Episode 2",
     "upc" : "4260507166777"
-  },
-  {
-    "albumID" : "1583616171",
-    "artist" : "Sherlock Holmes & Co",
-    "duration" : 3366.999,
-    "releaseDate" : 654134400,
-    "title" : "Folge 64: Puppenspieler",
-    "upc" : "4260507170156"
   },
   {
     "albumID" : "1589751797",
