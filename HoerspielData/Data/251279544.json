@@ -16,6 +16,14 @@
     "upc" : "9783838761121"
   },
   {
+    "albumID" : "309151058",
+    "artist" : "Jason Dark & John Sinclair",
+    "duration" : 2800.706,
+    "releaseDate" : 36374400,
+    "title" : "John Sinclair, Folge 17: Bills Hinrichtung (Teil 2 von 3)",
+    "upc" : "9783838761206"
+  },
+  {
     "albumID" : "309312300",
     "artist" : "Jason Dark & John Sinclair",
     "duration" : 2881.7749999999996,
@@ -118,14 +126,6 @@
     "releaseDate" : 208742400,
     "title" : "John Sinclair, Folge 40: Mein Todesurteil (Teil 3 von 3)",
     "upc" : "9783838761435"
-  },
-  {
-    "albumID" : "309326889",
-    "artist" : "Jason Dark & John Sinclair",
-    "duration" : 3120.999999999999,
-    "releaseDate" : 219024000,
-    "title" : "John Sinclair, Folge 41: Die Schöne Aus Dem Totenreich",
-    "upc" : "9783838761442"
   },
   {
     "albumID" : "309326366",
