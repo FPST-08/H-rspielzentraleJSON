@@ -8,12 +8,12 @@
     "upc" : "886448430643"
   },
   {
-    "albumID" : "1700906183",
+    "albumID" : "1700905912",
     "artist" : "VIDAN",
-    "duration" : 3607.7340000000004,
+    "duration" : 3528.1079999999997,
     "releaseDate" : 717638400,
-    "title" : "Staffel 3: Schrei nach Vernichtung, Folge 6: Der El Paso-Vorfall",
-    "upc" : "196871108492"
+    "title" : "Staffel 3: Schrei nach Vernichtung, Folge 5: Flehende Seelen",
+    "upc" : "196871108461"
   },
   {
     "albumID" : "1700925166",
@@ -22,14 +22,6 @@
     "releaseDate" : 717638400,
     "title" : "Staffel 3: Schrei nach Vernichtung, Folge 7: Caja Sorpresa",
     "upc" : "196871108522"
-  },
-  {
-    "albumID" : "1700907151",
-    "artist" : "VIDAN",
-    "duration" : 4473.268000000001,
-    "releaseDate" : 717638400,
-    "title" : "Staffel 3: Schrei nach Vernichtung, Folge 10: Überleben?",
-    "upc" : "196871108652"
   },
   {
     "albumID" : "1700906341",
@@ -46,5 +38,13 @@
     "releaseDate" : 717638400,
     "title" : "Staffel 3: Schrei nach Vernichtung, Folge 9: Nootaus Kampf",
     "upc" : "196871108614"
+  },
+  {
+    "albumID" : "1700907151",
+    "artist" : "VIDAN",
+    "duration" : 4473.268000000001,
+    "releaseDate" : 717638400,
+    "title" : "Staffel 3: Schrei nach Vernichtung, Folge 10: Überleben?",
+    "upc" : "196871108652"
   }
 ]
