@@ -1,19 +1,19 @@
 [
   {
-    "albumID" : "1458769055",
+    "albumID" : "1458764972",
     "artist" : "Dreamland Grusel",
-    "duration" : 3755.981,
+    "duration" : 4448.437,
     "releaseDate" : 336009600,
-    "title" : "Folge 9: Tödliche Knochenhände",
-    "upc" : "4260507149459"
+    "title" : "Folge 5: Wolfsnächte",
+    "upc" : "4260507149411"
   },
   {
-    "albumID" : "1458763362",
+    "albumID" : "1458769069",
     "artist" : "Dreamland Grusel",
-    "duration" : 4503.770999999999,
+    "duration" : 3472.656,
     "releaseDate" : 336009600,
-    "title" : "Folge 3: Lebendig begraben",
-    "upc" : "4260507149398"
+    "title" : "Folge 11: Die Totenpatrouille",
+    "upc" : "4260507149480"
   },
   {
     "albumID" : "1458768558",
@@ -22,14 +22,6 @@
     "releaseDate" : 336009600,
     "title" : "Folge 8: Mörderische Weihnachten",
     "upc" : "4260507149442"
-  },
-  {
-    "albumID" : "1458764806",
-    "artist" : "Dreamland Grusel",
-    "duration" : 4665.897999999999,
-    "releaseDate" : 336009600,
-    "title" : "Folge 4: Der Freak von Soho",
-    "upc" : "4260507149404"
   },
   {
     "albumID" : "1458766714",
@@ -46,6 +38,14 @@
     "releaseDate" : 336009600,
     "title" : "Folge 7: Die Vampir-Oma und ihre Kleinen",
     "upc" : "4260507149435"
+  },
+  {
+    "albumID" : "1458764806",
+    "artist" : "Dreamland Grusel",
+    "duration" : 4665.897999999999,
+    "releaseDate" : 336009600,
+    "title" : "Folge 4: Der Freak von Soho",
+    "upc" : "4260507149404"
   },
   {
     "albumID" : "1465318745",
@@ -160,14 +160,6 @@
     "upc" : "4260507149602"
   },
   {
-    "albumID" : "1458777376",
-    "artist" : "Dreamland Grusel",
-    "duration" : 4977.079000000001,
-    "releaseDate" : 488419200,
-    "title" : "Folge 25: In den Fängen des Todes",
-    "upc" : "4260507149619"
-  },
-  {
     "albumID" : "1458777994",
     "artist" : "Dreamland Grusel",
     "duration" : 4129.748000000001,
@@ -200,6 +192,14 @@
     "upc" : "4260507149657"
   },
   {
+    "albumID" : "1458779647",
+    "artist" : "Dreamland Grusel",
+    "duration" : 3834.6810000000005,
+    "releaseDate" : 525312000,
+    "title" : "Folge 30: Zeit der Angst",
+    "upc" : "4260507149664"
+  },
+  {
     "albumID" : "1458779814",
     "artist" : "Dreamland Grusel",
     "duration" : 4160.2390000000005,
@@ -230,6 +230,14 @@
     "releaseDate" : 621475200,
     "title" : "Folge 45: Interferenzen 2",
     "upc" : "4260507161130"
+  },
+  {
+    "albumID" : "1610145468",
+    "artist" : "Dreamland Grusel",
+    "duration" : 3003.1339999999996,
+    "releaseDate" : 669254400,
+    "title" : "Folge 51: Die Caves und der Klang des Todes",
+    "upc" : "4260507172600"
   },
   {
     "albumID" : "1630933266",
@@ -382,14 +390,6 @@
     "releaseDate" : 748483200,
     "title" : "Folge 71: Der Fluch der Bransburys",
     "upc" : "4260507198464"
-  },
-  {
-    "albumID" : "1775149623",
-    "artist" : "Dreamland Grusel",
-    "duration" : 4460.987000000001,
-    "releaseDate" : 754531200,
-    "title" : "Folge 72: Das allsehende Auge",
-    "upc" : "4260507199881"
   },
   {
     "albumID" : "1775152089",
