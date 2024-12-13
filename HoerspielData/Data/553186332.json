@@ -24,6 +24,14 @@
     "upc" : "4260507139764"
   },
   {
+    "albumID" : "1362028441",
+    "artist" : "Sherlock Holmes & Co",
+    "duration" : 3008.0139999999997,
+    "releaseDate" : 418262400,
+    "title" : "Folge 7: Die Tragödie von Birlstone",
+    "upc" : "4260507139771"
+  },
+  {
     "albumID" : "1362219314",
     "artist" : "Sherlock Holmes & Co",
     "duration" : 3420.2119999999995,
@@ -240,36 +248,12 @@
     "upc" : "4260507140883"
   },
   {
-    "albumID" : "1385488272",
-    "artist" : "Sherlock Holmes & Co",
-    "duration" : 3504,
-    "releaseDate" : 557366400,
-    "title" : "Folge 40: Zirkus des Verbrechens",
-    "upc" : "4260507140890"
-  },
-  {
     "albumID" : "1438231195",
     "artist" : "Sherlock Holmes & Co",
     "duration" : 2607.0009999999997,
     "releaseDate" : 564624000,
     "title" : "Folge 42: Das Verschwinden der Louise M., Episode 2",
     "upc" : "4260507143969"
-  },
-  {
-    "albumID" : "1446682786",
-    "artist" : "Sherlock Holmes & Co",
-    "duration" : 3749.9979999999996,
-    "releaseDate" : 570067200,
-    "title" : "Folge 43: Der Rachegeist von Sing Sing",
-    "upc" : "4260507145871"
-  },
-  {
-    "albumID" : "1468478349",
-    "artist" : "Sherlock Holmes & Co",
-    "duration" : 4019.0009999999997,
-    "releaseDate" : 585187200,
-    "title" : "Folge 46: Das doppelte Gesicht",
-    "upc" : "4260507152084"
   },
   {
     "albumID" : "1515723264",
@@ -328,6 +312,14 @@
     "upc" : "4260507166777"
   },
   {
+    "albumID" : "1583616171",
+    "artist" : "Sherlock Holmes & Co",
+    "duration" : 3366.999,
+    "releaseDate" : 654134400,
+    "title" : "Folge 64: Puppenspieler",
+    "upc" : "4260507170156"
+  },
+  {
     "albumID" : "1589751797",
     "artist" : "Sherlock Holmes & Co",
     "duration" : 3500.0020000000004,
@@ -342,6 +334,14 @@
     "releaseDate" : 669859200,
     "title" : "Folge 66: Die Stunde der Frau",
     "upc" : "4260507172273"
+  },
+  {
+    "albumID" : "1610157105",
+    "artist" : "Sherlock Holmes & Co",
+    "duration" : 4599.003000000001,
+    "releaseDate" : 672278400,
+    "title" : "Folge 67: Der Wiedergänger",
+    "upc" : "4260507172563"
   },
   {
     "albumID" : "1631824314",
