@@ -1,18 +1,18 @@
 [
   {
+    "albumID" : "1654606351",
+    "artist" : "Macabros - Classics",
+    "duration" : 4484.998999999999,
+    "releaseDate" : 706752000,
+    "title" : "Folge 22: Abraxas - Fluch des Magiers",
+    "upc" : "4260507177605"
+  },
+  {
     "albumID" : "1767820618",
     "artist" : "Macabros - Classics",
     "duration" : 2760.0010000000007,
     "releaseDate" : 751507200,
     "title" : "Folge 26: Uga, Bestie aus der Urzeit",
     "upc" : "4260507199058"
-  },
-  {
-    "albumID" : "1779080452",
-    "artist" : "Macabros - Classics",
-    "duration" : 181.333,
-    "releaseDate" : 755136000,
-    "title" : "Folge 27: Elixier der Verdammnis",
-    "upc" : "4260507200457"
   }
 ]
