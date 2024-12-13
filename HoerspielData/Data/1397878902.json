@@ -1,5 +1,13 @@
 [
   {
+    "albumID" : "1515739078",
+    "artist" : "Edgar Allan Poe & Auguste Dupin",
+    "duration" : 4037.005,
+    "releaseDate" : 615427200,
+    "title" : "Aus den Archiven, Folge 2: Der Mann in Orange",
+    "upc" : "4260507160003"
+  },
+  {
     "albumID" : "1515736814",
     "artist" : "Edgar Allan Poe & Auguste Dupin",
     "duration" : 3627.7209999999995,
@@ -14,14 +22,6 @@
     "releaseDate" : 617846400,
     "title" : "Folge 4: Das Verlangen zu töten (Aus den Archiven)",
     "upc" : "4260507160027"
-  },
-  {
-    "albumID" : "1515730876",
-    "artist" : "Edgar Allan Poe & Auguste Dupin",
-    "duration" : 4329.055,
-    "releaseDate" : 619056000,
-    "title" : "Aus den Archiven, Folge 5: Die Verschwundenen von Zimmer 5",
-    "upc" : "4260507160034"
   },
   {
     "albumID" : "1515727035",
