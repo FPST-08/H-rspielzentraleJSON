@@ -120,14 +120,6 @@
     "upc" : "886445747867"
   },
   {
-    "albumID" : "1092521904",
-    "artist" : "Die drei ??? Kids",
-    "duration" : 4641.800000000001,
-    "releaseDate" : 313027200,
-    "title" : "Folge 18: Mission Maulwurf",
-    "upc" : "886445747874"
-  },
-  {
     "albumID" : "1092527170",
     "artist" : "Die drei ??? Kids",
     "duration" : 4334.119,
@@ -208,20 +200,20 @@
     "upc" : "886445750072"
   },
   {
-    "albumID" : "1110094649",
-    "artist" : "Die drei ??? Kids",
-    "duration" : 3585.641,
-    "releaseDate" : 380764800,
-    "title" : "Folge 31: Rückkehr der Saurier",
-    "upc" : "886445750126"
-  },
-  {
     "albumID" : "1110091371",
     "artist" : "Die drei ??? Kids",
     "duration" : 4792.425,
     "releaseDate" : 380764800,
     "title" : "Folge 30: Im Geisterschiff",
     "upc" : "886445750102"
+  },
+  {
+    "albumID" : "1110094649",
+    "artist" : "Die drei ??? Kids",
+    "duration" : 3585.641,
+    "releaseDate" : 380764800,
+    "title" : "Folge 31: Rückkehr der Saurier",
+    "upc" : "886445750126"
   },
   {
     "albumID" : "1112948510",
@@ -496,6 +488,14 @@
     "upc" : "886447878552"
   },
   {
+    "albumID" : "1539905640",
+    "artist" : "Die drei ??? Kids",
+    "duration" : 4673.584,
+    "releaseDate" : 634176000,
+    "title" : "Folge 80: Gefährlicher Nebel",
+    "upc" : "886448759508"
+  },
+  {
     "albumID" : "1559050329",
     "artist" : "Die drei ??? Kids",
     "duration" : 4658.773999999999,
@@ -690,7 +690,7 @@
   {
     "albumID" : "1779340094",
     "artist" : "Die drei ??? Kids",
-    "duration" : 41.88,
+    "duration" : 5120.417000000001,
     "releaseDate" : 755740800,
     "title" : "Folge 98: Die Geisterpferde",
     "upc" : "196872212112"
