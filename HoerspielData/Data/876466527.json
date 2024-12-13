@@ -1,11 +1,11 @@
 [
   {
-    "albumID" : "1438753394",
+    "albumID" : "1439329186",
     "artist" : "Pater Brown",
-    "duration" : 3340.0329999999994,
+    "duration" : 3318.86,
     "releaseDate" : 421286400,
-    "title" : "Folge 3: Die fliegenden Sterne",
-    "upc" : "4260507143686"
+    "title" : "Folge 4: Die drei Todeswerkzeuge",
+    "upc" : "4260507143693"
   },
   {
     "albumID" : "1438753376",
@@ -14,6 +14,22 @@
     "releaseDate" : 421286400,
     "title" : "Folge 8: Die falsche Form",
     "upc" : "4260507143730"
+  },
+  {
+    "albumID" : "1439329173",
+    "artist" : "Pater Brown",
+    "duration" : 3772.2389999999996,
+    "releaseDate" : 421286400,
+    "title" : "Folge 5: Das Auge des Apoll",
+    "upc" : "4260507143709"
+  },
+  {
+    "albumID" : "1439331578",
+    "artist" : "Pater Brown",
+    "duration" : 3527.7079999999996,
+    "releaseDate" : 421286400,
+    "title" : "Folge 19: Ein Pfeil vom Himmel",
+    "upc" : "4260507143846"
   },
   {
     "albumID" : "1439330704",
@@ -32,28 +48,12 @@
     "upc" : "4260507143679"
   },
   {
-    "albumID" : "1439331578",
-    "artist" : "Pater Brown",
-    "duration" : 3527.7079999999996,
-    "releaseDate" : 421286400,
-    "title" : "Folge 19: Ein Pfeil vom Himmel",
-    "upc" : "4260507143846"
-  },
-  {
     "albumID" : "1439329960",
     "artist" : "Pater Brown",
     "duration" : 3065.766,
     "releaseDate" : 421286400,
     "title" : "Folge 7: Das Paradies der Diebe",
     "upc" : "4260507143723"
-  },
-  {
-    "albumID" : "1439329173",
-    "artist" : "Pater Brown",
-    "duration" : 3772.2389999999996,
-    "releaseDate" : 421286400,
-    "title" : "Folge 5: Das Auge des Apoll",
-    "upc" : "4260507143709"
   },
   {
     "albumID" : "1438754592",
@@ -64,14 +64,6 @@
     "upc" : "4260507143747"
   },
   {
-    "albumID" : "1438754382",
-    "artist" : "Pater Brown",
-    "duration" : 3295.4880000000003,
-    "releaseDate" : 421286400,
-    "title" : "Folge 10: Das Duell des Dr. Hirsch",
-    "upc" : "4260507143754"
-  },
-  {
     "albumID" : "1439332205",
     "artist" : "Pater Brown",
     "duration" : 2691.3920000000003,
@@ -80,12 +72,12 @@
     "upc" : "4260507143853"
   },
   {
-    "albumID" : "1438756616",
+    "albumID" : "1438754382",
     "artist" : "Pater Brown",
-    "duration" : 3094.658,
+    "duration" : 3295.4880000000003,
     "releaseDate" : 421286400,
-    "title" : "Folge 15: Die seltsamen Schritte",
-    "upc" : "4260507143808"
+    "title" : "Folge 10: Das Duell des Dr. Hirsch",
+    "upc" : "4260507143754"
   },
   {
     "albumID" : "1439331635",
@@ -94,6 +86,14 @@
     "releaseDate" : 421286400,
     "title" : "Folge 18: Der geflügelte Dolch",
     "upc" : "4260507143839"
+  },
+  {
+    "albumID" : "1438755972",
+    "artist" : "Pater Brown",
+    "duration" : 3394.855000000001,
+    "releaseDate" : 421286400,
+    "title" : "Folge 13: Der Geist von Gideon Wise",
+    "upc" : "4260507143785"
   },
   {
     "albumID" : "1439328998",
@@ -112,12 +112,12 @@
     "upc" : "4260507143778"
   },
   {
-    "albumID" : "1438755972",
+    "albumID" : "1438756616",
     "artist" : "Pater Brown",
-    "duration" : 3394.855000000001,
+    "duration" : 3094.658,
     "releaseDate" : 421286400,
-    "title" : "Folge 13: Der Geist von Gideon Wise",
-    "upc" : "4260507143785"
+    "title" : "Folge 15: Die seltsamen Schritte",
+    "upc" : "4260507143808"
   },
   {
     "albumID" : "1438756693",
@@ -152,20 +152,20 @@
     "upc" : "4260507143877"
   },
   {
-    "albumID" : "1439332843",
-    "artist" : "Pater Brown",
-    "duration" : 2872.1849999999995,
-    "releaseDate" : 467251200,
-    "title" : "Folge 21: Das Märchen des Pater Brown",
-    "upc" : "4260507143860"
-  },
-  {
     "albumID" : "1438757763",
     "artist" : "Pater Brown",
     "duration" : 3574.6859999999997,
     "releaseDate" : 467251200,
     "title" : "Folge 23: Das Zeichen des zerbrochenen Säbels",
     "upc" : "4260507143884"
+  },
+  {
+    "albumID" : "1439332843",
+    "artist" : "Pater Brown",
+    "duration" : 2872.1849999999995,
+    "releaseDate" : 467251200,
+    "title" : "Folge 21: Das Märchen des Pater Brown",
+    "upc" : "4260507143860"
   },
   {
     "albumID" : "1439332996",
@@ -248,6 +248,14 @@
     "upc" : "4260147778484"
   },
   {
+    "albumID" : "1209738766",
+    "artist" : "Pater Brown",
+    "duration" : 4794.813999999999,
+    "releaseDate" : 515030400,
+    "title" : "Folge 52: Das Rätsel der schwarzen Nonne",
+    "upc" : "4260507132864"
+  },
+  {
     "albumID" : "1237288894",
     "artist" : "Pater Brown",
     "duration" : 2658,
@@ -270,6 +278,14 @@
     "releaseDate" : 518659200,
     "title" : "Folge 32: Der Spieler und das Mädchen",
     "upc" : "4260507134806"
+  },
+  {
+    "albumID" : "1237583732",
+    "artist" : "Pater Brown",
+    "duration" : 3639,
+    "releaseDate" : 519264000,
+    "title" : "Folge 36: Diamanten-Express",
+    "upc" : "4260507134844"
   },
   {
     "albumID" : "1237568360",
@@ -352,20 +368,20 @@
     "upc" : "4260507134929"
   },
   {
-    "albumID" : "1237603751",
-    "artist" : "Pater Brown",
-    "duration" : 3645,
-    "releaseDate" : 521683200,
-    "title" : "Folge 47: Astro Creep - Tödliche Zeichen",
-    "upc" : "4260507134950"
-  },
-  {
     "albumID" : "1237599565",
     "artist" : "Pater Brown",
     "duration" : 3766,
     "releaseDate" : 521683200,
     "title" : "Folge 46: Signum Regis",
     "upc" : "4260507134943"
+  },
+  {
+    "albumID" : "1237603751",
+    "artist" : "Pater Brown",
+    "duration" : 3645,
+    "releaseDate" : 521683200,
+    "title" : "Folge 47: Astro Creep - Tödliche Zeichen",
+    "upc" : "4260507134950"
   },
   {
     "albumID" : "1237603600",
@@ -382,14 +398,6 @@
     "releaseDate" : 565228800,
     "title" : "Folge 57: Stille Wasser",
     "upc" : "4260507143334"
-  },
-  {
-    "albumID" : "1514169745",
-    "artist" : "Pater Brown",
-    "duration" : 4256.000999999999,
-    "releaseDate" : 613008000,
-    "title" : "Folge 62: Grube, Dame, As und Tod",
-    "upc" : "4260507159311"
   },
   {
     "albumID" : "1515734687",
@@ -470,14 +478,6 @@
     "releaseDate" : 678931200,
     "title" : "Folge 71: Schuld und Vorurteil",
     "upc" : "4260507175182"
-  },
-  {
-    "albumID" : "1670977748",
-    "artist" : "Pater Brown",
-    "duration" : 4014.9980000000005,
-    "releaseDate" : 700099200,
-    "title" : "Folge 74: Unsichtbare Opfer",
-    "upc" : "4260507180360"
   },
   {
     "albumID" : "1690148149",
