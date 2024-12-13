@@ -1,19 +1,11 @@
 [
   {
-    "albumID" : "1473311766",
+    "albumID" : "1473315244",
     "artist" : "Tony Ballard",
-    "duration" : 4424.814,
+    "duration" : 3745.214,
     "releaseDate" : 585792000,
-    "title" : "Folge 14: Das Schiff der schwarzen Piraten",
-    "upc" : "4260507152411"
-  },
-  {
-    "albumID" : "1473319926",
-    "artist" : "Tony Ballard",
-    "duration" : 4756.681,
-    "releaseDate" : 585792000,
-    "title" : "Folge 21: Die Kamikaze-Monster",
-    "upc" : "4260507152480"
+    "title" : "Folge 17: Ich jagte das rote Skelett",
+    "upc" : "4260507152442"
   },
   {
     "albumID" : "1473319105",
@@ -24,20 +16,20 @@
     "upc" : "4260507152473"
   },
   {
+    "albumID" : "1473319926",
+    "artist" : "Tony Ballard",
+    "duration" : 4756.681,
+    "releaseDate" : 585792000,
+    "title" : "Folge 21: Die Kamikaze-Monster",
+    "upc" : "4260507152480"
+  },
+  {
     "albumID" : "1473320965",
     "artist" : "Tony Ballard",
     "duration" : 4761.294000000001,
     "releaseDate" : 585792000,
     "title" : "Folge 23: Der Tod schleicht durch London",
     "upc" : "4260507152503"
-  },
-  {
-    "albumID" : "1473323686",
-    "artist" : "Tony Ballard",
-    "duration" : 4734.6939999999995,
-    "releaseDate" : 585792000,
-    "title" : "Folge 30: Monster aus der Retorte",
-    "upc" : "4260507152572"
   },
   {
     "albumID" : "1473320246",
@@ -56,20 +48,20 @@
     "upc" : "4260507152527"
   },
   {
+    "albumID" : "1473322250",
+    "artist" : "Tony Ballard",
+    "duration" : 4410.152,
+    "releaseDate" : 585792000,
+    "title" : "Folge 26: Die Hexe und ihr Henker",
+    "upc" : "4260507152534"
+  },
+  {
     "albumID" : "1473323352",
     "artist" : "Tony Ballard",
     "duration" : 3820.4660000000003,
     "releaseDate" : 585792000,
     "title" : "Folge 29: Der Kampf um den Ring",
     "upc" : "4260507152565"
-  },
-  {
-    "albumID" : "1473326325",
-    "artist" : "Tony Ballard",
-    "duration" : 4067.186,
-    "releaseDate" : 585792000,
-    "title" : "Folge 31: Brutstätte des Bösen",
-    "upc" : "4260507152589"
   },
   {
     "albumID" : "1473323054",
@@ -80,12 +72,20 @@
     "upc" : "4260507152558"
   },
   {
-    "albumID" : "1473322250",
+    "albumID" : "1473326325",
     "artist" : "Tony Ballard",
-    "duration" : 4410.152,
+    "duration" : 4067.186,
     "releaseDate" : 585792000,
-    "title" : "Folge 26: Die Hexe und ihr Henker",
-    "upc" : "4260507152534"
+    "title" : "Folge 31: Brutstätte des Bösen",
+    "upc" : "4260507152589"
+  },
+  {
+    "albumID" : "1473323686",
+    "artist" : "Tony Ballard",
+    "duration" : 4734.6939999999995,
+    "releaseDate" : 585792000,
+    "title" : "Folge 30: Monster aus der Retorte",
+    "upc" : "4260507152572"
   },
   {
     "albumID" : "1473320977",
@@ -102,14 +102,6 @@
     "releaseDate" : 585792000,
     "title" : "Folge 27: Sie wollten meine Seele fressen",
     "upc" : "4260507152541"
-  },
-  {
-    "albumID" : "1473291474",
-    "artist" : "Tony Ballard",
-    "duration" : 4718.905999999999,
-    "releaseDate" : 585792000,
-    "title" : "Folge 7: Die Rückkehr der Bestie",
-    "upc" : "4260507152343"
   },
   {
     "albumID" : "1523477552",
@@ -190,6 +182,14 @@
     "releaseDate" : 695260800,
     "title" : "Folge 48: Im Reich der Satansaffen",
     "upc" : "4260507178183"
+  },
+  {
+    "albumID" : "1670986103",
+    "artist" : "Tony Ballard",
+    "duration" : 3922.003,
+    "releaseDate" : 700099200,
+    "title" : "Folge 49: Kampf der Giganten",
+    "upc" : "4260507180544"
   },
   {
     "albumID" : "1680683840",
