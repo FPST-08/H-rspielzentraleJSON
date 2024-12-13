@@ -8,20 +8,20 @@
     "upc" : "4260507158086"
   },
   {
-    "albumID" : "1451509904",
-    "artist" : "Sherlock Holmes Chronicles",
-    "duration" : 9516.394000000006,
-    "releaseDate" : 448502400,
-    "title" : "Folge 11: Der Fluch der Titanic",
-    "upc" : "4260507147639"
-  },
-  {
     "albumID" : "1451508470",
     "artist" : "Sherlock Holmes Chronicles",
     "duration" : 9764.394,
     "releaseDate" : 448502400,
     "title" : "Folge 4: Der Teufel von St. James",
     "upc" : "4260507147592"
+  },
+  {
+    "albumID" : "1451509904",
+    "artist" : "Sherlock Holmes Chronicles",
+    "duration" : 9516.394000000006,
+    "releaseDate" : 448502400,
+    "title" : "Folge 11: Der Fluch der Titanic",
+    "upc" : "4260507147639"
   },
   {
     "albumID" : "1451508851",
@@ -280,6 +280,14 @@
     "upc" : "4260507153203"
   },
   {
+    "albumID" : "1477987815",
+    "artist" : "Sherlock Holmes Chronicles",
+    "duration" : 10437.789000000002,
+    "releaseDate" : 590630400,
+    "title" : "Folge 50: Der verbrauchte Talisman",
+    "upc" : "4260507153210"
+  },
+  {
     "albumID" : "1508626953",
     "artist" : "Sherlock Holmes Chronicles",
     "duration" : 9949.422000000002,
@@ -342,6 +350,14 @@
     "releaseDate" : 617846400,
     "title" : "Folge 53: Spuk im Strandhaus",
     "upc" : "4260507158161"
+  },
+  {
+    "albumID" : "1515722555",
+    "artist" : "Sherlock Holmes Chronicles",
+    "duration" : 7958.02,
+    "releaseDate" : 619056000,
+    "title" : "Folge 54: Die Kaiserattentate",
+    "upc" : "4260507158178"
   },
   {
     "albumID" : "1515721805",
@@ -408,20 +424,20 @@
     "upc" : "4260507159922"
   },
   {
-    "albumID" : "1533647791",
-    "artist" : "Sherlock Holmes Chronicles",
-    "duration" : 3977.116,
-    "releaseDate" : 628732800,
-    "title" : "Folge 69: Der gelbe Tropfen",
-    "upc" : "4260507161659"
-  },
-  {
     "albumID" : "1535437525",
     "artist" : "Sherlock Holmes Chronicles",
     "duration" : 2460.444,
     "releaseDate" : 628732800,
     "title" : "Folge 63: Der blutrote Edelstein",
     "upc" : "4260507159939"
+  },
+  {
+    "albumID" : "1535444639",
+    "artist" : "Sherlock Holmes Chronicles",
+    "duration" : 9703.076999999997,
+    "releaseDate" : 629942400,
+    "title" : "Folge 64: Der Mörder von Dresden",
+    "upc" : "4260507159946"
   },
   {
     "albumID" : "1535445860",
@@ -456,20 +472,20 @@
     "upc" : "4066004314648"
   },
   {
+    "albumID" : "1567986518",
+    "artist" : "Sherlock Holmes Chronicles",
+    "duration" : 7563.503000000001,
+    "releaseDate" : 648086400,
+    "title" : "Folge 73: Die Kombinationsmaschine",
+    "upc" : "4260507165213"
+  },
+  {
     "albumID" : "1567989580",
     "artist" : "Sherlock Holmes Chronicles",
     "duration" : 3019.326000000001,
     "releaseDate" : 649296000,
     "title" : "Folge 74: Abbey Grange",
     "upc" : "4260507165237"
-  },
-  {
-    "albumID" : "1567985684",
-    "artist" : "Sherlock Holmes Chronicles",
-    "duration" : 2794.496,
-    "releaseDate" : 650505600,
-    "title" : "Folge 75: Mord im Mädchenpensionat",
-    "upc" : "4260507165251"
   },
   {
     "albumID" : "1567985506",
@@ -510,14 +526,6 @@
     "releaseDate" : 657763200,
     "title" : "Sonderedition: Das Todesvirus",
     "upc" : "4260507165435"
-  },
-  {
-    "albumID" : "1567993162",
-    "artist" : "Sherlock Holmes Chronicles",
-    "duration" : 3749.821,
-    "releaseDate" : 658368000,
-    "title" : "X-Mas Special 1: Der diebische Weihnachtsmann",
-    "upc" : "4260507165459"
   },
   {
     "albumID" : "1567992487",
@@ -622,14 +630,6 @@
     "releaseDate" : 678931200,
     "title" : "Folge 90: Das seltsame Verschwinden der Lady Frances Carfax",
     "upc" : "4260507172433"
-  },
-  {
-    "albumID" : "1618628172",
-    "artist" : "Sherlock Holmes Chronicles",
-    "duration" : 4300.002,
-    "releaseDate" : 681350400,
-    "title" : "Folge 91: Das Mörder-Moor",
-    "upc" : "4260507173201"
   },
   {
     "albumID" : "1622048027",
