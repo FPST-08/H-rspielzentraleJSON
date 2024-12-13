@@ -1,13 +1,5 @@
 [
   {
-    "albumID" : "1414530831",
-    "artist" : "Offenbarung 23",
-    "duration" : 4387.998,
-    "releaseDate" : 157766400,
-    "title" : "Folge 9: Gier!",
-    "upc" : "4260507141712"
-  },
-  {
     "albumID" : "1414540626",
     "artist" : "Offenbarung 23",
     "duration" : 4571.001000000002,
@@ -72,20 +64,20 @@
     "upc" : "4260507141873"
   },
   {
-    "albumID" : "1414541647",
-    "artist" : "Offenbarung 23",
-    "duration" : 4450.999999999999,
-    "releaseDate" : 220838400,
-    "title" : "Folge 21: Jack the Ripper (Live in Berlin)",
-    "upc" : "4260507141835"
-  },
-  {
     "albumID" : "1414544360",
     "artist" : "Offenbarung 23",
     "duration" : 4389.001,
     "releaseDate" : 220838400,
     "title" : "Folge 23: Der Jungbrunnen",
     "upc" : "4260507141859"
+  },
+  {
+    "albumID" : "1414541647",
+    "artist" : "Offenbarung 23",
+    "duration" : 4450.999999999999,
+    "releaseDate" : 220838400,
+    "title" : "Folge 21: Jack the Ripper (Live in Berlin)",
+    "upc" : "4260507141835"
   },
   {
     "albumID" : "1414554725",
@@ -104,20 +96,20 @@
     "upc" : "4260507141958"
   },
   {
-    "albumID" : "1411970693",
-    "artist" : "Offenbarung 23",
-    "duration" : 3497,
-    "releaseDate" : 252460800,
-    "title" : "Folge 36: Liebesgrüße nach Moskau",
-    "upc" : "4260507141989"
-  },
-  {
     "albumID" : "1411961877",
     "artist" : "Offenbarung 23",
     "duration" : 3425.003,
     "releaseDate" : 252460800,
     "title" : "Folge 35: Im Namen des Volkes",
     "upc" : "4260507141972"
+  },
+  {
+    "albumID" : "1411970693",
+    "artist" : "Offenbarung 23",
+    "duration" : 3497,
+    "releaseDate" : 252460800,
+    "title" : "Folge 36: Liebesgrüße nach Moskau",
+    "upc" : "4260507141989"
   },
   {
     "albumID" : "1411977372",
@@ -134,6 +126,14 @@
     "releaseDate" : 283996800,
     "title" : "Folge 38: 60 Minuten - Die Echtzeitfolge",
     "upc" : "4260507142009"
+  },
+  {
+    "albumID" : "1414534004",
+    "artist" : "Offenbarung 23",
+    "duration" : 4696.999000000001,
+    "releaseDate" : 339033600,
+    "title" : "Folge 13: Das Wissen der Menschheit",
+    "upc" : "4260507141750"
   },
   {
     "albumID" : "1414550911",
@@ -352,14 +352,6 @@
     "upc" : "4260507142276"
   },
   {
-    "albumID" : "1414570890",
-    "artist" : "Offenbarung 23",
-    "duration" : 5799.000000000001,
-    "releaseDate" : 441763200,
-    "title" : "Folge 59: Schwarzes Gold",
-    "upc" : "4260507142245"
-  },
-  {
     "albumID" : "1411329596",
     "artist" : "Offenbarung 23",
     "duration" : 3567.0029999999997,
@@ -374,6 +366,14 @@
     "releaseDate" : 441763200,
     "title" : "Folge 56: Die Matrix",
     "upc" : "4260507142214"
+  },
+  {
+    "albumID" : "1414570890",
+    "artist" : "Offenbarung 23",
+    "duration" : 5799.000000000001,
+    "releaseDate" : 441763200,
+    "title" : "Folge 59: Schwarzes Gold",
+    "upc" : "4260507142245"
   },
   {
     "albumID" : "1411331896",
@@ -416,20 +416,20 @@
     "upc" : "4260507142283"
   },
   {
-    "albumID" : "1414575525",
-    "artist" : "Offenbarung 23",
-    "duration" : 5000.998999999999,
-    "releaseDate" : 484790400,
-    "title" : "Folge 65: Reichtum",
-    "upc" : "4260507142306"
-  },
-  {
     "albumID" : "1414572431",
     "artist" : "Offenbarung 23",
     "duration" : 4506.005999999999,
     "releaseDate" : 484790400,
     "title" : "Folge 64: Der schwarze Tod",
     "upc" : "4260507142290"
+  },
+  {
+    "albumID" : "1414575525",
+    "artist" : "Offenbarung 23",
+    "duration" : 5000.998999999999,
+    "releaseDate" : 484790400,
+    "title" : "Folge 65: Reichtum",
+    "upc" : "4260507142306"
   },
   {
     "albumID" : "1411394426",
