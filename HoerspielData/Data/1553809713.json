@@ -8,14 +8,6 @@
     "upc" : "4260507153364"
   },
   {
-    "albumID" : "1478284019",
-    "artist" : "Sherlock Holmes - Die neuen Fälle",
-    "duration" : 4163.945,
-    "releaseDate" : 379555200,
-    "title" : "Fall 3: Die betrogenen Titanic-Passagiere (Die neuen Fälle)",
-    "upc" : "4260507153371"
-  },
-  {
     "albumID" : "1478284507",
     "artist" : "Sherlock Holmes - Die neuen Fälle",
     "duration" : 3995.069,
@@ -24,12 +16,28 @@
     "upc" : "4260507153388"
   },
   {
+    "albumID" : "1478285233",
+    "artist" : "Sherlock Holmes - Die neuen Fälle",
+    "duration" : 4498.360999999999,
+    "releaseDate" : 394675200,
+    "title" : "Fall 5: Das steinerne Schiff (Die neuen Fälle)",
+    "upc" : "4260507153395"
+  },
+  {
     "albumID" : "1478286188",
     "artist" : "Sherlock Holmes - Die neuen Fälle",
     "duration" : 4676.812999999998,
     "releaseDate" : 403142400,
     "title" : "Fall 6: Das Haus auf dem Hexenhügel (Die neuen Fälle)",
     "upc" : "4260507153401"
+  },
+  {
+    "albumID" : "1478286937",
+    "artist" : "Sherlock Holmes - Die neuen Fälle",
+    "duration" : 4709.987999999999,
+    "releaseDate" : 404352000,
+    "title" : "Fall 7: Der eisige Tod (Die neuen Fälle)",
+    "upc" : "4260507153418"
   },
   {
     "albumID" : "1478287440",
@@ -62,6 +70,14 @@
     "releaseDate" : 422496000,
     "title" : "Fall 11: Im kalten Nebel der Themse (Die neuen Fälle)",
     "upc" : "4260507153456"
+  },
+  {
+    "albumID" : "1478288320",
+    "artist" : "Sherlock Holmes - Die neuen Fälle",
+    "duration" : 4442.373,
+    "releaseDate" : 427334400,
+    "title" : "Fall 12: Der verhängnisvolle Schlüssel (Die neuen Fälle)",
+    "upc" : "4260507153463"
   },
   {
     "albumID" : "1478289003",
@@ -160,14 +176,6 @@
     "upc" : "4260507153616"
   },
   {
-    "albumID" : "1478294522",
-    "artist" : "Sherlock Holmes - Die neuen Fälle",
-    "duration" : 4775.107999999999,
-    "releaseDate" : 499305600,
-    "title" : "Fall 28: Die Rache des Gerechten (Die neuen Fälle)",
-    "upc" : "4260507153623"
-  },
-  {
     "albumID" : "1478294117",
     "artist" : "Sherlock Holmes - Die neuen Fälle",
     "duration" : 4788.829999999999,
@@ -222,14 +230,6 @@
     "releaseDate" : 558576000,
     "title" : "Fall 38: Die rote Spinne (Die neuen Fälle)",
     "upc" : "4260507153722"
-  },
-  {
-    "albumID" : "1478297732",
-    "artist" : "Sherlock Holmes - Die neuen Fälle",
-    "duration" : 4792.454999999999,
-    "releaseDate" : 565228800,
-    "title" : "Fall 39: Der Tod des Henkers (Die neuen Fälle)",
-    "upc" : "4260507153739"
   },
   {
     "albumID" : "1608859256",
