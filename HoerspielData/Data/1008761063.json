@@ -1,13 +1,5 @@
 [
   {
-    "albumID" : "1443578058",
-    "artist" : "Die größten Fälle von Scotland Yard",
-    "duration" : 3660.5600000000004,
-    "releaseDate" : 461203200,
-    "title" : "Folge 7: Gefallener Engel",
-    "upc" : "4260507145055"
-  },
-  {
     "albumID" : "1443580230",
     "artist" : "Die größten Fälle von Scotland Yard",
     "duration" : 3943.2539999999995,
@@ -24,20 +16,20 @@
     "upc" : "4260507145062"
   },
   {
-    "albumID" : "1443581281",
-    "artist" : "Die größten Fälle von Scotland Yard",
-    "duration" : 3157.2390000000005,
-    "releaseDate" : 464227200,
-    "title" : "Folge 11: Schattenjäger",
-    "upc" : "4260507145093"
-  },
-  {
     "albumID" : "1443585998",
     "artist" : "Die größten Fälle von Scotland Yard",
     "duration" : 3700.564,
     "releaseDate" : 464227200,
     "title" : "Folge 12: Panoptikum",
     "upc" : "4260507145109"
+  },
+  {
+    "albumID" : "1443581281",
+    "artist" : "Die größten Fälle von Scotland Yard",
+    "duration" : 3157.2390000000005,
+    "releaseDate" : 464227200,
+    "title" : "Folge 11: Schattenjäger",
+    "upc" : "4260507145093"
   },
   {
     "albumID" : "1443585675",
@@ -256,6 +248,14 @@
     "upc" : "4260507180148"
   },
   {
+    "albumID" : "1674598362",
+    "artist" : "Die größten Fälle von Scotland Yard",
+    "duration" : 3170.0029999999992,
+    "releaseDate" : 704937600,
+    "title" : "Folge 57: Der Bogenschütze vom Hyde Park",
+    "upc" : "4260507180667"
+  },
+  {
     "albumID" : "1697829223",
     "artist" : "Die größten Fälle von Scotland Yard",
     "duration" : 3552.0000000000005,
@@ -318,5 +318,13 @@
     "releaseDate" : 756345600,
     "title" : "Folge 65: Bestseller",
     "upc" : "4260507200372"
+  },
+  {
+    "albumID" : "1784439682",
+    "artist" : "Die größten Fälle von Scotland Yard",
+    "duration" : 182.664,
+    "releaseDate" : 761788800,
+    "title" : "Folge 66: Halbgötter",
+    "upc" : "4260507201249"
   }
 ]
