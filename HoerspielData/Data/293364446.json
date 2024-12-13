@@ -48,14 +48,6 @@
     "upc" : "4049709934687"
   },
   {
-    "albumID" : "1527468561",
-    "artist" : "Gruselkabinett",
-    "duration" : 4540.321000000002,
-    "releaseDate" : 157766400,
-    "title" : "Folge 10: Dr. Jekyll und Mr. Hyde",
-    "upc" : "4049709934663"
-  },
-  {
     "albumID" : "1527462784",
     "artist" : "Gruselkabinett",
     "duration" : 4059.6549999999993,
@@ -70,6 +62,14 @@
     "releaseDate" : 157766400,
     "title" : "Folge 12: Frankenstein (Folge 1 von 2)",
     "upc" : "4049709934700"
+  },
+  {
+    "albumID" : "1527468561",
+    "artist" : "Gruselkabinett",
+    "duration" : 4540.321000000002,
+    "releaseDate" : 157766400,
+    "title" : "Folge 10: Dr. Jekyll und Mr. Hyde",
+    "upc" : "4049709934663"
   },
   {
     "albumID" : "1527463433",
@@ -224,14 +224,6 @@
     "upc" : "4049709936018"
   },
   {
-    "albumID" : "1527382548",
-    "artist" : "Gruselkabinett",
-    "duration" : 4631.149,
-    "releaseDate" : 252460800,
-    "title" : "Folge 32: Jagd der Vampire (Folge 1 von 2)",
-    "upc" : "4049709935943"
-  },
-  {
     "albumID" : "1527400687",
     "artist" : "Gruselkabinett",
     "duration" : 4100.802000000001,
@@ -246,6 +238,14 @@
     "releaseDate" : 252460800,
     "title" : "Folge 34: Die obere Koje",
     "upc" : "4049709935967"
+  },
+  {
+    "albumID" : "1527382548",
+    "artist" : "Gruselkabinett",
+    "duration" : 4631.149,
+    "releaseDate" : 252460800,
+    "title" : "Folge 32: Jagd der Vampire (Folge 1 von 2)",
+    "upc" : "4049709935943"
   },
   {
     "albumID" : "1527399670",
@@ -456,14 +456,6 @@
     "upc" : "4049709939279"
   },
   {
-    "albumID" : "1527239040",
-    "artist" : "Gruselkabinett",
-    "duration" : 3392.549000000001,
-    "releaseDate" : 355276800,
-    "title" : "Folge 63: Besessen",
-    "upc" : "4049709939422"
-  },
-  {
     "albumID" : "1527237813",
     "artist" : "Gruselkabinett",
     "duration" : 3504.7359999999994,
@@ -472,12 +464,12 @@
     "upc" : "4049709939408"
   },
   {
-    "albumID" : "1527239419",
+    "albumID" : "1527239040",
     "artist" : "Gruselkabinett",
-    "duration" : 4333.479999999999,
-    "releaseDate" : 358992000,
-    "title" : "Folge 65: Gesellschafterin gesucht!",
-    "upc" : "4049709939460"
+    "duration" : 3392.549000000001,
+    "releaseDate" : 355276800,
+    "title" : "Folge 63: Besessen",
+    "upc" : "4049709939422"
   },
   {
     "albumID" : "1527239159",
@@ -486,6 +478,14 @@
     "releaseDate" : 358992000,
     "title" : "Folge 64: Der schreiende Schädel",
     "upc" : "4049709939446"
+  },
+  {
+    "albumID" : "1527239419",
+    "artist" : "Gruselkabinett",
+    "duration" : 4333.479999999999,
+    "releaseDate" : 358992000,
+    "title" : "Folge 65: Gesellschafterin gesucht!",
+    "upc" : "4049709939460"
   },
   {
     "albumID" : "1527239927",
@@ -616,20 +616,20 @@
     "upc" : "4049709939767"
   },
   {
-    "albumID" : "1527231925",
-    "artist" : "Gruselkabinett",
-    "duration" : 3626.3740000000003,
-    "releaseDate" : 406771200,
-    "title" : "Folge 83: Heimgesucht",
-    "upc" : "4049709939804"
-  },
-  {
     "albumID" : "1527232053",
     "artist" : "Gruselkabinett",
     "duration" : 4725.347999999999,
     "releaseDate" : 406771200,
     "title" : "Folge 82: Der Zombie",
     "upc" : "4049709939781"
+  },
+  {
+    "albumID" : "1527231925",
+    "artist" : "Gruselkabinett",
+    "duration" : 3626.3740000000003,
+    "releaseDate" : 406771200,
+    "title" : "Folge 83: Heimgesucht",
+    "upc" : "4049709939804"
   },
   {
     "albumID" : "1527232634",
@@ -768,20 +768,20 @@
     "upc" : "4049709940435"
   },
   {
-    "albumID" : "1527224675",
-    "artist" : "Gruselkabinett",
-    "duration" : 3081.7339999999995,
-    "releaseDate" : 463622400,
-    "title" : "Folge 103: Das ägyptische Parfüm",
-    "upc" : "4049709940510"
-  },
-  {
     "albumID" : "1037791074",
     "artist" : "Gruselkabinett",
     "duration" : 4249.494,
     "releaseDate" : 463622400,
     "title" : "Folge 102: Mrs. Amworth",
     "upc" : "9783785751626"
+  },
+  {
+    "albumID" : "1527224675",
+    "artist" : "Gruselkabinett",
+    "duration" : 3081.7339999999995,
+    "releaseDate" : 463622400,
+    "title" : "Folge 103: Das ägyptische Parfüm",
+    "upc" : "4049709940510"
   },
   {
     "albumID" : "1527227623",
@@ -840,20 +840,20 @@
     "upc" : "4049709940633"
   },
   {
-    "albumID" : "1527143900",
-    "artist" : "Gruselkabinett",
-    "duration" : 4044.933000000001,
-    "releaseDate" : 490233600,
-    "title" : "Folge 111: Die Grube und das Pendel",
-    "upc" : "4049709941234"
-  },
-  {
     "albumID" : "1527143627",
     "artist" : "Gruselkabinett",
     "duration" : 3424.2549999999987,
     "releaseDate" : 490233600,
     "title" : "Folge 110: Der Drachenspiegel",
     "upc" : "4049709941210"
+  },
+  {
+    "albumID" : "1527143900",
+    "artist" : "Gruselkabinett",
+    "duration" : 4044.933000000001,
+    "releaseDate" : 490233600,
+    "title" : "Folge 111: Die Grube und das Pendel",
+    "upc" : "4049709941234"
   },
   {
     "albumID" : "1527144112",
@@ -912,20 +912,20 @@
     "upc" : "4049709940824"
   },
   {
-    "albumID" : "1527145084",
-    "artist" : "Gruselkabinett",
-    "duration" : 4733.576000000001,
-    "releaseDate" : 517449600,
-    "title" : "Folge 122: Die Insel des Dr. Moreau",
-    "upc" : "4049709941272"
-  },
-  {
     "albumID" : "1527146299",
     "artist" : "Gruselkabinett",
     "duration" : 4019.505,
     "releaseDate" : 517449600,
     "title" : "Folge 120: Der Unsichtbare (Teil 1 von 2)",
     "upc" : "4049709940848"
+  },
+  {
+    "albumID" : "1527145084",
+    "artist" : "Gruselkabinett",
+    "duration" : 4733.576000000001,
+    "releaseDate" : 517449600,
+    "title" : "Folge 122: Die Insel des Dr. Moreau",
+    "upc" : "4049709941272"
   },
   {
     "albumID" : "1527147152",
@@ -942,14 +942,6 @@
     "releaseDate" : 519868800,
     "title" : "Folge 123: Die Zeitmaschine",
     "upc" : "4049709941296"
-  },
-  {
-    "albumID" : "1527391777",
-    "artist" : "Gruselkabinett",
-    "duration" : 3636.295,
-    "releaseDate" : 525312000,
-    "title" : "Folge 124: Der Krieg der Welten (Teil 1 von 2)",
-    "upc" : "4049709933512"
   },
   {
     "albumID" : "1527391726",
@@ -1064,20 +1056,20 @@
     "upc" : "4049709941944"
   },
   {
-    "albumID" : "1527122782",
-    "artist" : "Gruselkabinett",
-    "duration" : 2632.6159999999995,
-    "releaseDate" : 562204800,
-    "title" : "Folge 142: Das Zeichen der Bestie",
-    "upc" : "4049709942231"
-  },
-  {
     "albumID" : "1527123762",
     "artist" : "Gruselkabinett",
     "duration" : 2592.9059999999995,
     "releaseDate" : 562204800,
     "title" : "Folge 143: Der Wolverden Turm",
     "upc" : "4049709942248"
+  },
+  {
+    "albumID" : "1527122782",
+    "artist" : "Gruselkabinett",
+    "duration" : 2632.6159999999995,
+    "releaseDate" : 562204800,
+    "title" : "Folge 142: Das Zeichen der Bestie",
+    "upc" : "4049709942231"
   },
   {
     "albumID" : "1527120166",
@@ -1112,6 +1104,14 @@
     "upc" : "4049709944136"
   },
   {
+    "albumID" : "1527105543",
+    "artist" : "Gruselkabinett",
+    "duration" : 3207.801000000001,
+    "releaseDate" : 594259200,
+    "title" : "Folge 152: Das Ding",
+    "upc" : "4049709944365"
+  },
+  {
     "albumID" : "1527099454",
     "artist" : "Gruselkabinett",
     "duration" : 2761,
@@ -1136,20 +1136,20 @@
     "upc" : "4049709945034"
   },
   {
-    "albumID" : "1527086250",
-    "artist" : "Gruselkabinett",
-    "duration" : 5671.677999999999,
-    "releaseDate" : 606960000,
-    "title" : "Folge 159: Das kalte Herz",
-    "upc" : "4251777700082"
-  },
-  {
     "albumID" : "1527083104",
     "artist" : "Gruselkabinett",
     "duration" : 3355.0300000000007,
     "releaseDate" : 606960000,
     "title" : "Folge 158: Das innerste Licht",
     "upc" : "4251777700099"
+  },
+  {
+    "albumID" : "1527086250",
+    "artist" : "Gruselkabinett",
+    "duration" : 5671.677999999999,
+    "releaseDate" : 606960000,
+    "title" : "Folge 159: Das kalte Herz",
+    "upc" : "4251777700082"
   },
   {
     "albumID" : "1527080582",
@@ -1168,6 +1168,14 @@
     "upc" : "4251777700181"
   },
   {
+    "albumID" : "1526729898",
+    "artist" : "Gruselkabinett",
+    "duration" : 4199.652,
+    "releaseDate" : 620265600,
+    "title" : "Folge 162: Das gemiedene Haus",
+    "upc" : "9783785781876"
+  },
+  {
     "albumID" : "1530816280",
     "artist" : "Gruselkabinett",
     "duration" : 4616.360999999998,
@@ -1182,14 +1190,6 @@
     "releaseDate" : 625708800,
     "title" : "Folge 164: Die Toten vergeben nichts",
     "upc" : "9783785781913"
-  },
-  {
-    "albumID" : "1539836411",
-    "artist" : "Gruselkabinett",
-    "duration" : 4709.691000000001,
-    "releaseDate" : 628128000,
-    "title" : "Folge 165: Das alte Kindermädchen erzählt",
-    "upc" : "9783785781920"
   },
   {
     "albumID" : "1543415776",
