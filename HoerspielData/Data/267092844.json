@@ -200,20 +200,20 @@
     "upc" : "4260229663318"
   },
   {
-    "albumID" : "1462642636",
-    "artist" : "Die Playmos",
-    "duration" : 3419.0009999999993,
-    "releaseDate" : 339120000,
-    "title" : "Folge 25: Gefahr im Weltall (Das Original Playmobil Hörspiel)",
-    "upc" : "4260229662960"
-  },
-  {
     "albumID" : "1462642955",
     "artist" : "Die Playmos",
     "duration" : 4028.001,
     "releaseDate" : 339120000,
     "title" : "Folge 26: Wettrennen um die Schatzinsel (Das Original Playmobil Hörspiel)",
     "upc" : "4260229662977"
+  },
+  {
+    "albumID" : "1462642636",
+    "artist" : "Die Playmos",
+    "duration" : 3419.0009999999993,
+    "releaseDate" : 339120000,
+    "title" : "Folge 25: Gefahr im Weltall (Das Original Playmobil Hörspiel)",
+    "upc" : "4260229662960"
   },
   {
     "albumID" : "1462643021",
@@ -360,20 +360,20 @@
     "upc" : "4260229663165"
   },
   {
-    "albumID" : "1471398240",
-    "artist" : "Die Playmos",
-    "duration" : 3662.9990000000003,
-    "releaseDate" : 464832000,
-    "title" : "Folge 47: Flucht vor den Piraten (Das Original Playmobil Hörspiel)",
-    "upc" : "4260229663172"
-  },
-  {
     "albumID" : "1471399367",
     "artist" : "Die Playmos",
     "duration" : 3192.0000000000005,
     "releaseDate" : 464832000,
     "title" : "Folge 48: Raketenstart ins All (Das Original Playmobil Hörspiel)",
     "upc" : "4260229663189"
+  },
+  {
+    "albumID" : "1471398240",
+    "artist" : "Die Playmos",
+    "duration" : 3662.9990000000003,
+    "releaseDate" : 464832000,
+    "title" : "Folge 47: Flucht vor den Piraten (Das Original Playmobil Hörspiel)",
+    "upc" : "4260229663172"
   },
   {
     "albumID" : "1471410580",
@@ -390,6 +390,14 @@
     "releaseDate" : 477532800,
     "title" : "Folge 50: Die heiße Spur der Drachen (Das Original Playmobil Hörspiel)",
     "upc" : "4260229663202"
+  },
+  {
+    "albumID" : "1471397097",
+    "artist" : "Die Playmos",
+    "duration" : 3377.9990000000003,
+    "releaseDate" : 477532800,
+    "title" : "Folge 49: Sabotage auf dem Reiterhof (Das Original Playmobil Hörspiel)",
+    "upc" : "4260229663196"
   },
   {
     "albumID" : "1471395705",
@@ -566,14 +574,6 @@
     "releaseDate" : 657763200,
     "title" : "Folge 77: Schmuggler im Hafen",
     "upc" : "4066004387864"
-  },
-  {
-    "albumID" : "1610365395",
-    "artist" : "Die Playmos",
-    "duration" : 3591.999999999999,
-    "releaseDate" : 668563200,
-    "title" : "Folge 78: Auf Mission mit dem SWAT-Team (Das Original Playmobil Hörspiel)",
-    "upc" : "4260229664827"
   },
   {
     "albumID" : "1628384681",
