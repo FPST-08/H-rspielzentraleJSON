@@ -288,6 +288,14 @@
     "upc" : "886445283952"
   },
   {
+    "albumID" : "1029955596",
+    "artist" : "Teufelskicker",
+    "duration" : 4303.509000000002,
+    "releaseDate" : 389836800,
+    "title" : "Folge 43: Die Beach-Kings",
+    "upc" : "886445283976"
+  },
+  {
     "albumID" : "1029955069",
     "artist" : "Teufelskicker",
     "duration" : 3901.0009999999993,
@@ -416,6 +424,14 @@
     "upc" : "886445629149"
   },
   {
+    "albumID" : "1347943061",
+    "artist" : "Teufelskicker",
+    "duration" : 4595.627,
+    "releaseDate" : 542246400,
+    "title" : "Folge 71: Die Rückkehr der Beach Kings!",
+    "upc" : "886446538945"
+  },
+  {
     "albumID" : "1398250787",
     "artist" : "Teufelskicker",
     "duration" : 461.427,
@@ -536,20 +552,20 @@
     "upc" : "886446539027"
   },
   {
+    "albumID" : "1487651539",
+    "artist" : "Teufelskicker",
+    "duration" : 4706.225,
+    "releaseDate" : 597283200,
+    "title" : "Folge 80: Der Kommerzclub!",
+    "upc" : "886446539034"
+  },
+  {
     "albumID" : "1492295259",
     "artist" : "Teufelskicker",
     "duration" : 4561.600000000001,
     "releaseDate" : 601516800,
     "title" : "Folge 81: Gras fressen!",
     "upc" : "886447868751"
-  },
-  {
-    "albumID" : "1501683197",
-    "artist" : "Teufelskicker",
-    "duration" : 4494.625999999999,
-    "releaseDate" : 606960000,
-    "title" : "Folge 82: Das Triple!",
-    "upc" : "886447868768"
   },
   {
     "albumID" : "1521834054",
@@ -566,22 +582,6 @@
     "releaseDate" : 624499200,
     "title" : "Folge 85: Der Strafraum-Streuner!",
     "upc" : "886447868799"
-  },
-  {
-    "albumID" : "1539405079",
-    "artist" : "Teufelskicker",
-    "duration" : 4588.375999999999,
-    "releaseDate" : 628732800,
-    "title" : "Folge 86: Blau-Gelb in Bayern!",
-    "upc" : "886448297888"
-  },
-  {
-    "albumID" : "1547807482",
-    "artist" : "Teufelskicker",
-    "duration" : 4580.254,
-    "releaseDate" : 633571200,
-    "title" : "Folge 87: Viva Futebol!",
-    "upc" : "886448297895"
   },
   {
     "albumID" : "1547955136",
