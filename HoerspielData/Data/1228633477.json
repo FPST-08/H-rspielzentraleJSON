@@ -24,20 +24,20 @@
     "upc" : "9783967620832"
   },
   {
-    "albumID" : "1685288256",
-    "artist" : "Insel-Krimi",
-    "duration" : 4123.531,
-    "releaseDate" : 698889600,
-    "title" : "Folge 25: Todesschrei auf Ruden",
-    "upc" : "9783967623178"
-  },
-  {
     "albumID" : "1716338966",
     "artist" : "Insel-Krimi",
     "duration" : 3963.3959999999997,
     "releaseDate" : 727920000,
     "title" : "Folge 29: Geier über Gotland",
     "upc" : "9783967623550"
+  },
+  {
+    "albumID" : "1722045398",
+    "artist" : "Insel-Krimi",
+    "duration" : 3613.554,
+    "releaseDate" : 730339200,
+    "title" : "Folge 30: Stichtag auf Ummanz",
+    "upc" : "9783967623581"
   },
   {
     "albumID" : "1735565524",
