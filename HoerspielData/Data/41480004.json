@@ -24,14 +24,6 @@
     "upc" : "190295918262"
   },
   {
-    "albumID" : "1143582073",
-    "artist" : "Bibi Blocksberg",
-    "duration" : 2354.4019999999996,
-    "releaseDate" : -63114076800,
-    "title" : "Folge 10: Bibis neue Freundin",
-    "upc" : "190295918361"
-  },
-  {
     "albumID" : "1143573489",
     "artist" : "Bibi Blocksberg",
     "duration" : 2088.735,
@@ -46,6 +38,14 @@
     "releaseDate" : -63114076800,
     "title" : "Folge 13: Ein verhexter Sonntag",
     "upc" : "190295918415"
+  },
+  {
+    "albumID" : "1143582073",
+    "artist" : "Bibi Blocksberg",
+    "duration" : 2354.4019999999996,
+    "releaseDate" : -63114076800,
+    "title" : "Folge 10: Bibis neue Freundin",
+    "upc" : "190295918361"
   },
   {
     "albumID" : "1143561290",
@@ -104,20 +104,28 @@
     "upc" : "190295918385"
   },
   {
-    "albumID" : "1143582616",
-    "artist" : "Bibi Blocksberg",
-    "duration" : 2814.830000000001,
-    "releaseDate" : -63114076800,
-    "title" : "Folge 11: Der Schulausflug",
-    "upc" : "190295918347"
-  },
-  {
     "albumID" : "1143587663",
     "artist" : "Bibi Blocksberg",
     "duration" : 2528.874,
     "releaseDate" : -63114076800,
     "title" : "Folge 57: Der blaue Brief",
     "upc" : "190295917098"
+  },
+  {
+    "albumID" : "1143587626",
+    "artist" : "Bibi Blocksberg",
+    "duration" : 2449.207,
+    "releaseDate" : -63114076800,
+    "title" : "Folge 26: Die Schnitzeljagd",
+    "upc" : "190295913977"
+  },
+  {
+    "albumID" : "1143582616",
+    "artist" : "Bibi Blocksberg",
+    "duration" : 2814.830000000001,
+    "releaseDate" : -63114076800,
+    "title" : "Folge 11: Der Schulausflug",
+    "upc" : "190295918347"
   },
   {
     "albumID" : "1143563895",
@@ -136,76 +144,12 @@
     "upc" : "190295913014"
   },
   {
-    "albumID" : "1143587626",
-    "artist" : "Bibi Blocksberg",
-    "duration" : 2449.207,
-    "releaseDate" : -63114076800,
-    "title" : "Folge 26: Die Schnitzeljagd",
-    "upc" : "190295913977"
-  },
-  {
     "albumID" : "1143570255",
     "artist" : "Bibi Blocksberg",
     "duration" : 2713.802,
     "releaseDate" : -63114076800,
     "title" : "Folge 37: Der Flohmarkt",
     "upc" : "190295917975"
-  },
-  {
-    "albumID" : "1143566547",
-    "artist" : "Bibi Blocksberg",
-    "duration" : 3171.8889999999997,
-    "releaseDate" : -63114076800,
-    "title" : "Folge 78: und Elea Eluanda",
-    "upc" : "190295916466"
-  },
-  {
-    "albumID" : "1143567045",
-    "artist" : "Bibi Blocksberg",
-    "duration" : 2244.4000000000005,
-    "releaseDate" : -63114076800,
-    "title" : "Folge 46: Karla gibt nicht auf",
-    "upc" : "190295917531"
-  },
-  {
-    "albumID" : "1143566236",
-    "artist" : "Bibi Blocksberg",
-    "duration" : 2465.5819999999994,
-    "releaseDate" : -63114076800,
-    "title" : "Folge 64: Die neue Schule",
-    "upc" : "190295916763"
-  },
-  {
-    "albumID" : "1143580952",
-    "artist" : "Bibi Blocksberg",
-    "duration" : 2312.2170000000006,
-    "releaseDate" : -63114076800,
-    "title" : "Folge 17: Der kleine Hexer",
-    "upc" : "190295918231"
-  },
-  {
-    "albumID" : "1143589970",
-    "artist" : "Bibi Blocksberg",
-    "duration" : 2568.428,
-    "releaseDate" : -63114076800,
-    "title" : "Folge 43: Der Reiterhof (Teil 1)",
-    "upc" : "190295917654"
-  },
-  {
-    "albumID" : "1143578913",
-    "artist" : "Bibi Blocksberg",
-    "duration" : 2697.0310000000004,
-    "releaseDate" : -63114076800,
-    "title" : "Folge 79: Papis Geburtstag",
-    "upc" : "190295916176"
-  },
-  {
-    "albumID" : "1143570487",
-    "artist" : "Bibi Blocksberg",
-    "duration" : 2028.154,
-    "releaseDate" : -63114076800,
-    "title" : "Folge 16: Das Schulfest",
-    "upc" : "190295918248"
   },
   {
     "albumID" : "1143560812",
@@ -216,28 +160,52 @@
     "upc" : "190295918484"
   },
   {
-    "albumID" : "1143595328",
+    "albumID" : "1143578913",
     "artist" : "Bibi Blocksberg",
-    "duration" : 2483.542,
+    "duration" : 2697.0310000000004,
     "releaseDate" : -63114076800,
-    "title" : "Folge 76: Schubia dreht durch",
-    "upc" : "190295916503"
+    "title" : "Folge 79: Papis Geburtstag",
+    "upc" : "190295916176"
   },
   {
-    "albumID" : "1143598388",
+    "albumID" : "1143580952",
     "artist" : "Bibi Blocksberg",
-    "duration" : 2716.7070000000003,
+    "duration" : 2312.2170000000006,
     "releaseDate" : -63114076800,
-    "title" : "Folge 63: Die Wahrsagerin",
-    "upc" : "190295916770"
+    "title" : "Folge 17: Der kleine Hexer",
+    "upc" : "190295918231"
   },
   {
-    "albumID" : "1143588962",
+    "albumID" : "1143566236",
     "artist" : "Bibi Blocksberg",
-    "duration" : 2468.378,
+    "duration" : 2465.5819999999994,
     "releaseDate" : -63114076800,
-    "title" : "Folge 68: und die Piraten",
-    "upc" : "190295916756"
+    "title" : "Folge 64: Die neue Schule",
+    "upc" : "190295916763"
+  },
+  {
+    "albumID" : "1143589970",
+    "artist" : "Bibi Blocksberg",
+    "duration" : 2568.428,
+    "releaseDate" : -63114076800,
+    "title" : "Folge 43: Der Reiterhof (Teil 1)",
+    "upc" : "190295917654"
+  },
+  {
+    "albumID" : "1143570487",
+    "artist" : "Bibi Blocksberg",
+    "duration" : 2028.154,
+    "releaseDate" : -63114076800,
+    "title" : "Folge 16: Das Schulfest",
+    "upc" : "190295918248"
+  },
+  {
+    "albumID" : "1143566547",
+    "artist" : "Bibi Blocksberg",
+    "duration" : 3171.8889999999997,
+    "releaseDate" : -63114076800,
+    "title" : "Folge 78: und Elea Eluanda",
+    "upc" : "190295916466"
   },
   {
     "albumID" : "1143577553",
@@ -248,6 +216,22 @@
     "upc" : "190295917173"
   },
   {
+    "albumID" : "1143588962",
+    "artist" : "Bibi Blocksberg",
+    "duration" : 2468.378,
+    "releaseDate" : -63114076800,
+    "title" : "Folge 68: und die Piraten",
+    "upc" : "190295916756"
+  },
+  {
+    "albumID" : "1143567045",
+    "artist" : "Bibi Blocksberg",
+    "duration" : 2244.4000000000005,
+    "releaseDate" : -63114076800,
+    "title" : "Folge 46: Karla gibt nicht auf",
+    "upc" : "190295917531"
+  },
+  {
     "albumID" : "1143572177",
     "artist" : "Bibi Blocksberg",
     "duration" : 2058.96,
@@ -256,20 +240,20 @@
     "upc" : "190295918446"
   },
   {
-    "albumID" : "1143571663",
+    "albumID" : "1143598388",
     "artist" : "Bibi Blocksberg",
-    "duration" : 2740.9380000000006,
+    "duration" : 2716.7070000000003,
     "releaseDate" : -63114076800,
-    "title" : "Folge 22: 3x schwarzer Kater",
-    "upc" : "190295918156"
+    "title" : "Folge 63: Die Wahrsagerin",
+    "upc" : "190295916770"
   },
   {
-    "albumID" : "1143583025",
+    "albumID" : "1143595328",
     "artist" : "Bibi Blocksberg",
-    "duration" : 2468.9030000000002,
+    "duration" : 2483.542,
     "releaseDate" : -63114076800,
-    "title" : "Folge 8: Die Schlossgespenster",
-    "upc" : "190295918422"
+    "title" : "Folge 76: Schubia dreht durch",
+    "upc" : "190295916503"
   },
   {
     "albumID" : "1143578604",
@@ -288,6 +272,30 @@
     "upc" : "190295917524"
   },
   {
+    "albumID" : "1143583025",
+    "artist" : "Bibi Blocksberg",
+    "duration" : 2468.9030000000002,
+    "releaseDate" : -63114076800,
+    "title" : "Folge 8: Die Schlossgespenster",
+    "upc" : "190295918422"
+  },
+  {
+    "albumID" : "1143579774",
+    "artist" : "Bibi Blocksberg",
+    "duration" : 2615.2580000000003,
+    "releaseDate" : -63114076800,
+    "title" : "Folge 55: Mamis Geburtstag",
+    "upc" : "190295917203"
+  },
+  {
+    "albumID" : "1143571663",
+    "artist" : "Bibi Blocksberg",
+    "duration" : 2740.9380000000006,
+    "releaseDate" : -63114076800,
+    "title" : "Folge 22: 3x schwarzer Kater",
+    "upc" : "190295918156"
+  },
+  {
     "albumID" : "1143584160",
     "artist" : "Bibi Blocksberg",
     "duration" : 2778.152,
@@ -296,20 +304,20 @@
     "upc" : "190295914028"
   },
   {
+    "albumID" : "1143574041",
+    "artist" : "Bibi Blocksberg",
+    "duration" : 2688.2129999999993,
+    "releaseDate" : -63114076800,
+    "title" : "Folge 87: Die vertauschte Hexenkugel",
+    "upc" : "190295916091"
+  },
+  {
     "albumID" : "1143574382",
     "artist" : "Bibi Blocksberg",
     "duration" : 2407.448,
     "releaseDate" : -63114076800,
     "title" : "Folge 82: Hexspruch mit Folgen",
     "upc" : "190295916206"
-  },
-  {
-    "albumID" : "1143584128",
-    "artist" : "Bibi Blocksberg",
-    "duration" : 2630.183000000001,
-    "releaseDate" : -63114076800,
-    "title" : "Folge 23: und der Autostau",
-    "upc" : "190295914165"
   },
   {
     "albumID" : "1143589467",
@@ -328,28 +336,20 @@
     "upc" : "190295916435"
   },
   {
-    "albumID" : "1143579774",
+    "albumID" : "1143584128",
     "artist" : "Bibi Blocksberg",
-    "duration" : 2615.2580000000003,
+    "duration" : 2630.183000000001,
     "releaseDate" : -63114076800,
-    "title" : "Folge 55: Mamis Geburtstag",
-    "upc" : "190295917203"
+    "title" : "Folge 23: und der Autostau",
+    "upc" : "190295914165"
   },
   {
-    "albumID" : "1143574041",
+    "albumID" : "1143576708",
     "artist" : "Bibi Blocksberg",
-    "duration" : 2688.2129999999993,
+    "duration" : 2615.198000000001,
     "releaseDate" : -63114076800,
-    "title" : "Folge 87: Die vertauschte Hexenkugel",
-    "upc" : "190295916091"
-  },
-  {
-    "albumID" : "1143577531",
-    "artist" : "Bibi Blocksberg",
-    "duration" : 2443.0660000000007,
-    "releaseDate" : -63114076800,
-    "title" : "Folge 71: Die Hexenschule",
-    "upc" : "190295916596"
+    "title" : "Folge 49: Der Hexengeburtstag",
+    "upc" : "190295917289"
   },
   {
     "albumID" : "1143567467",
@@ -360,20 +360,20 @@
     "upc" : "190295917623"
   },
   {
+    "albumID" : "1143577531",
+    "artist" : "Bibi Blocksberg",
+    "duration" : 2443.0660000000007,
+    "releaseDate" : -63114076800,
+    "title" : "Folge 71: Die Hexenschule",
+    "upc" : "190295916596"
+  },
+  {
     "albumID" : "1143563251",
     "artist" : "Bibi Blocksberg",
     "duration" : 2629.6430000000005,
     "releaseDate" : -63114076800,
     "title" : "Folge 83: Die Klassenreise",
     "upc" : "190295916190"
-  },
-  {
-    "albumID" : "1143576708",
-    "artist" : "Bibi Blocksberg",
-    "duration" : 2615.198000000001,
-    "releaseDate" : -63114076800,
-    "title" : "Folge 49: Der Hexengeburtstag",
-    "upc" : "190295917289"
   },
   {
     "albumID" : "1143601916",
@@ -432,12 +432,12 @@
     "upc" : "190295917128"
   },
   {
-    "albumID" : "1143602374",
+    "albumID" : "1476559558",
     "artist" : "Bibi Blocksberg",
-    "duration" : 2528.9920000000006,
+    "duration" : 2905.991,
     "releaseDate" : -63114076800,
-    "title" : "Folge 36: Die weißen Enten",
-    "upc" : "190295917937"
+    "title" : "Kurzhörspiel - Bibi erzählt: Junghexengeschichten",
+    "upc" : "190295366971"
   },
   {
     "albumID" : "1143597516",
@@ -448,12 +448,20 @@
     "upc" : "190295916886"
   },
   {
-    "albumID" : "1476559558",
+    "albumID" : "1143602374",
     "artist" : "Bibi Blocksberg",
-    "duration" : 2905.991,
+    "duration" : 2528.9920000000006,
     "releaseDate" : -63114076800,
-    "title" : "Kurzhörspiel - Bibi erzählt: Junghexengeschichten",
-    "upc" : "190295366971"
+    "title" : "Folge 36: Die weißen Enten",
+    "upc" : "190295917937"
+  },
+  {
+    "albumID" : "1143565140",
+    "artist" : "Bibi Blocksberg",
+    "duration" : 2283.3550000000005,
+    "releaseDate" : -63114076800,
+    "title" : "Folge 84: Das Hexenhoroskop",
+    "upc" : "190295916183"
   },
   {
     "albumID" : "1143588447",
@@ -470,14 +478,6 @@
     "releaseDate" : -63114076800,
     "title" : "Folge 65: Das Wettfliegen",
     "upc" : "190295917197"
-  },
-  {
-    "albumID" : "1143565140",
-    "artist" : "Bibi Blocksberg",
-    "duration" : 2283.3550000000005,
-    "releaseDate" : -63114076800,
-    "title" : "Folge 84: Das Hexenhoroskop",
-    "upc" : "190295916183"
   },
   {
     "albumID" : "1143589742",
@@ -520,20 +520,20 @@
     "upc" : "825646296040"
   },
   {
-    "albumID" : "1069116196",
-    "artist" : "Bibi Blocksberg",
-    "duration" : 4942.606,
-    "releaseDate" : -63114076800,
-    "title" : "Spukgeschichten (Bibi Blocksberg und die Vampire & Der Geisterkater)",
-    "upc" : "825646200764"
-  },
-  {
     "albumID" : "1069195838",
     "artist" : "Bibi Blocksberg",
     "duration" : 4692.330999999999,
     "releaseDate" : -63114076800,
     "title" : "Doppelter Hörspielspaß (Die Schlossgespenster & Der kleine Hexer)",
     "upc" : "825646200627"
+  },
+  {
+    "albumID" : "1069116196",
+    "artist" : "Bibi Blocksberg",
+    "duration" : 4942.606,
+    "releaseDate" : -63114076800,
+    "title" : "Spukgeschichten (Bibi Blocksberg und die Vampire & Der Geisterkater)",
+    "upc" : "825646200764"
   },
   {
     "albumID" : "1143559999",
@@ -664,20 +664,20 @@
     "upc" : "190295917982"
   },
   {
-    "albumID" : "1143590958",
-    "artist" : "Bibi Blocksberg",
-    "duration" : 2645.211,
-    "releaseDate" : 201744000,
-    "title" : "Folge 34: darf nicht hexen",
-    "upc" : "190295917814"
-  },
-  {
     "albumID" : "1143590604",
     "artist" : "Bibi Blocksberg",
     "duration" : 2706.833,
     "releaseDate" : 201744000,
     "title" : "Folge 41: Ohne Mami geht es nicht",
     "upc" : "190295917685"
+  },
+  {
+    "albumID" : "1143590958",
+    "artist" : "Bibi Blocksberg",
+    "duration" : 2645.211,
+    "releaseDate" : 201744000,
+    "title" : "Folge 34: darf nicht hexen",
+    "upc" : "190295917814"
   },
   {
     "albumID" : "1143602350",
@@ -774,6 +774,14 @@
     "releaseDate" : 320889600,
     "title" : "Folge 101: und Piraten-Lilly",
     "upc" : "190295913892"
+  },
+  {
+    "albumID" : "1144136677",
+    "artist" : "Bibi Blocksberg",
+    "duration" : 2396.3970000000004,
+    "releaseDate" : 329961600,
+    "title" : "Folge 97: Überraschung für Mami",
+    "upc" : "190295914561"
   },
   {
     "albumID" : "1144137599",
@@ -984,14 +992,6 @@
     "upc" : "825646019816"
   },
   {
-    "albumID" : "1069141735",
-    "artist" : "Bibi Blocksberg",
-    "duration" : 593.629,
-    "releaseDate" : 462412800,
-    "title" : "Kurzgeschichte - Streit im Hause Blocksberg - Single",
-    "upc" : "825646019762"
-  },
-  {
     "albumID" : "1069165177",
     "artist" : "Bibi Blocksberg",
     "duration" : 617.189,
@@ -1008,12 +1008,12 @@
     "upc" : "825646019847"
   },
   {
-    "albumID" : "1069145344",
+    "albumID" : "1069141735",
     "artist" : "Bibi Blocksberg",
-    "duration" : 629.403,
+    "duration" : 593.629,
     "releaseDate" : 462412800,
-    "title" : "Kurzgeschichte - Die verrückte Eulen-Fete - Single",
-    "upc" : "825646020119"
+    "title" : "Kurzgeschichte - Streit im Hause Blocksberg - Single",
+    "upc" : "825646019762"
   },
   {
     "albumID" : "1069059907",
@@ -1022,6 +1022,14 @@
     "releaseDate" : 462412800,
     "title" : "Kurzgeschichte - Zeltausflug mit Hindernissen - Single",
     "upc" : "825646019755"
+  },
+  {
+    "albumID" : "1069145344",
+    "artist" : "Bibi Blocksberg",
+    "duration" : 629.403,
+    "releaseDate" : 462412800,
+    "title" : "Kurzgeschichte - Die verrückte Eulen-Fete - Single",
+    "upc" : "825646020119"
   },
   {
     "albumID" : "1069145772",
@@ -1118,14 +1126,6 @@
     "releaseDate" : 531964800,
     "title" : "Bibi erzählt: Weihnachtsgeschichten (Kurzhörspiel)",
     "upc" : "190295366735"
-  },
-  {
-    "albumID" : "1327902661",
-    "artist" : "Bibi Blocksberg",
-    "duration" : 2817.4310000000005,
-    "releaseDate" : 537408000,
-    "title" : "Folge 123: Oma Grete in Gefahr",
-    "upc" : "190295709327"
   },
   {
     "albumID" : "1477114620",
@@ -1494,5 +1494,13 @@
     "releaseDate" : 752716800,
     "title" : "Folge 155: Die Hexenbürgermeisterin",
     "upc" : "4033694556559"
+  },
+  {
+    "albumID" : "1782003126",
+    "artist" : "Bibi Blocksberg",
+    "duration" : 119.995,
+    "releaseDate" : 758160000,
+    "title" : "Folge 156: Die Vertretungshexlehrerin",
+    "upc" : "4033694556566"
   }
 ]
