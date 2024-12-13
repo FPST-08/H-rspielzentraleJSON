@@ -1,13 +1,5 @@
 [
   {
-    "albumID" : "1456801816",
-    "artist" : "Oscar Wilde & Mycroft Holmes",
-    "duration" : 4281.268,
-    "releaseDate" : 511401600,
-    "title" : "Sonderermittler der Krone, Folge 8: Der Röntgen-Zwischenfall",
-    "upc" : "4260507149053"
-  },
-  {
     "albumID" : "1456823564",
     "artist" : "Oscar Wilde & Mycroft Holmes",
     "duration" : 4234.387999999999,
@@ -126,6 +118,14 @@
     "releaseDate" : 686188800,
     "title" : "Folge 40: Lockruf des Untergangs (Sonderermittler der Krone)",
     "upc" : "4260507176318"
+  },
+  {
+    "albumID" : "1659996133",
+    "artist" : "Oscar Wilde & Mycroft Holmes",
+    "duration" : 3489.5759999999987,
+    "releaseDate" : 691632000,
+    "title" : "Sonderermittler der Krone, Folge 41: Auf Bewährung",
+    "upc" : "4066004526072"
   },
   {
     "albumID" : "1675479072",
