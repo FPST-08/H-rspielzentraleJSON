@@ -32,6 +32,14 @@
     "upc" : "4260507151711"
   },
   {
+    "albumID" : "1467948696",
+    "artist" : "Professor van Dusen",
+    "duration" : 4785.092,
+    "releaseDate" : 458784000,
+    "title" : "Die neuen Fälle, Fall 2: Professor van Dusen reitet das trojanische Pferd",
+    "upc" : "4260507151810"
+  },
+  {
     "albumID" : "1467950840",
     "artist" : "Professor van Dusen",
     "duration" : 4405.065,
@@ -64,20 +72,20 @@
     "upc" : "4260507151674"
   },
   {
-    "albumID" : "1467909013",
-    "artist" : "Professor van Dusen",
-    "duration" : 3777.0969999999998,
-    "releaseDate" : 482371200,
-    "title" : "Folge 4: Der Mann, der seinen Kopf verlor",
-    "upc" : "4260507151636"
-  },
-  {
     "albumID" : "1467900580",
     "artist" : "Professor van Dusen",
     "duration" : 3627.5719999999997,
     "releaseDate" : 482371200,
     "title" : "Folge 3: Mord bei Gaslicht",
     "upc" : "4260507151629"
+  },
+  {
+    "albumID" : "1467909013",
+    "artist" : "Professor van Dusen",
+    "duration" : 3777.0969999999998,
+    "releaseDate" : 482371200,
+    "title" : "Folge 4: Der Mann, der seinen Kopf verlor",
+    "upc" : "4260507151636"
   },
   {
     "albumID" : "1467910412",
@@ -264,14 +272,6 @@
     "upc" : "4260507158239"
   },
   {
-    "albumID" : "1529885703",
-    "artist" : "Professor van Dusen",
-    "duration" : 4388.075999999999,
-    "releaseDate" : 622684800,
-    "title" : "Die neuen Fälle, Fall 23: Professor van Dusen und die Witwentröster von Bombay",
-    "upc" : "4260507161413"
-  },
-  {
     "albumID" : "1506768512",
     "artist" : "Professor van Dusen",
     "duration" : 3961.598000000001,
@@ -286,6 +286,14 @@
     "releaseDate" : 629942400,
     "title" : "Folge 25: Professor van Dusen und der Zirkusmörder",
     "upc" : "4260507158260"
+  },
+  {
+    "albumID" : "1503643060",
+    "artist" : "Professor van Dusen",
+    "duration" : 4028.1250000000005,
+    "releaseDate" : 640224000,
+    "title" : "Folge 27: Professor van Dusen und der schreckliche Schneemensch",
+    "upc" : "4260507158284"
   },
   {
     "albumID" : "1503643823",
@@ -326,14 +334,6 @@
     "releaseDate" : 691027200,
     "title" : "Folge 33: Professor van Dusen und der fliegende Teppich",
     "upc" : "4260507176899"
-  },
-  {
-    "albumID" : "1647818963",
-    "artist" : "Professor van Dusen",
-    "duration" : 4022.0000000000005,
-    "releaseDate" : 692236800,
-    "title" : "Folge 34: Professor van Dusen hilft Scotland Yard",
-    "upc" : "4260507176912"
   },
   {
     "albumID" : "1654926288",
@@ -514,7 +514,7 @@
   {
     "albumID" : "1779083927",
     "artist" : "Professor van Dusen",
-    "duration" : 184.07999999999998,
+    "duration" : 3953.802,
     "releaseDate" : 755740800,
     "title" : "Die neuen Fälle, Fall 40: Professor van Dusen in stillen Gewässern",
     "upc" : "4260507200433"
