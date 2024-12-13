@@ -8,6 +8,14 @@
     "upc" : "9783838761121"
   },
   {
+    "albumID" : "309321421",
+    "artist" : "Jason Dark & John Sinclair",
+    "duration" : 3260.932,
+    "releaseDate" : 27216000,
+    "title" : "John Sinclair, Folge 10: Die Horror-Reiter",
+    "upc" : "9783838761138"
+  },
+  {
     "albumID" : "309322022",
     "artist" : "Jason Dark & John Sinclair",
     "duration" : 3301.764,
@@ -208,20 +216,20 @@
     "upc" : "9783838761411"
   },
   {
-    "albumID" : "309174968",
-    "artist" : "Jason Dark & John Sinclair",
-    "duration" : 2931.9849999999997,
-    "releaseDate" : 208742400,
-    "title" : "John Sinclair, Folge 39: Schreie in der Horror-Gruft (Teil 2 von 3)",
-    "upc" : "9783838761428"
-  },
-  {
     "albumID" : "309156072",
     "artist" : "Jason Dark & John Sinclair",
     "duration" : 3233.8940000000002,
     "releaseDate" : 208742400,
     "title" : "John Sinclair, Folge 40: Mein Todesurteil (Teil 3 von 3)",
     "upc" : "9783838761435"
+  },
+  {
+    "albumID" : "309174968",
+    "artist" : "Jason Dark & John Sinclair",
+    "duration" : 2931.9849999999997,
+    "releaseDate" : 208742400,
+    "title" : "John Sinclair, Folge 39: Schreie in der Horror-Gruft (Teil 2 von 3)",
+    "upc" : "9783838761428"
   },
   {
     "albumID" : "1164965153",
@@ -640,20 +648,20 @@
     "upc" : "9783838771762"
   },
   {
-    "albumID" : "606997602",
-    "artist" : "John Sinclair",
-    "duration" : 4769.279000000001,
-    "releaseDate" : 384912000,
-    "title" : "Folge 82: Macht und Mythos - Kreuz-Trilogie, Teil 3",
-    "upc" : "9783838771786"
-  },
-  {
     "albumID" : "608280636",
     "artist" : "John Sinclair",
     "duration" : 4300.305,
     "releaseDate" : 384912000,
     "title" : "Folge 81: Allein in der Drachenhöhle - Kreuz-Trilogie, Teil 2",
     "upc" : "9783838771779"
+  },
+  {
+    "albumID" : "606997602",
+    "artist" : "John Sinclair",
+    "duration" : 4769.279000000001,
+    "releaseDate" : 384912000,
+    "title" : "Folge 82: Macht und Mythos - Kreuz-Trilogie, Teil 3",
+    "upc" : "9783838771786"
   },
   {
     "albumID" : "641572055",
@@ -838,14 +846,6 @@
     "releaseDate" : 445478400,
     "title" : "Folge 98: Treffpunkt Leichenhaus",
     "upc" : "9783838774589"
-  },
-  {
-    "albumID" : "957426097",
-    "artist" : "John Sinclair",
-    "duration" : 7522.109000000001,
-    "releaseDate" : 447897600,
-    "title" : "Folge 100: Das Ende",
-    "upc" : "9783838775432"
   },
   {
     "albumID" : "949585255",
@@ -1896,6 +1896,14 @@
     "upc" : "4251234326640"
   },
   {
+    "albumID" : "1193213771",
+    "artist" : "John Sinclair",
+    "duration" : 4027.3620000000005,
+    "releaseDate" : 522288000,
+    "title" : "Folge 117: Zombies auf dem Roten Platz",
+    "upc" : "9783838783314"
+  },
+  {
     "albumID" : "1252972325",
     "artist" : "John Sinclair",
     "duration" : 8500.182999999999,
@@ -2006,6 +2014,14 @@
     "releaseDate" : 528249600,
     "title" : "Tonstudio Braun, Folge 98: Dr. Tods Monsterhöhle",
     "upc" : "4251234326435"
+  },
+  {
+    "albumID" : "1236872881",
+    "artist" : "John Sinclair",
+    "duration" : 3360.2490000000003,
+    "releaseDate" : 528336000,
+    "title" : "Folge 118: Die Kreuzweg-Legende",
+    "upc" : "9783838783321"
   },
   {
     "albumID" : "1255577553",
@@ -2200,14 +2216,6 @@
     "upc" : "9783838787749"
   },
   {
-    "albumID" : "1369227784",
-    "artist" : "John Sinclair",
-    "duration" : 3287.8519999999994,
-    "releaseDate" : 554342400,
-    "title" : "Folge 123: Alvas Feuerkuss",
-    "upc" : "9783838787596"
-  },
-  {
     "albumID" : "1369227922",
     "artist" : "John Sinclair",
     "duration" : 3505.8030000000003,
@@ -2272,14 +2280,6 @@
     "upc" : "9783838787664"
   },
   {
-    "albumID" : "1458759447",
-    "artist" : "John Sinclair",
-    "duration" : 4985.943,
-    "releaseDate" : 578188800,
-    "title" : "Sinclair, Staffel 1: Dead Zone, Folge 1: Zeichen",
-    "upc" : "4251535784934"
-  },
-  {
     "albumID" : "1458757823",
     "artist" : "John Sinclair",
     "duration" : 3391.452,
@@ -2288,12 +2288,12 @@
     "upc" : "9783838789712"
   },
   {
-    "albumID" : "1458758419",
+    "albumID" : "1461468767",
     "artist" : "John Sinclair",
-    "duration" : 18405.660000000007,
+    "duration" : 2936.6839999999997,
     "releaseDate" : 578448000,
-    "title" : "Dark Tales, Season II: Episode 7-12 (Audio Movie)",
-    "upc" : "9783838791180"
+    "title" : "Episode 9: To Kill a Beast",
+    "upc" : "9783838779256"
   },
   {
     "albumID" : "1461466948",
@@ -2312,20 +2312,20 @@
     "upc" : "9783838779263"
   },
   {
-    "albumID" : "1461468767",
-    "artist" : "John Sinclair",
-    "duration" : 2936.6839999999997,
-    "releaseDate" : 578448000,
-    "title" : "Episode 9: To Kill a Beast",
-    "upc" : "9783838779256"
-  },
-  {
     "albumID" : "1461467289",
     "artist" : "John Sinclair",
     "duration" : 3246.4950000000003,
     "releaseDate" : 578448000,
     "title" : "Episode 12: Some Darker Magic",
     "upc" : "9783838779287"
+  },
+  {
+    "albumID" : "1458758419",
+    "artist" : "John Sinclair",
+    "duration" : 18405.660000000007,
+    "releaseDate" : 578448000,
+    "title" : "Dark Tales, Season II: Episode 7-12 (Audio Movie)",
+    "upc" : "9783838791180"
   },
   {
     "albumID" : "1461467331",
@@ -3006,5 +3006,13 @@
     "releaseDate" : 751507200,
     "title" : "Sonderedition 17: Das Horror-Restaurant (Ungekürzt)",
     "upc" : "9783754015919"
+  },
+  {
+    "albumID" : "1777221874",
+    "artist" : "John Sinclair",
+    "duration" : 3240.9790000000003,
+    "releaseDate" : 755740800,
+    "title" : "Folge 177: Verliebt, verlobt und eingesargt",
+    "upc" : "9783754015889"
   }
 ]
