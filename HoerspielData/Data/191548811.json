@@ -1,5 +1,13 @@
 [
   {
+    "albumID" : "1450498987",
+    "artist" : "TKKG",
+    "duration" : 3460.3189999999995,
+    "releaseDate" : -176601600,
+    "title" : "Das Geheimnis um TKKG (Neuaufnahme)",
+    "upc" : "886447519189"
+  },
+  {
     "albumID" : "1195630985",
     "artist" : "TKKG",
     "duration" : 2942.281,
@@ -720,6 +728,14 @@
     "upc" : "886445641066"
   },
   {
+    "albumID" : "1087309130",
+    "artist" : "TKKG",
+    "duration" : 4434.147,
+    "releaseDate" : 469670400,
+    "title" : "Folge 194: Der Friedhof der Namenlosen",
+    "upc" : "886445641073"
+  },
+  {
     "albumID" : "1148961615",
     "artist" : "TKKG",
     "duration" : 3952.692,
@@ -776,14 +792,6 @@
     "upc" : "886447989760"
   },
   {
-    "albumID" : "1521299226",
-    "artist" : "TKKG",
-    "duration" : 4095.8399999999997,
-    "releaseDate" : 617241600,
-    "title" : "Folge 215: Verbrechen im Moorsteiner Wald",
-    "upc" : "886448206217"
-  },
-  {
     "albumID" : "1536103570",
     "artist" : "TKKG",
     "duration" : 4088.7069999999994,
@@ -806,14 +814,6 @@
     "releaseDate" : 628473600,
     "title" : "Morgen kommt das Weihnachtsgrauen (Adventskalender)",
     "upc" : "886449128891"
-  },
-  {
-    "albumID" : "1559602751",
-    "artist" : "TKKG",
-    "duration" : 4129.000999999999,
-    "releaseDate" : 640224000,
-    "title" : "Folge 218: Schutzgeld für Dämonen",
-    "upc" : "886448206248"
   },
   {
     "albumID" : "1590344047",
