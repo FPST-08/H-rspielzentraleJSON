@@ -8,6 +8,14 @@
     "upc" : "4260507148124"
   },
   {
+    "albumID" : "1454236661",
+    "artist" : "Scotland Yard",
+    "duration" : 2340.92,
+    "releaseDate" : 339033600,
+    "title" : "Folge 17: Reis für Manila",
+    "upc" : "4260507148216"
+  },
+  {
     "albumID" : "1454236459",
     "artist" : "Scotland Yard",
     "duration" : 2371.1749999999997,
@@ -30,14 +38,6 @@
     "releaseDate" : 343267200,
     "title" : "Folge 26: Gefährliches Spiel",
     "upc" : "4260507148308"
-  },
-  {
-    "albumID" : "1461288617",
-    "artist" : "Scotland Yard",
-    "duration" : 4938.4569999999985,
-    "releaseDate" : 584582400,
-    "title" : "Schach dem Verbrechen, Folge 1: Am Samstag kam der Mittelsmann",
-    "upc" : "4260507149756"
   },
   {
     "albumID" : "1461283037",
