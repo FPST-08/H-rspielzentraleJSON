@@ -1,5 +1,13 @@
 [
   {
+    "albumID" : "1576662995",
+    "artist" : "Heff Der Chef",
+    "duration" : 2069.982,
+    "releaseDate" : 649296000,
+    "title" : "Folge 18: Die Burg 2",
+    "upc" : "4260507167590"
+  },
+  {
     "albumID" : "1730687302",
     "artist" : "Heff Der Chef",
     "duration" : 2853.8570000000004,
@@ -56,19 +64,19 @@
     "upc" : "4260507199300"
   },
   {
-    "albumID" : "1776657857",
-    "artist" : "Heff Der Chef",
-    "duration" : 186.411,
-    "releaseDate" : 755136000,
-    "title" : "Folge 33: Femme Fatale",
-    "upc" : "4260507200112"
-  },
-  {
     "albumID" : "1776659202",
     "artist" : "Heff Der Chef",
-    "duration" : 184.232,
+    "duration" : 1742.063,
     "releaseDate" : 755740800,
     "title" : "Folge 34: Die Hundesitter",
     "upc" : "4260507200136"
+  },
+  {
+    "albumID" : "1784462618",
+    "artist" : "Heff Der Chef",
+    "duration" : 185.977,
+    "releaseDate" : 761184000,
+    "title" : "Folge 36: Die Renovierung",
+    "upc" : "4260507201102"
   }
 ]
