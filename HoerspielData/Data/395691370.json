@@ -1,19 +1,19 @@
 [
   {
-    "albumID" : "1600893099",
-    "artist" : "Lady Bedfort",
-    "duration" : 3895.5080000000007,
-    "releaseDate" : 631152000,
-    "title" : "Folge 67: Die verschlossene Kammer (2021 Remastered Version)",
-    "upc" : "4066218284492"
-  },
-  {
     "albumID" : "1600891531",
     "artist" : "Lady Bedfort",
     "duration" : 3899.6129999999994,
     "releaseDate" : 631152000,
     "title" : "Folge 68: Die drei Furien (Remastered)",
     "upc" : "4066218119749"
+  },
+  {
+    "albumID" : "1600893099",
+    "artist" : "Lady Bedfort",
+    "duration" : 3895.5080000000007,
+    "releaseDate" : 631152000,
+    "title" : "Folge 67: Die verschlossene Kammer (2021 Remastered Version)",
+    "upc" : "4066218284492"
   },
   {
     "albumID" : "1600899388",
@@ -24,14 +24,6 @@
     "upc" : "4066218284485"
   },
   {
-    "albumID" : "1571987764",
-    "artist" : "Lady Bedfort",
-    "duration" : 3661.002000000001,
-    "releaseDate" : 645667200,
-    "title" : "Folge 6: Der Fang der Fischer (Remastered)",
-    "upc" : "4066218198409"
-  },
-  {
     "albumID" : "1574315441",
     "artist" : "Lady Bedfort",
     "duration" : 4494.125000000001,
@@ -40,28 +32,12 @@
     "upc" : "4066218198584"
   },
   {
-    "albumID" : "1574325598",
-    "artist" : "Lady Bedfort",
-    "duration" : 4220.83,
-    "releaseDate" : 645667200,
-    "title" : "Folge 17: Der Fluch von Loveham Hall (2021 Remastered Version)",
-    "upc" : "4066218198539"
-  },
-  {
     "albumID" : "1575330068",
     "artist" : "Lady Bedfort",
     "duration" : 4436.103,
     "releaseDate" : 645667200,
     "title" : "Folge 15: Die goldenen Felder (2021 Remastered Version)",
     "upc" : "4066218198522"
-  },
-  {
-    "albumID" : "1574475448",
-    "artist" : "Lady Bedfort",
-    "duration" : 3844.817,
-    "releaseDate" : 645667200,
-    "title" : "Folge 19: Das Mörderspiel 1 (2021 Remastered Version)",
-    "upc" : "4066218198553"
   },
   {
     "albumID" : "1574905966",
@@ -88,6 +64,14 @@
     "upc" : "4066218201697"
   },
   {
+    "albumID" : "1575233777",
+    "artist" : "Lady Bedfort",
+    "duration" : 4081.811,
+    "releaseDate" : 646099200,
+    "title" : "Folge 26: Die Täuschung im Zug (2021 Remastered Version)",
+    "upc" : "4066218201710"
+  },
+  {
     "albumID" : "1575547451",
     "artist" : "Lady Bedfort",
     "duration" : 4027.727,
@@ -104,20 +88,20 @@
     "upc" : "4066218201734"
   },
   {
-    "albumID" : "1576201566",
-    "artist" : "Lady Bedfort",
-    "duration" : 4092.129,
-    "releaseDate" : 646099200,
-    "title" : "Folge 29: Der Tod in den Highlands (2021 Remastered Version)",
-    "upc" : "4066218201758"
-  },
-  {
     "albumID" : "1575233006",
     "artist" : "Lady Bedfort",
     "duration" : 4027.075,
     "releaseDate" : 646099200,
     "title" : "Folge 25: Die Trauer der Zigeuner (2021 Remastered Version)",
     "upc" : "4066218201611"
+  },
+  {
+    "albumID" : "1576201566",
+    "artist" : "Lady Bedfort",
+    "duration" : 4092.129,
+    "releaseDate" : 646099200,
+    "title" : "Folge 29: Der Tod in den Highlands (2021 Remastered Version)",
+    "upc" : "4066218201758"
   },
   {
     "albumID" : "1575548406",
@@ -136,20 +120,20 @@
     "upc" : "4066218201499"
   },
   {
-    "albumID" : "1592711830",
-    "artist" : "Lady Bedfort",
-    "duration" : 3800.163,
-    "releaseDate" : 646704000,
-    "title" : "Folge 32: Die Leichenlichtung (2021 Remastered Version)",
-    "upc" : "4066218204568"
-  },
-  {
     "albumID" : "1592711887",
     "artist" : "Lady Bedfort",
     "duration" : 3984.067,
     "releaseDate" : 646704000,
     "title" : "Folge 33: Der Tod im Theater (2021 Remastered Version)",
     "upc" : "4066218022483"
+  },
+  {
+    "albumID" : "1592711830",
+    "artist" : "Lady Bedfort",
+    "duration" : 3800.163,
+    "releaseDate" : 646704000,
+    "title" : "Folge 32: Die Leichenlichtung (2021 Remastered Version)",
+    "upc" : "4066218204568"
   },
   {
     "albumID" : "1592712752",
@@ -176,12 +160,12 @@
     "upc" : "4066218022520"
   },
   {
-    "albumID" : "1578453964",
+    "albumID" : "1576221808",
     "artist" : "Lady Bedfort",
-    "duration" : 4580.292000000001,
+    "duration" : 3743.7160000000003,
     "releaseDate" : 647568000,
-    "title" : "Folge 48: Die Sorgen des Mr. Bloom (2021 Remastered Version)",
-    "upc" : "4066218028782"
+    "title" : "Folge 39: Der Teufel von Marbles Cove (2021 Remastered Version)",
+    "upc" : "4066218028256"
   },
   {
     "albumID" : "1577809255",
@@ -190,6 +174,14 @@
     "releaseDate" : 647568000,
     "title" : "Folge 42: Der letzte Fall (2021 Remastered Version)",
     "upc" : "4066218028294"
+  },
+  {
+    "albumID" : "1577504582",
+    "artist" : "Lady Bedfort",
+    "duration" : 3412.4170000000004,
+    "releaseDate" : 647568000,
+    "title" : "Folge 38: Der Fund im Loch Ness (2021 Remastered Version)",
+    "upc" : "4066218028232"
   },
   {
     "albumID" : "1576221326",
@@ -272,20 +264,20 @@
     "upc" : "4066218031423"
   },
   {
-    "albumID" : "1581094784",
-    "artist" : "Lady Bedfort",
-    "duration" : 4623.604,
-    "releaseDate" : 648000000,
-    "title" : "Folge 54: Die chinesische Uhr (2021 Remastered Version)",
-    "upc" : "4066218031430"
-  },
-  {
     "albumID" : "1581094716",
     "artist" : "Lady Bedfort",
     "duration" : 5070.990000000001,
     "releaseDate" : 648000000,
     "title" : "Folge 55: Der verlorene Tag (2021 Remastered Version)",
     "upc" : "4066218031454"
+  },
+  {
+    "albumID" : "1581094784",
+    "artist" : "Lady Bedfort",
+    "duration" : 4623.604,
+    "releaseDate" : 648000000,
+    "title" : "Folge 54: Die chinesische Uhr (2021 Remastered Version)",
+    "upc" : "4066218031430"
   },
   {
     "albumID" : "1592162995",
@@ -312,6 +304,14 @@
     "upc" : "4066218214314"
   },
   {
+    "albumID" : "1592716695",
+    "artist" : "Lady Bedfort",
+    "duration" : 3832.3509999999997,
+    "releaseDate" : 648172800,
+    "title" : "Folge 60: Die elf Geschworenen (2021 Remastered Version)",
+    "upc" : "4066218214321"
+  },
+  {
     "albumID" : "1581586416",
     "artist" : "Lady Bedfort",
     "duration" : 4372.756,
@@ -326,14 +326,6 @@
     "releaseDate" : 648172800,
     "title" : "Folge 56: Die Stimme des Zweifels (2021 Remastered Version)",
     "upc" : "4066218214338"
-  },
-  {
-    "albumID" : "1592716695",
-    "artist" : "Lady Bedfort",
-    "duration" : 3832.3509999999997,
-    "releaseDate" : 648172800,
-    "title" : "Folge 60: Die elf Geschworenen (2021 Remastered Version)",
-    "upc" : "4066218214321"
   },
   {
     "albumID" : "1581586633",
@@ -352,20 +344,20 @@
     "upc" : "4066218233964"
   },
   {
-    "albumID" : "1582498090",
-    "artist" : "Lady Bedfort",
-    "duration" : 4929.683,
-    "releaseDate" : 651801600,
-    "title" : "Folge 65: Die Mördergrube (2021 Remastered Version)",
-    "upc" : "4066218233988"
-  },
-  {
     "albumID" : "1582508277",
     "artist" : "Lady Bedfort",
     "duration" : 4547.768,
     "releaseDate" : 651801600,
     "title" : "Folge 64: Der Dolch im Rücken (2021 Remastered Version)",
     "upc" : "4066218234015"
+  },
+  {
+    "albumID" : "1582498090",
+    "artist" : "Lady Bedfort",
+    "duration" : 4929.683,
+    "releaseDate" : 651801600,
+    "title" : "Folge 65: Die Mördergrube (2021 Remastered Version)",
+    "upc" : "4066218233988"
   },
   {
     "albumID" : "1582608440",
@@ -392,14 +384,6 @@
     "upc" : "4066218237689"
   },
   {
-    "albumID" : "1585391103",
-    "artist" : "Lady Bedfort",
-    "duration" : 5025.728,
-    "releaseDate" : 652665600,
-    "title" : "Folge 72: Der mörderische Jackpot (2021 Remastered Version)",
-    "upc" : "4066218237726"
-  },
-  {
     "albumID" : "1592144381",
     "artist" : "Lady Bedfort",
     "duration" : 4919.675000000001,
@@ -416,12 +400,20 @@
     "upc" : "4066218237764"
   },
   {
-    "albumID" : "1583926235",
+    "albumID" : "1585391103",
     "artist" : "Lady Bedfort",
-    "duration" : 6071.949999999999,
+    "duration" : 5025.728,
     "releaseDate" : 652665600,
-    "title" : "Folge 79: Die Redcap-Morde (2021 Remastered Version)",
-    "upc" : "4066218237795"
+    "title" : "Folge 72: Der mörderische Jackpot (2021 Remastered Version)",
+    "upc" : "4066218237726"
+  },
+  {
+    "albumID" : "1585388890",
+    "artist" : "Lady Bedfort",
+    "duration" : 5699.780999999998,
+    "releaseDate" : 652665600,
+    "title" : "Folge 78: Die Schreie im Nebel (2021 Remastered Version)",
+    "upc" : "4066218237771"
   },
   {
     "albumID" : "1583924875",
@@ -432,12 +424,12 @@
     "upc" : "4066218237856"
   },
   {
-    "albumID" : "1585388890",
+    "albumID" : "1583926235",
     "artist" : "Lady Bedfort",
-    "duration" : 5699.780999999998,
+    "duration" : 6071.949999999999,
     "releaseDate" : 652665600,
-    "title" : "Folge 78: Die Schreie im Nebel (2021 Remastered Version)",
-    "upc" : "4066218237771"
+    "title" : "Folge 79: Die Redcap-Morde (2021 Remastered Version)",
+    "upc" : "4066218237795"
   },
   {
     "albumID" : "1592290313",
@@ -472,28 +464,20 @@
     "upc" : "4066218242454"
   },
   {
+    "albumID" : "1589464708",
+    "artist" : "Lady Bedfort",
+    "duration" : 4779.904,
+    "releaseDate" : 653443200,
+    "title" : "Folge 92: Der gestohlene Abschied (2021 Remastered Version)",
+    "upc" : "4066218242379"
+  },
+  {
     "albumID" : "1589456164",
     "artist" : "Lady Bedfort",
     "duration" : 5057.48,
     "releaseDate" : 653443200,
     "title" : "Folge 88: Das Rätsel der Rennbahn (2021 Remastered Version)",
     "upc" : "4066218242331"
-  },
-  {
-    "albumID" : "1593620687",
-    "artist" : "Lady Bedfort",
-    "duration" : 5225.019,
-    "releaseDate" : 653443200,
-    "title" : "Folge 93: Die Todesmelodie (2021 Remastered Version)",
-    "upc" : "4066218242386"
-  },
-  {
-    "albumID" : "1585365728",
-    "artist" : "Lady Bedfort",
-    "duration" : 5519.796,
-    "releaseDate" : 653443200,
-    "title" : "Folge 82: Die Leiche im ewigen Eis (2021 Remastered Version)",
-    "upc" : "4066218062335"
   },
   {
     "albumID" : "1592715973",
@@ -512,12 +496,12 @@
     "upc" : "4066218242348"
   },
   {
-    "albumID" : "1585365583",
+    "albumID" : "1593625636",
     "artist" : "Lady Bedfort",
-    "duration" : 4658.321,
+    "duration" : 5016.429,
     "releaseDate" : 653443200,
-    "title" : "Folge 95: Das perfekte Verbrechen (2021 Remastered Version)",
-    "upc" : "4066218062366"
+    "title" : "Folge 94: Die blutige Madonna (2021 Remastered Version)",
+    "upc" : "4066218242669"
   },
   {
     "albumID" : "1592720533",
@@ -528,28 +512,12 @@
     "upc" : "4066218242362"
   },
   {
-    "albumID" : "1592721054",
+    "albumID" : "1585365728",
     "artist" : "Lady Bedfort",
-    "duration" : 4870.952,
+    "duration" : 5519.796,
     "releaseDate" : 653443200,
-    "title" : "Folge 90: Die Rache des Zinkers (2021 Remastered Version)",
-    "upc" : "4066218242355"
-  },
-  {
-    "albumID" : "1593625636",
-    "artist" : "Lady Bedfort",
-    "duration" : 5016.429,
-    "releaseDate" : 653443200,
-    "title" : "Folge 94: Die blutige Madonna (2021 Remastered Version)",
-    "upc" : "4066218242669"
-  },
-  {
-    "albumID" : "1593632309",
-    "artist" : "Lady Bedfort",
-    "duration" : 3700.968999999999,
-    "releaseDate" : 653443200,
-    "title" : "Folge 100: Der Nachtfalke (2021 Remastered Version)",
-    "upc" : "4066218242768"
+    "title" : "Folge 82: Die Leiche im ewigen Eis (2021 Remastered Version)",
+    "upc" : "4066218062335"
   },
   {
     "albumID" : "1593623928",
@@ -560,12 +528,12 @@
     "upc" : "4066218242751"
   },
   {
-    "albumID" : "1592713657",
+    "albumID" : "1585365583",
     "artist" : "Lady Bedfort",
-    "duration" : 5362.282000000002,
+    "duration" : 4658.321,
     "releaseDate" : 653443200,
-    "title" : "Folge 86: Die Bestie von Bodmin Moor (2021 Remastered Version)",
-    "upc" : "4066218242300"
+    "title" : "Folge 95: Das perfekte Verbrechen (2021 Remastered Version)",
+    "upc" : "4066218062366"
   },
   {
     "albumID" : "1592715440",
@@ -574,6 +542,38 @@
     "releaseDate" : 653443200,
     "title" : "Folge 84: Die Schlacht von Broughton (2021 Remastered Version)",
     "upc" : "4066218242287"
+  },
+  {
+    "albumID" : "1593620687",
+    "artist" : "Lady Bedfort",
+    "duration" : 5225.019,
+    "releaseDate" : 653443200,
+    "title" : "Folge 93: Die Todesmelodie (2021 Remastered Version)",
+    "upc" : "4066218242386"
+  },
+  {
+    "albumID" : "1592721054",
+    "artist" : "Lady Bedfort",
+    "duration" : 4870.952,
+    "releaseDate" : 653443200,
+    "title" : "Folge 90: Die Rache des Zinkers (2021 Remastered Version)",
+    "upc" : "4066218242355"
+  },
+  {
+    "albumID" : "1593632309",
+    "artist" : "Lady Bedfort",
+    "duration" : 3700.968999999999,
+    "releaseDate" : 653443200,
+    "title" : "Folge 100: Der Nachtfalke (2021 Remastered Version)",
+    "upc" : "4066218242768"
+  },
+  {
+    "albumID" : "1592713657",
+    "artist" : "Lady Bedfort",
+    "duration" : 5362.282000000002,
+    "releaseDate" : 653443200,
+    "title" : "Folge 86: Die Bestie von Bodmin Moor (2021 Remastered Version)",
+    "upc" : "4066218242300"
   },
   {
     "albumID" : "1592719615",
@@ -632,14 +632,6 @@
     "upc" : "4066218256918"
   },
   {
-    "albumID" : "1593646765",
-    "artist" : "Lady Bedfort",
-    "duration" : 9647.646999999999,
-    "releaseDate" : 655862400,
-    "title" : "Folge 105: Der Leichengarten",
-    "upc" : "4066218256901"
-  },
-  {
     "albumID" : "1593874705",
     "artist" : "Lady Bedfort",
     "duration" : 7442.364000000002,
@@ -648,12 +640,12 @@
     "upc" : "4066218268201"
   },
   {
-    "albumID" : "1594594417",
+    "albumID" : "1593646765",
     "artist" : "Lady Bedfort",
-    "duration" : 5826.516,
-    "releaseDate" : 656467200,
-    "title" : "Folge 113: Der fliegende Tod (2021 Remastered Version)",
-    "upc" : "4066218076455"
+    "duration" : 9647.646999999999,
+    "releaseDate" : 655862400,
+    "title" : "Folge 105: Der Leichengarten",
+    "upc" : "4066218256901"
   },
   {
     "albumID" : "1594594663",
@@ -664,6 +656,14 @@
     "upc" : "4066218076486"
   },
   {
+    "albumID" : "1594583746",
+    "artist" : "Lady Bedfort",
+    "duration" : 5978.567999999999,
+    "releaseDate" : 656467200,
+    "title" : "Folge 115: Das Erbe der Stempfields (2021 Remastered Version)",
+    "upc" : "4066218076479"
+  },
+  {
     "albumID" : "1594584125",
     "artist" : "Lady Bedfort",
     "duration" : 6298.209999999999,
@@ -672,12 +672,12 @@
     "upc" : "4066218076462"
   },
   {
-    "albumID" : "1594583746",
+    "albumID" : "1594594417",
     "artist" : "Lady Bedfort",
-    "duration" : 5978.567999999999,
+    "duration" : 5826.516,
     "releaseDate" : 656467200,
-    "title" : "Folge 115: Das Erbe der Stempfields (2021 Remastered Version)",
-    "upc" : "4066218076479"
+    "title" : "Folge 113: Der fliegende Tod (2021 Remastered Version)",
+    "upc" : "4066218076455"
   },
   {
     "albumID" : "1593874370",
@@ -696,20 +696,20 @@
     "upc" : "4066218076417"
   },
   {
-    "albumID" : "1589794455",
-    "artist" : "Lady Bedfort",
-    "duration" : 5947.671,
-    "releaseDate" : 656553600,
-    "title" : "Folge 111: Geister der Vergangenheit (2021 Remastered Version)",
-    "upc" : "4066218076448"
-  },
-  {
     "albumID" : "1593870380",
     "artist" : "Lady Bedfort",
     "duration" : 9374.144999999999,
     "releaseDate" : 656553600,
     "title" : "Folge 107: Der letzte Gang (2021 Remastered Version)",
     "upc" : "4066218257908"
+  },
+  {
+    "albumID" : "1589794455",
+    "artist" : "Lady Bedfort",
+    "duration" : 5947.671,
+    "releaseDate" : 656553600,
+    "title" : "Folge 111: Geister der Vergangenheit (2021 Remastered Version)",
+    "upc" : "4066218076448"
   },
   {
     "albumID" : "1593873776",
@@ -728,19 +728,19 @@
     "upc" : "4066218093667"
   },
   {
-    "albumID" : "1594587635",
-    "artist" : "Lady Bedfort",
-    "duration" : 6001.268999999999,
-    "releaseDate" : 658713600,
-    "title" : "Folge 112: Familienbande",
-    "upc" : "4066218269925"
-  },
-  {
     "albumID" : "1594590654",
     "artist" : "Lady Bedfort",
     "duration" : 6541.638999999999,
     "releaseDate" : 658713600,
     "title" : "Folge 117: Der Aufstand",
     "upc" : "4066218096378"
+  },
+  {
+    "albumID" : "1594587635",
+    "artist" : "Lady Bedfort",
+    "duration" : 6001.268999999999,
+    "releaseDate" : 658713600,
+    "title" : "Folge 112: Familienbande",
+    "upc" : "4066218269925"
   }
 ]
