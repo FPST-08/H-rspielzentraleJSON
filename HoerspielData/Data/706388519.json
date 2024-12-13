@@ -32,19 +32,19 @@
     "upc" : "196871108560"
   },
   {
-    "albumID" : "1700906725",
-    "artist" : "VIDAN",
-    "duration" : 3501.668,
-    "releaseDate" : 717638400,
-    "title" : "Staffel 3: Schrei nach Vernichtung, Folge 9: Nootaus Kampf",
-    "upc" : "196871108614"
-  },
-  {
     "albumID" : "1700907151",
     "artist" : "VIDAN",
     "duration" : 4473.268000000001,
     "releaseDate" : 717638400,
     "title" : "Staffel 3: Schrei nach Vernichtung, Folge 10: Überleben?",
     "upc" : "196871108652"
+  },
+  {
+    "albumID" : "1700906725",
+    "artist" : "VIDAN",
+    "duration" : 3501.668,
+    "releaseDate" : 717638400,
+    "title" : "Staffel 3: Schrei nach Vernichtung, Folge 9: Nootaus Kampf",
+    "upc" : "196871108614"
   }
 ]
