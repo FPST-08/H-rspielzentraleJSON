@@ -816,6 +816,14 @@
     "upc" : "886445317459"
   },
   {
+    "albumID" : "1047763791",
+    "artist" : "Fünf Freunde",
+    "duration" : 3220.105,
+    "releaseDate" : 433382400,
+    "title" : "Folge 108: und die Entführung im Skigebiet",
+    "upc" : "886445317466"
+  },
+  {
     "albumID" : "1047760819",
     "artist" : "Fünf Freunde",
     "duration" : 3541.3879999999995,
@@ -864,6 +872,14 @@
     "upc" : "886445603002"
   },
   {
+    "albumID" : "1090908738",
+    "artist" : "Fünf Freunde",
+    "duration" : 3197.6370000000015,
+    "releaseDate" : 482371200,
+    "title" : "Folge 116: und der chinesische Pflanzenzauber",
+    "upc" : "886445603019"
+  },
+  {
     "albumID" : "1110806395",
     "artist" : "Fünf Freunde",
     "duration" : 3732.012999999999,
@@ -872,20 +888,20 @@
     "upc" : "886445603026"
   },
   {
+    "albumID" : "1168002592",
+    "artist" : "Fünf Freunde",
+    "duration" : 3928.4529999999995,
+    "releaseDate" : 501120000,
+    "title" : "Folge 119: und das versunkene Schiff",
+    "upc" : "886445603040"
+  },
+  {
     "albumID" : "1214872067",
     "artist" : "Fünf Freunde",
     "duration" : 3690.5589999999997,
     "releaseDate" : 514425600,
     "title" : "Folge 121: und die verlassene Jagdhütte",
     "upc" : "886446072043"
-  },
-  {
-    "albumID" : "1223460942",
-    "artist" : "Fünf Freunde",
-    "duration" : 3405.482000000001,
-    "releaseDate" : 519264000,
-    "title" : "Folge 122: und der Großalarm in Kirrin",
-    "upc" : "886446072050"
   },
   {
     "albumID" : "1287526566",
@@ -910,22 +926,6 @@
     "releaseDate" : 542851200,
     "title" : "Fünf Freunde und das Tal der Dinosaurier - Das Original-Hörspiel zum Kinofilm",
     "upc" : "886446839158"
-  },
-  {
-    "albumID" : "1438531017",
-    "artist" : "Fünf Freunde",
-    "duration" : 3166.013000000001,
-    "releaseDate" : 564624000,
-    "title" : "Folge 129: und die kleinen Detektive",
-    "upc" : "886447192641"
-  },
-  {
-    "albumID" : "1449471516",
-    "artist" : "Fünf Freunde",
-    "duration" : 3333.2940000000003,
-    "releaseDate" : 571881600,
-    "title" : "Folge 130: und die Glocke der Wikinger",
-    "upc" : "886447234150"
   },
   {
     "albumID" : "1456262331",
