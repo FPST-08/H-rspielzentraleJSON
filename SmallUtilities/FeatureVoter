@@ -1,5 +1,12 @@
 [
   {
+    "description" : "Wiedergabe-Geschwindigkeit auf bspw. 1,5x oder 2x erhöhen. ",
+    "id" : "19",
+    "isFinished" : false,
+    "status" : "Geplant",
+    "title" : "Geschwindigkeit"
+  },
+  {
     "description" : "Wiedergabe spielt bei kurzen Funklöchern weiter",
     "id" : "18",
     "isFinished" : false,
