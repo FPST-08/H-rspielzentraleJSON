@@ -1,5 +1,12 @@
 [
   {
+    "description" : "CarPlay muss bei Apple beantragt werden. Nur wenige Apps können deshalb auf CarPlay verfügbar sein. ",
+    "id" : "20",
+    "isFinished" : false,
+    "status" : "Geplant",
+    "title" : "CarPlay"
+  },
+  {
     "description" : "Wiedergabe-Geschwindigkeit auf bspw. 1,5x oder 2x erhöhen. ",
     "id" : "19",
     "isFinished" : false,
