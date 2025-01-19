@@ -49,10 +49,10 @@
     "title" : "Unterstützung von Siri und Shortcuts"
   },
   {
-    "description" : "",
+    "description" : "Bereits auf TestFlight verfügbar",
     "id" : "6",
     "isFinished" : false,
-    "status" : "Arbeit läuft auf Hochtouren",
+    "status" : "In Version 1.3.0",
     "title" : "iPad-Version"
   },
   {
