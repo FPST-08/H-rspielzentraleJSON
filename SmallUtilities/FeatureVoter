@@ -1,5 +1,19 @@
 [
   {
+    "description" : "Alle Funktionen auch unter macOS",
+    "id" : "23",
+    "isFinished" : false,
+    "status" : "Geplant",
+    "title" : "MacOS-App"
+  },
+  {
+    "description" : "Einfache Wiedergabesteuerung",
+    "id" : "22",
+    "isFinished" : false,
+    "status" : "Geplant",
+    "title" : "Apple Watch App"
+  },
+  {
     "description" : "In Form eines neuen Tabs mit einfachem Zugriff auf Serien und deren Hörspiele",
     "id" : "21",
     "isFinished" : false,
