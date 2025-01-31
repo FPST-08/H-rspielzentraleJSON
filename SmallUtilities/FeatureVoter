@@ -1,5 +1,12 @@
 [
   {
+    "description" : "Ermöglicht das Entdecken weiterer Serien basierend auf bereits hinzugefügten und generell beliebten Serien",
+    "id" : "24",
+    "isFinished" : false,
+    "status" : "Geplant",
+    "title" : "Weiterer Tab „Entdecken“"
+  },
+  {
     "description" : "Alle Funktionen auch unter macOS",
     "id" : "23",
     "isFinished" : false,
@@ -45,7 +52,7 @@
     "description" : "Vorschläge für neue Hörspiele und einfacheres Weiterspielen",
     "id" : "17",
     "isFinished" : false,
-    "status" : "Geplant",
+    "status" : "In Teilen verfügbar",
     "title" : "Widgets verbessern"
   },
   {
