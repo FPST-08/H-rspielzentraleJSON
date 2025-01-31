@@ -17,7 +17,7 @@
     "description" : "In Form eines neuen Tabs mit einfachem Zugriff auf Serien und deren Hörspiele",
     "id" : "21",
     "isFinished" : false,
-    "status" : "Verfügbar in wenigen Tagen",
+    "status" : "Update rollt aus",
     "title" : "Bessere Übersicht über Serien"
   },
   {
@@ -38,7 +38,7 @@
     "description" : "Wiedergabe spielt bei kurzen Funklöchern weiter",
     "id" : "18",
     "isFinished" : false,
-    "status" : "Geplant",
+    "status" : "Entwicklung läuft",
     "title" : "Offline-Modus"
   },
   {
@@ -73,7 +73,7 @@
     "description" : "",
     "id" : "6",
     "isFinished" : false,
-    "status" : "In wenigen Tagen",
+    "status" : "Update rollt aus",
     "title" : "iPad-Version"
   },
   {
@@ -129,7 +129,7 @@
     "description" : "",
     "id" : "15",
     "isFinished" : false,
-    "status" : "In wenigen Tagen",
+    "status" : "Update rollt aus",
     "title" : "Neues App-Icon"
   }
 ]
