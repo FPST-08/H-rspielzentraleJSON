@@ -1,5 +1,12 @@
 [
   {
+    "description" : "Spielt ein gewünschtes Hörspiel nach dem Beenden des vorherigen Hörspiels",
+    "id" : "25",
+    "isFinished" : false,
+    "status" : "Geplant",
+    "title" : "Wiedergabeliste"
+  },
+  {
     "description" : "Ermöglicht das Entdecken weiterer Serien basierend auf bereits hinzugefügten und generell beliebten Serien",
     "id" : "24",
     "isFinished" : false,
