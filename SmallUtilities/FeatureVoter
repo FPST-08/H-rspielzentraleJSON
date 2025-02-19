@@ -38,7 +38,7 @@
     "description" : "CarPlay muss bei Apple beantragt werden. Nur wenige Apps können deshalb auf CarPlay verfügbar sein. ",
     "id" : "20",
     "isFinished" : false,
-    "status" : "Antrag gestellt",
+    "status" : "Antrag genehmigt",
     "title" : "CarPlay"
   },
   {
@@ -142,8 +142,8 @@
   {
     "description" : "",
     "id" : "15",
-    "isFinished" : false,
-    "status" : "Update rollt aus",
+    "isFinished" : true,
+    "status" : "Integriert",
     "title" : "Neues App-Icon"
   }
 ]
