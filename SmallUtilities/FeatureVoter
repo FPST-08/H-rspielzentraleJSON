@@ -51,8 +51,8 @@
   {
     "description" : "Wiedergabe spielt bei kurzen Funklöchern weiter",
     "id" : "18",
-    "isFinished" : false,
-    "status" : "Durchläuft Beta-Test",
+    "isFinished" : true,
+    "status" : "Teil des nächsten Updates",
     "title" : "Offline-Modus"
   },
   {
@@ -86,7 +86,7 @@
   {
     "description" : "Weitere Optimierungen",
     "id" : "6",
-    "isFinished" : false,
+    "isFinished" : true,
     "status" : "Geplant ",
     "title" : "iPad-Version"
   },
