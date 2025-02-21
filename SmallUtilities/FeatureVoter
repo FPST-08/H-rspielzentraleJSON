@@ -1,108 +1,10 @@
 [
   {
-    "description" : "Spielt ein gewünschtes Hörspiel nach dem Beenden des vorherigen Hörspiels",
-    "id" : "25",
-    "isFinished" : false,
-    "status" : "Geplant",
-    "title" : "Wiedergabeliste"
-  },
-  {
-    "description" : "Ermöglicht das Entdecken weiterer Serien basierend auf bereits hinzugefügten und generell beliebten Serien",
-    "id" : "24",
-    "isFinished" : false,
-    "status" : "Geplant",
-    "title" : "Weiterer Tab „Entdecken“"
-  },
-  {
-    "description" : "Alle Funktionen auch unter macOS",
-    "id" : "23",
-    "isFinished" : false,
-    "status" : "Geplant",
-    "title" : "MacOS-App"
-  },
-  {
-    "description" : "Einfache Wiedergabesteuerung",
-    "id" : "22",
-    "isFinished" : false,
-    "status" : "Geplant",
-    "title" : "Apple Watch App"
-  },
-  {
-    "description" : "In Form eines neuen Tabs mit einfachem Zugriff auf Serien und deren Hörspiele",
-    "id" : "21",
-    "isFinished" : false,
-    "status" : "Weitere Optimierungen",
-    "title" : "Bessere Übersicht über Serien"
-  },
-  {
     "description" : "CarPlay muss bei Apple beantragt werden. Nur wenige Apps können deshalb auf CarPlay verfügbar sein. ",
     "id" : "20",
     "isFinished" : false,
     "status" : "Antrag genehmigt",
     "title" : "CarPlay"
-  },
-  {
-    "description" : "Wiedergabe-Geschwindigkeit auf bspw. 1,5x oder 2x erhöhen. ",
-    "id" : "19",
-    "isFinished" : false,
-    "status" : "Geplant",
-    "title" : "Geschwindigkeit"
-  },
-  {
-    "description" : "Wiedergabe spielt bei kurzen Funklöchern weiter",
-    "id" : "18",
-    "isFinished" : true,
-    "status" : "Teil des nächsten Updates",
-    "title" : "Offline-Modus"
-  },
-  {
-    "description" : "Vorschläge für neue Hörspiele und einfacheres Weiterspielen",
-    "id" : "17",
-    "isFinished" : false,
-    "status" : "In Teilen verfügbar",
-    "title" : "Widgets verbessern"
-  },
-  {
-    "description" : "Verbleibende Zeit und Wiedergabe-Controls auf dem Lockscreen",
-    "id" : "16",
-    "isFinished" : false,
-    "status" : "Eventuell",
-    "title" : "Live Activity"
-  },
-  {
-    "description" : "",
-    "id" : "4",
-    "isFinished" : true,
-    "status" : "Integriert",
-    "title" : "iCloud Synchronisierung"
-  },
-  {
-    "description" : "Weitere Blöcke und Funktionen",
-    "id" : "5",
-    "isFinished" : false,
-    "status" : "In Teilen integriert",
-    "title" : "Unterstützung von Siri und Shortcuts"
-  },
-  {
-    "description" : "Weitere Optimierungen",
-    "id" : "6",
-    "isFinished" : true,
-    "status" : "Geplant ",
-    "title" : "iPad-Version"
-  },
-  {
-    "description" : "Optionale Benachrichtigungen über neu verfügbare Hörspiele.",
-    "id" : "8",
-    "isFinished" : true,
-    "status" : "In Version 1.2.0 integriert",
-    "title" : "Benachrichtigungen"
-  },
-  {
-    "description" : "Die Bewertungen von rocky-beach.com direkt in der Hörspielansicht",
-    "id" : "9",
-    "isFinished" : false,
-    "status" : "Geplant",
-    "title" : "Ratings"
   },
   {
     "description" : "Wie lange hast du Hörspiele gehört?",
@@ -112,32 +14,88 @@
     "title" : "Statistiken"
   },
   {
-    "description" : "Beim Einrichten oder nachträglich bereits gehörte Hörspiele aus Apple Music als gespielt markieren oder den Abspielkopf an die richtige Stelle setzen.",
-    "id" : "11",
-    "isFinished" : true,
-    "status" : "Integriert",
-    "title" : "Übernahme des Fortschritts aus AM"
+    "description" : "Verbleibende Zeit und Wiedergabe-Controls auf dem Lockscreen",
+    "id" : "16",
+    "isFinished" : false,
+    "status" : "Eventuell",
+    "title" : "Live Activity"
   },
   {
-    "description" : "Die Ansicht zum Wählen von Serien verschönern",
-    "id" : "12",
-    "isFinished" : true,
+    "description" : "In Form eines neuen Tabs mit einfachem Zugriff auf Serien und deren Hörspiele",
+    "id" : "21",
+    "isFinished" : false,
+    "status" : "Weitere Optimierungen",
+    "title" : "Bessere Übersicht über Serien"
+  },
+  {
+    "description" : "Die Bewertungen von rocky-beach.com direkt in der Hörspielansicht",
+    "id" : "9",
+    "isFinished" : false,
     "status" : "Geplant",
-    "title" : "Serien-Redesign"
+    "title" : "Ratings"
   },
   {
-    "description" : "Wenn keine anderen Daten verfügbar, Tracks aus Apple Music anzeigen und weitere Informationen",
-    "id" : "13",
-    "isFinished" : true,
-    "status" : "Integriert",
-    "title" : "Detailansicht für Hörspiele"
+    "description" : "Vorschläge für neue Hörspiele und einfacheres Weiterspielen",
+    "id" : "17",
+    "isFinished" : false,
+    "status" : "In Teilen verfügbar",
+    "title" : "Widgets verbessern"
   },
   {
-    "description" : "https://github.com/FPST-08/Hoerspielzentrale",
-    "id" : "14",
+    "description" : "Weitere Blöcke und Funktionen",
+    "id" : "5",
+    "isFinished" : false,
+    "status" : "In Teilen integriert",
+    "title" : "Unterstützung von Siri und Shortcuts"
+  },
+  {
+    "description" : "Ermöglicht das Entdecken weiterer Serien basierend auf bereits hinzugefügten und generell beliebten Serien",
+    "id" : "24",
+    "isFinished" : false,
+    "status" : "Geplant",
+    "title" : "Weiterer Tab „Entdecken“"
+  },
+  {
+    "description" : "Wiedergabe-Geschwindigkeit auf bspw. 1,5x oder 2x erhöhen. ",
+    "id" : "19",
+    "isFinished" : false,
+    "status" : "Geplant",
+    "title" : "Geschwindigkeit"
+  },
+  {
+    "description" : "Einfache Wiedergabesteuerung",
+    "id" : "22",
+    "isFinished" : false,
+    "status" : "Geplant",
+    "title" : "Apple Watch App"
+  },
+  {
+    "description" : "Alle Funktionen auch unter macOS",
+    "id" : "23",
+    "isFinished" : false,
+    "status" : "Geplant",
+    "title" : "MacOS-App"
+  },
+  {
+    "description" : "Spielt ein gewünschtes Hörspiel nach dem Beenden des vorherigen Hörspiels",
+    "id" : "25",
+    "isFinished" : false,
+    "status" : "Geplant",
+    "title" : "Wiedergabeliste"
+  },
+  {
+    "description" : "Wiedergabe spielt bei kurzen Funklöchern weiter",
+    "id" : "18",
     "isFinished" : true,
-    "status" : "Veröffentlicht",
-    "title" : "Open-Source-Veröffentlichung"
+    "status" : "Teil des nächsten Updates",
+    "title" : "Offline-Modus"
+  },
+  {
+    "description" : "Weitere Optimierungen",
+    "id" : "6",
+    "isFinished" : true,
+    "status" : "Geplant ",
+    "title" : "iPad-Version"
   },
   {
     "description" : "",
@@ -145,5 +103,12 @@
     "isFinished" : true,
     "status" : "Integriert",
     "title" : "Neues App-Icon"
+  },
+  {
+    "description" : "Optionale Benachrichtigungen über neu verfügbare Hörspiele.",
+    "id" : "8",
+    "isFinished" : true,
+    "status" : "In Version 1.2.0 integriert",
+    "title" : "Benachrichtigungen"
   }
 ]
