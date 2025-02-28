@@ -1,5 +1,19 @@
 [
   {
+    "description" : "So wie aktuell „In Apple Music öffnen“ funktioniert ",
+    "id" : "27",
+    "isFinished" : false,
+    "status" : "Geplant",
+    "title" : "„In Spotify öffnen“"
+  },
+  {
+    "description" : "In Form von Sternen",
+    "id" : "26",
+    "isFinished" : false,
+    "status" : "Geplant",
+    "title" : "Eigene Bewertung zu Hörspielen"
+  },
+  {
     "description" : "CarPlay muss bei Apple beantragt werden. Nur wenige Apps können deshalb auf CarPlay verfügbar sein. ",
     "id" : "20",
     "isFinished" : false,
@@ -7,18 +21,18 @@
     "title" : "CarPlay"
   },
   {
-    "description" : "Wie lange hast du Hörspiele gehört?",
-    "id" : "10",
-    "isFinished" : false,
-    "status" : "Geplant",
-    "title" : "Statistiken"
-  },
-  {
     "description" : "Verbleibende Zeit und Wiedergabe-Controls auf dem Lockscreen",
     "id" : "16",
     "isFinished" : false,
     "status" : "Eventuell",
     "title" : "Live Activity"
+  },
+  {
+    "description" : "Wie lange hast du Hörspiele gehört?",
+    "id" : "10",
+    "isFinished" : false,
+    "status" : "Geplant",
+    "title" : "Statistiken"
   },
   {
     "description" : "In Form eines neuen Tabs mit einfachem Zugriff auf Serien und deren Hörspiele",
@@ -35,6 +49,13 @@
     "title" : "Ratings"
   },
   {
+    "description" : "Ermöglicht das Entdecken weiterer Serien basierend auf bereits hinzugefügten und generell beliebten Serien",
+    "id" : "24",
+    "isFinished" : false,
+    "status" : "Geplant",
+    "title" : "Weiterer Tab „Entdecken“"
+  },
+  {
     "description" : "Vorschläge für neue Hörspiele und einfacheres Weiterspielen",
     "id" : "17",
     "isFinished" : false,
@@ -47,13 +68,6 @@
     "isFinished" : false,
     "status" : "In Teilen integriert",
     "title" : "Unterstützung von Siri und Shortcuts"
-  },
-  {
-    "description" : "Ermöglicht das Entdecken weiterer Serien basierend auf bereits hinzugefügten und generell beliebten Serien",
-    "id" : "24",
-    "isFinished" : false,
-    "status" : "Geplant",
-    "title" : "Weiterer Tab „Entdecken“"
   },
   {
     "description" : "Wiedergabe-Geschwindigkeit auf bspw. 1,5x oder 2x erhöhen. ",
