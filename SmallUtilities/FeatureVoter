@@ -1,17 +1,10 @@
 [
   {
-    "description" : "So wie aktuell „In Apple Music öffnen“ funktioniert ",
-    "id" : "27",
+    "description" : "Alle Funktionen auf einem Apple TV",
+    "id" : "28",
     "isFinished" : false,
     "status" : "Geplant",
-    "title" : "„In Spotify öffnen“"
-  },
-  {
-    "description" : "In Form von Sternen",
-    "id" : "26",
-    "isFinished" : false,
-    "status" : "Geplant",
-    "title" : "Eigene Bewertung zu Hörspielen"
+    "title" : "Apple-TV App"
   },
   {
     "description" : "CarPlay muss bei Apple beantragt werden. Nur wenige Apps können deshalb auf CarPlay verfügbar sein. ",
@@ -70,18 +63,18 @@
     "title" : "Unterstützung von Siri und Shortcuts"
   },
   {
-    "description" : "Wiedergabe-Geschwindigkeit auf bspw. 1,5x oder 2x erhöhen. ",
-    "id" : "19",
-    "isFinished" : false,
-    "status" : "Geplant",
-    "title" : "Geschwindigkeit"
-  },
-  {
     "description" : "Einfache Wiedergabesteuerung",
     "id" : "22",
     "isFinished" : false,
     "status" : "Geplant",
     "title" : "Apple Watch App"
+  },
+  {
+    "description" : "Wiedergabe-Geschwindigkeit auf bspw. 1,5x oder 2x erhöhen. ",
+    "id" : "19",
+    "isFinished" : false,
+    "status" : "Geplant",
+    "title" : "Geschwindigkeit"
   },
   {
     "description" : "Alle Funktionen auch unter macOS",
@@ -96,6 +89,20 @@
     "isFinished" : false,
     "status" : "Geplant",
     "title" : "Wiedergabeliste"
+  },
+  {
+    "description" : "So wie aktuell „In Apple Music öffnen“ funktioniert ",
+    "id" : "27",
+    "isFinished" : false,
+    "status" : "Geplant",
+    "title" : "„In Spotify öffnen“"
+  },
+  {
+    "description" : "In Form von Sternen",
+    "id" : "26",
+    "isFinished" : false,
+    "status" : "Geplant",
+    "title" : "Eigene Bewertung zu Hörspielen"
   },
   {
     "description" : "Wiedergabe spielt bei kurzen Funklöchern weiter",
