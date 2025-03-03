@@ -1,16 +1,9 @@
 [
   {
-    "description" : "Alle Funktionen auf einem Apple TV",
-    "id" : "28",
-    "isFinished" : false,
-    "status" : "Geplant",
-    "title" : "Apple-TV App"
-  },
-  {
-    "description" : "CarPlay muss bei Apple beantragt werden. Nur wenige Apps können deshalb auf CarPlay verfügbar sein. ",
+    "description" : "Auswählen und Abspielen von Hörspielen über das Auto",
     "id" : "20",
     "isFinished" : false,
-    "status" : "Antrag genehmigt",
+    "status" : "Entwicklung läuft",
     "title" : "CarPlay"
   },
   {
@@ -91,11 +84,11 @@
     "title" : "Wiedergabeliste"
   },
   {
-    "description" : "So wie aktuell „In Apple Music öffnen“ funktioniert ",
-    "id" : "27",
+    "description" : "Alle Funktionen auf einem Apple TV",
+    "id" : "28",
     "isFinished" : false,
     "status" : "Geplant",
-    "title" : "„In Spotify öffnen“"
+    "title" : "Apple-TV App"
   },
   {
     "description" : "In Form von Sternen",
@@ -103,6 +96,13 @@
     "isFinished" : false,
     "status" : "Geplant",
     "title" : "Eigene Bewertung zu Hörspielen"
+  },
+  {
+    "description" : "So wie aktuell „In Apple Music öffnen“ funktioniert ",
+    "id" : "27",
+    "isFinished" : false,
+    "status" : "Geplant",
+    "title" : "„In Spotify öffnen“"
   },
   {
     "description" : "Wiedergabe spielt bei kurzen Funklöchern weiter",
