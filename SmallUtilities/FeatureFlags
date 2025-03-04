@@ -1,1 +1,7 @@
-
+[
+  {
+    "disableAfter" : 63113904000,
+    "enabledAfter" : 762893760,
+    "title" : "New Flag"
+  }
+]
