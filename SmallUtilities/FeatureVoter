@@ -1,5 +1,12 @@
 [
   {
+    "description" : "Den gesamten Prozess im Hintergrund ablaufen lassen und somit verstecken",
+    "id" : "29",
+    "isFinished" : false,
+    "status" : "Geplant",
+    "title" : "Einfacheres Hinzufügen neuer Serien"
+  },
+  {
     "description" : "Auswählen und Abspielen von Hörspielen über das Auto",
     "id" : "20",
     "isFinished" : false,
@@ -49,18 +56,18 @@
     "title" : "Widgets verbessern"
   },
   {
-    "description" : "Weitere Blöcke und Funktionen",
-    "id" : "5",
-    "isFinished" : false,
-    "status" : "In Teilen integriert",
-    "title" : "Unterstützung von Siri und Shortcuts"
-  },
-  {
     "description" : "Einfache Wiedergabesteuerung",
     "id" : "22",
     "isFinished" : false,
     "status" : "Geplant",
     "title" : "Apple Watch App"
+  },
+  {
+    "description" : "Weitere Blöcke und Funktionen",
+    "id" : "5",
+    "isFinished" : false,
+    "status" : "In Teilen integriert",
+    "title" : "Unterstützung von Siri und Shortcuts"
   },
   {
     "description" : "Wiedergabe-Geschwindigkeit auf bspw. 1,5x oder 2x erhöhen. ",
