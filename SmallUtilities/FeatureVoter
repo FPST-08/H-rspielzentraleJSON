@@ -1,5 +1,12 @@
 [
   {
+    "description" : "Mithilfe der Schlafdaten aus Health",
+    "id" : "31",
+    "isFinished" : false,
+    "status" : "Geplant",
+    "title" : "Zurückspringen zum Einschlafpunkt"
+  },
+  {
     "description" : "Die iPadOS-Version erstmal auf der Vision Pro. Bei genug Nutzern auch eine angepasste App",
     "id" : "30",
     "isFinished" : false,
