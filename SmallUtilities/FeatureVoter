@@ -1,10 +1,10 @@
 [
   {
-    "description" : "Den gesamten Prozess im Hintergrund ablaufen lassen und somit verstecken",
-    "id" : "29",
+    "description" : "Die iPadOS-Version erstmal auf der Vision Pro. Bei genug Nutzern auch eine angepasste App",
+    "id" : "30",
     "isFinished" : false,
-    "status" : "Geplant",
-    "title" : "Einfacheres Hinzufügen neuer Serien"
+    "status" : "Möglich",
+    "title" : "VisionOS-App"
   },
   {
     "description" : "Auswählen und Abspielen von Hörspielen über das Auto",
@@ -14,14 +14,14 @@
     "title" : "CarPlay"
   },
   {
-    "description" : "Verbleibende Zeit und Wiedergabe-Controls auf dem Lockscreen",
+    "description" : "Verbleibende Zeit auf dem Lockscreen",
     "id" : "16",
     "isFinished" : false,
     "status" : "Eventuell",
     "title" : "Live Activity"
   },
   {
-    "description" : "Wie lange hast du Hörspiele gehört?",
+    "description" : "Am Ende des Jahres ein Hörspielzentrale-Recap",
     "id" : "10",
     "isFinished" : false,
     "status" : "Geplant",
@@ -35,18 +35,18 @@
     "title" : "Bessere Übersicht über Serien"
   },
   {
-    "description" : "Die Bewertungen von rocky-beach.com direkt in der Hörspielansicht",
-    "id" : "9",
-    "isFinished" : false,
-    "status" : "Geplant",
-    "title" : "Ratings"
-  },
-  {
     "description" : "Ermöglicht das Entdecken weiterer Serien basierend auf bereits hinzugefügten und generell beliebten Serien",
     "id" : "24",
     "isFinished" : false,
     "status" : "Geplant",
     "title" : "Weiterer Tab „Entdecken“"
+  },
+  {
+    "description" : "Die Bewertungen von rocky-beach.com direkt in der Hörspielansicht",
+    "id" : "9",
+    "isFinished" : false,
+    "status" : "Geplant",
+    "title" : "Ratings"
   },
   {
     "description" : "Vorschläge für neue Hörspiele und einfacheres Weiterspielen",
@@ -77,18 +77,18 @@
     "title" : "Geschwindigkeit"
   },
   {
-    "description" : "Alle Funktionen auch unter macOS",
-    "id" : "23",
-    "isFinished" : false,
-    "status" : "Geplant",
-    "title" : "MacOS-App"
-  },
-  {
     "description" : "Spielt ein gewünschtes Hörspiel nach dem Beenden des vorherigen Hörspiels",
     "id" : "25",
     "isFinished" : false,
     "status" : "Geplant",
     "title" : "Wiedergabeliste"
+  },
+  {
+    "description" : "Alle Funktionen auch unter macOS",
+    "id" : "23",
+    "isFinished" : false,
+    "status" : "Geplant",
+    "title" : "MacOS-App"
   },
   {
     "description" : "Alle Funktionen auf einem Apple TV",
@@ -103,6 +103,13 @@
     "isFinished" : false,
     "status" : "Geplant",
     "title" : "Eigene Bewertung zu Hörspielen"
+  },
+  {
+    "description" : "Den gesamten Prozess im Hintergrund ablaufen lassen und somit verstecken",
+    "id" : "29",
+    "isFinished" : false,
+    "status" : "Geplant",
+    "title" : "Einfacheres Hinzufügen neuer Serien"
   },
   {
     "description" : "So wie aktuell „In Apple Music öffnen“ funktioniert ",
