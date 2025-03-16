@@ -1,23 +1,9 @@
 [
   {
-    "description" : "Mithilfe der Schlafdaten aus Health",
-    "id" : "31",
-    "isFinished" : false,
-    "status" : "Geplant",
-    "title" : "Zurückspringen zum Einschlafpunkt"
-  },
-  {
-    "description" : "Die iPadOS-Version erstmal auf der Vision Pro. Bei genug Nutzern auch eine angepasste App",
-    "id" : "30",
-    "isFinished" : false,
-    "status" : "Möglich",
-    "title" : "VisionOS-App"
-  },
-  {
     "description" : "Auswählen und Abspielen von Hörspielen über das Auto",
     "id" : "20",
     "isFinished" : false,
-    "status" : "Entwicklung läuft",
+    "status" : "Beta-Tester gesucht",
     "title" : "CarPlay"
   },
   {
@@ -124,6 +110,20 @@
     "isFinished" : false,
     "status" : "Geplant",
     "title" : "„In Spotify öffnen“"
+  },
+  {
+    "description" : "Mithilfe der Schlafdaten aus Health",
+    "id" : "31",
+    "isFinished" : false,
+    "status" : "Geplant",
+    "title" : "Zurückspringen zum Einschlafpunkt"
+  },
+  {
+    "description" : "Die iPadOS-Version erstmal auf der Vision Pro. Bei genug Nutzern auch eine angepasste App",
+    "id" : "30",
+    "isFinished" : false,
+    "status" : "Möglich",
+    "title" : "VisionOS-App"
   },
   {
     "description" : "Wiedergabe spielt bei kurzen Funklöchern weiter",
