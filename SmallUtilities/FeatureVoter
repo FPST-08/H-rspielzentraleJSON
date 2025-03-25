@@ -1,5 +1,12 @@
 [
   {
+    "description" : "Bspw. alle Hörspiele hinzuzufügen oder runterladen",
+    "id" : "32",
+    "isFinished" : false,
+    "status" : "Geplant",
+    "title" : "Einfacheres Anpassen der Apple Music Mediathek"
+  },
+  {
     "description" : "Auswählen und Abspielen von Hörspielen über das Auto",
     "id" : "20",
     "isFinished" : false,
@@ -91,25 +98,11 @@
     "title" : "Apple-TV App"
   },
   {
-    "description" : "In Form von Sternen",
-    "id" : "26",
-    "isFinished" : false,
-    "status" : "Geplant",
-    "title" : "Eigene Bewertung zu Hörspielen"
-  },
-  {
     "description" : "Den gesamten Prozess im Hintergrund ablaufen lassen und somit verstecken",
     "id" : "29",
     "isFinished" : false,
     "status" : "Geplant",
     "title" : "Einfacheres Hinzufügen neuer Serien"
-  },
-  {
-    "description" : "So wie aktuell „In Apple Music öffnen“ funktioniert ",
-    "id" : "27",
-    "isFinished" : false,
-    "status" : "Geplant",
-    "title" : "„In Spotify öffnen“"
   },
   {
     "description" : "Mithilfe der Schlafdaten aus Health",
@@ -119,11 +112,25 @@
     "title" : "Zurückspringen zum Einschlafpunkt"
   },
   {
+    "description" : "In Form von Sternen",
+    "id" : "26",
+    "isFinished" : false,
+    "status" : "Geplant",
+    "title" : "Eigene Bewertung zu Hörspielen"
+  },
+  {
     "description" : "Die iPadOS-Version erstmal auf der Vision Pro. Bei genug Nutzern auch eine angepasste App",
     "id" : "30",
     "isFinished" : false,
     "status" : "Möglich",
     "title" : "VisionOS-App"
+  },
+  {
+    "description" : "So wie aktuell „In Apple Music öffnen“ funktioniert ",
+    "id" : "27",
+    "isFinished" : false,
+    "status" : "Geplant",
+    "title" : "„In Spotify öffnen“"
   },
   {
     "description" : "Wiedergabe spielt bei kurzen Funklöchern weiter",
