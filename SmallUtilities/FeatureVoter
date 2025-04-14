@@ -1,12 +1,5 @@
 [
   {
-    "description" : "Die gesamten Daten der App exportieren oder importieren können",
-    "id" : "33",
-    "isFinished" : false,
-    "status" : "Geplant",
-    "title" : "Datei-Export"
-  },
-  {
     "description" : "Auswählen und Abspielen von Hörspielen über das Auto",
     "id" : "20",
     "isFinished" : false,
@@ -81,7 +74,7 @@
     "id" : "25",
     "isFinished" : false,
     "status" : "Geplant",
-    "title" : "Wiedergabeliste"
+    "title" : "Wiedergabeliste und AutoPlay"
   },
   {
     "description" : "Alle Funktionen auch unter macOS",
@@ -138,6 +131,13 @@
     "isFinished" : false,
     "status" : "Möglich",
     "title" : "VisionOS-App"
+  },
+  {
+    "description" : "Die gesamten Daten der App exportieren oder importieren können",
+    "id" : "33",
+    "isFinished" : false,
+    "status" : "Geplant",
+    "title" : "Datei-Export"
   },
   {
     "description" : "Wiedergabe spielt bei kurzen Funklöchern weiter",
