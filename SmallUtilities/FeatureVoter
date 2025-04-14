@@ -1,5 +1,12 @@
 [
   {
+    "description" : "Verlängern bis zum Ende eines Kapitels oder eigene Dauern/Uhrzeiten",
+    "id" : "34",
+    "isFinished" : false,
+    "status" : "Geplant",
+    "title" : "Intelligenter Sleep-Timer"
+  },
+  {
     "description" : "Auswählen und Abspielen von Hörspielen über das Auto",
     "id" : "20",
     "isFinished" : false,
