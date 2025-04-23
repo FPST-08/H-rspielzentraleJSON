@@ -1,5 +1,12 @@
 [
   {
+    "disableAfter" : 63113904000,
+    "enabledAfter" : 767092439.509141,
+    "id" : "FEEEB3DC-B3E2-4CBF-9DAA-491D7751A291",
+    "lockTitle" : false,
+    "title" : "PromptForBetaEnd_1_5_0"
+  },
+  {
     "disableAfter" : 764449200,
     "enabledAfter" : 763758000,
     "id" : "0B698873-CCEC-4B52-BD02-637807AE22A0",
