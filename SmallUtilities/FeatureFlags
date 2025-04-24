@@ -7,8 +7,8 @@
     "title" : "PromptForBetaEnd_1_5_0"
   },
   {
-    "disableAfter" : 764449200,
-    "enabledAfter" : 763758000,
+    "disableAfter" : 767397600,
+    "enabledAfter" : 767188800,
     "id" : "0B698873-CCEC-4B52-BD02-637807AE22A0",
     "lockTitle" : false,
     "title" : "CarPlayBetaTesterAcquisition"
