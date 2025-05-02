@@ -1,10 +1,10 @@
 [
   {
-    "description" : "Verlängern bis zum Ende eines Kapitels oder eigene Dauern/Uhrzeiten",
-    "id" : "34",
+    "description" : "Bestimmte Hörspiele in der gesamten App ausblenden",
+    "id" : "35",
     "isFinished" : false,
-    "status" : "Geplant",
-    "title" : "Intelligenter Sleep-Timer"
+    "status" : "Eventuell",
+    "title" : "Hörspiele ausblenden"
   },
   {
     "description" : "Auswählen und Abspielen von Hörspielen über das Auto",
@@ -147,6 +147,13 @@
     "title" : "Datei-Export"
   },
   {
+    "description" : "Verlängern bis zum Ende eines Kapitels oder eigene Dauern/Uhrzeiten",
+    "id" : "34",
+    "isFinished" : false,
+    "status" : "Geplant",
+    "title" : "Intelligenter Sleep-Timer"
+  },
+  {
     "description" : "Wiedergabe spielt bei kurzen Funklöchern weiter",
     "id" : "18",
     "isFinished" : true,
@@ -159,13 +166,6 @@
     "isFinished" : true,
     "status" : "Geplant ",
     "title" : "iPad-Version"
-  },
-  {
-    "description" : "",
-    "id" : "15",
-    "isFinished" : true,
-    "status" : "Integriert",
-    "title" : "Neues App-Icon"
   },
   {
     "description" : "Optionale Benachrichtigungen über neu verfügbare Hörspiele.",
