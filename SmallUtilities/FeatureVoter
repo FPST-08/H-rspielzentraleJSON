@@ -1,52 +1,10 @@
 [
   {
-    "description" : "Bestimmte Hörspiele in der gesamten App ausblenden",
-    "id" : "35",
-    "isFinished" : false,
-    "status" : "Eventuell",
-    "title" : "Hörspiele ausblenden"
-  },
-  {
     "description" : "Auswählen und Abspielen von Hörspielen über das Auto",
     "id" : "20",
     "isFinished" : false,
     "status" : "Wird getestet",
     "title" : "CarPlay"
-  },
-  {
-    "description" : "Verbleibende Zeit auf dem Lockscreen",
-    "id" : "16",
-    "isFinished" : false,
-    "status" : "Eventuell",
-    "title" : "Live Activity"
-  },
-  {
-    "description" : "Am Ende des Jahres ein Hörspielzentrale-Recap",
-    "id" : "10",
-    "isFinished" : false,
-    "status" : "Geplant",
-    "title" : "Statistiken"
-  },
-  {
-    "description" : "In Form eines neuen Tabs mit einfachem Zugriff auf Serien und deren Hörspiele",
-    "id" : "21",
-    "isFinished" : false,
-    "status" : "Weitere Optimierungen",
-    "title" : "Bessere Übersicht über Serien"
-  },
-  {
-    "description" : "Ermöglicht das Entdecken weiterer Serien basierend auf bereits hinzugefügten und generell beliebten Serien",
-    "id" : "24",
-    "isFinished" : false,
-    "status" : "Geplant",
-    "title" : "Weiterer Tab „Entdecken“"
-  },
-  {
-    "description" : "Die Bewertungen von rocky-beach.com direkt in der Hörspielansicht",
-    "id" : "9",
-    "isFinished" : false,
-    "status" : "Geplant",
-    "title" : "Ratings"
   },
   {
     "description" : "Vorschläge für neue Hörspiele und einfacheres Weiterspielen",
@@ -63,11 +21,18 @@
     "title" : "Apple Watch App"
   },
   {
-    "description" : "Weitere Blöcke und Funktionen",
-    "id" : "5",
+    "description" : "So wie aktuell „In Apple Music öffnen“ funktioniert ",
+    "id" : "27",
     "isFinished" : false,
-    "status" : "In Teilen integriert",
-    "title" : "Unterstützung von Siri und Shortcuts"
+    "status" : "Geplant",
+    "title" : "„In Spotify öffnen“"
+  },
+  {
+    "description" : "Am Ende des Jahres ein Hörspielzentrale-Recap",
+    "id" : "10",
+    "isFinished" : false,
+    "status" : "Geplant",
+    "title" : "Statistiken"
   },
   {
     "description" : "Wiedergabe-Geschwindigkeit auf bspw. 1,5x oder 2x erhöhen. ",
@@ -75,62 +40,6 @@
     "isFinished" : false,
     "status" : "Geplant",
     "title" : "Geschwindigkeit"
-  },
-  {
-    "description" : "Spielt ein gewünschtes Hörspiel nach dem Beenden des vorherigen Hörspiels",
-    "id" : "25",
-    "isFinished" : false,
-    "status" : "Geplant",
-    "title" : "Wiedergabeliste und AutoPlay"
-  },
-  {
-    "description" : "Alle Funktionen auch unter macOS",
-    "id" : "23",
-    "isFinished" : false,
-    "status" : "Geplant",
-    "title" : "MacOS-App"
-  },
-  {
-    "description" : "Mithilfe der Schlafdaten aus Health",
-    "id" : "31",
-    "isFinished" : false,
-    "status" : "Geplant",
-    "title" : "Zurückspringen zum Einschlafpunkt"
-  },
-  {
-    "description" : "Alle Funktionen auf einem Apple TV",
-    "id" : "28",
-    "isFinished" : false,
-    "status" : "Geplant",
-    "title" : "Apple-TV App"
-  },
-  {
-    "description" : "Den gesamten Prozess im Hintergrund ablaufen lassen und somit verstecken",
-    "id" : "29",
-    "isFinished" : false,
-    "status" : "Geplant",
-    "title" : "Einfacheres Hinzufügen neuer Serien"
-  },
-  {
-    "description" : "In Form von Sternen",
-    "id" : "26",
-    "isFinished" : false,
-    "status" : "Geplant",
-    "title" : "Eigene Bewertung zu Hörspielen"
-  },
-  {
-    "description" : "Bspw. alle Hörspiele hinzuzufügen oder eingeschränktes runterladen",
-    "id" : "32",
-    "isFinished" : false,
-    "status" : "Geplant",
-    "title" : "Einfacheres Anpassen der Apple Music Mediathek"
-  },
-  {
-    "description" : "So wie aktuell „In Apple Music öffnen“ funktioniert ",
-    "id" : "27",
-    "isFinished" : false,
-    "status" : "Geplant",
-    "title" : "„In Spotify öffnen“"
   },
   {
     "description" : "Die iPadOS-Version erstmal auf der Vision Pro. Bei genug Nutzern auch eine angepasste App",
@@ -147,6 +56,76 @@
     "title" : "Datei-Export"
   },
   {
+    "description" : "Mithilfe der Schlafdaten aus Health",
+    "id" : "31",
+    "isFinished" : false,
+    "status" : "Geplant",
+    "title" : "Zurückspringen zum Einschlafpunkt"
+  },
+  {
+    "description" : "Bspw. alle Hörspiele hinzuzufügen oder eingeschränktes runterladen",
+    "id" : "32",
+    "isFinished" : false,
+    "status" : "Geplant",
+    "title" : "Einfacheres Anpassen der Apple Music Mediathek"
+  },
+  {
+    "description" : "Alle Funktionen auch unter macOS",
+    "id" : "23",
+    "isFinished" : false,
+    "status" : "Geplant",
+    "title" : "MacOS-App"
+  },
+  {
+    "description" : "Weitere Blöcke und Funktionen",
+    "id" : "5",
+    "isFinished" : false,
+    "status" : "In Teilen integriert",
+    "title" : "Unterstützung von Siri und Shortcuts"
+  },
+  {
+    "description" : "Ermöglicht das Entdecken weiterer Serien basierend auf bereits hinzugefügten und generell beliebten Serien",
+    "id" : "24",
+    "isFinished" : false,
+    "status" : "Geplant",
+    "title" : "Weiterer Tab „Entdecken“"
+  },
+  {
+    "description" : "Spielt ein gewünschtes Hörspiel nach dem Beenden des vorherigen Hörspiels",
+    "id" : "25",
+    "isFinished" : false,
+    "status" : "Geplant",
+    "title" : "Wiedergabeliste und AutoPlay"
+  },
+  {
+    "description" : "Alle Funktionen auf einem Apple TV",
+    "id" : "28",
+    "isFinished" : false,
+    "status" : "Geplant",
+    "title" : "Apple-TV App"
+  },
+  {
+    "description" : "In Form von Sternen",
+    "id" : "26",
+    "isFinished" : false,
+    "status" : "Geplant",
+    "title" : "Eigene Bewertung zu Hörspielen"
+  },
+  {
+    "description" : "Verbleibende Zeit auf dem Lockscreen",
+    "id" : "16",
+    "isFinished" : false,
+    "status" : "Eventuell",
+    "title" : "Live Activity"
+  },
+  {
+    "description" : "Die Bewertungen von rocky-beach.com direkt in der Hörspielansicht",
+    "id" : "9",
+    "isFinished" : false,
+    "status" : "Geplant",
+    "title" : "Ratings"
+  },
+  {
     "description" : "Verlängern bis zum Ende eines Kapitels oder eigene Dauern/Uhrzeiten",
     "id" : "34",
     "isFinished" : false,
@@ -154,18 +133,11 @@
     "title" : "Intelligenter Sleep-Timer"
   },
   {
-    "description" : "Wiedergabe spielt bei kurzen Funklöchern weiter",
-    "id" : "18",
-    "isFinished" : true,
-    "status" : "Teil des nächsten Updates",
-    "title" : "Offline-Modus"
-  },
-  {
-    "description" : "Weitere Optimierungen",
-    "id" : "6",
-    "isFinished" : true,
-    "status" : "Geplant ",
-    "title" : "iPad-Version"
+    "description" : "Bestimmte Hörspiele in der gesamten App ausblenden",
+    "id" : "35",
+    "isFinished" : false,
+    "status" : "Eventuell",
+    "title" : "Hörspiele ausblenden"
   },
   {
     "description" : "Optionale Benachrichtigungen über neu verfügbare Hörspiele.",
@@ -173,5 +145,12 @@
     "isFinished" : true,
     "status" : "In Version 1.2.0 integriert",
     "title" : "Benachrichtigungen"
+  },
+  {
+    "description" : "Wiedergabe spielt bei kurzen Funklöchern weiter",
+    "id" : "18",
+    "isFinished" : true,
+    "status" : "Teil des nächsten Updates",
+    "title" : "Offline-Modus"
   }
 ]
