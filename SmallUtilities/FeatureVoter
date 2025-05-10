@@ -1,16 +1,9 @@
 [
   {
-    "description" : "Auswählen und Abspielen von Hörspielen über das Auto",
-    "id" : "20",
-    "isFinished" : true,
-    "status" : "Wird getestet",
-    "title" : "CarPlay"
-  },
-  {
     "description" : "Verbleibende Zeit auf dem Lockscreen",
     "id" : "16",
     "isFinished" : false,
-    "status" : "Eventuell",
+    "status" : "Geplant für Version 1.6.0",
     "title" : "Live Activity"
   },
   {
@@ -49,18 +42,18 @@
     "title" : "Ratings"
   },
   {
-    "description" : "Mithilfe der Schlafdaten aus Health",
-    "id" : "31",
-    "isFinished" : false,
-    "status" : "Geplant",
-    "title" : "Zurückspringen zum Einschlafpunkt"
-  },
-  {
     "description" : "Vorschläge für neue Hörspiele und einfacheres Weiterspielen",
     "id" : "17",
     "isFinished" : false,
     "status" : "In Teilen verfügbar",
     "title" : "Widgets verbessern"
+  },
+  {
+    "description" : "Mithilfe der Schlafdaten aus Health",
+    "id" : "31",
+    "isFinished" : false,
+    "status" : "Geplant",
+    "title" : "Zurückspringen zum Einschlafpunkt"
   },
   {
     "description" : "In Form von Sternen",
@@ -133,17 +126,24 @@
     "title" : "Intelligenter Sleep-Timer"
   },
   {
+    "description" : "Auswählen und Abspielen von Hörspielen über das Auto",
+    "id" : "20",
+    "isFinished" : true,
+    "status" : "Integriert",
+    "title" : "CarPlay"
+  },
+  {
     "description" : "Wiedergabe spielt bei kurzen Funklöchern weiter",
     "id" : "18",
     "isFinished" : true,
-    "status" : "Teil des nächsten Updates",
+    "status" : "Integriert",
     "title" : "Offline-Modus"
   },
   {
     "description" : "Optionale Benachrichtigungen über neu verfügbare Hörspiele.",
     "id" : "8",
     "isFinished" : true,
-    "status" : "In Version 1.2.0 integriert",
+    "status" : "Integriert",
     "title" : "Benachrichtigungen"
   }
 ]
