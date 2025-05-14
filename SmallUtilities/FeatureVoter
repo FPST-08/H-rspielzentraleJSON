@@ -1,5 +1,12 @@
 [
   {
+    "description" : "Ungewollte Hörspiele einer Serie entfernen",
+    "id" : "35",
+    "isFinished" : false,
+    "status" : "Geplant",
+    "title" : "Hörspiele löschen"
+  },
+  {
     "description" : "Verbleibende Zeit auf dem Lockscreen",
     "id" : "16",
     "isFinished" : false,
@@ -42,18 +49,18 @@
     "title" : "Ratings"
   },
   {
-    "description" : "Vorschläge für neue Hörspiele und einfacheres Weiterspielen",
-    "id" : "17",
-    "isFinished" : false,
-    "status" : "In Teilen verfügbar",
-    "title" : "Widgets verbessern"
-  },
-  {
     "description" : "Mithilfe der Schlafdaten aus Health",
     "id" : "31",
     "isFinished" : false,
     "status" : "Geplant",
     "title" : "Zurückspringen zum Einschlafpunkt"
+  },
+  {
+    "description" : "Vorschläge für neue Hörspiele und einfacheres Weiterspielen",
+    "id" : "17",
+    "isFinished" : false,
+    "status" : "In Teilen verfügbar",
+    "title" : "Widgets verbessern"
   },
   {
     "description" : "In Form von Sternen",
@@ -70,18 +77,18 @@
     "title" : "MacOS-App"
   },
   {
-    "description" : "Alle Funktionen auf einem Apple TV",
-    "id" : "28",
-    "isFinished" : false,
-    "status" : "Geplant",
-    "title" : "Apple-TV App"
-  },
-  {
     "description" : "Bspw. alle Hörspiele hinzuzufügen oder eingeschränktes runterladen",
     "id" : "32",
     "isFinished" : false,
     "status" : "Geplant",
     "title" : "Einfacheres Anpassen der Apple Music Mediathek"
+  },
+  {
+    "description" : "Alle Funktionen auf einem Apple TV",
+    "id" : "28",
+    "isFinished" : false,
+    "status" : "Geplant",
+    "title" : "Apple-TV App"
   },
   {
     "description" : "Weitere Blöcke und Funktionen",
@@ -133,17 +140,17 @@
     "title" : "CarPlay"
   },
   {
-    "description" : "Wiedergabe spielt bei kurzen Funklöchern weiter",
-    "id" : "18",
-    "isFinished" : true,
-    "status" : "Integriert",
-    "title" : "Offline-Modus"
-  },
-  {
     "description" : "Optionale Benachrichtigungen über neu verfügbare Hörspiele.",
     "id" : "8",
     "isFinished" : true,
     "status" : "Integriert",
     "title" : "Benachrichtigungen"
+  },
+  {
+    "description" : "Wiedergabe spielt bei kurzen Funklöchern weiter",
+    "id" : "18",
+    "isFinished" : true,
+    "status" : "Integriert",
+    "title" : "Offline-Modus"
   }
 ]
