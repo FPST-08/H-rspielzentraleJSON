@@ -1,12 +1,5 @@
 [
   {
-    "description" : "Ungewollte Hörspiele einer Serie entfernen",
-    "id" : "35",
-    "isFinished" : false,
-    "status" : "Geplant",
-    "title" : "Hörspiele löschen"
-  },
-  {
     "description" : "Verbleibende Zeit auf dem Lockscreen",
     "id" : "16",
     "isFinished" : false,
@@ -19,13 +12,6 @@
     "isFinished" : false,
     "status" : "Geplant",
     "title" : "Statistiken"
-  },
-  {
-    "description" : "Einfache Wiedergabesteuerung",
-    "id" : "22",
-    "isFinished" : false,
-    "status" : "Geplant",
-    "title" : "Apple Watch App"
   },
   {
     "description" : "Spielt ein gewünschtes Hörspiel nach dem Beenden des vorherigen Hörspiels",
@@ -42,13 +28,6 @@
     "title" : "Weiterer Tab „Entdecken“"
   },
   {
-    "description" : "Die Bewertungen von rocky-beach.com direkt in der Hörspielansicht",
-    "id" : "9",
-    "isFinished" : false,
-    "status" : "Geplant",
-    "title" : "Ratings"
-  },
-  {
     "description" : "Mithilfe der Schlafdaten aus Health",
     "id" : "31",
     "isFinished" : false,
@@ -56,11 +35,25 @@
     "title" : "Zurückspringen zum Einschlafpunkt"
   },
   {
+    "description" : "Die Bewertungen von rocky-beach.com direkt in der Hörspielansicht",
+    "id" : "9",
+    "isFinished" : false,
+    "status" : "Geplant",
+    "title" : "Ratings"
+  },
+  {
     "description" : "Vorschläge für neue Hörspiele und einfacheres Weiterspielen",
     "id" : "17",
     "isFinished" : false,
     "status" : "In Teilen verfügbar",
     "title" : "Widgets verbessern"
+  },
+  {
+    "description" : "Bspw. alle Hörspiele hinzuzufügen oder eingeschränktes runterladen",
+    "id" : "32",
+    "isFinished" : false,
+    "status" : "Geplant",
+    "title" : "Einfacheres Anpassen der Apple Music Mediathek"
   },
   {
     "description" : "In Form von Sternen",
@@ -77,13 +70,6 @@
     "title" : "MacOS-App"
   },
   {
-    "description" : "Bspw. alle Hörspiele hinzuzufügen oder eingeschränktes runterladen",
-    "id" : "32",
-    "isFinished" : false,
-    "status" : "Geplant",
-    "title" : "Einfacheres Anpassen der Apple Music Mediathek"
-  },
-  {
     "description" : "Alle Funktionen auf einem Apple TV",
     "id" : "28",
     "isFinished" : false,
@@ -96,6 +82,13 @@
     "isFinished" : false,
     "status" : "In Teilen integriert",
     "title" : "Unterstützung von Siri und Shortcuts"
+  },
+  {
+    "description" : "Die gesamten Daten der App exportieren oder importieren können",
+    "id" : "33",
+    "isFinished" : false,
+    "status" : "Geplant",
+    "title" : "Datei-Export"
   },
   {
     "description" : "So wie aktuell „In Apple Music öffnen“ funktioniert ",
@@ -112,11 +105,11 @@
     "title" : "VisionOS-App"
   },
   {
-    "description" : "Die gesamten Daten der App exportieren oder importieren können",
-    "id" : "33",
+    "description" : "Ungewollte Hörspiele einer Serie entfernen",
+    "id" : "35",
     "isFinished" : false,
     "status" : "Geplant",
-    "title" : "Datei-Export"
+    "title" : "Hörspiele löschen"
   },
   {
     "description" : "Wiedergabe-Geschwindigkeit auf bspw. 1,5x oder 2x erhöhen. ",
