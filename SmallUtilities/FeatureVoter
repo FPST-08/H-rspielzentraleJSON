@@ -3,7 +3,7 @@
     "description" : "Verbleibende Zeit auf dem Lockscreen",
     "id" : "16",
     "isFinished" : false,
-    "status" : "Geplant für Version 1.6.0",
+    "status" : "Wird aktuell getestet",
     "title" : "Live Activity"
   },
   {
@@ -56,18 +56,18 @@
     "title" : "Einfacheres Anpassen der Apple Music Mediathek"
   },
   {
-    "description" : "In Form von Sternen",
-    "id" : "26",
-    "isFinished" : false,
-    "status" : "Geplant",
-    "title" : "Eigene Bewertung zu Hörspielen"
-  },
-  {
     "description" : "Alle Funktionen auch unter macOS",
     "id" : "23",
     "isFinished" : false,
     "status" : "Geplant",
     "title" : "MacOS-App"
+  },
+  {
+    "description" : "In Form von Sternen",
+    "id" : "26",
+    "isFinished" : false,
+    "status" : "Geplant",
+    "title" : "Eigene Bewertung zu Hörspielen"
   },
   {
     "description" : "Alle Funktionen auf einem Apple TV",
@@ -84,6 +84,13 @@
     "title" : "Unterstützung von Siri und Shortcuts"
   },
   {
+    "description" : "Ungewollte Hörspiele einer Serie entfernen",
+    "id" : "35",
+    "isFinished" : false,
+    "status" : "Geplant",
+    "title" : "Hörspiele löschen"
+  },
+  {
     "description" : "Die gesamten Daten der App exportieren oder importieren können",
     "id" : "33",
     "isFinished" : false,
@@ -91,11 +98,11 @@
     "title" : "Datei-Export"
   },
   {
-    "description" : "So wie aktuell „In Apple Music öffnen“ funktioniert ",
-    "id" : "27",
+    "description" : "Wiedergabe-Geschwindigkeit auf bspw. 1,5x oder 2x erhöhen. ",
+    "id" : "19",
     "isFinished" : false,
     "status" : "Geplant",
-    "title" : "„In Spotify öffnen“"
+    "title" : "Geschwindigkeit"
   },
   {
     "description" : "Die iPadOS-Version erstmal auf der Vision Pro. Bei genug Nutzern auch eine angepasste App",
@@ -105,18 +112,11 @@
     "title" : "VisionOS-App"
   },
   {
-    "description" : "Ungewollte Hörspiele einer Serie entfernen",
-    "id" : "35",
+    "description" : "So wie aktuell „In Apple Music öffnen“ funktioniert ",
+    "id" : "27",
     "isFinished" : false,
     "status" : "Geplant",
-    "title" : "Hörspiele löschen"
-  },
-  {
-    "description" : "Wiedergabe-Geschwindigkeit auf bspw. 1,5x oder 2x erhöhen. ",
-    "id" : "19",
-    "isFinished" : false,
-    "status" : "Geplant",
-    "title" : "Geschwindigkeit"
+    "title" : "„In Spotify öffnen“"
   },
   {
     "description" : "Verlängern bis zum Ende eines Kapitels oder eigene Dauern/Uhrzeiten",
