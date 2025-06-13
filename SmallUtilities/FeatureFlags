@@ -1,7 +1,7 @@
 [
   {
     "disableAfter" : 63113904000,
-    "enabledAfter" : 771717600,
+    "enabledAfter" : 771804000,
     "id" : "FEEEB3DC-B3E2-4CBF-9DAA-491D7751A291",
     "lockTitle" : true,
     "title" : "PromptForBetaEnd_1_5_0"
