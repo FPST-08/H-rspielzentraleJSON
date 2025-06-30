@@ -1,10 +1,10 @@
 [
   {
-    "description" : "Dadurch würde man leichter wieder ins Hörspiel finden",
-    "id" : "36",
+    "description" : "Zum eigenen Ordnen von Hörspielen",
+    "id" : "37",
     "isFinished" : false,
     "status" : "Geplant",
-    "title" : "Wiedergabepunkt nach hinten verschieben"
+    "title" : "Listen"
   },
   {
     "description" : "Verbleibende Zeit auf dem Lockscreen",
@@ -21,13 +21,6 @@
     "title" : "Statistiken"
   },
   {
-    "description" : "Spielt ein gewünschtes Hörspiel nach dem Beenden des vorherigen Hörspiels",
-    "id" : "25",
-    "isFinished" : false,
-    "status" : "Geplant",
-    "title" : "Wiedergabeliste und AutoPlay"
-  },
-  {
     "description" : "Ermöglicht das Entdecken weiterer Serien basierend auf bereits hinzugefügten und generell beliebten Serien",
     "id" : "24",
     "isFinished" : false,
@@ -35,11 +28,25 @@
     "title" : "Weiterer Tab „Entdecken“"
   },
   {
+    "description" : "Spielt ein gewünschtes Hörspiel nach dem Beenden des vorherigen Hörspiels",
+    "id" : "25",
+    "isFinished" : false,
+    "status" : "Geplant",
+    "title" : "Wiedergabeliste und AutoPlay"
+  },
+  {
     "description" : "Mithilfe der Schlafdaten aus Health",
     "id" : "31",
     "isFinished" : false,
     "status" : "Geplant",
     "title" : "Zurückspringen zum Einschlafpunkt"
+  },
+  {
+    "description" : "Bspw. alle Hörspiele hinzuzufügen oder eingeschränktes runterladen",
+    "id" : "32",
+    "isFinished" : false,
+    "status" : "Geplant",
+    "title" : "Einfacheres Anpassen der Apple Music Mediathek"
   },
   {
     "description" : "Die Bewertungen von rocky-beach.com direkt in der Hörspielansicht",
@@ -54,13 +61,6 @@
     "isFinished" : false,
     "status" : "In Teilen verfügbar",
     "title" : "Widgets verbessern"
-  },
-  {
-    "description" : "Bspw. alle Hörspiele hinzuzufügen oder eingeschränktes runterladen",
-    "id" : "32",
-    "isFinished" : false,
-    "status" : "Geplant",
-    "title" : "Einfacheres Anpassen der Apple Music Mediathek"
   },
   {
     "description" : "Alle Funktionen auch unter macOS",
@@ -105,13 +105,6 @@
     "title" : "Datei-Export"
   },
   {
-    "description" : "So wie aktuell „In Apple Music öffnen“ funktioniert ",
-    "id" : "27",
-    "isFinished" : false,
-    "status" : "Geplant",
-    "title" : "„In Spotify öffnen“"
-  },
-  {
     "description" : "Wiedergabe-Geschwindigkeit auf bspw. 1,5x oder 2x erhöhen. ",
     "id" : "19",
     "isFinished" : false,
@@ -119,11 +112,25 @@
     "title" : "Geschwindigkeit"
   },
   {
+    "description" : "So wie aktuell „In Apple Music öffnen“ funktioniert ",
+    "id" : "27",
+    "isFinished" : false,
+    "status" : "Geplant",
+    "title" : "„In Spotify öffnen“"
+  },
+  {
     "description" : "Die iPadOS-Version erstmal auf der Vision Pro. Bei genug Nutzern auch eine angepasste App",
     "id" : "30",
     "isFinished" : false,
     "status" : "Möglich",
     "title" : "VisionOS-App"
+  },
+  {
+    "description" : "Dadurch würde man leichter wieder ins Hörspiel finden",
+    "id" : "36",
+    "isFinished" : false,
+    "status" : "Geplant",
+    "title" : "Wiedergabepunkt nach hinten verschieben"
   },
   {
     "description" : "Verlängern bis zum Ende eines Kapitels oder eigene Dauern/Uhrzeiten",
@@ -140,17 +147,17 @@
     "title" : "CarPlay"
   },
   {
-    "description" : "Wiedergabe spielt bei kurzen Funklöchern weiter",
-    "id" : "18",
-    "isFinished" : true,
-    "status" : "Integriert",
-    "title" : "Offline-Modus"
-  },
-  {
     "description" : "Optionale Benachrichtigungen über neu verfügbare Hörspiele.",
     "id" : "8",
     "isFinished" : true,
     "status" : "Integriert",
     "title" : "Benachrichtigungen"
+  },
+  {
+    "description" : "Wiedergabe spielt bei kurzen Funklöchern weiter",
+    "id" : "18",
+    "isFinished" : true,
+    "status" : "Integriert",
+    "title" : "Offline-Modus"
   }
 ]
