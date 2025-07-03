@@ -3,18 +3,36 @@
     "description" : "Verbleibende Zeit auf dem Lockscreen",
     "id" : "16",
     "isFinished" : false,
-    "localizedDescription" : {
-      "de" : "Wird getestet",
-      "en" : "In Development"
-    },
-    "localizedStatus" : {
-      "de" : "Verbleibende Zeit auf dem Lockscreen",
-      "en" : "Remaining time on the lockscreen"
-    },
-    "localizedTitle" : {
-      "de" : "Live Activity",
-      "en" : "Live Activity"
-    },
+    "localizedDescription" : [
+      {
+        "language" : "de",
+        "value" : "Wird getestet"
+      },
+      {
+        "language" : "en",
+        "value" : "In Development"
+      }
+    ],
+    "localizedStatus" : [
+      {
+        "language" : "en",
+        "value" : "Remaining time on the lockscreen"
+      },
+      {
+        "language" : "de",
+        "value" : "Verbleibende Zeit auf dem Lockscreen"
+      }
+    ],
+    "localizedTitle" : [
+      {
+        "language" : "de",
+        "value" : "Live Activity"
+      },
+      {
+        "language" : "en",
+        "value" : "Live Activity"
+      }
+    ],
     "status" : "Wird aktuell getestet",
     "title" : "Live Activity"
   },
@@ -22,18 +40,36 @@
     "description" : "Am Ende des Jahres ein Hörspielzentrale-Recap",
     "id" : "10",
     "isFinished" : false,
-    "localizedDescription" : {
-      "de" : "Geplant",
-      "en" : "Planned"
-    },
-    "localizedStatus" : {
-      "de" : "Hörspielzentrale-Recap am Ende des Jahres",
-      "en" : "Recap at the end of the year"
-    },
-    "localizedTitle" : {
-      "de" : "Statistiken",
-      "en" : "Statistics "
-    },
+    "localizedDescription" : [
+      {
+        "language" : "de",
+        "value" : "Geplant"
+      },
+      {
+        "language" : "en",
+        "value" : "Planned"
+      }
+    ],
+    "localizedStatus" : [
+      {
+        "language" : "en",
+        "value" : "Recap at the end of the year"
+      },
+      {
+        "language" : "de",
+        "value" : "Hörspielzentrale-Recap am Ende des Jahres"
+      }
+    ],
+    "localizedTitle" : [
+      {
+        "language" : "de",
+        "value" : "Statistiken"
+      },
+      {
+        "language" : "en",
+        "value" : "Statistics "
+      }
+    ],
     "status" : "Geplant",
     "title" : "Statistiken"
   },
@@ -41,18 +77,36 @@
     "description" : "Allows you to discover more series based on previously added and generally popular series",
     "id" : "24",
     "isFinished" : false,
-    "localizedDescription" : {
-      "de" : "Ermöglicht das Entdecken weiterer Serien basierend auf bereits hinzugefügten und generell beliebten Serien",
-      "en" : "Allows you to discover more series based on previously added and generally popular series"
-    },
-    "localizedStatus" : {
-      "de" : "Geplant",
-      "en" : "Planned"
-    },
-    "localizedTitle" : {
-      "de" : "Weiterer tab \"Entdecken",
-      "en" : "Another tab \"Discover\""
-    },
+    "localizedDescription" : [
+      {
+        "language" : "de",
+        "value" : "Ermöglicht das Entdecken weiterer Serien basierend auf bereits hinzugefügten und generell beliebten Serien"
+      },
+      {
+        "language" : "en",
+        "value" : "Allows you to discover more series based on previously added and generally popular series"
+      }
+    ],
+    "localizedStatus" : [
+      {
+        "language" : "en",
+        "value" : "Planned"
+      },
+      {
+        "language" : "de",
+        "value" : "Geplant"
+      }
+    ],
+    "localizedTitle" : [
+      {
+        "language" : "de",
+        "value" : "Weiterer tab \"Entdecken"
+      },
+      {
+        "language" : "en",
+        "value" : "Another tab \"Discover\""
+      }
+    ],
     "status" : "Planned",
     "title" : "Another tab \"Discover\""
   },
@@ -60,18 +114,36 @@
     "description" : "Plays a desired audio drama after finishing the previous audio drama",
     "id" : "25",
     "isFinished" : false,
-    "localizedDescription" : {
-      "de" : "Spielt ein gewünschtes Hörspiel nach dem Beenden des vorherigen Hörspiels",
-      "en" : "Plays a desired audio drama after finishing the previous audio drama"
-    },
-    "localizedStatus" : {
-      "de" : "Geplant",
-      "en" : "Planned"
-    },
-    "localizedTitle" : {
-      "de" : "Warteschlange und AutoPlay",
-      "en" : "Queue and AutoPlay"
-    },
+    "localizedDescription" : [
+      {
+        "language" : "en",
+        "value" : "Plays a desired audio drama after finishing the previous audio drama"
+      },
+      {
+        "language" : "de",
+        "value" : "Spielt ein gewünschtes Hörspiel nach dem Beenden des vorherigen Hörspiels"
+      }
+    ],
+    "localizedStatus" : [
+      {
+        "language" : "en",
+        "value" : "Planned"
+      },
+      {
+        "language" : "de",
+        "value" : "Geplant"
+      }
+    ],
+    "localizedTitle" : [
+      {
+        "language" : "de",
+        "value" : "Warteschlange und AutoPlay"
+      },
+      {
+        "language" : "en",
+        "value" : "Queue and AutoPlay"
+      }
+    ],
     "status" : "Planned",
     "title" : "Queue and AutoPlay"
   },
@@ -79,18 +151,36 @@
     "description" : "Using the sleep data in Health",
     "id" : "31",
     "isFinished" : false,
-    "localizedDescription" : {
-      "de" : "Mithilfe der Schlafdaten aus Health",
-      "en" : "Using the sleep data in Health"
-    },
-    "localizedStatus" : {
-      "de" : "Geplant",
-      "en" : "Planned"
-    },
-    "localizedTitle" : {
-      "de" : "Zurückspringen zum Einschlafpunkt",
-      "en" : "Jump back to point of falling asleep"
-    },
+    "localizedDescription" : [
+      {
+        "language" : "en",
+        "value" : "Using the sleep data in Health"
+      },
+      {
+        "language" : "de",
+        "value" : "Mithilfe der Schlafdaten aus Health"
+      }
+    ],
+    "localizedStatus" : [
+      {
+        "language" : "en",
+        "value" : "Planned"
+      },
+      {
+        "language" : "de",
+        "value" : "Geplant"
+      }
+    ],
+    "localizedTitle" : [
+      {
+        "language" : "de",
+        "value" : "Zurückspringen zum Einschlafpunkt"
+      },
+      {
+        "language" : "en",
+        "value" : "Jump back to point of falling asleep"
+      }
+    ],
     "status" : "Planned",
     "title" : "Jump back to point of falling asleep"
   },
@@ -98,15 +188,15 @@
     "description" : "Die Bewertungen von rocky-beach.com direkt in der Hörspielansicht",
     "id" : "9",
     "isFinished" : false,
-    "localizedDescription" : {
+    "localizedDescription" : [
 
-    },
-    "localizedStatus" : {
+    ],
+    "localizedStatus" : [
 
-    },
-    "localizedTitle" : {
+    ],
+    "localizedTitle" : [
 
-    },
+    ],
     "status" : "Geplant",
     "title" : "Ratings"
   },
@@ -114,15 +204,15 @@
     "description" : "Bspw. alle Hörspiele hinzuzufügen oder eingeschränktes runterladen",
     "id" : "32",
     "isFinished" : false,
-    "localizedDescription" : {
+    "localizedDescription" : [
 
-    },
-    "localizedStatus" : {
+    ],
+    "localizedStatus" : [
 
-    },
-    "localizedTitle" : {
+    ],
+    "localizedTitle" : [
 
-    },
+    ],
     "status" : "Geplant",
     "title" : "Einfacheres Anpassen der Apple Music Mediathek"
   },
@@ -130,15 +220,15 @@
     "description" : "Vorschläge für neue Hörspiele und einfacheres Weiterspielen",
     "id" : "17",
     "isFinished" : false,
-    "localizedDescription" : {
+    "localizedDescription" : [
 
-    },
-    "localizedStatus" : {
+    ],
+    "localizedStatus" : [
 
-    },
-    "localizedTitle" : {
+    ],
+    "localizedTitle" : [
 
-    },
+    ],
     "status" : "In Teilen verfügbar",
     "title" : "Widgets verbessern"
   },
@@ -146,15 +236,15 @@
     "description" : "Alle Funktionen auch unter macOS",
     "id" : "23",
     "isFinished" : false,
-    "localizedDescription" : {
+    "localizedDescription" : [
 
-    },
-    "localizedStatus" : {
+    ],
+    "localizedStatus" : [
 
-    },
-    "localizedTitle" : {
+    ],
+    "localizedTitle" : [
 
-    },
+    ],
     "status" : "Geplant",
     "title" : "MacOS-App"
   },
@@ -162,15 +252,15 @@
     "description" : "In Form von Sternen",
     "id" : "26",
     "isFinished" : false,
-    "localizedDescription" : {
+    "localizedDescription" : [
 
-    },
-    "localizedStatus" : {
+    ],
+    "localizedStatus" : [
 
-    },
-    "localizedTitle" : {
+    ],
+    "localizedTitle" : [
 
-    },
+    ],
     "status" : "Geplant",
     "title" : "Eigene Bewertung zu Hörspielen"
   },
@@ -178,15 +268,15 @@
     "description" : "Alle Funktionen auf einem Apple TV",
     "id" : "28",
     "isFinished" : false,
-    "localizedDescription" : {
+    "localizedDescription" : [
 
-    },
-    "localizedStatus" : {
+    ],
+    "localizedStatus" : [
 
-    },
-    "localizedTitle" : {
+    ],
+    "localizedTitle" : [
 
-    },
+    ],
     "status" : "Geplant",
     "title" : "Apple-TV App"
   },
@@ -194,15 +284,15 @@
     "description" : "Weitere Blöcke und Funktionen",
     "id" : "5",
     "isFinished" : false,
-    "localizedDescription" : {
+    "localizedDescription" : [
 
-    },
-    "localizedStatus" : {
+    ],
+    "localizedStatus" : [
 
-    },
-    "localizedTitle" : {
+    ],
+    "localizedTitle" : [
 
-    },
+    ],
     "status" : "In Teilen integriert",
     "title" : "Unterstützung von Siri und Shortcuts"
   },
@@ -210,15 +300,15 @@
     "description" : "Ungewollte Hörspiele einer Serie entfernen",
     "id" : "35",
     "isFinished" : false,
-    "localizedDescription" : {
+    "localizedDescription" : [
 
-    },
-    "localizedStatus" : {
+    ],
+    "localizedStatus" : [
 
-    },
-    "localizedTitle" : {
+    ],
+    "localizedTitle" : [
 
-    },
+    ],
     "status" : "Geplant",
     "title" : "Hörspiele löschen"
   },
@@ -226,15 +316,15 @@
     "description" : "Die gesamten Daten der App exportieren oder importieren können",
     "id" : "33",
     "isFinished" : false,
-    "localizedDescription" : {
+    "localizedDescription" : [
 
-    },
-    "localizedStatus" : {
+    ],
+    "localizedStatus" : [
 
-    },
-    "localizedTitle" : {
+    ],
+    "localizedTitle" : [
 
-    },
+    ],
     "status" : "Geplant",
     "title" : "Datei-Export"
   },
@@ -242,15 +332,15 @@
     "description" : "Wiedergabe-Geschwindigkeit auf bspw. 1,5x oder 2x erhöhen. ",
     "id" : "19",
     "isFinished" : false,
-    "localizedDescription" : {
+    "localizedDescription" : [
 
-    },
-    "localizedStatus" : {
+    ],
+    "localizedStatus" : [
 
-    },
-    "localizedTitle" : {
+    ],
+    "localizedTitle" : [
 
-    },
+    ],
     "status" : "Geplant",
     "title" : "Geschwindigkeit"
   },
@@ -258,18 +348,36 @@
     "description" : "Just like open in apple music",
     "id" : "27",
     "isFinished" : false,
-    "localizedDescription" : {
-      "de" : "So wie in Apple Music öffnen",
-      "en" : "Just like open in apple music"
-    },
-    "localizedStatus" : {
-      "de" : "Vielleicht",
-      "en" : "Maybe"
-    },
-    "localizedTitle" : {
-      "de" : "In Spotify öffnen",
-      "en" : "Open in Spotify"
-    },
+    "localizedDescription" : [
+      {
+        "language" : "de",
+        "value" : "So wie in Apple Music öffnen"
+      },
+      {
+        "language" : "en",
+        "value" : "Just like open in apple music"
+      }
+    ],
+    "localizedStatus" : [
+      {
+        "language" : "en",
+        "value" : "Maybe"
+      },
+      {
+        "language" : "de",
+        "value" : "Vielleicht"
+      }
+    ],
+    "localizedTitle" : [
+      {
+        "language" : "de",
+        "value" : "In Spotify öffnen"
+      },
+      {
+        "language" : "en",
+        "value" : "Open in Spotify"
+      }
+    ],
     "status" : "Maybe",
     "title" : "Open in Spotify"
   },
@@ -277,15 +385,15 @@
     "description" : "Die iPadOS-Version erstmal auf der Vision Pro. Bei genug Nutzern auch eine angepasste App",
     "id" : "30",
     "isFinished" : false,
-    "localizedDescription" : {
+    "localizedDescription" : [
 
-    },
-    "localizedStatus" : {
+    ],
+    "localizedStatus" : [
 
-    },
-    "localizedTitle" : {
+    ],
+    "localizedTitle" : [
 
-    },
+    ],
     "status" : "Möglich",
     "title" : "VisionOS-App"
   },
@@ -293,15 +401,15 @@
     "description" : "Dadurch würde man leichter wieder ins Hörspiel finden",
     "id" : "36",
     "isFinished" : false,
-    "localizedDescription" : {
+    "localizedDescription" : [
 
-    },
-    "localizedStatus" : {
+    ],
+    "localizedStatus" : [
 
-    },
-    "localizedTitle" : {
+    ],
+    "localizedTitle" : [
 
-    },
+    ],
     "status" : "Geplant",
     "title" : "Wiedergabepunkt nach hinten verschieben"
   },
@@ -309,15 +417,15 @@
     "description" : "Zum eigenen Ordnen von Hörspielen",
     "id" : "37",
     "isFinished" : false,
-    "localizedDescription" : {
+    "localizedDescription" : [
 
-    },
-    "localizedStatus" : {
+    ],
+    "localizedStatus" : [
 
-    },
-    "localizedTitle" : {
+    ],
+    "localizedTitle" : [
 
-    },
+    ],
     "status" : "Geplant",
     "title" : "Listen"
   },
@@ -325,15 +433,15 @@
     "description" : "Verlängern bis zum Ende eines Kapitels oder eigene Dauern/Uhrzeiten",
     "id" : "34",
     "isFinished" : false,
-    "localizedDescription" : {
+    "localizedDescription" : [
 
-    },
-    "localizedStatus" : {
+    ],
+    "localizedStatus" : [
 
-    },
-    "localizedTitle" : {
+    ],
+    "localizedTitle" : [
 
-    },
+    ],
     "status" : "Geplant",
     "title" : "Intelligenter Sleep-Timer"
   },
@@ -341,48 +449,48 @@
     "description" : "Auswählen und Abspielen von Hörspielen über das Auto",
     "id" : "20",
     "isFinished" : true,
-    "localizedDescription" : {
+    "localizedDescription" : [
 
-    },
-    "localizedStatus" : {
+    ],
+    "localizedStatus" : [
 
-    },
-    "localizedTitle" : {
+    ],
+    "localizedTitle" : [
 
-    },
+    ],
     "status" : "Integriert",
     "title" : "CarPlay"
-  },
-  {
-    "description" : "Optionale Benachrichtigungen über neu verfügbare Hörspiele.",
-    "id" : "8",
-    "isFinished" : true,
-    "localizedDescription" : {
-
-    },
-    "localizedStatus" : {
-
-    },
-    "localizedTitle" : {
-
-    },
-    "status" : "Integriert",
-    "title" : "Benachrichtigungen"
   },
   {
     "description" : "Wiedergabe spielt bei kurzen Funklöchern weiter",
     "id" : "18",
     "isFinished" : true,
-    "localizedDescription" : {
+    "localizedDescription" : [
 
-    },
-    "localizedStatus" : {
+    ],
+    "localizedStatus" : [
 
-    },
-    "localizedTitle" : {
+    ],
+    "localizedTitle" : [
 
-    },
+    ],
     "status" : "Integriert",
     "title" : "Offline-Modus"
+  },
+  {
+    "description" : "Optionale Benachrichtigungen über neu verfügbare Hörspiele.",
+    "id" : "8",
+    "isFinished" : true,
+    "localizedDescription" : [
+
+    ],
+    "localizedStatus" : [
+
+    ],
+    "localizedTitle" : [
+
+    ],
+    "status" : "Integriert",
+    "title" : "Benachrichtigungen"
   }
 ]
