@@ -10,7 +10,8 @@
 
     },
     "localizedTitle" : {
-      "de" : "Live Activity"
+      "de" : "Live Activity",
+      "en" : "Live Activity"
     },
     "status" : "Wird aktuell getestet",
     "title" : "Live Activity"
@@ -336,22 +337,6 @@
     "title" : "CarPlay"
   },
   {
-    "description" : "Wiedergabe spielt bei kurzen Funklöchern weiter",
-    "id" : "18",
-    "isFinished" : true,
-    "localizedDescription" : {
-
-    },
-    "localizedStatus" : {
-
-    },
-    "localizedTitle" : {
-
-    },
-    "status" : "Integriert",
-    "title" : "Offline-Modus"
-  },
-  {
     "description" : "Optionale Benachrichtigungen über neu verfügbare Hörspiele.",
     "id" : "8",
     "isFinished" : true,
@@ -366,5 +351,21 @@
     },
     "status" : "Integriert",
     "title" : "Benachrichtigungen"
+  },
+  {
+    "description" : "Wiedergabe spielt bei kurzen Funklöchern weiter",
+    "id" : "18",
+    "isFinished" : true,
+    "localizedDescription" : {
+
+    },
+    "localizedStatus" : {
+
+    },
+    "localizedTitle" : {
+
+    },
+    "status" : "Integriert",
+    "title" : "Offline-Modus"
   }
 ]
