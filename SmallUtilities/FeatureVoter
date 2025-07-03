@@ -255,20 +255,23 @@
     "title" : "Geschwindigkeit"
   },
   {
-    "description" : "So wie aktuell „In Apple Music öffnen“ funktioniert ",
+    "description" : "Just like open in apple music",
     "id" : "27",
     "isFinished" : false,
     "localizedDescription" : {
-
+      "de" : "So wie in Apple Music öffnen",
+      "en" : "Just like open in apple music"
     },
     "localizedStatus" : {
-
+      "de" : "Vielleicht",
+      "en" : "Maybe"
     },
     "localizedTitle" : {
-
+      "de" : "In Spotify öffnen",
+      "en" : "Open in Spotify"
     },
-    "status" : "Geplant",
-    "title" : "„In Spotify öffnen“"
+    "status" : "Maybe",
+    "title" : "Open in Spotify"
   },
   {
     "description" : "Die iPadOS-Version erstmal auf der Vision Pro. Bei genug Nutzern auch eine angepasste App",
