@@ -4,10 +4,12 @@
     "id" : "16",
     "isFinished" : false,
     "localizedDescription" : {
-
+      "de" : "Verbleibende Zeit auf dem Lockscreen",
+      "en" : "Remaining time on the lockscreen"
     },
     "localizedStatus" : {
-
+      "de" : "Wird getestet",
+      "en" : "In Development"
     },
     "localizedTitle" : {
       "de" : "Live Activity",
@@ -21,13 +23,16 @@
     "id" : "10",
     "isFinished" : false,
     "localizedDescription" : {
-
+      "de" : "Hörspielzentrale-Recap am Ende des Jahres",
+      "en" : "Recap at the end of the year"
     },
     "localizedStatus" : {
-
+      "de" : "Geplant",
+      "en" : "Planned"
     },
     "localizedTitle" : {
-
+      "de" : "Statistiken",
+      "en" : "Statistics "
     },
     "status" : "Geplant",
     "title" : "Statistiken"
@@ -43,7 +48,7 @@
 
     },
     "localizedTitle" : {
-
+      "de" : ""
     },
     "status" : "Geplant",
     "title" : "Weiterer Tab „Entdecken“"
