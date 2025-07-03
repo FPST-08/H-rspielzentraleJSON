@@ -4,12 +4,12 @@
     "id" : "16",
     "isFinished" : false,
     "localizedDescription" : {
-      "de" : "Verbleibende Zeit auf dem Lockscreen",
-      "en" : "Remaining time on the lockscreen"
-    },
-    "localizedStatus" : {
       "de" : "Wird getestet",
       "en" : "In Development"
+    },
+    "localizedStatus" : {
+      "de" : "Verbleibende Zeit auf dem Lockscreen",
+      "en" : "Remaining time on the lockscreen"
     },
     "localizedTitle" : {
       "de" : "Live Activity",
@@ -23,12 +23,12 @@
     "id" : "10",
     "isFinished" : false,
     "localizedDescription" : {
-      "de" : "Hörspielzentrale-Recap am Ende des Jahres",
-      "en" : "Recap at the end of the year"
-    },
-    "localizedStatus" : {
       "de" : "Geplant",
       "en" : "Planned"
+    },
+    "localizedStatus" : {
+      "de" : "Hörspielzentrale-Recap am Ende des Jahres",
+      "en" : "Recap at the end of the year"
     },
     "localizedTitle" : {
       "de" : "Statistiken",
@@ -38,52 +38,61 @@
     "title" : "Statistiken"
   },
   {
-    "description" : "Ermöglicht das Entdecken weiterer Serien basierend auf bereits hinzugefügten und generell beliebten Serien",
+    "description" : "Allows you to discover more series based on previously added and generally popular series",
     "id" : "24",
     "isFinished" : false,
     "localizedDescription" : {
-
+      "de" : "Ermöglicht das Entdecken weiterer Serien basierend auf bereits hinzugefügten und generell beliebten Serien",
+      "en" : "Allows you to discover more series based on previously added and generally popular series"
     },
     "localizedStatus" : {
-
+      "de" : "Geplant",
+      "en" : "Planned"
     },
     "localizedTitle" : {
-      "de" : ""
+      "de" : "Weiterer tab \"Entdecken",
+      "en" : "Another tab \"Discover\""
     },
-    "status" : "Geplant",
-    "title" : "Weiterer Tab „Entdecken“"
+    "status" : "Planned",
+    "title" : "Another tab \"Discover\""
   },
   {
-    "description" : "Spielt ein gewünschtes Hörspiel nach dem Beenden des vorherigen Hörspiels",
+    "description" : "Plays a desired audio drama after finishing the previous audio drama",
     "id" : "25",
     "isFinished" : false,
     "localizedDescription" : {
-
+      "de" : "Spielt ein gewünschtes Hörspiel nach dem Beenden des vorherigen Hörspiels",
+      "en" : "Plays a desired audio drama after finishing the previous audio drama"
     },
     "localizedStatus" : {
-
+      "de" : "Geplant",
+      "en" : "Planned"
     },
     "localizedTitle" : {
-
+      "de" : "Warteschlange und AutoPlay",
+      "en" : "Queue and AutoPlay"
     },
-    "status" : "Geplant",
-    "title" : "Wiedergabeliste und AutoPlay"
+    "status" : "Planned",
+    "title" : "Queue and AutoPlay"
   },
   {
-    "description" : "Mithilfe der Schlafdaten aus Health",
+    "description" : "Using the sleep data in Health",
     "id" : "31",
     "isFinished" : false,
     "localizedDescription" : {
-
+      "de" : "Mithilfe der Schlafdaten aus Health",
+      "en" : "Using the sleep data in Health"
     },
     "localizedStatus" : {
-
+      "de" : "Geplant",
+      "en" : "Planned"
     },
     "localizedTitle" : {
-
+      "de" : "Zurückspringen zum Einschlafpunkt",
+      "en" : "Jump back to point of falling asleep"
     },
-    "status" : "Geplant",
-    "title" : "Zurückspringen zum Einschlafpunkt"
+    "status" : "Planned",
+    "title" : "Jump back to point of falling asleep"
   },
   {
     "description" : "Die Bewertungen von rocky-beach.com direkt in der Hörspielansicht",
