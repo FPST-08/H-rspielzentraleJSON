@@ -233,20 +233,41 @@
     "title" : "Widgets verbessern"
   },
   {
-    "description" : "Alle Funktionen auch unter macOS",
+    "description" : "All features in macOS",
     "id" : "23",
     "isFinished" : false,
     "localizedDescription" : [
-
+      {
+        "language" : "en",
+        "value" : "All features in macOS"
+      },
+      {
+        "language" : "de",
+        "value" : "Alle Funktionen in macOS"
+      }
     ],
     "localizedStatus" : [
-
+      {
+        "language" : "en",
+        "value" : "Planned"
+      },
+      {
+        "language" : "de",
+        "value" : "Geplant"
+      }
     ],
     "localizedTitle" : [
-
+      {
+        "language" : "en",
+        "value" : "macOS Version"
+      },
+      {
+        "language" : "de",
+        "value" : "macOS Version"
+      }
     ],
     "status" : "Geplant",
-    "title" : "MacOS-App"
+    "title" : "macOS Version"
   },
   {
     "description" : "In Form von Sternen",
