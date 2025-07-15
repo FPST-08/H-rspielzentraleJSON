@@ -37,27 +37,27 @@
     "title" : "Live Activity"
   },
   {
-    "description" : "Am Ende des Jahres ein Hörspielzentrale-Recap",
+    "description" : "Recap at the end of the year",
     "id" : "10",
     "isFinished" : false,
     "localizedDescription" : [
       {
         "language" : "de",
-        "value" : "Geplant"
+        "value" : "Hörspielzentrale-Recap am Ende des Jahres"
       },
       {
         "language" : "en",
-        "value" : "Planned"
+        "value" : "Recap at the end of the year"
       }
     ],
     "localizedStatus" : [
       {
         "language" : "en",
-        "value" : "Recap at the end of the year"
+        "value" : "Planned"
       },
       {
         "language" : "de",
-        "value" : "Hörspielzentrale-Recap am Ende des Jahres"
+        "value" : "Geplant"
       }
     ],
     "localizedTitle" : [
@@ -70,8 +70,8 @@
         "value" : "Statistics "
       }
     ],
-    "status" : "Geplant",
-    "title" : "Statistiken"
+    "status" : "Planned",
+    "title" : "Statistics"
   },
   {
     "description" : "Allows you to discover more series based on previously added and generally popular series",
@@ -111,43 +111,6 @@
     "title" : "Another tab \"Discover\""
   },
   {
-    "description" : "Plays a desired audio drama after finishing the previous audio drama",
-    "id" : "25",
-    "isFinished" : false,
-    "localizedDescription" : [
-      {
-        "language" : "en",
-        "value" : "Plays a desired audio drama after finishing the previous audio drama"
-      },
-      {
-        "language" : "de",
-        "value" : "Spielt ein gewünschtes Hörspiel nach dem Beenden des vorherigen Hörspiels"
-      }
-    ],
-    "localizedStatus" : [
-      {
-        "language" : "en",
-        "value" : "Planned"
-      },
-      {
-        "language" : "de",
-        "value" : "Geplant"
-      }
-    ],
-    "localizedTitle" : [
-      {
-        "language" : "de",
-        "value" : "Warteschlange und AutoPlay"
-      },
-      {
-        "language" : "en",
-        "value" : "Queue and AutoPlay"
-      }
-    ],
-    "status" : "Planned",
-    "title" : "Queue and AutoPlay"
-  },
-  {
     "description" : "Using the sleep data in Health",
     "id" : "31",
     "isFinished" : false,
@@ -185,36 +148,115 @@
     "title" : "Jump back to point of falling asleep"
   },
   {
-    "description" : "Die Bewertungen von rocky-beach.com direkt in der Hörspielansicht",
-    "id" : "9",
+    "description" : "Plays a desired audio drama after finishing the previous audio drama",
+    "id" : "25",
     "isFinished" : false,
     "localizedDescription" : [
-
+      {
+        "language" : "en",
+        "value" : "Plays a desired audio drama after finishing the previous audio drama"
+      },
+      {
+        "language" : "de",
+        "value" : "Spielt ein gewünschtes Hörspiel nach dem Beenden des vorherigen Hörspiels"
+      }
     ],
     "localizedStatus" : [
-
+      {
+        "language" : "en",
+        "value" : "Planned"
+      },
+      {
+        "language" : "de",
+        "value" : "Geplant"
+      }
     ],
     "localizedTitle" : [
-
+      {
+        "language" : "de",
+        "value" : "Warteschlange und AutoPlay"
+      },
+      {
+        "language" : "en",
+        "value" : "Queue and AutoPlay"
+      }
     ],
-    "status" : "Geplant",
-    "title" : "Ratings"
+    "status" : "Planned",
+    "title" : "Queue and AutoPlay"
   },
   {
-    "description" : "Bspw. alle Hörspiele hinzuzufügen oder eingeschränktes runterladen",
+    "description" : "For example adding all audio dramas or downloading them",
     "id" : "32",
     "isFinished" : false,
     "localizedDescription" : [
-
+      {
+        "language" : "en",
+        "value" : "For example adding all audio dramas or downloading them"
+      },
+      {
+        "language" : "de",
+        "value" : "Bspw. alle Hörspiele hinzuzufügen oder herunterladen"
+      }
     ],
     "localizedStatus" : [
-
+      {
+        "language" : "en",
+        "value" : "Planned"
+      },
+      {
+        "language" : "de",
+        "value" : "Geplant"
+      }
     ],
     "localizedTitle" : [
-
+      {
+        "language" : "en",
+        "value" : "Easy modifications of the Apple Music library"
+      },
+      {
+        "language" : "de",
+        "value" : "Einfacheres Anpassen der Apple Music Mediathek"
+      }
     ],
-    "status" : "Geplant",
-    "title" : "Einfacheres Anpassen der Apple Music Mediathek"
+    "status" : "Planned",
+    "title" : "Easy modifications of the Apple Music library"
+  },
+  {
+    "description" : "The ratings from rocky-beach.com in the app",
+    "id" : "9",
+    "isFinished" : false,
+    "localizedDescription" : [
+      {
+        "language" : "de",
+        "value" : "Die Bewertungen von rocky-beach.com direkt in der Hörspielansicht"
+      },
+      {
+        "language" : "en",
+        "value" : "The ratings from rocky-beach.com in the app"
+      }
+    ],
+    "localizedStatus" : [
+      {
+        "language" : "en",
+        "value" : "Planned"
+      },
+      {
+        "language" : "de",
+        "value" : "Geplant"
+      }
+    ],
+    "localizedTitle" : [
+      {
+        "language" : "en",
+        "value" : "Ratings for ???"
+      },
+      {
+        "language" : "de",
+        "value" : "Ratings für ???"
+      }
+    ],
+    "status" : "Planned",
+    "title" : "Ratings for ???"
   },
   {
     "description" : "Vorschläge für neue Hörspiele und einfacheres Weiterspielen",
@@ -403,22 +445,6 @@
     "title" : "Open in Spotify"
   },
   {
-    "description" : "Die iPadOS-Version erstmal auf der Vision Pro. Bei genug Nutzern auch eine angepasste App",
-    "id" : "30",
-    "isFinished" : false,
-    "localizedDescription" : [
-
-    ],
-    "localizedStatus" : [
-
-    ],
-    "localizedTitle" : [
-
-    ],
-    "status" : "Möglich",
-    "title" : "VisionOS-App"
-  },
-  {
     "description" : "Dadurch würde man leichter wieder ins Hörspiel finden",
     "id" : "36",
     "isFinished" : false,
@@ -433,6 +459,22 @@
     ],
     "status" : "Geplant",
     "title" : "Wiedergabepunkt nach hinten verschieben"
+  },
+  {
+    "description" : "Die iPadOS-Version erstmal auf der Vision Pro. Bei genug Nutzern auch eine angepasste App",
+    "id" : "30",
+    "isFinished" : false,
+    "localizedDescription" : [
+
+    ],
+    "localizedStatus" : [
+
+    ],
+    "localizedTitle" : [
+
+    ],
+    "status" : "Möglich",
+    "title" : "VisionOS-App"
   },
   {
     "description" : "Zum eigenen Ordnen von Hörspielen",
@@ -483,22 +525,6 @@
     "title" : "CarPlay"
   },
   {
-    "description" : "Wiedergabe spielt bei kurzen Funklöchern weiter",
-    "id" : "18",
-    "isFinished" : true,
-    "localizedDescription" : [
-
-    ],
-    "localizedStatus" : [
-
-    ],
-    "localizedTitle" : [
-
-    ],
-    "status" : "Integriert",
-    "title" : "Offline-Modus"
-  },
-  {
     "description" : "Optionale Benachrichtigungen über neu verfügbare Hörspiele.",
     "id" : "8",
     "isFinished" : true,
@@ -513,5 +539,21 @@
     ],
     "status" : "Integriert",
     "title" : "Benachrichtigungen"
+  },
+  {
+    "description" : "Wiedergabe spielt bei kurzen Funklöchern weiter",
+    "id" : "18",
+    "isFinished" : true,
+    "localizedDescription" : [
+
+    ],
+    "localizedStatus" : [
+
+    ],
+    "localizedTitle" : [
+
+    ],
+    "status" : "Integriert",
+    "title" : "Offline-Modus"
   }
 ]
