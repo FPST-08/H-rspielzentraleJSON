@@ -1,26 +1,26 @@
 [
   {
-    "description" : "Verbleibende Zeit auf dem Lockscreen",
+    "description" : "Remaining time on the lockscreen",
     "id" : "16",
     "isFinished" : false,
     "localizedDescription" : [
       {
         "language" : "de",
-        "value" : "Wird getestet"
+        "value" : "Verbleibende Zeit auf dem Lockscreen"
       },
       {
         "language" : "en",
-        "value" : "In Development"
+        "value" : "Remaining time on the lockscreen"
       }
     ],
     "localizedStatus" : [
       {
         "language" : "en",
-        "value" : "Remaining time on the lockscreen"
+        "value" : "In testing"
       },
       {
         "language" : "de",
-        "value" : "Verbleibende Zeit auf dem Lockscreen"
+        "value" : "In testing"
       }
     ],
     "localizedTitle" : [
@@ -33,7 +33,7 @@
         "value" : "Live Activity"
       }
     ],
-    "status" : "Wird aktuell getestet",
+    "status" : "In testing",
     "title" : "Live Activity"
   },
   {
@@ -111,43 +111,6 @@
     "title" : "Another tab \"Discover\""
   },
   {
-    "description" : "Using the sleep data in Health",
-    "id" : "31",
-    "isFinished" : false,
-    "localizedDescription" : [
-      {
-        "language" : "en",
-        "value" : "Using the sleep data in Health"
-      },
-      {
-        "language" : "de",
-        "value" : "Mithilfe der Schlafdaten aus Health"
-      }
-    ],
-    "localizedStatus" : [
-      {
-        "language" : "en",
-        "value" : "Planned"
-      },
-      {
-        "language" : "de",
-        "value" : "Geplant"
-      }
-    ],
-    "localizedTitle" : [
-      {
-        "language" : "de",
-        "value" : "Zurückspringen zum Einschlafpunkt"
-      },
-      {
-        "language" : "en",
-        "value" : "Jump back to point of falling asleep"
-      }
-    ],
-    "status" : "Planned",
-    "title" : "Jump back to point of falling asleep"
-  },
-  {
     "description" : "Plays a desired audio drama after finishing the previous audio drama",
     "id" : "25",
     "isFinished" : false,
@@ -183,6 +146,43 @@
     ],
     "status" : "Planned",
     "title" : "Queue and AutoPlay"
+  },
+  {
+    "description" : "Using the sleep data in Health",
+    "id" : "31",
+    "isFinished" : false,
+    "localizedDescription" : [
+      {
+        "language" : "en",
+        "value" : "Using the sleep data in Health"
+      },
+      {
+        "language" : "de",
+        "value" : "Mithilfe der Schlafdaten aus Health"
+      }
+    ],
+    "localizedStatus" : [
+      {
+        "language" : "en",
+        "value" : "Planned"
+      },
+      {
+        "language" : "de",
+        "value" : "Geplant"
+      }
+    ],
+    "localizedTitle" : [
+      {
+        "language" : "de",
+        "value" : "Zurückspringen zum Einschlafpunkt"
+      },
+      {
+        "language" : "en",
+        "value" : "Jump back to point of falling asleep"
+      }
+    ],
+    "status" : "Planned",
+    "title" : "Jump back to point of falling asleep"
   },
   {
     "description" : "For example adding all audio dramas or downloading them",
@@ -259,20 +259,41 @@
     "title" : "Ratings for ???"
   },
   {
-    "description" : "Vorschläge für neue Hörspiele und einfacheres Weiterspielen",
+    "description" : "Suggestions for new audio dramas and initiating playback",
     "id" : "17",
     "isFinished" : false,
     "localizedDescription" : [
-
+      {
+        "language" : "en",
+        "value" : "Suggestions for new audio dramas and initiating playback"
+      },
+      {
+        "language" : "de",
+        "value" : "Vorschläge für neue Hörspiele und einfacheres Weiterspielen"
+      }
     ],
     "localizedStatus" : [
-
+      {
+        "language" : "en",
+        "value" : "Planned"
+      },
+      {
+        "language" : "de",
+        "value" : "Geplant"
+      }
     ],
     "localizedTitle" : [
-
+      {
+        "language" : "de",
+        "value" : "Widgets verbessern"
+      },
+      {
+        "language" : "en",
+        "value" : "Improve widgets"
+      }
     ],
-    "status" : "In Teilen verfügbar",
-    "title" : "Widgets verbessern"
+    "status" : "Planned",
+    "title" : "Improve widgets"
   },
   {
     "description" : "All features in macOS",
@@ -312,36 +333,115 @@
     "title" : "macOS Version"
   },
   {
-    "description" : "In Form von Sternen",
+    "description" : "Add a star rating",
     "id" : "26",
     "isFinished" : false,
     "localizedDescription" : [
-
+      {
+        "language" : "en",
+        "value" : "Add a star rating"
+      },
+      {
+        "language" : "de",
+        "value" : "In Form von Sternen"
+      }
     ],
     "localizedStatus" : [
-
+      {
+        "language" : "en",
+        "value" : "In testing"
+      },
+      {
+        "language" : "de",
+        "value" : "Wird getestet"
+      }
     ],
     "localizedTitle" : [
-
+      {
+        "language" : "en",
+        "value" : "Rate audio dramas"
+      },
+      {
+        "language" : "de",
+        "value" : "Hörspiele bewerten"
+      }
     ],
-    "status" : "Geplant",
-    "title" : "Eigene Bewertung zu Hörspielen"
+    "status" : "In testing",
+    "title" : "Rate audio dramas"
   },
   {
-    "description" : "Alle Funktionen auf einem Apple TV",
+    "description" : "All features on Apple TV",
     "id" : "28",
     "isFinished" : false,
     "localizedDescription" : [
-
+      {
+        "language" : "en",
+        "value" : "All features on Apple TV"
+      },
+      {
+        "language" : "de",
+        "value" : "Alle Funktionen auf einem Apple TV"
+      }
     ],
     "localizedStatus" : [
-
+      {
+        "language" : "en",
+        "value" : "Planned"
+      },
+      {
+        "language" : "de",
+        "value" : "Geplant"
+      }
     ],
     "localizedTitle" : [
-
+      {
+        "language" : "en",
+        "value" : "Apple TV App"
+      },
+      {
+        "language" : "de",
+        "value" : "Apple TV App"
+      }
     ],
-    "status" : "Geplant",
-    "title" : "Apple-TV App"
+    "status" : "Planned",
+    "title" : "Apple TV App"
+  },
+  {
+    "description" : "Delete unwanted audio dramas of a series",
+    "id" : "35",
+    "isFinished" : false,
+    "localizedDescription" : [
+      {
+        "language" : "en",
+        "value" : "Delete unwanted audio dramas of a series"
+      },
+      {
+        "language" : "de",
+        "value" : "Ungewollte Hörspiele einer Serie entferne"
+      }
+    ],
+    "localizedStatus" : [
+      {
+        "language" : "en",
+        "value" : "Planned"
+      },
+      {
+        "language" : "de",
+        "value" : "Geplant"
+      }
+    ],
+    "localizedTitle" : [
+      {
+        "language" : "en",
+        "value" : "Delete audio dramas"
+      },
+      {
+        "language" : "de",
+        "value" : "Hörspiele löschen"
+      }
+    ],
+    "status" : "Planned",
+    "title" : "Delete audio dramas"
   },
   {
     "description" : "Weitere Blöcke und Funktionen",
@@ -358,22 +458,6 @@
     ],
     "status" : "In Teilen integriert",
     "title" : "Unterstützung von Siri und Shortcuts"
-  },
-  {
-    "description" : "Ungewollte Hörspiele einer Serie entfernen",
-    "id" : "35",
-    "isFinished" : false,
-    "localizedDescription" : [
-
-    ],
-    "localizedStatus" : [
-
-    ],
-    "localizedTitle" : [
-
-    ],
-    "status" : "Geplant",
-    "title" : "Hörspiele löschen"
   },
   {
     "description" : "Die gesamten Daten der App exportieren oder importieren können",
