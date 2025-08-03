@@ -514,43 +514,6 @@
     "title" : "Playback Speed"
   },
   {
-    "description" : "Export all data as a CSV",
-    "id" : "33",
-    "isFinished" : true,
-    "localizedDescription" : [
-      {
-        "language" : "en",
-        "value" : "Export all data as a CSV"
-      },
-      {
-        "language" : "de",
-        "value" : "Alle daten als CSV exportieren"
-      }
-    ],
-    "localizedStatus" : [
-      {
-        "language" : "en",
-        "value" : "Added"
-      },
-      {
-        "language" : "de",
-        "value" : "Implementiert"
-      }
-    ],
-    "localizedTitle" : [
-      {
-        "language" : "en",
-        "value" : "Data export"
-      },
-      {
-        "language" : "de",
-        "value" : "Daten-Export"
-      }
-    ],
-    "status" : "Added",
-    "title" : "Data export"
-  },
-  {
     "description" : "Just like open in apple music",
     "id" : "27",
     "isFinished" : false,
@@ -588,23 +551,7 @@
     "title" : "Open in Spotify"
   },
   {
-    "description" : "Dadurch würde man leichter wieder ins Hörspiel finden",
-    "id" : "36",
-    "isFinished" : true,
-    "localizedDescription" : [
-
-    ],
-    "localizedStatus" : [
-
-    ],
-    "localizedTitle" : [
-
-    ],
-    "status" : "Geplant",
-    "title" : "Wiedergabepunkt nach hinten verschieben"
-  },
-  {
-    "description" : "",
+    "description" : "Bring the iPad version to the Vision Pro. Eventually an optimized app",
     "id" : "30",
     "isFinished" : false,
     "localizedDescription" : [
@@ -715,51 +662,40 @@
     "title" : "Better Sleep-Timer"
   },
   {
-    "description" : "Auswählen und Abspielen von Hörspielen über das Auto",
-    "id" : "20",
+    "description" : "Export all data as a CSV",
+    "id" : "33",
     "isFinished" : true,
     "localizedDescription" : [
-
+      {
+        "language" : "en",
+        "value" : "Export all data as a CSV"
+      },
+      {
+        "language" : "de",
+        "value" : "Alle daten als CSV exportieren"
+      }
     ],
     "localizedStatus" : [
-
+      {
+        "language" : "en",
+        "value" : "Added"
+      },
+      {
+        "language" : "de",
+        "value" : "Implementiert"
+      }
     ],
     "localizedTitle" : [
-
+      {
+        "language" : "en",
+        "value" : "Data export"
+      },
+      {
+        "language" : "de",
+        "value" : "Daten-Export"
+      }
     ],
-    "status" : "Integriert",
-    "title" : "CarPlay"
-  },
-  {
-    "description" : "Wiedergabe spielt bei kurzen Funklöchern weiter",
-    "id" : "18",
-    "isFinished" : true,
-    "localizedDescription" : [
-
-    ],
-    "localizedStatus" : [
-
-    ],
-    "localizedTitle" : [
-
-    ],
-    "status" : "Integriert",
-    "title" : "Offline-Modus"
-  },
-  {
-    "description" : "Optionale Benachrichtigungen über neu verfügbare Hörspiele.",
-    "id" : "8",
-    "isFinished" : true,
-    "localizedDescription" : [
-
-    ],
-    "localizedStatus" : [
-
-    ],
-    "localizedTitle" : [
-
-    ],
-    "status" : "Integriert",
-    "title" : "Benachrichtigungen"
+    "status" : "Added",
+    "title" : "Data export"
   }
 ]
