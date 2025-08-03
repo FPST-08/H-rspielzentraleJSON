@@ -444,52 +444,111 @@
     "title" : "Delete audio dramas"
   },
   {
-    "description" : "Weitere Blöcke und Funktionen",
+    "description" : "",
     "id" : "5",
     "isFinished" : false,
     "localizedDescription" : [
-
+      {
+        "language" : "en",
+        "value" : ""
+      }
     ],
     "localizedStatus" : [
-
+      {
+        "language" : "en",
+        "value" : "Partly added"
+      },
+      {
+        "language" : "de",
+        "value" : "In Teilen integriert"
+      }
     ],
     "localizedTitle" : [
-
+      {
+        "language" : "en",
+        "value" : "Better support for Siri and shortcuts"
+      },
+      {
+        "language" : "de",
+        "value" : "Bessere Unterstützung von Siri und Shortcuts"
+      }
     ],
     "status" : "In Teilen integriert",
-    "title" : "Unterstützung von Siri und Shortcuts"
+    "title" : "Better support for Siri and shortcuts"
   },
   {
-    "description" : "Die gesamten Daten der App exportieren oder importieren können",
-    "id" : "33",
-    "isFinished" : false,
-    "localizedDescription" : [
-
-    ],
-    "localizedStatus" : [
-
-    ],
-    "localizedTitle" : [
-
-    ],
-    "status" : "Geplant",
-    "title" : "Datei-Export"
-  },
-  {
-    "description" : "Wiedergabe-Geschwindigkeit auf bspw. 1,5x oder 2x erhöhen. ",
+    "description" : "Set playback speed at 1,5x for example",
     "id" : "19",
     "isFinished" : false,
     "localizedDescription" : [
-
+      {
+        "language" : "de",
+        "value" : "Wiedergabe-Geschwindigkeit auf bspw. 1,5x oder 2x erhöhen. "
+      },
+      {
+        "language" : "en",
+        "value" : "Set playback speed at 1,5x for example"
+      }
     ],
     "localizedStatus" : [
-
+      {
+        "language" : "en",
+        "value" : "Planned"
+      },
+      {
+        "language" : "de",
+        "value" : "Geplant"
+      }
     ],
     "localizedTitle" : [
-
+      {
+        "language" : "de",
+        "value" : "Geschwindigkeit"
+      },
+      {
+        "language" : "en",
+        "value" : "Playback Speed"
+      }
     ],
     "status" : "Geplant",
-    "title" : "Geschwindigkeit"
+    "title" : "Playback Speed"
+  },
+  {
+    "description" : "Export all data as a CSV",
+    "id" : "33",
+    "isFinished" : true,
+    "localizedDescription" : [
+      {
+        "language" : "en",
+        "value" : "Export all data as a CSV"
+      },
+      {
+        "language" : "de",
+        "value" : "Alle daten als CSV exportieren"
+      }
+    ],
+    "localizedStatus" : [
+      {
+        "language" : "en",
+        "value" : "Added"
+      },
+      {
+        "language" : "de",
+        "value" : "Implementiert"
+      }
+    ],
+    "localizedTitle" : [
+      {
+        "language" : "en",
+        "value" : "Data export"
+      },
+      {
+        "language" : "de",
+        "value" : "Daten-Export"
+      }
+    ],
+    "status" : "Added",
+    "title" : "Data export"
   },
   {
     "description" : "Just like open in apple music",
@@ -531,7 +590,7 @@
   {
     "description" : "Dadurch würde man leichter wieder ins Hörspiel finden",
     "id" : "36",
-    "isFinished" : false,
+    "isFinished" : true,
     "localizedDescription" : [
 
     ],
@@ -545,52 +604,115 @@
     "title" : "Wiedergabepunkt nach hinten verschieben"
   },
   {
-    "description" : "Die iPadOS-Version erstmal auf der Vision Pro. Bei genug Nutzern auch eine angepasste App",
+    "description" : "",
     "id" : "30",
     "isFinished" : false,
     "localizedDescription" : [
-
+      {
+        "language" : "de",
+        "value" : "Die iPadOS-Version erstmal auf der Vision Pro. Bei genug Nutzern auch eine angepasste App"
+      },
+      {
+        "language" : "en",
+        "value" : "Bring the iPad version to the Vision Pro. Eventually an optimized app"
+      }
     ],
     "localizedStatus" : [
-
+      {
+        "language" : "de",
+        "value" : "Eventuell"
+      },
+      {
+        "language" : "en",
+        "value" : "Possibly"
+      }
     ],
     "localizedTitle" : [
-
+      {
+        "language" : "en",
+        "value" : "VisionOS app"
+      },
+      {
+        "language" : "de",
+        "value" : "VisionOS-App"
+      }
     ],
-    "status" : "Möglich",
-    "title" : "VisionOS-App"
+    "status" : "Possibly",
+    "title" : "VisionOS app"
   },
   {
-    "description" : "Zum eigenen Ordnen von Hörspielen",
+    "description" : "To organize audio dramas manually",
     "id" : "37",
     "isFinished" : false,
     "localizedDescription" : [
-
+      {
+        "language" : "de",
+        "value" : "Zum eigenen Ordnen von Hörspielen"
+      },
+      {
+        "language" : "en",
+        "value" : "To organize audio dramas manually"
+      }
     ],
     "localizedStatus" : [
-
+      {
+        "language" : "en",
+        "value" : "Planned"
+      },
+      {
+        "language" : "de",
+        "value" : "Geplant"
+      }
     ],
     "localizedTitle" : [
-
+      {
+        "language" : "en",
+        "value" : "Lists"
+      },
+      {
+        "language" : "de",
+        "value" : "Listen"
+      }
     ],
-    "status" : "Geplant",
-    "title" : "Listen"
+    "status" : "Planned",
+    "title" : "Lists"
   },
   {
-    "description" : "Verlängern bis zum Ende eines Kapitels oder eigene Dauern/Uhrzeiten",
+    "description" : "Continue to an end of a chapter or custom durations / times",
     "id" : "34",
     "isFinished" : false,
     "localizedDescription" : [
-
+      {
+        "language" : "de",
+        "value" : "Verlängern bis zum Ende eines Kapitels oder eigene Dauern/Uhrzeiten"
+      },
+      {
+        "language" : "en",
+        "value" : "Continue to an end of a chapter or custom durations / times"
+      }
     ],
     "localizedStatus" : [
-
+      {
+        "language" : "en",
+        "value" : "Planned"
+      },
+      {
+        "language" : "de",
+        "value" : "Geplant"
+      }
     ],
     "localizedTitle" : [
-
+      {
+        "language" : "de",
+        "value" : "Besserer Sleep-Timer"
+      },
+      {
+        "language" : "en",
+        "value" : "Better Sleep-Timer"
+      }
     ],
-    "status" : "Geplant",
-    "title" : "Intelligenter Sleep-Timer"
+    "status" : "Planned",
+    "title" : "Better Sleep-Timer"
   },
   {
     "description" : "Auswählen und Abspielen von Hörspielen über das Auto",
@@ -609,22 +731,6 @@
     "title" : "CarPlay"
   },
   {
-    "description" : "Optionale Benachrichtigungen über neu verfügbare Hörspiele.",
-    "id" : "8",
-    "isFinished" : true,
-    "localizedDescription" : [
-
-    ],
-    "localizedStatus" : [
-
-    ],
-    "localizedTitle" : [
-
-    ],
-    "status" : "Integriert",
-    "title" : "Benachrichtigungen"
-  },
-  {
     "description" : "Wiedergabe spielt bei kurzen Funklöchern weiter",
     "id" : "18",
     "isFinished" : true,
@@ -639,5 +745,21 @@
     ],
     "status" : "Integriert",
     "title" : "Offline-Modus"
+  },
+  {
+    "description" : "Optionale Benachrichtigungen über neu verfügbare Hörspiele.",
+    "id" : "8",
+    "isFinished" : true,
+    "localizedDescription" : [
+
+    ],
+    "localizedStatus" : [
+
+    ],
+    "localizedTitle" : [
+
+    ],
+    "status" : "Integriert",
+    "title" : "Benachrichtigungen"
   }
 ]
