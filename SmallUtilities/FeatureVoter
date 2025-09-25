@@ -2,7 +2,7 @@
   {
     "description" : "Remaining time on the lockscreen",
     "id" : "16",
-    "isFinished" : false,
+    "isFinished" : true,
     "localizedDescription" : [
       {
         "language" : "de",
