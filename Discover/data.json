@@ -17,10 +17,15 @@
         }
       }
     },
+    "displayCondition" : {
+      "alwaysDisplay" : {
+
+      }
+    },
     "title" : {
       "localizations" : {
-        "EN" : "Atmospharical",
-        "DE" : "Atmosphärisch"
+        "DE" : "Atmosphärisch",
+        "EN" : "Atmospharical"
       }
     }
   },
@@ -39,10 +44,52 @@
         }
       }
     },
+    "displayCondition" : {
+      "alwaysDisplay" : {
+
+      }
+    },
     "title" : {
       "localizations" : {
-        "EN" : "Classics",
-        "DE" : "Klassiker"
+        "DE" : "Klassiker",
+        "EN" : "Classics"
+      }
+    }
+  },
+  {
+    "content" : {
+      "type" : {
+        "hoerspiel" : {
+          "elements" : [
+            {
+              "albumID" : "1479540077"
+            },
+            {
+              "albumID" : "1751465793"
+            },
+            {
+              "albumID" : "1439195203"
+            },
+            {
+              "albumID" : "1148996011"
+            },
+            {
+              "albumID" : "1112957080"
+            }
+          ]
+        }
+      }
+    },
+    "displayCondition" : {
+      "timeRangeIsMet" : {
+        "end" : 1767614400,
+        "start" : 1764590400
+      }
+    },
+    "title" : {
+      "localizations" : {
+        "DE" : "Weihnachtszeit",
+        "EN" : "Christmas time"
       }
     }
   }
