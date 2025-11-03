@@ -1,0 +1,96 @@
+[
+  {
+    "content" : {
+      "type" : {
+        "hoerspiel" : {
+          "elements" : [
+            {
+              "albumID" : "1479540077"
+            },
+            {
+              "albumID" : "1149330399"
+            },
+            {
+              "albumID" : "1112996544"
+            }
+          ]
+        }
+      }
+    },
+    "displayCondition" : {
+      "alwaysDisplay" : {
+
+      }
+    },
+    "title" : {
+      "localizations" : {
+        "DE" : "Atmosphärisch",
+        "EN" : "Atmospharical"
+      }
+    }
+  },
+  {
+    "content" : {
+      "type" : {
+        "series" : {
+          "elements" : [
+            {
+              "musicItemID" : "201306317"
+            },
+            {
+              "musicItemID" : "191548811"
+            }
+          ]
+        }
+      }
+    },
+    "displayCondition" : {
+      "alwaysDisplay" : {
+
+      }
+    },
+    "title" : {
+      "localizations" : {
+        "DE" : "Klassiker",
+        "EN" : "Classics"
+      }
+    }
+  },
+  {
+    "content" : {
+      "type" : {
+        "hoerspiel" : {
+          "elements" : [
+            {
+              "albumID" : "1479540077"
+            },
+            {
+              "albumID" : "1751465793"
+            },
+            {
+              "albumID" : "1439195203"
+            },
+            {
+              "albumID" : "1148996011"
+            },
+            {
+              "albumID" : "1112957080"
+            }
+          ]
+        }
+      }
+    },
+    "displayCondition" : {
+      "timeRangeIsMet" : {
+        "end" : 1767614400,
+        "start" : 1764590400
+      }
+    },
+    "title" : {
+      "localizations" : {
+        "DE" : "Weihnachtszeit",
+        "EN" : "Christmas time"
+      }
+    }
+  }
+]
