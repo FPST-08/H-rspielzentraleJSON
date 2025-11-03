@@ -92,5 +92,62 @@
         "EN" : "Christmas time"
       }
     }
+  },
+  {
+    "content" : {
+      "type" : {
+        "series" : {
+          "elements" : [
+            {
+              "musicItemID" : "201306317"
+            },
+            {
+              "musicItemID" : "1640502543"
+            },
+            {
+              "musicItemID" : "191548811"
+            },
+            {
+              "musicItemID" : "1008761063"
+            },
+            {
+              "musicItemID" : "193147988"
+            },
+            {
+              "musicItemID" : "1194782821"
+            },
+            {
+              "musicItemID" : "341829716"
+            },
+            {
+              "musicItemID" : "876466527"
+            },
+            {
+              "musicItemID" : "4597171"
+            },
+            {
+              "musicItemID" : "1711064125"
+            },
+            {
+              "musicItemID" : "706388519"
+            },
+            {
+              "musicItemID" : "934803895"
+            }
+          ]
+        }
+      }
+    },
+    "displayCondition" : {
+      "alwaysDisplay" : {
+
+      }
+    },
+    "title" : {
+      "localizations" : {
+        "DE" : "",
+        "EN" : ""
+      }
+    }
   }
 ]
