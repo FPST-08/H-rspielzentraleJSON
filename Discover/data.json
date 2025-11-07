@@ -149,5 +149,62 @@
         "EN" : "For Adults"
       }
     }
+  },
+  {
+    "content" : {
+      "type" : {
+        "series" : {
+          "elements" : [
+            {
+              "musicItemID" : "456935540"
+            },
+            {
+              "musicItemID" : "672648501"
+            },
+            {
+              "musicItemID" : "218657672"
+            },
+            {
+              "musicItemID" : "41480004"
+            },
+            {
+              "musicItemID" : "51883585"
+            },
+            {
+              "musicItemID" : "1157586852"
+            },
+            {
+              "musicItemID" : "1449637623"
+            },
+            {
+              "musicItemID" : "1451309462"
+            },
+            {
+              "musicItemID" : "220151370"
+            },
+            {
+              "musicItemID" : "1525278649"
+            },
+            {
+              "musicItemID" : "218659264"
+            },
+            {
+              "musicItemID" : "1353483673"
+            }
+          ]
+        }
+      }
+    },
+    "displayCondition" : {
+      "alwaysDisplay" : {
+
+      }
+    },
+    "title" : {
+      "localizations" : {
+        "DE" : "Für Kinder",
+        "EN" : "For children"
+      }
+    }
   }
 ]
