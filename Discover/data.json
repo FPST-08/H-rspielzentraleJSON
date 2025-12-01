@@ -2,36 +2,6 @@
   {
     "content" : {
       "type" : {
-        "hoerspiel" : {
-          "elements" : [
-            {
-              "albumID" : "1479540077"
-            },
-            {
-              "albumID" : "1149330399"
-            },
-            {
-              "albumID" : "1112996544"
-            }
-          ]
-        }
-      }
-    },
-    "displayCondition" : {
-      "alwaysDisplay" : {
-
-      }
-    },
-    "title" : {
-      "localizations" : {
-        "DE" : "Atmosphärisch",
-        "EN" : "Atmospharical"
-      }
-    }
-  },
-  {
-    "content" : {
-      "type" : {
         "series" : {
           "elements" : [
             {
