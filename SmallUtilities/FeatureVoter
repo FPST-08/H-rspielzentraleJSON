@@ -362,7 +362,7 @@
         "value" : "macOS Version"
       }
     ],
-    "status" : "Geplant",
+    "status" : "Planned",
     "title" : "macOS Version"
   },
   {
@@ -401,43 +401,6 @@
     ],
     "status" : "Planned",
     "title" : "Statistics"
-  },
-  {
-    "description" : "Continue to an end of a chapter or custom durations / times",
-    "id" : "34",
-    "isFinished" : false,
-    "localizedDescription" : [
-      {
-        "language" : "de",
-        "value" : "Verlängern bis zum Ende eines Kapitels oder eigene Dauern/Uhrzeiten"
-      },
-      {
-        "language" : "en",
-        "value" : "Continue to an end of a chapter or custom durations / times"
-      }
-    ],
-    "localizedStatus" : [
-      {
-        "language" : "en",
-        "value" : "Planned"
-      },
-      {
-        "language" : "de",
-        "value" : "Geplant"
-      }
-    ],
-    "localizedTitle" : [
-      {
-        "language" : "de",
-        "value" : "Besserer Sleep-Timer"
-      },
-      {
-        "language" : "en",
-        "value" : "Better Sleep-Timer"
-      }
-    ],
-    "status" : "Planned",
-    "title" : "Better Sleep-Timer"
   },
   {
     "description" : "Suggestions for new audio dramas and initiating playback",
@@ -641,11 +604,11 @@
     "localizedStatus" : [
       {
         "language" : "en",
-        "value" : "In testing"
+        "value" : "Available"
       },
       {
         "language" : "de",
-        "value" : "In testing"
+        "value" : "Available"
       }
     ],
     "localizedTitle" : [
@@ -658,7 +621,7 @@
         "value" : "Live Activity"
       }
     ],
-    "status" : "In testing",
+    "status" : "Available ",
     "title" : "Live Activity"
   },
   {
