@@ -1,334 +1,5 @@
 [
   {
-    "description" : "Add a star rating",
-    "id" : "26",
-    "isFinished" : true,
-    "localizedDescription" : [
-      {
-        "language" : "en",
-        "value" : "Add a star rating"
-      },
-      {
-        "language" : "de",
-        "value" : "In Form von Sternen"
-      }
-    ],
-    "localizedStatus" : [
-      {
-        "language" : "en",
-        "value" : "Available"
-      },
-      {
-        "language" : "de",
-        "value" : "Verfügbar"
-      }
-    ],
-    "localizedTitle" : [
-      {
-        "language" : "en",
-        "value" : "Rate audio dramas"
-      },
-      {
-        "language" : "de",
-        "value" : "Hörspiele bewerten"
-      }
-    ],
-    "status" : "Available",
-    "title" : "Rate audio dramas"
-  },
-  {
-    "description" : "Allows you to discover more series based on previously added and generally popular series",
-    "id" : "24",
-    "isFinished" : true,
-    "localizedDescription" : [
-      {
-        "language" : "de",
-        "value" : "Ermöglicht das Entdecken weiterer Serien basierend auf bereits hinzugefügten und generell beliebten Serien"
-      },
-      {
-        "language" : "en",
-        "value" : "Allows you to discover more series based on previously added and generally popular series"
-      }
-    ],
-    "localizedStatus" : [
-      {
-        "language" : "en",
-        "value" : "Available"
-      },
-      {
-        "language" : "de",
-        "value" : "Verfügbar"
-      }
-    ],
-    "localizedTitle" : [
-      {
-        "language" : "de",
-        "value" : "Weiterer tab \"Entdecken"
-      },
-      {
-        "language" : "en",
-        "value" : "Another tab \"Discover\""
-      }
-    ],
-    "status" : "Available",
-    "title" : "Another tab \"Discover\""
-  },
-  {
-    "description" : "Set playback speed at 1,5x for example",
-    "id" : "19",
-    "isFinished" : false,
-    "localizedDescription" : [
-      {
-        "language" : "de",
-        "value" : "Wiedergabe-Geschwindigkeit auf bspw. 1,5x oder 2x erhöhen. "
-      },
-      {
-        "language" : "en",
-        "value" : "Set playback speed at 1,5x for example"
-      }
-    ],
-    "localizedStatus" : [
-      {
-        "language" : "en",
-        "value" : "Planned"
-      },
-      {
-        "language" : "de",
-        "value" : "Geplant"
-      }
-    ],
-    "localizedTitle" : [
-      {
-        "language" : "de",
-        "value" : "Geschwindigkeit"
-      },
-      {
-        "language" : "en",
-        "value" : "Playback Speed"
-      }
-    ],
-    "status" : "Geplant",
-    "title" : "Playback Speed"
-  },
-  {
-    "description" : "Delete unwanted audio dramas of a series",
-    "id" : "35",
-    "isFinished" : false,
-    "localizedDescription" : [
-      {
-        "language" : "en",
-        "value" : "Delete unwanted audio dramas of a series"
-      },
-      {
-        "language" : "de",
-        "value" : "Ungewollte Hörspiele einer Serie entferne"
-      }
-    ],
-    "localizedStatus" : [
-      {
-        "language" : "en",
-        "value" : "Planned"
-      },
-      {
-        "language" : "de",
-        "value" : "Geplant"
-      }
-    ],
-    "localizedTitle" : [
-      {
-        "language" : "en",
-        "value" : "Delete audio dramas"
-      },
-      {
-        "language" : "de",
-        "value" : "Hörspiele löschen"
-      }
-    ],
-    "status" : "Planned",
-    "title" : "Delete audio dramas"
-  },
-  {
-    "description" : "For example adding all audio dramas or downloading them",
-    "id" : "32",
-    "isFinished" : false,
-    "localizedDescription" : [
-      {
-        "language" : "en",
-        "value" : "For example adding all audio dramas or downloading them"
-      },
-      {
-        "language" : "de",
-        "value" : "Bspw. alle Hörspiele hinzuzufügen oder herunterladen"
-      }
-    ],
-    "localizedStatus" : [
-      {
-        "language" : "en",
-        "value" : "Planned"
-      },
-      {
-        "language" : "de",
-        "value" : "Geplant"
-      }
-    ],
-    "localizedTitle" : [
-      {
-        "language" : "en",
-        "value" : "Easy modifications of the Apple Music library"
-      },
-      {
-        "language" : "de",
-        "value" : "Einfacheres Anpassen der Apple Music Mediathek"
-      }
-    ],
-    "status" : "Planned",
-    "title" : "Easy modifications of the Apple Music library"
-  },
-  {
-    "description" : "",
-    "id" : "5",
-    "isFinished" : false,
-    "localizedDescription" : [
-      {
-        "language" : "en",
-        "value" : ""
-      }
-    ],
-    "localizedStatus" : [
-      {
-        "language" : "en",
-        "value" : "Partly added"
-      },
-      {
-        "language" : "de",
-        "value" : "In Teilen integriert"
-      }
-    ],
-    "localizedTitle" : [
-      {
-        "language" : "en",
-        "value" : "Better support for Siri and shortcuts"
-      },
-      {
-        "language" : "de",
-        "value" : "Bessere Unterstützung von Siri und Shortcuts"
-      }
-    ],
-    "status" : "In Teilen integriert",
-    "title" : "Better support for Siri and shortcuts"
-  },
-  {
-    "description" : "Just like open in apple music",
-    "id" : "27",
-    "isFinished" : false,
-    "localizedDescription" : [
-      {
-        "language" : "de",
-        "value" : "So wie in Apple Music öffnen"
-      },
-      {
-        "language" : "en",
-        "value" : "Just like open in apple music"
-      }
-    ],
-    "localizedStatus" : [
-      {
-        "language" : "en",
-        "value" : "Maybe"
-      },
-      {
-        "language" : "de",
-        "value" : "Vielleicht"
-      }
-    ],
-    "localizedTitle" : [
-      {
-        "language" : "de",
-        "value" : "In Spotify öffnen"
-      },
-      {
-        "language" : "en",
-        "value" : "Open in Spotify"
-      }
-    ],
-    "status" : "Maybe",
-    "title" : "Open in Spotify"
-  },
-  {
-    "description" : "Plays a desired audio drama after finishing the previous audio drama",
-    "id" : "25",
-    "isFinished" : false,
-    "localizedDescription" : [
-      {
-        "language" : "en",
-        "value" : "Plays a desired audio drama after finishing the previous audio drama"
-      },
-      {
-        "language" : "de",
-        "value" : "Spielt ein gewünschtes Hörspiel nach dem Beenden des vorherigen Hörspiels"
-      }
-    ],
-    "localizedStatus" : [
-      {
-        "language" : "en",
-        "value" : "Planned"
-      },
-      {
-        "language" : "de",
-        "value" : "Geplant"
-      }
-    ],
-    "localizedTitle" : [
-      {
-        "language" : "de",
-        "value" : "Warteschlange und AutoPlay"
-      },
-      {
-        "language" : "en",
-        "value" : "Queue and AutoPlay"
-      }
-    ],
-    "status" : "Planned",
-    "title" : "Queue and AutoPlay"
-  },
-  {
-    "description" : "Using the sleep data in Health",
-    "id" : "31",
-    "isFinished" : false,
-    "localizedDescription" : [
-      {
-        "language" : "en",
-        "value" : "Using the sleep data in Health"
-      },
-      {
-        "language" : "de",
-        "value" : "Mithilfe der Schlafdaten aus Health"
-      }
-    ],
-    "localizedStatus" : [
-      {
-        "language" : "en",
-        "value" : "Planned"
-      },
-      {
-        "language" : "de",
-        "value" : "Geplant"
-      }
-    ],
-    "localizedTitle" : [
-      {
-        "language" : "de",
-        "value" : "Zurückspringen zum Einschlafpunkt"
-      },
-      {
-        "language" : "en",
-        "value" : "Jump back to point of falling asleep"
-      }
-    ],
-    "status" : "Planned",
-    "title" : "Jump back to point of falling asleep"
-  },
-  {
     "description" : "All features in macOS",
     "id" : "23",
     "isFinished" : false,
@@ -364,117 +35,6 @@
     ],
     "status" : "Planned",
     "title" : "macOS Version"
-  },
-  {
-    "description" : "Recap at the end of the year",
-    "id" : "10",
-    "isFinished" : false,
-    "localizedDescription" : [
-      {
-        "language" : "de",
-        "value" : "Hörspielzentrale-Recap am Ende des Jahres"
-      },
-      {
-        "language" : "en",
-        "value" : "Recap at the end of the year"
-      }
-    ],
-    "localizedStatus" : [
-      {
-        "language" : "en",
-        "value" : "Planned"
-      },
-      {
-        "language" : "de",
-        "value" : "Geplant"
-      }
-    ],
-    "localizedTitle" : [
-      {
-        "language" : "de",
-        "value" : "Statistiken"
-      },
-      {
-        "language" : "en",
-        "value" : "Statistics "
-      }
-    ],
-    "status" : "Planned",
-    "title" : "Statistics"
-  },
-  {
-    "description" : "Suggestions for new audio dramas and initiating playback",
-    "id" : "17",
-    "isFinished" : false,
-    "localizedDescription" : [
-      {
-        "language" : "en",
-        "value" : "Suggestions for new audio dramas and initiating playback"
-      },
-      {
-        "language" : "de",
-        "value" : "Vorschläge für neue Hörspiele und einfacheres Weiterspielen"
-      }
-    ],
-    "localizedStatus" : [
-      {
-        "language" : "en",
-        "value" : "Planned"
-      },
-      {
-        "language" : "de",
-        "value" : "Geplant"
-      }
-    ],
-    "localizedTitle" : [
-      {
-        "language" : "de",
-        "value" : "Widgets verbessern"
-      },
-      {
-        "language" : "en",
-        "value" : "Improve widgets"
-      }
-    ],
-    "status" : "Planned",
-    "title" : "Improve widgets"
-  },
-  {
-    "description" : "All features on Apple TV",
-    "id" : "28",
-    "isFinished" : false,
-    "localizedDescription" : [
-      {
-        "language" : "en",
-        "value" : "All features on Apple TV"
-      },
-      {
-        "language" : "de",
-        "value" : "Alle Funktionen auf einem Apple TV"
-      }
-    ],
-    "localizedStatus" : [
-      {
-        "language" : "en",
-        "value" : "Planned"
-      },
-      {
-        "language" : "de",
-        "value" : "Geplant"
-      }
-    ],
-    "localizedTitle" : [
-      {
-        "language" : "en",
-        "value" : "Apple TV App"
-      },
-      {
-        "language" : "de",
-        "value" : "Apple TV App"
-      }
-    ],
-    "status" : "Planned",
-    "title" : "Apple TV App"
   },
   {
     "description" : "Bring the iPad version to the Vision Pro. Eventually an optimized app",
@@ -551,6 +111,43 @@
     "title" : "Ratings for ???"
   },
   {
+    "description" : "Set playback speed at 1,5x for example",
+    "id" : "19",
+    "isFinished" : false,
+    "localizedDescription" : [
+      {
+        "language" : "de",
+        "value" : "Wiedergabe-Geschwindigkeit auf bspw. 1,5x oder 2x erhöhen. "
+      },
+      {
+        "language" : "en",
+        "value" : "Set playback speed at 1,5x for example"
+      }
+    ],
+    "localizedStatus" : [
+      {
+        "language" : "en",
+        "value" : "Planned"
+      },
+      {
+        "language" : "de",
+        "value" : "Geplant"
+      }
+    ],
+    "localizedTitle" : [
+      {
+        "language" : "de",
+        "value" : "Geschwindigkeit"
+      },
+      {
+        "language" : "en",
+        "value" : "Playback Speed"
+      }
+    ],
+    "status" : "Geplant",
+    "title" : "Playback Speed"
+  },
+  {
     "description" : "To organize audio dramas manually",
     "id" : "37",
     "isFinished" : false,
@@ -586,6 +183,261 @@
     ],
     "status" : "Planned",
     "title" : "Lists"
+  },
+  {
+    "description" : "Using the sleep data in Health",
+    "id" : "31",
+    "isFinished" : false,
+    "localizedDescription" : [
+      {
+        "language" : "en",
+        "value" : "Using the sleep data in Health"
+      },
+      {
+        "language" : "de",
+        "value" : "Mithilfe der Schlafdaten aus Health"
+      }
+    ],
+    "localizedStatus" : [
+      {
+        "language" : "en",
+        "value" : "Planned"
+      },
+      {
+        "language" : "de",
+        "value" : "Geplant"
+      }
+    ],
+    "localizedTitle" : [
+      {
+        "language" : "de",
+        "value" : "Zurückspringen zum Einschlafpunkt"
+      },
+      {
+        "language" : "en",
+        "value" : "Jump back to point of falling asleep"
+      }
+    ],
+    "status" : "Planned",
+    "title" : "Jump back to point of falling asleep"
+  },
+  {
+    "description" : "Suggestions for new audio dramas and initiating playback",
+    "id" : "17",
+    "isFinished" : false,
+    "localizedDescription" : [
+      {
+        "language" : "en",
+        "value" : "Suggestions for new audio dramas and initiating playback"
+      },
+      {
+        "language" : "de",
+        "value" : "Vorschläge für neue Hörspiele und einfacheres Weiterspielen"
+      }
+    ],
+    "localizedStatus" : [
+      {
+        "language" : "en",
+        "value" : "Planned"
+      },
+      {
+        "language" : "de",
+        "value" : "Geplant"
+      }
+    ],
+    "localizedTitle" : [
+      {
+        "language" : "de",
+        "value" : "Widgets verbessern"
+      },
+      {
+        "language" : "en",
+        "value" : "Improve widgets"
+      }
+    ],
+    "status" : "Planned",
+    "title" : "Improve widgets"
+  },
+  {
+    "description" : "For example adding all audio dramas or downloading them",
+    "id" : "32",
+    "isFinished" : false,
+    "localizedDescription" : [
+      {
+        "language" : "en",
+        "value" : "For example adding all audio dramas or downloading them"
+      },
+      {
+        "language" : "de",
+        "value" : "Bspw. alle Hörspiele hinzuzufügen oder herunterladen"
+      }
+    ],
+    "localizedStatus" : [
+      {
+        "language" : "en",
+        "value" : "Planned"
+      },
+      {
+        "language" : "de",
+        "value" : "Geplant"
+      }
+    ],
+    "localizedTitle" : [
+      {
+        "language" : "en",
+        "value" : "Easy modifications of the Apple Music library"
+      },
+      {
+        "language" : "de",
+        "value" : "Einfacheres Anpassen der Apple Music Mediathek"
+      }
+    ],
+    "status" : "Planned",
+    "title" : "Easy modifications of the Apple Music library"
+  },
+  {
+    "description" : "Delete unwanted audio dramas of a series",
+    "id" : "35",
+    "isFinished" : false,
+    "localizedDescription" : [
+      {
+        "language" : "en",
+        "value" : "Delete unwanted audio dramas of a series"
+      },
+      {
+        "language" : "de",
+        "value" : "Ungewollte Hörspiele einer Serie entferne"
+      }
+    ],
+    "localizedStatus" : [
+      {
+        "language" : "en",
+        "value" : "Planned"
+      },
+      {
+        "language" : "de",
+        "value" : "Geplant"
+      }
+    ],
+    "localizedTitle" : [
+      {
+        "language" : "en",
+        "value" : "Delete audio dramas"
+      },
+      {
+        "language" : "de",
+        "value" : "Hörspiele löschen"
+      }
+    ],
+    "status" : "Planned",
+    "title" : "Delete audio dramas"
+  },
+  {
+    "description" : "",
+    "id" : "5",
+    "isFinished" : false,
+    "localizedDescription" : [
+      {
+        "language" : "en",
+        "value" : ""
+      }
+    ],
+    "localizedStatus" : [
+      {
+        "language" : "en",
+        "value" : "Partly added"
+      },
+      {
+        "language" : "de",
+        "value" : "In Teilen integriert"
+      }
+    ],
+    "localizedTitle" : [
+      {
+        "language" : "en",
+        "value" : "Better support for Siri and shortcuts"
+      },
+      {
+        "language" : "de",
+        "value" : "Bessere Unterstützung von Siri und Shortcuts"
+      }
+    ],
+    "status" : "In Teilen integriert",
+    "title" : "Better support for Siri and shortcuts"
+  },
+  {
+    "description" : "All features on Apple TV",
+    "id" : "28",
+    "isFinished" : false,
+    "localizedDescription" : [
+      {
+        "language" : "en",
+        "value" : "All features on Apple TV"
+      },
+      {
+        "language" : "de",
+        "value" : "Alle Funktionen auf einem Apple TV"
+      }
+    ],
+    "localizedStatus" : [
+      {
+        "language" : "en",
+        "value" : "Planned"
+      },
+      {
+        "language" : "de",
+        "value" : "Geplant"
+      }
+    ],
+    "localizedTitle" : [
+      {
+        "language" : "en",
+        "value" : "Apple TV App"
+      },
+      {
+        "language" : "de",
+        "value" : "Apple TV App"
+      }
+    ],
+    "status" : "Planned",
+    "title" : "Apple TV App"
+  },
+  {
+    "description" : "Add a star rating",
+    "id" : "26",
+    "isFinished" : true,
+    "localizedDescription" : [
+      {
+        "language" : "en",
+        "value" : "Add a star rating"
+      },
+      {
+        "language" : "de",
+        "value" : "In Form von Sternen"
+      }
+    ],
+    "localizedStatus" : [
+      {
+        "language" : "en",
+        "value" : "Available"
+      },
+      {
+        "language" : "de",
+        "value" : "Verfügbar"
+      }
+    ],
+    "localizedTitle" : [
+      {
+        "language" : "en",
+        "value" : "Rate audio dramas"
+      },
+      {
+        "language" : "de",
+        "value" : "Hörspiele bewerten"
+      }
+    ],
+    "status" : "Available",
+    "title" : "Rate audio dramas"
   },
   {
     "description" : "Remaining time on the lockscreen",
@@ -660,5 +512,42 @@
     ],
     "status" : "Added",
     "title" : "Data export"
+  },
+  {
+    "description" : "Allows you to discover more series based on previously added and generally popular series",
+    "id" : "24",
+    "isFinished" : true,
+    "localizedDescription" : [
+      {
+        "language" : "de",
+        "value" : "Ermöglicht das Entdecken weiterer Serien basierend auf bereits hinzugefügten und generell beliebten Serien"
+      },
+      {
+        "language" : "en",
+        "value" : "Allows you to discover more series based on previously added and generally popular series"
+      }
+    ],
+    "localizedStatus" : [
+      {
+        "language" : "en",
+        "value" : "Available"
+      },
+      {
+        "language" : "de",
+        "value" : "Verfügbar"
+      }
+    ],
+    "localizedTitle" : [
+      {
+        "language" : "de",
+        "value" : "Weiterer tab \"Entdecken"
+      },
+      {
+        "language" : "en",
+        "value" : "Another tab \"Discover\""
+      }
+    ],
+    "status" : "Available",
+    "title" : "Another tab \"Discover\""
   }
 ]
